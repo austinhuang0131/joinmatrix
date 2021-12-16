@@ -34,6 +34,7 @@ exclude:
   - Gruntfile.js
   - circle.yml
   - vendor
+  - README.md
 
 # Stately settings
 # nav_logo_file: assets/images/stately-logo.png # path to the logo file for the main nav (supports svg, png, jpg, gif). Delete this line for no logo.
