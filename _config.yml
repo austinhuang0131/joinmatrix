@@ -1,0 +1,47 @@
+remote_theme: pmarsceill/stately@master
+
+# Config
+# ========================================================================================
+
+# IMPORTANT: Set the URL of your site.
+# Set to https://<username>.github.io when hosting on GitHub Pages
+# (unless you are using a custom domain).
+url:                   https://austinhuang.me
+
+# IMPORTANT: Set The "base URL" of your site.
+# When your site sits in a subdirectory, set to /<name of directory>
+# (with leading /, but without the < >).
+# Use the empty string '' otherwise.
+# For GitHub project sites, this is usually the name of the project,
+# e.g. `/hydejack`.
+baseurl:               '/joinmatrix'
+
+
+# Build settings
+markdown: kramdown
+gems:
+  - jemoji
+permalink: pretty
+sass:
+  # Load dependancies
+  load_paths:
+    - node_modules/
+exclude:
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - Gruntfile.js
+  - circle.yml
+  - vendor
+
+# Stately settings
+# nav_logo_file: assets/images/stately-logo.png # path to the logo file for the main nav (supports svg, png, jpg, gif). Delete this line for no logo.
+# footer_logo_file: assets/images/stately-logo.png # path to the logo file for the footer nav (supports svg, png, jpg, gif). Delete this line for no logo.
+footer_text: Website content &copy; Copyright 2021 <a href="https://austinhuang.me" class="text-white text-underline">Austin Huang</a>.<br>The <a href="https://pmarsceill.github.io/stately/" class="text-white text-underline">Stately</a> theme &copy; Copyright 2016 <a href="https://patrickmarsceill.com/" class="text-white text-underline">Patrick Marsceill</a>. # Text to appear in the footer, copyright information, contact links, etc...
+github_link: true # Display link to edit page content on GitHub. Delete this line or set to false for no link.
+github_pages_branch: main # Branch where gh-pages site is hosted (either master, master/docs, or gh-pages). Delete this line for no GitHub pages branch.
+
+## Info bar settings
+info_bar: false # Bar at the top of all pages. Delete this line or set to false for no info bar display.
+info_bar_text: This is not an offical site of the <a href="//usa.gov" class="text-white text-underline">U.S. Government</a> # Only shows if info_bar == true
