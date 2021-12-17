@@ -1,0 +1,20 @@
+$body-ink: #575757;
+$heading-ink: #372f29;
+$royal-blue: #41427c;
+$goldenrod: #f6c005;
+$darkest-bg: #202529;
+
+$body-font-family: "LatoLatinWeb", sans-serif;
+$heading-font-family: "Lora", serif;
+$display-font-family: $body-font-family;
+
+$monospace-font-family: Consolas, Menlo, Andale, monospace;
+
+$body-font-size: 16px;
+$body-line-height: 1.5;
+$heading-line-height: 1.3;
+
+$body-font-color: $body-ink;
+$heading-font-color: $heading-ink;
+
+$link-color: saturate(lighten($royal-blue, 15%), 5%);
