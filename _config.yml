@@ -19,8 +19,6 @@ baseurl:               '/joinmatrix'
 
 # Build settings
 markdown: kramdown
-gems:
-  - jemoji
 permalink: pretty
 sass:
   # Load dependancies
