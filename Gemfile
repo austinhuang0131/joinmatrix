@@ -18,5 +18,8 @@ group :jekyll_plugins do
   gem "jekyll-compose"
 end
 
+gem "kramdown-parser-gfm"
+gem "webrick", "~> 1.7"
+
 gem 'wdm' if Gem.win_platform?
 gem "tzinfo-data" if Gem.win_platform?
