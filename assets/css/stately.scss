@@ -3,7 +3,11 @@
 
 // Import dev dependancies (pulled in via npm)
 // Primer CSS
-@import "./primer.scss";
+@import "./primer-support/index.scss";
+@import "./primer-base/index.scss";
+@import "./primer-layout/index.scss";
+@import "./primer-utilities/index.scss";
+@import "./primer-alerts/index.scss";
 
 @import "./support/variables.scss";
 @import "./utilities/utilities.scss";
