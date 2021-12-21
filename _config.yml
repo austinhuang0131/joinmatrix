@@ -16,6 +16,7 @@ url:                   https://austinhuang.me
 # e.g. `/hydejack`.
 baseurl:               '/joinmatrix'
 
+title: Join Matrix!
 
 # Build settings
 markdown: kramdown
