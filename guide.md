@@ -20,7 +20,6 @@ Matrix is the long-awaited middleground between one-to-one messaging platforms (
 * **Trust.** You get to actually trust the software you use.
   * Matrix is an open protocol, and most of its [clients](#what-clients-should-i-use) and servers[^5] are both open source, which you may contribute to!
   * You are welcomed to improve Matrix by creating new clients and/or server implementations, or by [reviewing or submitting](https://spec.matrix.org/unstable/proposals/) proposals. You can shape your platform towards a better direction!
-  * Matrix is of European origin, which breaks the American hegemony on chat platforms, since the United States is not exactly known for respecting data privacy or best practices.
   * Matrix is backed by the public sector, most notably by the Germans ([healthcare](https://matrix.org/blog/2021/07/21/germanys-national-healthcare-system-adopts-matrix), [army](https://element.io/case-studies/bundeswehr), [universities](https://doc.matrix.tu-dresden.de/en/why/)) as well as [the French](https://element.io/case-studies/tchap).
 
 Some other reasons that may be attractive:
@@ -80,7 +79,6 @@ A Security Key is required to access encrypted messages if:
 <div class="flash flash-warn">
 It is <b>strongly recommended</b> to do this step to prevent accidentally losing all of your encrypted messages.
 </div>
-<br>
 1. On your first login, a bubble on the top-left will ask you to "set up secure backup". Click "Continue". If that is not the case, click your avatar, then "Settings" -> "Security & Privacy" -> "Secure Backup" -> click "Set up".
 2. "Generate a Security Key" is enough.
 3. Put the generated security key in a safe place.
@@ -94,30 +92,22 @@ Matrix.org has [a list of clients](https://matrix.org/clients/). However, it's..
 #### Browser
 
 * [Element](https://app.element.io): The flagship client.
-  * [Element development version](https://develop.element.io): Element with lab features enabled.
+  * [Element development version](https://develop.element.io): Element with lab features enabled, but potentially unstable.
   * [SchildiChat](https://app.schildi.chat/): Element with lab features enabled, plus an optional speech bubble layout.
 * [Cinny](https://cinny.in/): Matrix in Slack style.
 * [Hydrogen](https://hydrogen.element.io/): Fast and adaptable to mobile browsers, at the cost of missing some optional features.
 
-#### PC
-
-The author of this guide recommends either [Element](https://element.io) or [SchildiChat](https://schildi.chat/) for supporting the most features.
+#### PC and Mobile
 
 * [Element](https://element.io): The flagship client.
-  * [SchildiChat](https://schildi.chat/): Element with lab features enabled, plus an optional speech bubble layout.
-* [FluffyChat](https://fluffychat.im/): "Cute" Matrix.
+  * [SchildiChat](https://schildi.chat/): Element with lab features enabled, plus an optional speech bubble layout. Recommended to be used on PC for the full feature set.
+* [FluffyChat](https://fluffychat.im/): "Cute" Matrix. Recommended to be used on Android for performance.
 
-For those living on the edge: [Nheko](https://github.com/Nheko-Reborn/nheko) and [Spectral](https://spectral.im)
-
-#### Mobile
-
-The author of this guide recommends [FluffyChat](https://fluffychat.im) for performance.
-
-* [Element](https://element.io): The flagship client.
-  * [SchildiChat](https://schildi.chat/): Element with lab features enabled, plus an optional speech bubble layout.
-* [FluffyChat](https://fluffychat.im/): "Cute" Matrix.
-
-For those living on the edge: [Syphon](https://syphon.org/)
+For those living on the edge: [Nheko](https://github.com/Nheko-Reborn/nheko), [Spectral](https://spectral.im), and [Syphon](https://syphon.org/).
+<br>
+<div class="flash">
+  If you want a better experience when using Element or SchildiChat, place <a href="../assets/config.json">this config file</a> in your <a href="https://github.com/vector-im/element-desktop#user-specified-configjson">configuration folder</a>, where <code>$NAME</code> is either "Element" or "SchildiChat". The config file enables the "Labs" tab in settings, enables custom theme, preloads <a href="https://github.com/aaronraimist/element-themes">a few custom themes</a>, uses <a href="https://dimension.t2bot.io/">Dimension</a> instead of Scalar for integration manager, and preloads a few homeservers for room directory searches.
+</div>
 
 ### What rooms should I join?
 
@@ -133,7 +123,7 @@ In any case mentioned above, you can enter the room address to directly join a r
 
 Discord users may be familiar with this format, but Spaces are not exactly the same as a Discord "server". A Space[^9] is a list that can include other rooms and Spaces. It can be used to organize your own rooms, or for a community to organize all their rooms. Joining a Space does not imply joining all of its rooms (however, rooms can choose to require users to join a Space first), nor does leaving a Space imply leaving all of its rooms (although you can configure your client to do so).
 
-### Go Deeper
+## Go Deeper
 
 (introducing other pages...)
 
