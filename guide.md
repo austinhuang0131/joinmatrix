@@ -6,7 +6,7 @@ parent: guide
 permalink: guide/
 ---
 
-Welcome! This website aims to be a beginner-friendly guide to Matrix (sometimes mistakenly known as Element). Without further due, let's begin:
+Welcome! This website aims to be a beginner-friendly guide to Matrix (sometimes mistakenly known as Element).
 
 ## Why Matrix?
 
@@ -19,6 +19,7 @@ Matrix is the long-awaited middleground between one-to-one messaging platforms (
   * Bridges allow you to chat with users on other platforms, minimizing the social cost of moving to Matrix!
 * **Trust.** You get to actually trust the software you use.
   * Matrix is an open protocol, and most of its [clients](#what-clients-should-i-use) and servers[^5] are both open source, which you may contribute to!
+  * Matrix is federated: Unlike conventional platforms which are centralized (controlled by one entity), no one specific entity controls the entirety of the Matrix federation, where homeservers are run individually. Furthermore, while individual homeservers may experience outage, the entire federation *cannot* go offline.
   * You are welcomed to improve Matrix by creating new clients and/or server implementations, or by [reviewing or submitting](https://spec.matrix.org/unstable/proposals/) proposals. You can shape your platform towards a better direction!
   * Matrix is backed by the public sector, most notably by the Germans ([healthcare](https://matrix.org/blog/2021/07/21/germanys-national-healthcare-system-adopts-matrix), [army](https://element.io/case-studies/bundeswehr), [universities](https://doc.matrix.tu-dresden.de/en/why/)) as well as [the French](https://element.io/case-studies/tchap).
 
@@ -41,7 +42,7 @@ Ready to try Matrix? Here we go:
 <br>
 If you have hosting, and have the technical skills required to host an internet-facing program, then you can try setting up your own homeserver[^6]. The dominant homeserver implementation is [Synapse](https://github.com/matrix-org/synapse/). See [installation instructions](https://matrix.org/docs/guides/installing-synapse). It may be possible to run a homeserver for free [with Oracle Cloud](https://matrix.org/docs/guides/free-small-matrix-server).
 
-However, hosting is still unreachable for many. In that case, you can join an existing homeserver by picking one from [our public homeserver list](../servers), or by contacting a friend who hosts one.
+However, hosting is still undesirable for many. In that case, you can join an existing homeserver by picking one from [our public homeserver list](../servers), or by contacting a friend who hosts one.
 
 ### Register an account
 
@@ -53,9 +54,11 @@ For simplicity, the guide is prepared in such a way that recommends registration
 
 1. If our homeserver list already provided you with a link to the homeserver's in-house Element client, then you may use that. Otherwise, use the official [Element Web client](https://app.element.io) to register.
 2. Click "Create Account".
-3. On the top of the registration dialog, verify that you are registering on the correct server. If necessary, click "edit" and enter the appropriate domain (see homeserver documentation or the "Registration method" column of the [homeserver list](../servers)). Once it is correctly entered, **note the domain down.** You will need it to login.
+3. On the top of the registration dialog, verify that you are registering on the correct server. If necessary, click "edit" and enter the appropriate domain (see homeserver documentation or the "Registration method" column of the [homeserver list](../servers)). Once you have verified its correctness, **note the domain down.** You will need it to login[^7].
 4. Fill out the required information.
 5. If you did not enter an email address, then you're in. Otherwise, verify your email, after which you will be prompted to [login](#log-into-an-existing-account).
+
+Users are uniquely identified by their MXID. Your MXID is your username plus your server name (not necessarily domain). For example, `@austin:tchncs.de` is my MXID, where `austin` is my username and `tchncs.de` is the name of the server I'm on. **You cannot change it later!** You can, however, change the display name, as well as your avatar.
 
 Remember to [set up key backup](#set-up-key-backup)!
 
@@ -65,7 +68,7 @@ For most clients:
 
 1. Enter the login dialog, if necessary.
 2. Verify that you are logging onto the correct server. This is usually shown on top of the dialog. If necessary, click "edit" and enter the appropriate domain (see Step 3 of registration).
-3. Enter your login details. The username is the part after the at-mark and before the colon (called "localpart").
+3. Enter your login details.
 
 ### Set up key backup
 
@@ -79,6 +82,7 @@ A Security Key is required to access encrypted messages if:
 <div class="flash flash-warn">
 It is <b>strongly recommended</b> to do this step to prevent accidentally losing all of your encrypted messages.
 </div>
+<br>
 1. On your first login, a bubble on the top-left will ask you to "set up secure backup". Click "Continue". If that is not the case, click your avatar, then "Settings" -> "Security & Privacy" -> "Secure Backup" -> click "Set up".
 2. "Generate a Security Key" is enough.
 3. Put the generated security key in a safe place.
@@ -103,13 +107,13 @@ Matrix.org has [a list of clients](https://matrix.org/clients/). However, it's..
   * [SchildiChat](https://schildi.chat/): Element with lab features enabled, plus an optional speech bubble layout. Recommended to be used on PC for the full feature set.
 * [FluffyChat](https://fluffychat.im/): "Cute" Matrix. Recommended to be used on Android for performance.
 
-For those living on the edge: [Nheko](https://github.com/Nheko-Reborn/nheko), [Spectral](https://spectral.im), and [Syphon](https://syphon.org/).
+For those living on the edge: [Commune](https://commune.chat/), [Nheko](https://github.com/Nheko-Reborn/nheko), [Spectral](https://spectral.im), and [Syphon](https://syphon.org/).
 <br>
 <div class="flash">
-  If you want a better experience when using Element or SchildiChat, place <a href="../assets/config.json">this config file</a> in your <a href="https://github.com/vector-im/element-desktop#user-specified-configjson">configuration folder</a>, where <code>$NAME</code> is either "Element" or "SchildiChat". The config file enables the "Labs" tab in settings, enables custom theme, preloads <a href="https://github.com/aaronraimist/element-themes">a few custom themes</a>, uses <a href="https://dimension.t2bot.io/">Dimension</a> instead of Scalar for integration manager, and preloads a few homeservers for room directory searches.
+  For PC users, if you want a better experience when using Element or SchildiChat, place <a href="../assets/config.json">this config file</a> in your <a href="https://github.com/vector-im/element-desktop#user-specified-configjson">configuration folder</a>, where <code>$NAME</code> is either "Element" or "SchildiChat". The config file enables the "Labs" tab in settings, enables custom theme, preloads <a href="https://github.com/aaronraimist/element-themes">a few custom themes</a>, uses <a href="https://dimension.t2bot.io/">Dimension</a> instead of Scalar for integration manager, and preloads a few homeservers for room directory searches.
 </div>
 
-### What rooms should I join?
+### What rooms can I join?
 
 Each Matrix homeserver has a public room directory, which is accessible to the users of that homeserver or, if enabled, users of other homeservers as well.
 
@@ -117,11 +121,11 @@ Each Matrix homeserver has a public room directory, which is accessible to the u
 * On phone, for Element and SchildiChat, click the "Explore Rooms" floating button on the bottom-right.
 * For FluffyChat, click the search button.
 
-In any case mentioned above, you can enter the room address to directly join a room, or you can enter keywords to search for rooms[^7]. However, the directory may be unintuitive to use as it orders rooms by member count[^8]. The author of this guide recommends joining [this Space](https://matrix.to/#/#offtopic-space:envs.net) (`#offtopic-space:envs.net`), which contains a list of active off-topic or no-topic discussion rooms.
+In any case mentioned above, you can enter the room address to directly join a room, or you can enter keywords to search for rooms[^8]. However, the directory may be unintuitive to use as it orders rooms by member count[^9]. The author of this guide recommends joining [this Space](https://matrix.to/#/#offtopic-space:envs.net) (`#offtopic-space:envs.net`), which contains a list of active off-topic or no-topic discussion rooms.
 
 #### Hold on, what's a Space? Why is it on the left of my room list?
 
-Discord users may be familiar with this format, but Spaces are not exactly the same as a Discord "server". A Space[^9] is a list that can include other rooms and Spaces. It can be used to organize your own rooms, or for a community to organize all their rooms. Joining a Space does not imply joining all of its rooms (however, rooms can choose to require users to join a Space first), nor does leaving a Space imply leaving all of its rooms (although you can configure your client to do so).
+Discord users may be familiar with this format, but Spaces are not exactly the same as a Discord "server". A Space[^10] is a list that can include other rooms and Spaces. It can be used to organize your own rooms, or for a community to organize all their rooms. Joining a Space does not imply joining all of its rooms (however, rooms can choose to require users to join a Space first), nor does leaving a Space imply leaving all of its rooms (although you can configure your client to do so).
 
 ## Go Deeper
 
@@ -141,8 +145,10 @@ Discord users may be familiar with this format, but Spaces are not exactly the s
 
 [^6]: Synapse is the only stable homeserver implementation as of now. If you are living on the edge, you can try out [Dendrite](https://github.com/matrix-org/dendrite/) and [Conduit](https://conduit.rs/), both of which aim to support p2p eventually (see footnote 1).
 
-[^7]: Title and description.
+[^7]: In most cases, it is equivalent to the server part of your MXID. The exceptions are where homeservers did not set up `.well-known` autodiscovery properly...
 
-[^8]: Which is not a reasonable gauge of activity. First, accounts can be inactive. Second, if a server uses bridges, then these accounts are counted as well, even if their activity is mostly not from Matrix (you can still interact with them, however).
+[^8]: Title and description.
 
-[^9]: Which, to be exact, is a special type of rooms. But that's too technical, so this guide will treat Space as its own thing, although similar to rooms.
+[^9]: Which is not a reasonable gauge of activity. First, accounts can be inactive. Second, if a server uses bridges, then these accounts are counted as well, even if their activity is mostly not from Matrix (you can still interact with them, however).
+
+[^10]: Which, to be exact, is a special type of rooms. But that's too technical, so this guide will treat Space as its own thing, although similar to rooms.
