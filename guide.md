@@ -6,7 +6,9 @@ parent: guide
 permalink: guide/
 ---
 
-Welcome! This website aims to be a beginner-friendly guide to Matrix (sometimes mistakenly known as Element).
+## The "Join Matrix!" Guide: Basics
+
+Welcome! This website aims to be a beginner-friendly guide to Matrix (sometimes [mistakenly known](#is-it-matrix-or-element) as Element). Matrix is an open federated communication protocol that strives to be a viable alternative to various centralized proprietary platforms. But those are very big words, and unfortunately, it does confuse people sometimes, so this guide aims to introduce you to the chatting aspect of it. We'll start by the "why" and then the "how." This part is for people who have never used Matrix before, so if you're looking for more advanced material, check out the sidebar.
 
 ## Why Matrix?
 
@@ -16,19 +18,16 @@ Matrix is the long-awaited middleground between one-to-one messaging platforms (
   * Conversations can be end-to-end encrypted[^1]. This is enabled by default for direct and group messages[^2].
   * Automatic collection of data is minimized: No contact syncing[^3], no "are you human?" checks beyond registration, phone numbers are optional, even email addresses are optional (on select homeservers)!
   * You can host your own server, or you can join [an existing public homeserver](../servers) that suits you. Either way, your access to the Matrix federation is the same[^4]!
-  * Bridges allow you to chat with users on other platforms, minimizing the social cost of moving to Matrix!
+  * [Bridges](./features/#bridges) allow you to chat with users on other platforms, minimizing the social cost of moving to Matrix!
+  * Since Matrix is an open protocol, it is extensible and can be used for purposes beyond just chatting. For example: [help desk](https://www.safesupport.chat/), [social media](https://minestrix.henri2h.fr/), real-time collaboration...
 * **Trust.** You get to actually trust the software you use.
-  * Matrix is an open protocol, and most of its [clients](#what-clients-should-i-use) and servers[^5] are both open source, which you may contribute to!
-  * Matrix is federated: Unlike conventional platforms which are centralized (controlled by one entity), no one specific entity controls the entirety of the Matrix federation, where homeservers are run individually. Furthermore, while individual homeservers may experience outage, the entire federation *cannot* go offline.
-  * You are welcomed to improve Matrix by creating new clients and/or server implementations, or by [reviewing or submitting](https://spec.matrix.org/unstable/proposals/) proposals. You can shape your platform towards a better direction!
+  * Matrix is an open protocol, and most of its [apps](#what-app-should-i-use) and servers[^5][^6] are both open source, which you may contribute to!
+  * Matrix is federated, just like email: Unlike conventional platforms which are centralized (controlled by one entity), no one specific entity can control the entirety of the Matrix federation, where homeservers, operated independently from each other, communicate with each other using an agreed-upon protocol.
+    * Furthermore, while individual homeservers may experience outage, the entire federation *cannot* go offline.
+  * You are welcomed to improve Matrix by creating new apps around it, or by [reviewing or submitting](https://spec.matrix.org/unstable/proposals/) proposals. You can shape your platform towards a better direction!
   * Matrix is backed by the public sector, most notably by the Germans ([healthcare](https://matrix.org/blog/2021/07/21/germanys-national-healthcare-system-adopts-matrix), [army](https://element.io/case-studies/bundeswehr), [universities](https://doc.matrix.tu-dresden.de/en/why/)) as well as [the French](https://element.io/case-studies/tchap).
 
-Some other reasons that may be attractive:
-
-* Since Matrix is an open protocol, it is extensible and can be used for purposes beyond just chatting. For example: [help desk](https://www.safesupport.chat/), [social media](https://minestrix.henri2h.fr/), real-time collaboration...
-* Matrix's federated nature makes the platform difficult, if not impossible, for a "big tech" to acquire, or for a regime to censor.
-
-And of course, Matrix has the features that everyone else has: Cross-platform, real-time, etc. But that's not the point. Matrix shows that it is **possible** to have a decent chat platform that actually **respects you**.
+And of course, Matrix has the features that every modern messaging platform has: Cross-platform, real-time, sleek interface, etc. But that's not the point. Matrix shows that it is **possible** to have a decent chat platform that actually **respects you**.
 
 ## Get Started
 
@@ -54,7 +53,7 @@ For simplicity, the guide is prepared in such a way that recommends registration
 
 1. If our homeserver list already provided you with a link to the homeserver's in-house Element client, then you may use that. Otherwise, use the official [Element Web client](https://app.element.io) to register.
 2. Click "Create Account".
-3. On the top of the registration dialog, verify that you are registering on the correct server. If necessary, click "edit" and enter the appropriate domain (see homeserver documentation or the "Registration method" column of the [homeserver list](../servers)). Once you have verified its correctness, **note the domain down.** You will need it to login[^7].
+3. On the top of the registration dialog, verify that you are registering on the correct server. If necessary, click "edit" and enter the appropriate domain (consult homeserver's instruction or the "Registration method" column of the [homeserver list](../servers)). Once verified, **note the domain down.** You will need it to login[^7].
 4. Fill out the required information.
 5. If you did not enter an email address, then you're in. Otherwise, verify your email, after which you will be prompted to [login](#log-into-an-existing-account).
 
@@ -64,7 +63,7 @@ Remember to [set up key backup](#set-up-key-backup)!
 
 ### Log into an existing account
 
-For most clients:
+For most apps:
 
 1. Enter the login dialog, if necessary.
 2. Verify that you are logging onto the correct server. This is usually shown on top of the dialog. If necessary, click "edit" and enter the appropriate domain (see Step 3 of registration).
@@ -72,30 +71,33 @@ For most clients:
 
 ### Set up key backup
 
-When you log into a new device, you will be prompted to verify it using your existing device (by scanning a QR code or by comparing emojis). Your new device will then retrieve the room keys from your existing device, thereby enabling it to read your encrypted messages. This prevents anyone else - including your homeserver operator - to read encrypted content[^1].
-
-A Security Key is required to access encrypted messages if:
-
-* You have previously logged out of *all* your sessions, or
-* You are unable to verify interactively from another session.
-<br>
 <div class="flash flash-warn">
-It is <b>strongly recommended</b> to do this step to prevent accidentally losing all of your encrypted messages.
+  It is <b>strongly recommended</b> to do this step to prevent accidentally losing all of your encrypted messages.
 </div>
 <br>
+
+When you log into a new device, you will be prompted to verify it using your existing device (by scanning a QR code or by comparing emojis). Your new device will then retrieve the room keys from your existing device, thereby enabling it to read your encrypted messages. This prevents anyone else - including your homeserver operator - to read encrypted content[^1].
+
+However, a Security Key is required to access encrypted messages if:
+
+* You have logged out of *all* your sessions prior to this login, or
+* You are unable to verify interactively from another session.
+
+You can set up a Security Key with the following steps:
+
 1. On your first login, a bubble on the top-left will ask you to "set up secure backup". Click "Continue". If that is not the case, click your avatar, then "Settings" -> "Security & Privacy" -> "Secure Backup" -> click "Set up".
 2. "Generate a Security Key" is enough.
 3. Put the generated security key in a safe place.
 
 ## Get Familiar
 
-### What clients should I use?
+### What app should I use?
 
-Matrix.org has [a list of clients](https://matrix.org/clients/). However, it's... a bit messy. So here's a quick rundown on clients that we recommend:
+There exists [many different apps](https://matrix.org/clients/) that can access Matrix. Because Matrix is an open protocol, you can even implement Matrix in your own app, if you got the skills. But for most people, here are some recommendations:
 
 #### Browser
 
-* [Element](https://app.element.io): The flagship client.
+* [Element](https://app.element.io): The flagship app.
   * [Element development version](https://develop.element.io): Element with lab features enabled, but potentially unstable.
   * [SchildiChat](https://app.schildi.chat/): Element with lab features enabled, plus an optional speech bubble layout.
 * [Cinny](https://cinny.in/): Matrix in Slack style.
@@ -103,7 +105,7 @@ Matrix.org has [a list of clients](https://matrix.org/clients/). However, it's..
 
 #### PC and Mobile
 
-* [Element](https://element.io): The flagship client.
+* [Element](https://element.io): The flagship app.
   * [SchildiChat](https://schildi.chat/): Element with lab features enabled, plus an optional speech bubble layout. Recommended to be used on PC for the full feature set.
 * [FluffyChat](https://fluffychat.im/): "Cute" Matrix. Recommended to be used on Android for performance.
 
@@ -123,13 +125,20 @@ Each Matrix homeserver has a public room directory, which is accessible to the u
 
 In any case mentioned above, you can enter the room address to directly join a room, or you can enter keywords to search for rooms[^8]. However, the directory may be unintuitive to use as it orders rooms by member count[^9]. The author of this guide recommends joining [this Space](https://matrix.to/#/#offtopic-space:envs.net) (`#offtopic-space:envs.net`), which contains a list of active off-topic or no-topic discussion rooms.
 
-#### Hold on, what's a Space? Why is it on the left of my room list?
+#### Hold on, what's a Space?
 
 Discord users may be familiar with this format, but Spaces are not exactly the same as a Discord "server". A Space[^10] is a list that can include other rooms and Spaces. It can be used to organize your own rooms, or for a community to organize all their rooms. Joining a Space does not imply joining all of its rooms (however, rooms can choose to require users to join a Space first), nor does leaving a Space imply leaving all of its rooms (although you can configure your client to do so).
 
+On Element and SchildiChat, Spaces show up on the left of your room list. Selecting one will filter your room list to DMs with members of the Space and joined rooms within the Space. To see rooms that you have not yet joined, click the Explore button (see above).
+
 ## Go Deeper
 
-(introducing other pages...)
+* [More Features of Matrix](./features): An introduction to more of Matrix's features!
+* [Public homeserver list](../servers)
+* Comparison with other platforms:
+  * Discord
+  * Telegram
+* Frequently-Asked Questions
 
 ## Footnotes
 
@@ -143,7 +152,7 @@ Discord users may be familiar with this format, but Spaces are not exactly the s
 
 [^5]: This covers all the ones that an average user sees.
 
-[^6]: Synapse is the only stable homeserver implementation as of now. If you are living on the edge, you can try out [Dendrite](https://github.com/matrix-org/dendrite/) and [Conduit](https://conduit.rs/), both of which aim to support p2p eventually (see footnote 1).
+[^6]: [Synapse](https://github.com/matrix-org/synapse/) is the only stable homeserver implementation as of now. If you are living on the edge, you can try out [Dendrite](https://github.com/matrix-org/dendrite/) and [Conduit](https://conduit.rs/), both of which aim to support p2p eventually (see footnote 1).
 
 [^7]: In most cases, it is equivalent to the server part of your MXID. The exceptions are where homeservers did not set up `.well-known` autodiscovery properly...
 
