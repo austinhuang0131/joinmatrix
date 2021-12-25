@@ -21,7 +21,7 @@ Matrix is the long-awaited middleground between one-to-one messaging platforms (
   * [Bridges](./features/#bridges) allow you to chat with users on other platforms, minimizing the social cost of moving to Matrix!
   * Since Matrix is an open protocol, it is extensible and can be used for purposes beyond just chatting. For example: [help desk](https://www.safesupport.chat/), [social media](https://minestrix.henri2h.fr/), real-time collaboration...
 * **Trust.** You get to actually trust the software you use.
-  * Matrix is an open protocol, and most of its [apps](#what-app-should-i-use) and servers[^5][^6] are both open source, which you may contribute to!
+  * Matrix is an open protocol, and most of its [apps](#what-app-should-i-use) and servers[^5],[^6] are both open source, which you may contribute to!
   * Matrix is federated, just like email: Unlike conventional platforms which are centralized (controlled by one entity), no one specific entity can control the entirety of the Matrix federation, where homeservers, operated independently from each other, communicate with each other using an agreed-upon protocol.
     * Furthermore, while individual homeservers may experience outage, the entire federation *cannot* go offline.
   * You are welcomed to improve Matrix by creating new apps around it, or by [reviewing or submitting](https://spec.matrix.org/unstable/proposals/) proposals. You can shape your platform towards a better direction!
@@ -32,6 +32,13 @@ And of course, Matrix has the features that every modern messaging platform has:
 ## Get Started
 
 Ready to try Matrix? Here we go:
+
+### Is it Matrix or Element?
+
+* Matrix is the protocol, developed by the UK-registered non-profit [The Matrix.org Foundation C.I.C.](https://matrix.org/foundation/). It can also refer to the entire Matrix federation that contains all the users and rooms.
+* Element (previously known as Riot.im) is the flagship app of Matrix, developed by the UK-registered for-profit [New Vector Ltd](https://element.io/about). It can also refer to commercial services that the company offers, such as [Element Matrix Services](https://element.io/matrix-services).
+
+[As touched upon later](#what-app-should-i-use), Element is just one of the apps that accesses Matrix. It is therefore correct to refer to the platform as just "Matrix."
 
 ### Set up own homeserver, or join an existing homeserver?
 
