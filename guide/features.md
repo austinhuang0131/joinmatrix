@@ -1,7 +1,7 @@
 ---
 title: More Features of Matrix
 layout: page-two-col
-nav: true
+nav: false
 parent: guide
 permalink: guide/features/
 ---

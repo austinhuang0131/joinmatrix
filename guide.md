@@ -8,7 +8,7 @@ permalink: guide/
 
 ## The "Join Matrix!" Guide: Basics
 
-Welcome! This website aims to be a beginner-friendly guide to Matrix (sometimes [mistakenly known](#is-it-matrix-or-element) as Element). Matrix is an open federated communication protocol that strives to be a viable alternative to various centralized proprietary platforms. But those are very big words, and unfortunately, it does confuse people sometimes, so this guide aims to introduce you to the chatting aspect of it. We'll start by the "why" and then the "how." This part is for people who have never used Matrix before, so if you're looking for more advanced material, check out the sidebar.
+Welcome! This website aims to be a beginner-friendly guide to Matrix (sometimes [mistakenly known](#is-it-matrix-or-element) as Element). Matrix is an open federated communication protocol that strives to be a viable alternative to various centralized proprietary platforms. But those are very big words, and unfortunately, it does confuse people sometimes, so this guide aims to introduce you to the chatting aspect of it in somewhat simpler terms. We'll start by the "why" and then the "how." This part is for people who have never used Matrix before, so if you're looking for more advanced material, check out the sidebar.
 
 ## Why Matrix?
 
