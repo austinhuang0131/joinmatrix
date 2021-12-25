@@ -8,7 +8,7 @@ permalink: guide/features/
 
 ## The "Join Matrix!" Guide: More Features of Matrix
 
-Now that you have aced the [basics](..), let's talk about the intricate details of various features of Matrix.
+Now that you have aced the [basics](..), let's talk about the intricate details of various features of Matrix. The guide assumes that you have done some preliminary discovery of features and that you are here for specifics that may not be too intuitive.
 
 ## All about chatting
 
@@ -31,7 +31,11 @@ Aside from the above:
 
 * For strikethrough, Element and SchildiChat uses `<del>text</del>` while FluffyChat uses `~~text~~`. Note that the difference only exists in composing a message, and both clients render existing messages in the same way.
 * For spoilers...
-  * On Element and SchildiChat, you must prefix the message with `/html`, and then insert `<span data-mx-spoiler="reason">spoiler content</span>` at the position you desire, so it will hide the `spoiler content` and show the `reason` alongside it. If you want the entire message to be a spoiler and without inserting a reason, you can also just prefix a message with `/spoiler`.
+  * On Element and SchildiChat, you must prefix the message with `/html`, and then insert one of the following lines of code at the position you desire, so it will hide the `spoiler content` and, optionally, show the `reason` alongside it. Note that if you want the entire message to be a spoiler and without inserting a reason, you can just prefix a message with `/spoiler` without writing HTML.
+  ```html
+  <span data-mx-spoiler="reason">spoiler content</span> # with reason
+  <span data-mx-spoiler>spoiler content</span> # without
+  ```
   * On FluffyChat, you can achieve the same using `||reason|spoiler content||`.
 * Tables are only supported on HTML (see below).
 
@@ -46,7 +50,7 @@ And, about slash commands on Element and SchildiChat related to text messages:
 
 #### Attachments
 
-You can upload files onto messages. The size limit varies by the homeserver you're on, but it should be at around 10~20 MB. There are no restrictions for file types, allowing some apps to offer the ability to record and send voice messages.
+You can upload files onto messages. The size limit varies by the homeserver you're on, but it should be *at least* 10~20 MB. There are no restrictions for file types, allowing some apps to offer the ability to record and send voice messages.
 
 All files you upload onto Matrix are assigned an [MXC URI](https://spec.matrix.org/v1.1/client-server-api/#matrix-content-mxc-uris), which you can use for referencing to the same image. The MXC URI can be retrieved with the following steps:
 
@@ -66,16 +70,65 @@ The image can be accessed on the internet by replacing the `mxc://` prefix with 
   The attachments themselves can only be deleted by the homeserver operator. This means, especially, that deleting a message will <b>NOT</b> delete its attachments!
 </div>
 
-#### Reactions
+### Reactions
 
 You may react any message with any unicode emoji or any plaintext content[^2]. The latter is available...
 
-* On FluffyChat, by replying to a message and entering the desired text prefixed with `/react` in the composer
-* On SchildiChat, by clicking the reaction picker for a message, entering the desired text in the search box, and then choose "React with (text)"
+* On FluffyChat, by replying to a message and entering the desired text prefixed with `/react` in the composer;
+* On SchildiChat, by clicking the reaction picker for a message, entering the desired text in the search box, and then choose "React with (text)."
+
+## All about bridges
+
+Matrix prides itself in technical interoperability - ability to work with other platforms. Therefore, Matrix allows you to connect your chats to another platform.
+
+Note that encryption is **not** supported on most bridges. Furthermore, the following instructions apply across the Matrix federation, but private homeserver providers as well as some public homeservers operate certain bridges for the benefit of their users, in which case please inquire the relevant providers.
+
+### Discord
+
+To bridge a Matrix room with a Discord channel, you can install [matrix-appservice-discord](https://github.com/Half-Shot/matrix-appservice-discord) if you're running your own homeserver[^3], or set up [t2bot's Discord bridge](https://t2bot.io/discord) otherwise. Matrix users will show up as webhooks on Discord, and Discord users will show up as standard users on Matrix (but you cannot DM them).
+
+### Telegram
+
+To bridge a Matrix room with a Telegram group chat, you can install [mautrix telegram](https://github.com/mautrix/telegram) if you're running your own homeserver, or set up [t2bot's Telegram bridge](https://t2bot.io/telegram) otherwise. Matrix users will be represented by the bridging bot on Telegram, while Telegram users will show up as standard users on Matrix (but you cannot DM them).
+
+### Slack
+
+To bridge a Matrix room with a Slack channel, do the following on Element or SchildiChat on PC:
+
+1. In your desired room, click the info button on the top-right.
+2. "Add widgets, bridges & bots"
+3. Navigate to "Slack bridge" and follow the instructions.
+
+### IRC
+
+You can join any IRC channel on [these networks](https://matrix-org.github.io/matrix-appservice-irc/latest/bridged_networks) directly from Matrix. Matrix users will show up in their display name, suffixed with `[m]`.
+<br>
+<div class="flash flash-warn">
+  You <i>can</i> register the nickname, but your NickServ password would be visible to your homeserver as encryption is not supported for bridges, so do so at your own risk.
+</div>
+
+### XMPP
+
+You can join any XMPP MUC on any instance directly from Matrix, using the Bifrost bridge provided by [matrix.org](https://github.com/matrix-org/matrix-bifrost/wiki/Address-syntax) or [aria-net.org](https://aria-net.org/SitePages/Portal/Bridges.aspx).
+
+### Other
+
+Matrix supports many other platforms, but such bridges generally require setup. If you want to bridge those platforms, or if you have performance requirements that cannot be met by existing public bridges, you may either:
+
+* [Host the bridges yourself](https://matrix.org/bridges/), if you run your own homeserver
+* Set up bridges as part of a managed homeserver hosting:
+  * [Element Matrix Store](https://element.io/element-matrix-store) (WhatsApp, Slack, MS Teams, IRC, Discord, Telegram)
+  * [etke.cc](https://etke.cc) (Many platforms)
+  * [ungleich](https://ungleich.ch/u/products/hosted-matrix-chat/) (Many platforms)
+* Purchase managed bridging services without a homeserver:
+  * [Element One](https://element.io/element-one) (WhatsApp, Signal, Telegram)
+  * [Beeper](https://www.beeper.com/) (Many platforms; has waitlist)
+<br>
+<div class="flash flash-warn">
+  With the last option, it is technically possible to bridge an account on another platform onto Matrix. However, it is often against the ToS of the platform to do so (as interoperability is antithetical to centralized "walled garden" approaches) and may result in loss of account. Furthermore, it may damage the encryption mechanisms of the platform. If you're considering this approach, then please know your risk.
+</div>
 
 ## All about rooms
-
-### Bridges
 
 ### Moderation
 
@@ -86,3 +139,5 @@ You may react any message with any unicode emoji or any plaintext content[^2]. T
 [^1]: Similar to the eponymous command in Minecraft.
 
 [^2]: Unlike Instagram Direct, where doing so will actually overflow the screen (you can try it but it will involve reverse engineering), Matrix apps handle this properly by showing the first few (≈10) characters followed by ellipsis. It seems to be mostly intended to be used by bots, as seen in [This Week in Matrix](https://matrix.to/#/#thisweekinmatrix:matrix.org), but since most bots are no different from other users, humans are welcomed to use it too.
+
+[^3]: If you're running your own bridge, please manually incorporate [this pull request](https://github.com/Half-Shot/matrix-appservice-discord/pull/704) to support parsing Discord replies. (The t2bot bridge incorporates it since December 2021.)
