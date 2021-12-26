@@ -24,12 +24,14 @@ Now that you have aced the [basics](..), let's talk about the intricate details 
 
 Without prefixing a message with `/html`, Matrix supports basic markdown, as in everything in the [CommonMark spec](https://commonmark.org/help/). The changes are:
 
-* For embedding images, the link must be an [MXC URI](#attachments).
+* For embedding images, the link must be an [MXC URI](#attachments), not an HTTP/S URL.
 * Language syntax highlighting in code blocks is supported - simply specify the language on the same line after the first three backticks.
 
 Aside from the above:
 
-* For strikethrough, Element and SchildiChat uses `<del>text</del>` while FluffyChat uses `~~text~~`. Note that the difference only exists in composing a message, and both clients render existing messages in the same way.
+* For strikethrough, Element and SchildiChat uses `<del>text</del>` (without `/html`), while FluffyChat uses `~~text~~`.
+* For undelrine, Element and SchildiChat uses `<u>text</u>` (also without `/html`), while FluffyChat uses `__text__`.
+  * Note that the above differences only exists in composing a message, and both clients render existing messages in the same way.
 * For spoilers...
   * On Element and SchildiChat, you must prefix the message with `/html`, and then insert one of the following lines of code at the position you desire, so it will hide the `spoiler content` and, optionally, show the `reason` alongside it. Note that if you want the entire message to be a spoiler and without inserting a reason, you can just prefix a message with `/spoiler` without writing HTML.
   ```html
@@ -52,23 +54,34 @@ And, about slash commands on Element and SchildiChat related to text messages:
 
 You can upload files onto messages. The size limit varies by the homeserver you're on, but it should be *at least* 10~20 MB. There are no restrictions for file types, allowing some apps to offer the ability to record and send voice messages.
 
-All files you upload onto Matrix are assigned an [MXC URI](https://spec.matrix.org/v1.1/client-server-api/#matrix-content-mxc-uris), which you can use for referencing to the same image. The MXC URI can be retrieved with the following steps:
+All files you upload onto Matrix are assigned an [MXC URI](https://spec.matrix.org/v1.1/client-server-api/#matrix-content-mxc-uris), which you can use for referencing to the same file. The MXC URI can be retrieved with the following steps:
 
 1. Find the message.
 2. On Element and SchildiChat on PC, hover over the message and click the three dots. On FluffyChat, long press the message and click the three dots on the top.
 3. "View Source."
 4. Under the `content` JSON object, locate the `url` attribute. The URI the starts with `mxc://` is the MXC URI.
 
-The URI allows you to do the following, at least on Element and SchildiChat:
+If the attachment is an image, the URI allows you to do the following, at least on Element and SchildiChat:
 
 * Embed the image on text messages by inserting `![alt text](mxc://...)` (You can also use `<img>` tags under `/html`)
 * Change your avatar for the current room using `/myroomavatar mxc://...`
 
-The image can be accessed on the internet by replacing the `mxc://` prefix with `https://$SERVER/_matrix/media/r0/download/`, where `$SERVER` is the domain of *any* homeserver (it does not need to be in the room).
+The attachment can be accessed on the internet by replacing the `mxc://` prefix with `https://$SERVER/_matrix/media/r0/download/`, where `$SERVER` is the domain of *any* homeserver (it does not need to be in the room).
 <br>
 <div class="flash flash-warn">
-  The attachments themselves can only be deleted by the homeserver operator. This means, especially, that deleting a message will <b>NOT</b> delete its attachments!
+  The attachments themselves can only be deleted by the homeserver operator, and until then, they are visible to the public. This means, especially, that deleting a message will <b>NOT</b> delete its attachments! (However, attachments uploaded in an encrypted room are visible to the public in the encrypted form, where only its intended recipients have the keys to decrypt it.)
 </div>
+<br>
+<div class="flash">
+  It is possible to use "custom emojis/emotes" in text messages by embedding the emote: Simply adjust the image, upload it in an unencrypted room, get its MXC URI, and place the embedding code in messages. Furthermore, FluffyChat allows you to assign a <code>:shortcode:</code> to custom emotes so that they can be entered like normal emotes: Go to user settings, then "Conversations", then emoji settings.
+</div>
+
+#### Stickers
+
+Currently, support for stickers across Matrix is somewhat inconsistent. Note that stickers sent from either app are visible to both apps.
+
+* For Element and SchildiChat, stickers are offered by integration managers. If you have used [the config](../#pc-and-mobile) provided by this guide, the [Dimension integration manager](https://dimension.t2bot.io) allows you to create your own sticker packs.
+* For FluffyChat, stickers are offered by rooms, some of them are collected in the [`stickers-and-emojis:pixie.town`](https://matrix.to/#/#stickers-and-emojis:pixie.town) Space. To get stickers or custom emotes in a room, press the room name, expand settings, and open emoji settings. Then, open the desired sticker or emote pack and enable them as you wish.
 
 ### Reactions
 
@@ -76,6 +89,12 @@ You may react any message with any unicode emoji or any plaintext content[^2]. T
 
 * On FluffyChat, by replying to a message and entering the desired text prefixed with `/react` in the composer;
 * On SchildiChat, by clicking the reaction picker for a message, entering the desired text in the search box, and then choose "React with (text)."
+
+### Voice/Video calling
+
+Voice/video calling is currently only supported for private messages (rooms with only 2 participants).
+
+Currently, if you try to start a call in a room with more than 2 participants, a [Jitsi Meet](https://meet.jit.si) (not part of Matrix) [widget](#integrations) will be displayed for all users as a temporary solution. However, work is underway to allow native voice/video calling for groups, which hopefully will be enabled [by early 2022](https://matrix.org/blog/2021/12/22/the-mega-matrix-holiday-special-2021#native-matrix-videovoip-conferencing).
 
 ## All about bridges
 
@@ -125,14 +144,49 @@ Matrix supports many other platforms, but such bridges generally require setup. 
   * [Beeper](https://www.beeper.com/) (Many platforms; has waitlist)
 <br>
 <div class="flash flash-warn">
-  With the last option, it is technically possible to bridge an account on another platform onto Matrix. However, it is often against the ToS of the platform to do so (as interoperability is antithetical to centralized "walled garden" approaches) and may result in loss of account. Furthermore, it may damage the encryption mechanisms of the platform. If you're considering this approach, then please know your risk.
+  With the last option, it is technically possible to bridge an account on another platform onto Matrix. However, it is often against the ToS of the platform to do so (as interoperability is antithetical to centralized "walled garden" approaches) and may result in loss of account. Furthermore, it may damage the encryption mechanisms of the platform. You have been warned.
 </div>
 
 ## All about rooms
 
+Because FluffyChat's room management capabilities are somewhat limited by design, this guide will base this section upon Element and SchildiChat on PC.
+
 ### Moderation
 
-### Permission Levels
+See [the official guide](https://matrix.org/docs/guides/moderation#moderating-rooms) (just the linked section).
+<br>
+<div class="flash flash-warn">
+  If you promote a user to the same power level as you, then you will <b>not</b> be able to demote them!
+</div>
+<br>
+<div class="flash">
+  It is a good idea to copy ACLs of other rooms (especially those of popular public rooms) and use it on your own to strengthen your room's defense to unwanted content. To do so:
+  <ol>
+    <li>Enter <code>/devtools</code> in the room you want to copy ACL from.</li>
+    <li>Click "Explore Room State."</li>
+    <li>Click <code>m.room.server_acl</code>.</li>
+    <li>Click "Edit."</li>
+    <li>Copy the content in the box. (It is futile to try to hit "Send" as you probably don't have the permission to.)</li>
+    <li>Repeat steps 1 to 4, this time in the room you want to use the copied ACL in.</li>
+    <li>Paste the content in the box and hit "Send."</li>
+    <li>Confirm success. A state event will be created in the room, indicating that you have changed the ACL.</li>
+    <li>Note that denying a homeserver whose users are already present in a room will not automatically kick the users. If necessary, enter the homeserver domain in the search box of the member list and kick them from your room. They will not be able to join back.</li>
+  </ol>
+</div>
+<br>
+<div class="flash">
+  You <a href="https://github.com/matrix-org/mjolnir/issues/165">cannot</a> selfhost <a href="https://github.com/matrix-org/mjolnir">mjolnir</a> without permission to go over ratelimit for the homeserver the bot is on. This means, that you may selfhost it if you run your own homeserver, or consult your homeserver operators otherwise (they may be hosting it already).
+</div>
+
+### Integrations
+
+Integrations in Matrix includes widgets and bots.
+
+Widgets display an interactive HTML page on top of chat messages. This only works on Element and SchildiChat on PC. You can use the `/addwidget` command, or the "Add widgets, bridges & bots" link in the room info sidebar. Note that individual members must opt into displaying the widget, and can choose to dismiss ("unpin") the widget for themselves at any time. Furthermore, anyone with power level above the required level for "Modify Widgets" will be able to dismiss ("unpin") the widget for everyone in the room.
+
+Bots perform automated actions (like sending messages). [maubot](https://github.com/maubot/maubot) is the only well-known self-hostable bot, containing a variety of plugins. [t2bot.io](https://t2bot.io/) as well as some homeservers host certain plugins for public use.
+
+[Bridges](#all-about-bridges) are also bots, but some bridges need to create new accounts to serve as puppets, you are advised to run these bridging bots on a homeserver that you operate or otherwise have permission to run such bots on.
 
 ## Footnotes
 
