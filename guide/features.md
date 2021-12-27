@@ -52,7 +52,7 @@ And, about slash commands on Element and SchildiChat related to text messages:
 
 #### Attachments
 
-You can upload files onto messages. The size limit varies by the homeserver you're on, but it should be *at least* 10~20 MB. There are no restrictions for file types, allowing some apps to offer the ability to record and send voice messages.
+You can upload files onto messages. The size limit varies by the homeserver you're on, but most homeservers have it between 50 and 100 MB. There are no restrictions for file types, allowing some apps to offer the ability to record and send voice messages.
 
 All files you upload onto Matrix are assigned an [MXC URI](https://spec.matrix.org/v1.1/client-server-api/#matrix-content-mxc-uris), which you can use for referencing to the same file. The MXC URI can be retrieved with the following steps:
 
@@ -74,7 +74,7 @@ The attachment can be accessed on the internet by replacing the `mxc://` prefix 
   The attachments themselves can only be deleted by the homeserver operator, and until then, they are visible to the public. This means, especially, that deleting a message will <b>NOT</b> delete its attachments! (However, attachments uploaded in an encrypted room are visible to the public in the encrypted form, where only its intended recipients have the keys to decrypt it.)
 </div>
 <div class="flash">
-  It is possible to use "custom emojis/emotes" in text messages by embedding the emote: Simply adjust the image, upload it in an unencrypted room, get its MXC URI, and place the embedding code in messages. Furthermore, FluffyChat allows you to assign a <code>:shortcode:</code> to custom emotes so that they can be entered like normal emotes: Go to user settings, then "Conversations", then emoji settings.
+  It is possible to use "custom emojis/emotes" in text messages by embedding the emote: Simply adjust the image, upload it in an unencrypted room, get its MXC URI, and place the embedding code in messages. Furthermore, FluffyChat allows you to assign a <code>:shortcode:</code> to custom emotes so that they can be entered like normal emotes: Go to user settings, then "Conversations", then emoji settings. Note that embed GIFs will not animate.
 </div>
 
 #### Stickers
