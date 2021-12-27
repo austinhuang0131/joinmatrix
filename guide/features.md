@@ -63,15 +63,16 @@ All files you upload onto Matrix are assigned an [MXC URI](https://spec.matrix.o
 
 If the attachment is an image, the URI allows you to do the following, at least on Element and SchildiChat:
 
-* Embed the image on text messages by inserting `![alt text](mxc://...)` (You can also use `<img>` tags under `/html`)
 * Change your avatar for the current room using `/myroomavatar mxc://...`
+* Embed the image on text messages by inserting `![alt text](mxc://...)` (You can also use `<img>` tags under `/html`)
+
+![Embedding an image](../../assets/embed.png)
 
 The attachment can be accessed on the internet by replacing the `mxc://` prefix with `https://$SERVER/_matrix/media/r0/download/`, where `$SERVER` is the domain of *any* homeserver (it does not need to be in the room).
 <br>
 <div class="flash flash-warn">
   The attachments themselves can only be deleted by the homeserver operator, and until then, they are visible to the public. This means, especially, that deleting a message will <b>NOT</b> delete its attachments! (However, attachments uploaded in an encrypted room are visible to the public in the encrypted form, where only its intended recipients have the keys to decrypt it.)
 </div>
-<br>
 <div class="flash">
   It is possible to use "custom emojis/emotes" in text messages by embedding the emote: Simply adjust the image, upload it in an unencrypted room, get its MXC URI, and place the embedding code in messages. Furthermore, FluffyChat allows you to assign a <code>:shortcode:</code> to custom emotes so that they can be entered like normal emotes: Go to user settings, then "Conversations", then emoji settings.
 </div>
@@ -158,7 +159,6 @@ See [the official guide](https://matrix.org/docs/guides/moderation#moderating-ro
 <div class="flash flash-warn">
   If you promote a user to the same power level as you, then you will <b>not</b> be able to demote them!
 </div>
-<br>
 <div class="flash">
   It is a good idea to copy ACLs of other rooms (especially those of popular public rooms) and use it on your own to strengthen your room's defense to unwanted content. To do so:
   <ol>
@@ -173,7 +173,6 @@ See [the official guide](https://matrix.org/docs/guides/moderation#moderating-ro
     <li>Note that denying a homeserver whose users are already present in a room will not automatically kick the users. If necessary, enter the homeserver domain in the search box of the member list and kick them from your room. They will not be able to join back.</li>
   </ol>
 </div>
-<br>
 <div class="flash">
   You <a href="https://github.com/matrix-org/mjolnir/issues/165">cannot</a> selfhost <a href="https://github.com/matrix-org/mjolnir">mjolnir</a> without permission to go over ratelimit for the homeserver the bot is on. This means, that you may selfhost it if you run your own homeserver, or consult your homeserver operators otherwise (they may be hosting it already).
 </div>
