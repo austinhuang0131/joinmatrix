@@ -6,7 +6,7 @@ parent: guide
 permalink: guide/features/
 ---
 
-## The "Join Matrix!" Guide: More Features of Matrix
+## More Features of Matrix
 
 Now that you have aced the [basics](..), let's talk about the intricate details of various features of Matrix. The guide assumes that you have done some preliminary discovery of features and that you are here for specifics that may not be too intuitive.
 
@@ -84,6 +84,8 @@ Currently, support for stickers across Matrix is somewhat inconsistent. Note tha
 * For Element and SchildiChat, stickers are offered by integration managers. If you have used [the config](../#pc-and-mobile) provided by this guide, the [Dimension integration manager](https://dimension.t2bot.io) allows you to create your own sticker packs.
 * For FluffyChat, stickers are offered by rooms, some of them are collected in the [`stickers-and-emojis:pixie.town`](https://matrix.to/#/#stickers-and-emojis:pixie.town) Space. To get stickers or custom emotes in a room, press the room name, expand settings, and open emoji settings. Then, open the desired sticker or emote pack and enable them as you wish.
 
+See [here](https://1hiking.github.io/posts/2021/09/matrix-stickers/) if you want more details.
+
 ### Reactions
 
 You may react any message with any unicode emoji or any plaintext content[^2]. The latter is available...
@@ -152,6 +154,23 @@ Matrix supports many other platforms, but such bridges generally require setup. 
 
 Because FluffyChat's room management capabilities are somewhat limited by design, this guide will base this section upon Element and SchildiChat on PC.
 
+### Promotion
+
+If you want to promote a public room, you publish public addresses and/or place it on your homeserver's [room directory](../#what-rooms-can-i-join).
+
+To publish an address:
+
+1. Go to room settings.
+2. In the "General" tab, under "Room Addresses" there is "Local Addresses." As indicated, you can only create addresses on the homeserver you are on[^4].
+3. Enter the localpart of your desired address and then click "Add".
+4. Under "Published Addresses," enter the entire address (with homeserver domain), then click "Add".
+5. The "Main Address" is used for room directories and for mentioning the room in other rooms. Select one from the published addresses.
+6. If you want to advertise your room in your homeserver's[^4] room directory, enable "Publish this room to the public in (server)'s room directory?"
+
+Steps 1 to 3 can be done by anyone, whereas step 4 by 6 requires the user to have a power level equal to or higher than the required level for "Change main address for the room."
+
+A public address also allows you to [link the room from a webpage](https://matrix.to/).
+
 ### Moderation
 
 See [the official guide](https://matrix.org/docs/guides/moderation#moderating-rooms) (just the linked section).
@@ -194,3 +213,5 @@ Bots perform automated actions (like sending messages). [maubot](https://github.
 [^2]: Unlike Instagram Direct, where doing so will actually overflow the screen (you can try it but it will involve reverse engineering), Matrix apps handle this properly by showing the first few (≈10) characters followed by ellipsis. It seems to be mostly intended to be used by bots, as seen in [This Week in Matrix](https://matrix.to/#/#thisweekinmatrix:matrix.org), but since most bots are no different from other users, humans are welcomed to use it too.
 
 [^3]: If you're running your own bridge, please manually incorporate [this pull request](https://github.com/Half-Shot/matrix-appservice-discord/pull/704) to support parsing Discord replies. (The t2bot bridge incorporates it since December 2021.)
+
+[^4]: If you want addresses or/and publicity on other homeservers, you can create accounts, join the room, and do these steps. But be nice and don't spam. Remember, homeserver operators *can* remove your room from the room directory or even prevent anyone on their homeservers from joining your room.

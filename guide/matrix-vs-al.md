@@ -20,11 +20,13 @@ The comparisons for [Discord](../matrix-vs-discord) and [Telegram](../matrix-vs-
 
 ### Centralized platforms
 
+Most platforms you see on the market fall into this category.
+
 The most important advantage of Matrix over the following platforms is that Matrix is decentralized. This means that:
 
 * There is no one entity controlling the day-to-day operations[^2] of the entire platform. This prevents any entity from making unilateral decisions, particularly those that may hurt users.
 * No one entity has all the data of the entire platform.
-* You can either trust one of the several entities (a homeserver) that holds your data, or hold the data yourself (by running a homeserver), whereas using centralized platforms requires you to trust the sole owner of the platform, who exclusively receives your data and can do anything with it in any fashion they want.
+* You can either trust one of the several entities (a homeserver) that holds your data, or hold the data yourself (by running a homeserver), whereas using centralized platforms requires you to trust the sole owner of the platform, who exclusively receives your private data and can do anything with it in any fashion they want.
 
 Matrix allows users to encrypt their message contents, whereas:
 
@@ -36,24 +38,26 @@ Furthermore,
 * Some "secure" platforms (such as Signal and WhatsApp) require you to provide a phone number or email address. Most Matrix homeservers do not require phone numbers. Depending on setup (either selfhost or with certain public homeservers), it may be possible to use Matrix without email address as well.
 * Although Signal receives widespread approval (and is probably the best centralized messaging platform in existence[^7]), its credibility continues to be subjected to ongoing debate: Its US jurisdiction, its dependence on AWS, its hostile stance towards forked clients, its delay in publishing source code, its controversial implementation of the spam detection mechanism... Whereas Matrix is [open](https://matrix.org/blog/2020/01/02/on-privacy-versus-freedom): Freedom to choose jurisdiction, freedom from depending on specific third parties, freedom to choose clients, and transparency for everyone.
 
-### Federated platform: XMPP
+### Session
+
+Session claims to be decentralized, but since the platform requires an ever-increasing amount[^8] of cryptocurrency stake for each node, running one is unreachable for most people (whereas for Matrix, there exists no such requirement from the platform), so the amount of nodes will eventually reach a finite ceiling, making it only marginally better than Signal.
+
+### Another federated platform: XMPP
 
 XMPP and Matrix are very similar: Most of [these](../#why-matrix) also applies to XMPP. The difference is that Matrix is much *much* more intuitive for an ordinary user, whereas XMPP is far from it.
 
 * XMPP is relatively barebone, which may not be able to serve modern communication needs.
 * Clients are spread across different platforms and may support different features differently, making no client one-size-fits-all.
 
-Furthermore, XMPP is not encrypted by default, but use of OMEMO is also quite widespread. Still, it has the same [metadata problem](https://infosec-handbook.eu/articles/xmpp-aitm/) [as Matrix](#fn:1). However, it is true that XMPP servers are lighter than Matrix, since in XMPP, most of the heavy work is done by the clients, whereas in Matrix, the homeservers need to constantly store things.
+Furthermore, XMPP is not encrypted by default, but use of OMEMO is also quite widespread. Still, it has the same [metadata problem](https://infosec-handbook.eu/articles/xmpp-aitm/) [as Matrix](../#fn:1). However, it is true that XMPP servers are lighter than Matrix, since in XMPP, most of the heavy work is done by the clients, whereas in Matrix, the homeservers need to constantly store things.
 
 For reference, the official comment from matrix.org is [here](https://matrix.org/faq/#what-is-the-difference-between-matrix-and-xmpp%3F).
 
-### Session
-
-### Decentralized platforms
+### Peer-to-peer platforms
 
 Platforms like Briar, Cwtch and Jami offers much more security, but at a huge cost in terms of utility due to their peer-to-peer nature, requiring participants to be online to receive messages.
 
-## Footnote
+## Footnotes
 
 [^1]: Specifically, using the public Matrix federation. Some Matrix implementations (like the French government's *Tchap*) may have utilized closed federations and extended features for specific purposes, thereby providing more communication security.
 
@@ -68,3 +72,5 @@ Platforms like Briar, Cwtch and Jami offers much more security, but at a huge co
 [^6]: Although Signal [claims](https://signal.org/blog/whatsapp-complete/) that WhatsApp is using the Signal protocol, WhatsApp's closed-source nature prevents independent verification.
 
 [^7]: In terms of both tech and reach (hence excluding Threema).
+
+[^8]: Relative to fiat currencies.
