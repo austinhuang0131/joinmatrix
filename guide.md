@@ -28,6 +28,10 @@ Matrix is the long-awaited middleground between one-to-one messaging platforms (
   * Matrix is backed by the public sector, most notably by the Germans ([healthcare](https://matrix.org/blog/2021/07/21/germanys-national-healthcare-system-adopts-matrix), [army](https://element.io/case-studies/bundeswehr), [universities](https://doc.matrix.tu-dresden.de/en/why/)) as well as [the French](https://element.io/case-studies/tchap).
 
 And of course, Matrix has the features that every modern messaging platform has: Cross-platform, real-time, sleek interface, etc. But that's not the point. Matrix shows that it is **possible** to have a decent chat platform that actually **respects you**.
+<br>
+<div class="flash">
+  Matrix is not spotless, but it is constantly improving! You can also follow <a href="https://matrix.org/blog/posts">the Matrix.org blog</a> for all the news around Matrix!
+</div>
 
 ## Get Started
 
@@ -146,14 +150,14 @@ On Element and SchildiChat, Spaces show up on the left of your room list. Select
 
 * [More Features of Matrix](./features): An introduction to more of Matrix's features!
 * [Public homeserver list](../servers)
-* Comparison with other platforms:
-  * Discord
-  * Telegram
-* Questions & Answers
+* [Comparison with other platforms](./matrix-vs-al):
+  * [Discord](./matrix-vs-discord)
+  * [Telegram](./matrix-vs-telegram)
+* [Questions & Answers](./qna)
 
 ## Footnotes
 
-[^1]: Only text contents and file attachments of messages are encrypted. Currently, Matrix does not prevent metadata leakage, mainly due to its federated nature. This will change, however, when Matrix starts rolling out [Pinecone](https://archive.fosdem.org/2021/schedule/event/matrix_pinecones/), allowing p2p connections. Currently, it *can* be mitigated if all participants of an E2EE conversation are running their own homeserver (so to eliminate third parties).
+[^1]: Only text contents and file attachments of messages are encrypted, using the Signal protocol. Currently, Matrix does not prevent metadata leakage, mainly due to its federated nature. This will change, however, when Matrix starts rolling out [Pinecone](https://archive.fosdem.org/2021/schedule/event/matrix_pinecones/), allowing p2p connections. Currently, it *can* be mitigated if all participants of an E2EE conversation are running their own homeserver (so to eliminate third parties).
 
 [^2]: Exception: Some bots do not support end-to-end encrypted messaging. Furthermore, when creating an empty private room, you will be prompted (but not by default) to enable encryption.
 

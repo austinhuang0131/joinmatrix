@@ -185,7 +185,7 @@ Widgets display an interactive HTML page on top of chat messages. This only work
 
 Bots perform automated actions (like sending messages). [maubot](https://github.com/maubot/maubot) is the only well-known self-hostable bot, containing a variety of plugins. [t2bot.io](https://t2bot.io/) as well as some homeservers host certain plugins for public use.
 
-[Bridges](#all-about-bridges) are also bots, but some bridges need to create new accounts to serve as puppets, you are advised to run these bridging bots on a homeserver that you operate or otherwise have permission to run such bots on.
+[Bridges](#all-about-bridges) are also bots, but some bridges need to create new accounts to serve as puppets, which should only be operated on a homeserver that you own or otherwise have permission to run such bots on.
 
 ## Footnotes
 
