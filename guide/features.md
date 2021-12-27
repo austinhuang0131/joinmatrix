@@ -66,7 +66,7 @@ If the attachment is an image, the URI allows you to do the following, at least 
 * Change your avatar for the current room using `/myroomavatar mxc://...`
 * Embed the image on text messages by inserting `![alt text](mxc://...)` (You can also use `<img>` tags under `/html`)
 
-![Embedding an image](../../assets/embed.png)
+![Embedding an image](../../assets/images/embed.png)
 
 The attachment can be accessed on the internet by replacing the `mxc://` prefix with `https://$SERVER/_matrix/media/r0/download/`, where `$SERVER` is the domain of *any* homeserver (it does not need to be in the room).
 <br>
