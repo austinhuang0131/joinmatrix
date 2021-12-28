@@ -27,8 +27,10 @@ Matrix is the long-awaited middleground between one-to-one messaging platforms (
   * You are welcomed to improve Matrix by creating new apps around it, or by [reviewing or submitting](https://spec.matrix.org/unstable/proposals/) proposals. You can shape your platform towards a better direction!
   * Matrix is backed by the public sector, most notably by the Germans ([healthcare](https://matrix.org/blog/2021/07/21/germanys-national-healthcare-system-adopts-matrix), [army](https://element.io/case-studies/bundeswehr), [universities](https://doc.matrix.tu-dresden.de/en/why/)) as well as [the French](https://element.io/case-studies/tchap).
 
-And of course, Matrix has the features that every modern messaging platform has: cross-platform, real-time, sleek interface, etc. But that's not the point. Matrix shows that it is **possible** to have a decent chat platform that actually **respects you**.
-<br>
+And of course, Matrix has everything that a modern messaging platform offers: cross-platform, real-time, usefulness, etc. But that's not the point. Matrix shows that it is **possible** to have a decent chat platform that actually **respects you**.
+
+If these reasons did not convince you, how about comparing Matrix [with other platforms](./matrix-vs-al) like [Discord](./matrix-vs-discord) and [Telegram](./matrix-vs-telegram)?
+
 <div class="flash">
   Matrix is not spotless, but it is constantly improving! You can also follow <a href="https://matrix.org/blog/posts">the Matrix.org blog</a> for all the news around Matrix!
 </div>
@@ -53,7 +55,7 @@ However, hosting is still undesirable for many. In that case, you can...
 * Join an existing homeserver by picking one from [our public homeserver list](../servers), or
 * Reaching out to a friend who hosts a homeserver, or
 * Purchase [managed homeserver hosting](https://matrix.org/hosting/).
-<br>
+
 <div class="flash">
   The "default" Matrix homeserver is <code>matrix.org</code>, which is used by 35% of all Matrix users <a href="https://matrix.org/blog/2020/01/02/on-privacy-versus-freedom">as estimated in 2020</a>. Although it is okay to use it (and you can try out Matrix quickly with it), it is highly encouraged to choose a different homeserver (including running your own) for long-term usage, as it serves the spirit of decentralization promoted by the Matrix protocol, and also because <code>matrix.org</code> is occasionally overloaded (though performance has improved in recent times) and behind Cloudflare (which is a security risk).
 </div>
@@ -63,7 +65,7 @@ However, hosting is still undesirable for many. In that case, you can...
 <div class="flash">
   This part does not cover cases where a homeserver uses its own authentication tools. In such cases, please consult your homeserver's instructions.
 </div>
-<br>
+
 For simplicity, the guide is prepared in such a way that recommends registration on a PC browser, even though many servers allow you to do so from native PC/mobile apps. Regardless, once registered, you can use the account everywhere!
 
 1. If you're using our homeserver list which has provided you with a link to the homeserver's in-house Element client, then you may use that. Otherwise, use the official [Element Web client](https://app.element.io) to register.
@@ -98,7 +100,7 @@ You can set up a Security Key with the following steps:
 1. On your first login, a bubble on the top-left will ask you to "set up secure backup". Click "Continue". If that is not the case, click your avatar, then "Settings" -> "Security & Privacy" -> "Secure Backup" -> click "Set up".
 2. "Generate a Security Key" is enough.
 3. Save the generated security key in a safe place (like in a password manager).
-<br>
+
 <div class="flash flash-warn">
   It is <b>strongly recommended</b> to do this step to prevent accidentally losing all of your encrypted messages.
 </div>
@@ -124,7 +126,7 @@ There exists [many different apps](https://matrix.org/clients/) that can access 
 * [FluffyChat](https://fluffychat.im/): "Cute" Matrix. Recommended to be used on mobile for performance.
 
 For those living on the edge: [Commune](https://commune.chat/), [Nheko](https://github.com/Nheko-Reborn/nheko), [Spectral](https://spectral.im), and [Syphon](https://syphon.org/).
-<br>
+
 <div class="flash">
   For PC users, if you want a better experience when using Element or SchildiChat, place <a href="../assets/config.json">this config file</a> in your <a href="https://github.com/vector-im/element-desktop#user-specified-configjson">configuration folder</a>, where <code>$NAME</code> is either "Element" or "SchildiChat". The config file enables the "Labs" tab in settings, enables custom themes, preloads <a href="https://github.com/aaronraimist/element-themes">a few custom themes</a>, uses <a href="https://dimension.t2bot.io/">Dimension</a> instead of Scalar for integration manager, and preloads a few homeservers for room directory searches.
 </div>
@@ -154,13 +156,9 @@ On Element and SchildiChat, Spaces show up on the left of your room list. Select
     <li>In FluffyChat, go to settings, then "devices." Click the sessions to rename them.</li>
   </ul>
 </div>
-<br>
 
 * [More Features of Matrix](./features): An introduction to more of Matrix's features!
 * [Public homeserver list](../servers)
-* [Comparison with other platforms](./matrix-vs-al):
-  * [Discord](./matrix-vs-discord)
-  * [Telegram](./matrix-vs-telegram)
 * [Questions & Answers](./qna)
 
 ## Footnotes

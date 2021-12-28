@@ -69,7 +69,7 @@ If the attachment is an image, the URI allows you to do the following, at least 
 ![Embedding an image](../../assets/images/embed.png)
 
 The attachment can be accessed on the internet by replacing the `mxc://` prefix with `https://$SERVER/_matrix/media/r0/download/`, where `$SERVER` is the domain of *any* homeserver (it does not need to be in the room).
-<br>
+
 <div class="flash flash-warn">
   The attachments themselves can only be deleted by the homeserver operator, and until then, they are visible to the public. This means, especially, that deleting a message will <b>NOT</b> delete its attachments! (However, attachments uploaded in an encrypted room are visible to the public in the encrypted form, where only its intended recipients have the keys to decrypt it.)
 </div>
@@ -124,7 +124,7 @@ To bridge a Matrix room with a Slack channel, do the following on Element or Sch
 ### IRC
 
 You can join any IRC channel on [these networks](https://matrix-org.github.io/matrix-appservice-irc/latest/bridged_networks) directly from Matrix. Matrix users will show up in their display name, suffixed with `[m]`.
-<br>
+
 <div class="flash flash-warn">
   You <i>can</i> register the nickname, but your NickServ password would be visible to your homeserver as encryption is not supported for bridges, so do so at your own risk.
 </div>
@@ -145,7 +145,7 @@ Matrix supports many other platforms, but such bridges generally require setup. 
 * Purchase managed bridging services without a homeserver:
   * [Element One](https://element.io/element-one) (WhatsApp, Signal, Telegram)
   * [Beeper](https://www.beeper.com/) (Many platforms; has waitlist)
-<br>
+
 <div class="flash flash-warn">
   With the last option, it is technically possible to bridge an account on another platform onto Matrix. However, it is often against the ToS of the platform to do so (as interoperability is antithetical to centralized "walled garden" approaches) and may result in loss of account. Furthermore, it may damage the encryption mechanisms of the platform. You have been warned.
 </div>
@@ -174,7 +174,7 @@ A public address also allows you to [link the room from a webpage](https://matri
 ### Moderation
 
 See [the official guide](https://matrix.org/docs/guides/moderation#moderating-rooms) (just the linked section).
-<br>
+
 <div class="flash flash-warn">
   If you promote a user to the same power level as you, then you will <b>not</b> be able to demote them!
 </div>
