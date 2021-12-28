@@ -8,9 +8,9 @@ permalink: guide/matrix-vs-discord/
 
 ## Matrix vs. Discord
 
-Welcome!
+Thank you for considering Matrix.
 
-Matrix has long been a alternative to Discord, but many people still don't get the why. We will start with why you should move from Discord to Matrix, followed by comparisons of specific feature and some helpful tips. But before we do that, let's start with...
+Matrix has been a popular alternative to Discord, but many people still don't get the why. We will start with why you should move from Discord to Matrix, followed by comparisons of specific feature and some helpful tips. But before we do that, let's start with...
 
 ## A Discussion on the Proper Definition of "Server"
 
@@ -48,7 +48,8 @@ In the scope of this guide, the key reasons to move from Discord to Matrix are:
 * Discord has made **decisions against the users' best interests**, with the most recent ones being
   * Biased consultations and unilateral proposal of [cryptocurrency integrations](https://www.reddit.com/r/discordapp/comments/qpmhs5/discord_developers_please_do_not_support_nfts/) (which were only dropped after massive backlash), and
   * Mandatory rollout of slash commands, as well as KYC requirements, for running bots (which were *not* dropped despite [backlash](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)).
-* **Lack of control for private data**. See [here](./matrix-vs-al).
+* **Closed source**, thus cannot be independently inspected.
+* **Lack of control for private data** as Discord is centralized. See [here](../matrix-vs-al).
 
 [Matrix addresses all of the above](../#why-matrix).
 
@@ -72,7 +73,8 @@ Note that Matrix does not (and cannot, due to its decentralized nature) paywall 
 
 | Feature | Discord | Matrix |
 | ------- | ------- | ------ |
-| Registration | Free, with certain features paywalled. | Free for [most homeservers](../../servers) (but please consider donating to them). Hosting a private homeserver may also incur cost (could be [free](https://matrix.org/docs/guides/free-small-matrix-server)). Note that paying (not donation) only affects where your data is hosted and (to a much lesser degree) server performance; it has no effect on features. |
+| **Registration** | Requires email. Discord may demand your phone number if it detects "suspicious activity." | Depending on homeserver, **email may not be required**. Phone number is always optional. There is no human check after registration. |
+| Price | Free, with certain features paywalled. | Free for [most homeservers](../../servers) (but please consider donating to them). Hosting a private homeserver may also incur cost (could be [free](https://matrix.org/docs/guides/free-small-matrix-server)). Note that paying (not donation) only affects where your data is hosted and (to a much lesser degree) server performance; it has no effect on features. |
 | **Username** | Users are identified by display name (maximum 32 characters) + discriminator (4 randomly-assigned digits) to fellow users, and user IDs (Around 18 digits) for programming purposes. | Users are identified by their MXID (eg. `@alice:example.com`), composed of the username (must be ASCII characters, but no length limit) and the server name. A display name can be optionally added (no limit). |
 | Avatar | Static, maximum 8 MB. Cannot be zoomed unless using a bot, in which case the returned avatar has a maximum definition of 1024x1024. | **See "Attachments" for limits.** Can be zoomed (at least in Element/SchildiChat), in which case the avatar will be shown in the uploaded definition. Animated avatars are **supported** and will be rendered (at least in Element/SchildiChat). |
 | Profile description and background | **Supported**. | Not supported. |
@@ -80,11 +82,12 @@ Note that Matrix does not (and cannot, due to its decentralized nature) paywall 
 | Nicknames[^2] | Supported. Maximum 32 characters. | **Supported** (`/myroomnick`). No limit. |
 | Specific avatars[^2] | Requires Nitro. | [**Supported**](../features/#attachments) (`/myroomavatar`). See "Attachments" for limits. |
 | 2FA | Email or SMS/TOTP. | Not required for login, but required (QR code, emoji verification, or Security Key) for viewing past encrypted messages. |
-| **Text messages** | Maximum 2000 characters. Supports Markdown (with some additions). | **No maximum. [Supports Markdown and HTML.](../features/#text)** |
+| **Text messages** | Maximum 2000 characters. Supports Markdown (with some modifications). | **No maximum. [Supports Markdown and HTML.](../features/#text)** |
 | Attachments | Maximum 8 MB. | **Maximum 50~100 MB** (for most homeservers; customizable if you run your own homeserver). |
 | Custom emotes in messages | Free users can only use static emotes defined within the "server." | It is possible to insert user-defined static emotes in messages, see [here](../features/#attachments). No support for animated emotes. |
 | Reactions | Only emotes (Unicode or custom ones) | Unicode emotes and [text](../features/#reactions). |
 | Stickers | Only stickers defined within the "server". | **Unlimited with setup.** See [here](../features/#stickers). |
+| Read receipts | Not supported. | **Supported.** |
 | **Direct messages** | Not encrypted. | **Encrypted by default**, including VoIP. |
 | Starting a DM | Depending on privacy settings, initiating a DM requires the two users to have established "friendship" or have certain mutual "servers." Users are given the choice to accept, remove, or report a DM (since late 2021). | Initiating a DM solely requires the recipient to accept the request[^3]. Users can leave DMs anytime they wish. |
 | **Group chats** | A channel is associated with a "server." You can only join 100 "servers." | A room is standalone, but can be optionally included and associated with a Space. You can join **unlimited** amount of rooms. |
@@ -104,7 +107,7 @@ Note that Matrix does not (and cannot, due to its decentralized nature) paywall 
 
 ## Special Note for Students
 
-For students who use Discord's "Student Hub" feature, please convince your institution's IT department or your student union to set up a Matrix homeserver, which uses [free software](https://www.gnu.org/education/education.html) and allows greater flexibility for communication, while ensuring privacy is respected. [Germans are already using it.](https://doc.matrix.tu-dresden.de/en/why/)
+For students who use Discord's "Student Hub" feature, please urge your institution's IT department or your student union to set up a Matrix homeserver, which uses [free software](https://www.gnu.org/education/education.html) and allows greater flexibility for communication, while ensuring privacy is respected. [Germans are already using it.](https://doc.matrix.tu-dresden.de/en/why/)
 
 ## Footnotes
 

@@ -148,6 +148,14 @@ On Element and SchildiChat, Spaces show up on the left of your room list. Select
 
 ## Go Deeper
 
+<div class="flash flash-warn">
+  The names of your sessions are public, which enable others to know what OS you're using (it used to be accurate to devices but that is no longer the case). You can rename them, however (as long as you know which is which):
+  <ul>
+    <li>In Element/SchildiChat, go to user settings, then "Security & Privacy." Rename the sessions as needed.</li>
+    <li>In FluffyChat, go to settings, then "devices." Click the sessions to rename them.</li>
+</div>
+<br>
+
 * [More Features of Matrix](./features): An introduction to more of Matrix's features!
 * [Public homeserver list](../servers)
 * [Comparison with other platforms](./matrix-vs-al):

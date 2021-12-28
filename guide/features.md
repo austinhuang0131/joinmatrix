@@ -30,7 +30,7 @@ Without prefixing a message with `/html`, Matrix supports basic markdown, as in 
 Aside from the above:
 
 * For strikethrough, Element and SchildiChat uses `<del>text</del>` (without `/html`), while FluffyChat uses `~~text~~`.
-* For undelrine, Element and SchildiChat uses `<u>text</u>` (also without `/html`), while FluffyChat uses `__text__`.
+* For underline, Element and SchildiChat uses `<u>text</u>` (also without `/html`), while FluffyChat uses `__text__`.
   * Note that the above differences only exists in composing a message, and both clients render existing messages in the same way.
 * For spoilers...
   * On Element and SchildiChat, you must prefix the message with `/html`, and then insert one of the following lines of code at the position you desire, so it will hide the `spoiler content` and, optionally, show the `reason` alongside it. Note that if you want the entire message to be a spoiler and without inserting a reason, you can just prefix a message with `/spoiler` without writing HTML.
