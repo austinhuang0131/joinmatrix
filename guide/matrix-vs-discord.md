@@ -22,18 +22,11 @@ Recall the computing [definition](https://en.wiktionary.org/wiki/server#Noun) of
 
 The definitions can hold true for a server for a multiplayer game (eg. Minecraft), a server reserved for a group of people for communication (eg. Mumble & TeamSpeak), and a server where Discord bots are being operated from. In each case, the server software (such as the Minecraft server jar file) meets definition #1, whereas the server infrastructure (eg. VPS) meets definition #2.
 
-But that's not the case for a Discord "server": It's just some data, together with data of other "servers," resting on Discord's computational servers. A Discord "server" is not a program on its own, nor has any infrastructure been dedicated to any specific "server," thus violating both definitions. Presumably to attract gamers who often utilizes the correct "server" concept, Discord attempts to equate it to a chat group, muddying the waters for the definition of this technical term. (Hence Discord refers to "servers" as *guilds* in API documentations.)
+But that's not the case for a Discord "server": it's just some data, together with data of other "servers," resting on Discord's computational servers. A Discord "server" is not a program on its own, nor has any computational infrastructure been dedicated to any specific "server," thus violating both definitions. Presumably to attract gamers who often utilizes the correct "server" concept, Discord attempts to equate it to a chat group, muddying the waters for the definition of this technical term. (Hence Discord refers to "servers" as *guilds* in API documentations.)
 
 ### What about Matrix?
 
-In Matrix, a *homeserver* is a server, in that it meets both definitions: Dedicated infrastructures (definition #2) running [a server software](../#set-up-own-homeserver-or-join-an-existing-homeserver) (definition #1). Furthermore, these homeservers, while operated independently of each other and not under control of a sole entity, communicate (transmitting messages and such) with each other using an agreed-upon protocol, thereby keeping the Matrix platform alive. Platforms using such structure is called a federated platform.
-
-### "Federated"? Why should that matter?
-
-Because...
-
-* [You can set up your own homeserver, or join an existing server.](../#set-up-own-homeserver-or-join-an-existing-homeserver) You have control over where your private data goes, without jeopardizing access to the platform.
-* A platform cannot make unilateral decisions on its own: It must reach community consensus.
+In Matrix, a *homeserver* is a server, in that it meets both definitions: Dedicated infrastructures (definition #2) running [a server software](../#set-up-your-own-homeserver-or-join-an-existing-homeserver) (definition #1). Furthermore, these homeservers, while operated independently of each other and not under the control of a single entity, communicate (transmitting messages and such) with each other using an agreed-upon protocol, thereby keeping the Matrix platform alive. Platforms that use such structure, such as Matrix, [fediverse](https://fediverse.party/en/fediverse) and email, are called federated platforms.
 
 ## Why not Discord?
 
@@ -41,17 +34,24 @@ I'm sure you can find a lot of valid criticisms of Discord, like [here](https://
 
 In the scope of this guide, the key reasons to move from Discord to Matrix are:
 
-* **Lack of privacy for private communications**, as private conversations are not only unencrypted, but also actively scanned (just check your settings).
+* **Lack of privacy for private communications**, as private conversations are not only unencrypted, but also actively scanned (see your settings).
 * **Excessive tracking that cannot be opted-out**, such as the [science endpoint](https://luna.gitlab.io/discord-unofficial-docs/science.html) and the process logger (for activity status).
 * **Hostile stance against unofficial clients or client modifications**, thus preventing users from opting out of certain annoyances or tracking.
 * **Arbitrary phone number requirements**.
-* Discord has made **decisions against the users' best interests**, with the most recent ones being
-  * Biased consultations and unilateral proposal of [cryptocurrency integrations](https://www.reddit.com/r/discordapp/comments/qpmhs5/discord_developers_please_do_not_support_nfts/) (which were only dropped after massive backlash), and
+* Discord has made **decisions against the users' best interests**, with the most recent ones being:
+  * Biased consultations and unilateral proposal of [cryptocurrency integrations](https://www.reddit.com/r/discordapp/comments/qpmhs5/discord_developers_please_do_not_support_nfts/) (which were only dropped after massive backlash); and
   * Mandatory rollout of slash commands, as well as KYC requirements, for running bots (which were *not* dropped despite [backlash](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)).
 * **Closed source**, thus cannot be independently inspected.
-* **Lack of control for private data** as Discord is centralized. See [here](../matrix-vs-al).
+* **Lack of control for private data and no guarantee on reliability**, as Discord is centralized, not federated. See [here](../matrix-vs-al/#centralized-platforms).
 
 [Matrix addresses all of the above](../#why-matrix).
+
+### Special Note
+
+Matrix uses free software for its server and client softwares.
+
+* Those who are using or are planning to use Discord's "Student Hub" feature should urge your institution's IT department or your student union to set up a Matrix homeserver, which allows greater flexibility for communication, while ensuring your privacy and agency are respected. [Germans are already using it.](https://doc.matrix.tu-dresden.de/en/why/)
+* Open source communities should be aware that [using Discord is antithetical and discriminatory](https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html).
 
 ## Terminologies
 
@@ -65,7 +65,7 @@ In Matrix, a place that allows sending text messages is called a room.
 
 In Discord, text channels that are not DMs (including group DMs) must be associated with a "server." Thus a "server" can be understood as a collection of channels that share certain settings.
 
-In Matrix, rooms *can* be included in a Space. A Space can be used in a similar fashion of a Discord "server" (controlled by the admins of the constituent rooms) or a "server" folder (controlled by anyone). A Space may also include another Space. Rooms do not share settings with Spaces, although rooms can require Space membership for joining.
+In Matrix, rooms *can* be included in a Space. A Space can be used in similar fashion to a Discord "server" (controlled by the admins of the constituent rooms) or a "server" folder (controlled by anyone). A Space may also include another Space. Rooms do not share settings with Spaces, although rooms can require Space membership for joining.
 
 ## Feature comparison
 
@@ -76,7 +76,7 @@ Note that Matrix does not (and cannot, due to its decentralized nature) paywall 
 | **Registration** | Requires email. Discord may demand your phone number if it detects "suspicious activity." | Depending on homeserver, **email may not be required**. Phone number is always optional. There is no human check after registration. |
 | Price | Free, with certain features paywalled. | Free for [most homeservers](../../servers) (but please consider donating to them). Hosting a private homeserver may also incur cost (could be [free](https://matrix.org/docs/guides/free-small-matrix-server)). Note that paying (not donation) only affects where your data is hosted and (to a much lesser degree) server performance; it has no effect on features. |
 | **Username** | Users are identified by display name (maximum 32 characters) + discriminator (4 randomly-assigned digits) to fellow users, and user IDs (Around 18 digits) for programming purposes. | Users are identified by their MXID (eg. `@alice:example.com`), composed of the username (must be ASCII characters, but no length limit) and the server name. A display name can be optionally added (no limit). |
-| Avatar | Static, maximum 8 MB. Cannot be zoomed unless using a bot, in which case the returned avatar has a maximum definition of 1024x1024. | **See "Attachments" for limits.** Can be zoomed (at least in Element/SchildiChat), in which case the avatar will be shown in the uploaded definition. Animated avatars are **supported** and will be rendered (at least in Element/SchildiChat). |
+| Avatar | Static, maximum 8 MB. Cannot be zoomed unless using a bot, in which case the returned avatar has a maximum definition of 1024x1024. | **See "Attachments" for limits.** Can be zoomed (at least in Element/SchildiChat), in which case the avatar will be shown in the uploaded definition. Animated avatars are **supported**. |
 | Profile description and background | **Supported**. | Not supported. |
 | Profile status | **Supported**. | Effectively not supported[^1]. |
 | Nicknames[^2] | Supported. Maximum 32 characters. | **Supported** (`/myroomnick`). No limit. |
@@ -96,18 +96,14 @@ Note that Matrix does not (and cannot, due to its decentralized nature) paywall 
 | Group chat privacy | Denying "View Channel History" permission prevents users from reading messages prior to their most recent login. | You may deny new members from reading messages prior to them being invited / joining. You may also allow or deny guest access (such as [Matrix Static](http://view.matrix.org/)) from reading messages. You may also enable encryption[^4]. |
 | Publicity | Although Discord offers its own server discovery feature, the requirements are somewhat arbitrary, so third-party services are often used. | Each homeserver has a room directory which anyone may publish to. |
 | Invite | Through generating invite links. | Through directly inviting users, or through shareable [addresses](../features/#promotion). |
-| Permissions | 255 roles. How long did it took for you to learn role hierarchy? | 2^54 power levels (I think it's -2^53 to 2^53-1, however I highly doubt you will *ever* reach that limit), with minimal permissions. A user acquires a permission if their power level is equal to or higher than the power level required for the specific permission. |
-| **Running a bot** | Running a bot in more than 100 "servers" requires proof of identity. | Just register an user account and go[^5]! |
-| **Apps to access platform** | You are only allowed to use the official Discord app (including its PTB and Canary variants). Client modifications are forbidden but effectively tolerated. Third-party clients are forbidden. | Element is the main app, but [**you're welcomed to use whatever you wish**](../#what-app-should-i-use). You can even make an app yourself[^5]! |
+| Permissions | 255 roles. How long did it take for you to learn role hierarchy? | 2^54 power levels (I think it's -2^53 to 2^53-1, however I highly doubt you will *ever* reach that limit), with minimal permissions. A user acquires a permission if their power level is equal to or higher than the power level required for the specific permission. |
+| **Running a bot** | Running a bot in more than 100 "servers" requires proof of identity. Selfbotting is forbidden. | You can run bots on any user accounts[^5] [^6]. Selfbotting is permitted (but be nice). |
+| **Apps to access platform** | You are only allowed to use the official Discord app (including its PTB and Canary variants). Client modifications are forbidden but effectively tolerated. Third-party clients are forbidden. | Element is the main app, but [**you're welcomed to use whatever you wish**](../#what-app-should-i-use). You can even make an app yourself[^6]! |
 
 ## Helpful Tips
 
 * There is a [bridge](https://t2bot.io/discord) that allows you to connect a Discord channel with a Matrix room. (Although, backlinking Matrix data to Discord will reduce its privacy, so please take ethical concerns into account when using it.)
 * Your user colour is chosen by a hash function (varies by app) that takes in your MXID.
-
-## Special Note for Students
-
-For students who use Discord's "Student Hub" feature, please urge your institution's IT department or your student union to set up a Matrix homeserver, which uses [free software](https://www.gnu.org/education/education.html) and allows greater flexibility for communication, while ensuring privacy is respected. [Germans are already using it.](https://doc.matrix.tu-dresden.de/en/why/)
 
 ## Footnotes
 
@@ -119,4 +115,6 @@ For students who use Discord's "Student Hub" feature, please urge your instituti
 
 [^4]: Enabling encryption is irreversible. Note that it is pointless to enable encryption in a public room. Furthermore, enabling encryption means users will not see messages before their invitation (if applicable) or their entry.
 
-[^5]: If your app/bot is good, then [matrix.org would love to hear from you (with the potential possibility of featuring you on their blog)!](https://matrix.to/#/#thisweekinmatrix:matrix.org)
+[^5]: Matrix has no distinction between user and bot accounts (nor is there any dependency between the two). Unless specifically exempted by the homeserver (not needed in most cases), bots have the same ratelimit as other users. In Element and SchildiChat, the user token of an account is available by accessing "User Settings" then "Help & About." When running an autonomous bot, please be courteous and indicate to others (in username or display name) that the account is a bot.
+
+[^6]: If your app/bot is good, then [matrix.org would love to hear from you (with the potential possibility of featuring you on their blog)!](https://matrix.to/#/#thisweekinmatrix:matrix.org)

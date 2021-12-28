@@ -17,7 +17,7 @@ Now that you have aced the [basics](..), let's talk about the intricate details 
 <div class="flash flash-warn"><ul>
   <li>If a message has been edited, <b>all</b> of its edits, <b>plus</b> the original message, must be deleted to fully remove its content!</li>
   <li>If a message has been replied to, <b>all</b> of its replies, <b>plus</b> the original message, must be deleted to fully remove its content!</li>
-  <li>Note that anyone that could read the message may still record its content before deletion. (For unencrypted messages, this includes the homeserver operators.) This applies to virtually <i>any</i> instant messaging platforms in existence, so you still need to be careful of what you say.</li>
+  <li>Note that anyone who could read the message may still record its content before deletion. (For unencrypted messages, this includes the homeserver operators.) This applies to virtually <i>any</i> instant messaging platforms in existence, so you still need to be careful of what you say.</li>
 </ul></div>
 
 #### Text
@@ -29,9 +29,9 @@ Without prefixing a message with `/html`, Matrix supports basic markdown, as in 
 
 Aside from the above:
 
-* For strikethrough, Element and SchildiChat uses `<del>text</del>` (without `/html`), while FluffyChat uses `~~text~~`.
-* For underline, Element and SchildiChat uses `<u>text</u>` (also without `/html`), while FluffyChat uses `__text__`.
-  * Note that the above differences only exists in composing a message, and both clients render existing messages in the same way.
+* For strikethrough, Element and SchildiChat use `<del>text</del>` (without `/html`), while FluffyChat uses `~~text~~`.
+* For underline, Element and SchildiChat use `<u>text</u>` (also without `/html`), while FluffyChat uses `__text__`.
+  * Note that the above differences only exist in composing a message, and both clients render existing messages in the same way.
 * For spoilers...
   * On Element and SchildiChat, you must prefix the message with `/html`, and then insert one of the following lines of code at the position you desire, so it will hide the `spoiler content` and, optionally, show the `reason` alongside it. Note that if you want the entire message to be a spoiler and without inserting a reason, you can just prefix a message with `/spoiler` without writing HTML.
   ```html
@@ -41,20 +41,20 @@ Aside from the above:
   * On FluffyChat, you can achieve the same using `||reason|spoiler content||`.
 * Tables are only supported on HTML (see below).
 
-And, about slash commands on Element and SchildiChat related to text messages:
+And, about slash commands on Element and SchildiChat on PC related to text messages:
 
 * Matrix also supports [these HTML tags](https://spec.matrix.org/v1.1/client-server-api/#mroommessage-msgtypes) if you prefix a message with `/html`.
-* Prefixing your message with one of the following commands will trigger the corresponding visual effect for all users who are currently focused on the room: `/confetti`, `/fireworks`, `/rainfall`, `/snowfall` and `/spaceinvaders`. The effect will only be triggered once for these users only.
+* Prefixing your message with one of the following commands will trigger the corresponding visual effect for all Element/SchildiChat users on PC who are currently focused on the room: `/confetti`, `/fireworks`, `/rainfall`, `/snowfall` and `/spaceinvaders`. The effect will only be triggered once for these users only.
 * Prefixing your message with `/me` will cause your message to start with `*` followed by your display name[^1].
 * Prefixing your message with `/rainbow` will make the text appear in rainbow colours.
   * The two commands above can be combined using `/rainbowme`.
-* Prefixing your message with `/shrug`, `/tableflip`, `/unflip` and `/lenny` will place the corresponding ASCII emote at the **beginning** of the message content. (This differs from Discord, where the emote is placed in the end.)
+* Prefixing your message with `/shrug`, `/tableflip`, `/unflip` and `/lenny` will place the corresponding ASCII emote at the **beginning** of the message content. (This differs from Discord, where the emote is placed at the end.)
 
 #### Attachments
 
 You can upload files onto messages. The size limit varies by the homeserver you're on, but most homeservers have it between 50 and 100 MB. There are no restrictions for file types, allowing some apps to offer the ability to record and send voice messages.
 
-All files you upload onto Matrix are assigned an [MXC URI](https://spec.matrix.org/v1.1/client-server-api/#matrix-content-mxc-uris), which you can use for referencing to the same file. The MXC URI can be retrieved with the following steps:
+All files you upload onto Matrix are assigned an [MXC URI](https://spec.matrix.org/v1.1/client-server-api/#matrix-content-mxc-uris), which you can use for referencing to the corresponding file. The MXC URI can be retrieved with the following steps:
 
 1. Find the message.
 2. On Element and SchildiChat on PC, hover over the message and click the three dots. On FluffyChat, long press the message and click the three dots on the top.
@@ -74,7 +74,7 @@ The attachment can be accessed on the internet by replacing the `mxc://` prefix 
   The attachments themselves can only be deleted by the homeserver operator, and until then, they are visible to the public. This means, especially, that deleting a message will <b>NOT</b> delete its attachments! (However, attachments uploaded in an encrypted room are visible to the public in the encrypted form, where only its intended recipients have the keys to decrypt it.)
 </div>
 <div class="flash">
-  It is possible to use "custom emojis/emotes" in text messages by embedding the emote: Simply adjust the image, upload it in an unencrypted room, get its MXC URI, and place the embedding code in messages. Furthermore, FluffyChat allows you to assign a <code>:shortcode:</code> to custom emotes so that they can be entered like normal emotes: Go to user settings, then "Conversations", then emoji settings. Note that embed GIFs will not animate.
+  It is possible to use "custom emojis/emotes" in text messages by embedding the emote: simply adjust the image, upload it in an unencrypted room, get its MXC URI, and place the embedding code in messages. Furthermore, FluffyChat allows you to assign a <code>:shortcode:</code> to custom emotes so that they can be entered like normal emotes: Go to user settings, then "Conversations", then emoji settings. Note that embed GIFs will not animate.
 </div>
 
 #### Stickers
@@ -88,10 +88,10 @@ See [here](https://1hiking.github.io/posts/2021/09/matrix-stickers/) if you want
 
 ### Reactions
 
-You may react any message with any unicode emoji or any plaintext content[^2]. The latter is available...
+You may react to any message with any unicode emoji or any plaintext content[^2]. The latter is available...
 
 * On FluffyChat, by replying to a message and entering the desired text prefixed with `/react` in the composer;
-* On SchildiChat, by clicking the reaction picker for a message, entering the desired text in the search box, and then choose "React with (text)."
+* On SchildiChat, by clicking the reaction picker for a message, entering the desired text in the search box, and then choosing "React with (text)."
 
 ### Voice/Video calling
 
@@ -101,7 +101,7 @@ Currently, if you try to start a call in a room with more than 2 participants, a
 
 ## All about bridges
 
-Matrix prides itself in technical interoperability - ability to work with other platforms. Therefore, Matrix allows you to connect your chats to another platform.
+Matrix prides itself in technical interoperability, i.e. ability to work with other platforms. Therefore, Matrix allows you to connect your chats to another platform.
 
 Note that encryption is **not** supported on most bridges. Furthermore, the following instructions apply across the Matrix federation, but private homeserver providers as well as some public homeservers operate certain bridges for the benefit of their users, in which case please inquire the relevant providers.
 
@@ -156,13 +156,13 @@ Because FluffyChat's room management capabilities are somewhat limited by design
 
 ### Promotion
 
-If you want to promote a public room, you publish public addresses and/or place it on your homeserver's [room directory](../#what-rooms-can-i-join).
+If you want to promote a public room, you can publish public addresses and/or place it on your homeserver's [room directory](../#what-rooms-can-i-join).
 
 To publish an address:
 
 1. Go to room settings.
 2. In the "General" tab, under "Room Addresses" there is "Local Addresses." As indicated, you can only create addresses on the homeserver you are on[^4].
-3. Enter the localpart of your desired address and then click "Add".
+3. Enter the localpart (the part before `:`) of your desired address and then click "Add".
 4. Under "Published Addresses," enter the entire address (with homeserver domain), then click "Add".
 5. The "Main Address" is used for room directories and for mentioning the room in other rooms. Select one from the published addresses.
 6. If you want to advertise your room in your homeserver's[^4] room directory, enable "Publish this room to the public in (server)'s room directory?"
@@ -179,7 +179,7 @@ See [the official guide](https://matrix.org/docs/guides/moderation#moderating-ro
   If you promote a user to the same power level as you, then you will <b>not</b> be able to demote them!
 </div>
 <div class="flash">
-  It is a good idea to copy ACLs of other rooms (especially those of popular public rooms) and use it on your own to strengthen your room's defense to unwanted content. To do so:
+  It is a good idea to copy ACLs of other rooms (especially those of popular public rooms) and use them on your own to strengthen your room's defense to unwanted content. To do so:
   <ol>
     <li>Enter <code>/devtools</code> in the room you want to copy ACL from.</li>
     <li>Click "Explore Room State."</li>
@@ -198,7 +198,7 @@ See [the official guide](https://matrix.org/docs/guides/moderation#moderating-ro
 
 ### Integrations
 
-Integrations in Matrix includes widgets and bots.
+Integrations in Matrix include widgets and bots.
 
 Widgets display an interactive HTML page on top of chat messages. This only works on Element and SchildiChat on PC. You can use the `/addwidget` command, or the "Add widgets, bridges & bots" link in the room info sidebar. Note that individual members must opt into displaying the widget, and can choose to dismiss ("unpin") the widget for themselves at any time. Furthermore, anyone with power level above the required level for "Modify Widgets" will be able to dismiss ("unpin") the widget for everyone in the room.
 

@@ -22,21 +22,22 @@ The comparisons for [Discord](../matrix-vs-discord) and [Telegram](../matrix-vs-
 
 Most platforms you see on the market fall into this category.
 
-The most important advantage of Matrix over the following platforms is that Matrix is decentralized. This means that:
+The most important advantage of Matrix over these platforms is that Matrix is decentralized. This means that:
 
-* There is no one entity controlling the day-to-day operations[^2] of the entire platform. This prevents any entity from making unilateral decisions, particularly those that may hurt users.
-* No one entity has all the data of the entire platform.
-* You can either trust one of the several entities (a homeserver) that holds your data, or hold the data yourself (by running a homeserver), whereas using centralized platforms requires you to trust the sole owner of the platform, who exclusively receives your private data and can do anything with it in any fashion they want.
+* There is no one entity controlling the day-to-day operations[^2] of the entire platform.
+  * This prevents any entity from making unilateral decisions, particularly those that may hurt users.
+  * While incidents (such as outage, acquisitions, and shutdowns) may affect one instance, they do not affect the entire platform, ensuring its longetivity and stability. (For example, incidents like [the Facebook outage on Oct 4, 2021](https://en.wikipedia.org/wiki/2021_Facebook_outage), where a configuration error on one server brought several Facebook-owned platforms to a complete halt, cannot happen to a federated platform.)
+* You can either trust one of the several entities (an instance) that holds your data, or hold the data yourself (by running an instance), whereas using centralized platforms requires you to trust the sole owner of the platform, who exclusively receives your private data and can do anything with it in any fashion it wants.
 
 Matrix allows users to encrypt their message contents, whereas:
 
-* Centralized unencrypted platforms (such as Discord, Facebook Messenger, Instagram Direct, Revolt[^3], Slack, Snapchat, Telegram cloud chats[^4], QQ and WeChat) allows unobscured access to messages by the sole owner of each platform.
-* Centralized platforms that does not fully disclose details about their encryption algorithm (such as iMessage, [Line](https://citizenlab.ca/2017/08/linesecurity/), Telegram secure chats[^4], Viber[^5] and WhatsApp[^6]) cannot have their security independently verified.
+* Centralized unencrypted platforms (such as Discord, Facebook Messenger, Instagram Direct, Revolt[^3], Slack, Snapchat, Telegram cloud chats[^4], QQ and WeChat) allow unobscured access to messages by the sole owner of each platform.
+* Centralized platforms that do not fully disclose details about their encryption algorithm (such as iMessage, [Line](https://citizenlab.ca/2017/08/linesecurity/), Telegram secure chats[^4], Viber[^5] and WhatsApp[^6]) cannot have their security independently verified.
 
 Furthermore,
 
-* Some "secure" platforms (such as Signal and WhatsApp) require you to provide a phone number or email address. Most Matrix homeservers do not require phone numbers. Depending on setup (either selfhost or with certain public homeservers), it may be possible to use Matrix without email address as well.
-* Although Signal receives widespread approval (and is probably the best centralized messaging platform in existence[^7]), its credibility continues to be subjected to ongoing debate: Its US jurisdiction, its dependence on AWS, its hostile stance towards forked clients, its delay in publishing source code, its controversial implementation of the spam detection mechanism... Whereas Matrix is [open](https://matrix.org/blog/2020/01/02/on-privacy-versus-freedom): Freedom to choose jurisdiction, freedom from depending on specific third parties, freedom to choose clients, and transparency for everyone.
+* Some "secure" platforms (such as Signal and WhatsApp) require you to provide a phone number or email address. Most Matrix homeservers do not require phone numbers. Depending on setup (either selfhost or with certain public homeservers), it may be possible to use Matrix without an email address as well.
+* Although Signal receives widespread approval (and is probably the best centralized messaging platform in existence[^7]), its credibility continues to be subjected to ongoing debate: Its US jurisdiction, its dependence on AWS, its hostile stance towards forked clients, its delay in publishing source code, its controversial implementation of the spam detection mechanism... Whereas Matrix is [open](https://matrix.org/blog/2020/01/02/on-privacy-versus-freedom): freedom to choose jurisdiction, freedom from depending on specific third parties, freedom to choose clients, and transparency for everyone.
 
 ### Session
 
@@ -44,7 +45,7 @@ Session claims to be decentralized, but since the platform requires an ever-incr
 
 ### Another federated platform: XMPP
 
-XMPP and Matrix are very similar: Most of [these](../#why-matrix) also applies to XMPP. The difference is that Matrix is much *much* more intuitive for an ordinary user, whereas XMPP is far from it.
+XMPP and Matrix are very similar: most of [these](../#why-matrix) also apply to XMPP. The difference is that Matrix is much *much* more intuitive for an ordinary user, whereas XMPP is far from it.
 
 * XMPP is relatively barebone, which may not be able to serve modern communication needs.
 * Clients are spread across different platforms and may support different features differently, making no client one-size-fits-all.
@@ -55,7 +56,7 @@ For reference, the official comment from matrix.org is [here](https://matrix.org
 
 ### Peer-to-peer platforms
 
-Platforms like Briar, Cwtch and Jami offers much more security, but at a huge cost in terms of utility due to their peer-to-peer nature, requiring participants to be online to receive messages.
+Platforms like Briar, Cwtch and Jami offer much more security, but at a huge cost in terms of utility due to their peer-to-peer nature, requiring participants to be online to receive messages.
 
 ## Footnotes
 
