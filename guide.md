@@ -46,10 +46,6 @@ Ready to try Matrix? Here we go:
 
 ### Set up own homeserver, or join an existing homeserver?
 
-<div class="flash">
-  The "default" Matrix homeserver is <code>matrix.org</code>, which is used by 35% of all Matrix users <a href="https://matrix.org/blog/2020/01/02/on-privacy-versus-freedom">as estimated in 2020</a>. Although it is okay to use it (and you can try out Matrix quickly with it), it is highly encouraged to choose a different homeserver (including running your own) for long-term usage, as it serves the spirit of decentralization promoted by the Matrix protocol, and also because <code>matrix.org</code> is occasionally overloaded (though performance has improved in recent times) and behind Cloudflare (which is a security risk).
-</div>
-<br>
 If you have hosting, and have the technical skills required to host an internet-facing program, then you can try setting up your own homeserver[^6]. The dominant homeserver implementation is [Synapse](https://github.com/matrix-org/synapse/). See [installation instructions](https://matrix.org/docs/guides/installing-synapse). It may be possible to run a homeserver for free [with Oracle Cloud](https://matrix.org/docs/guides/free-small-matrix-server).
 
 However, hosting is still undesirable for many. In that case, you can...
@@ -57,6 +53,10 @@ However, hosting is still undesirable for many. In that case, you can...
 * Join an existing homeserver by picking one from [our public homeserver list](../servers), or
 * Reaching out to a friend that hosts a homeserver, or
 * Purchase [managed homeserver hosting](https://matrix.org/hosting/).
+<br>
+<div class="flash">
+  The "default" Matrix homeserver is <code>matrix.org</code>, which is used by 35% of all Matrix users <a href="https://matrix.org/blog/2020/01/02/on-privacy-versus-freedom">as estimated in 2020</a>. Although it is okay to use it (and you can try out Matrix quickly with it), it is highly encouraged to choose a different homeserver (including running your own) for long-term usage, as it serves the spirit of decentralization promoted by the Matrix protocol, and also because <code>matrix.org</code> is occasionally overloaded (though performance has improved in recent times) and behind Cloudflare (which is a security risk).
+</div>
 
 ### Register an account
 
@@ -86,11 +86,6 @@ For most apps:
 
 ### Set up key backup
 
-<div class="flash flash-warn">
-  It is <b>strongly recommended</b> to do this step to prevent accidentally losing all of your encrypted messages.
-</div>
-<br>
-
 When you log into a new device, you will be prompted to verify it using your existing device (by scanning a QR code or by comparing emojis). Your new device will then retrieve the room keys from your existing device, thereby enabling it to read your encrypted messages. This prevents anyone else - including your homeserver operator - to read encrypted content[^1].
 
 However, a Security Key is required to access encrypted messages if:
@@ -103,6 +98,10 @@ You can set up a Security Key with the following steps:
 1. On your first login, a bubble on the top-left will ask you to "set up secure backup". Click "Continue". If that is not the case, click your avatar, then "Settings" -> "Security & Privacy" -> "Secure Backup" -> click "Set up".
 2. "Generate a Security Key" is enough.
 3. Put the generated security key in a safe place.
+<br>
+<div class="flash flash-warn">
+  It is <b>strongly recommended</b> to do this step to prevent accidentally losing all of your encrypted messages.
+</div>
 
 ## Get Familiar
 
@@ -153,6 +152,7 @@ On Element and SchildiChat, Spaces show up on the left of your room list. Select
   <ul>
     <li>In Element/SchildiChat, go to user settings, then "Security & Privacy." Rename the sessions as needed.</li>
     <li>In FluffyChat, go to settings, then "devices." Click the sessions to rename them.</li>
+  </ul>
 </div>
 <br>
 
