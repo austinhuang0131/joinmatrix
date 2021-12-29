@@ -1,5 +1,5 @@
 ---
-title: Guide
+title: The Guide
 layout: page-two-col
 nav: true
 parent: guide

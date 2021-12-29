@@ -1,10 +1,12 @@
 ---
-title: Homeservers
+title: Public Homeservers
 layout: page
 nav: true
 ---
 
-This is a list of public Matrix homeservers as compiled by me. Support for this list is provided at [`#public_servers:tchncs.de`](https://matrix.to/#/#public_servers:tchncs.de). Remember:
+## List of public Matrix homeservers
+
+This is a list of public Matrix homeservers as compiled by the author of this guide. Support for this list is provided at [`#public_servers:tchncs.de`](https://matrix.to/#/#public_servers:tchncs.de). Remember:
 
 * For long-term usage, choose a homeserver that you trust, [is properly federated](https://federationtester.matrix.org/), has a high version number, has an environment suitable to your use, and is designed to last.
 * Any homeserver you choose gets to access all the unencrypted data about your account!
@@ -70,9 +72,8 @@ From left to right:
   * "...-oriented": The homeserver is intended to serve the mentioned purpose.
   * "...-inclined": While the homeserver is not specifically intended to serve any purpose, it is nevertheless used for the mentioned purpose.
 * **Registration method**: Exact registration procedure. Those are tested (but not necessarily thoroughly) on [the official Element web client](https://app.element.io) and, in most cases, should work for other clients as well.
-  * Empty: After clicking "Create Account" and "Edit," enter the domain as specified in the "Display name" column (without `https://`) to create an account on this homeserver.
-  * A domain: After clicking "Create Account" and "Edit," enter the domain as specified in this column (without `https://`) to create an account on this homeserver. This discrepancy is usually due to the misconfiguration of `.well-known`.
-  * "In-house Element": You must register using the Element client hosted on the homeserver, which is linked. This is usually due to reCaptcha domain restriction.
+  * A domain: After clicking "Create Account" and "Edit," enter the domain as specified in this column (without `https://`) to [create an account](../guide/#register-an-account) on this homeserver. This discrepancy is usually due to the misconfiguration of `.well-known`.
+  * "In-house Element": You may [register](../guide/#register-an-account) using the Element client hosted on the homeserver, which is linked. This is usually due to reCaptcha domain restriction.
   * "SSO": The homeserver requires [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) for authentication. You must create an account through the link prior to creating an account on the Matrix homeserver itself. Usually, the account can be used to access other services offered by the homeserver operator.
 * **Version**: The software version of the homeserver, [updated daily by a GitHub Action](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/.github/workflows/matrix_ver.yml#L5).
   * Unless indicated otherwise, the homeserver is running Synapse, where version `>=1.47.1` is [recommended](https://matrix.org/blog/2021/11/23/synapse-1-47-1-released) to address a security issue.
@@ -85,4 +86,6 @@ From left to right:
 
 ---
 
-This list is featured in [This Week in Matrix](https://matrix.org/blog/2021/11/19/this-week-in-matrix-2021-11-19/) on November 19, 2021. This list is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), though notification is preferred.
+This list was originally located at [AustinHuang.me](https://austinhuang.me/matrix-homeservers.html).
+
+This list is featured in [This Week in Matrix](https://matrix.org/blog/2021/11/19/this-week-in-matrix-2021-11-19/) on November 19, 2021.

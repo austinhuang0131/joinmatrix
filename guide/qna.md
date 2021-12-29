@@ -32,6 +32,8 @@ The logo is a derivative work of:
 
 This site is hosted on GitHub pages and thus [GitHub Privacy Statement](https://docs.github.com/en/github/site-policy/github-privacy-statement) applies.
 
+This site uses analytics from [GoatCounter](https://goatcounter.com). It's [open source](https://github.com/zgoat/goatcounter). Here are [public stats for this website](https://joinmatrix.goatcounter.com) (The authors can see no more info than what you can see there) and [their privacy policy](https://www.goatcounter.com/privacy). You can disable this by blocking `gc.zgo.at` through your adblocker.
+
 ## Questions about Matrix
 
 Check out [the official matrix.org FAQ](https://matrix.org/faq) as well!
