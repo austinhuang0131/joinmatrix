@@ -36,7 +36,7 @@ exclude:
   - README.md
 
 # Stately settings
-# nav_logo_file: assets/images/stately-logo.png # path to the logo file for the main nav (supports svg, png, jpg, gif). Delete this line for no logo.
+nav_logo_file: assets/images/logo.svg # path to the logo file for the main nav (supports svg, png, jpg, gif). Delete this line for no logo.
 # footer_logo_file: assets/images/stately-logo.png # path to the logo file for the footer nav (supports svg, png, jpg, gif). Delete this line for no logo.
 # Text to appear in the footer, copyright information, contact links, etc...
 footer_text: >

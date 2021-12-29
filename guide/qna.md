@@ -34,9 +34,11 @@ Check out [the official matrix.org FAQ](https://matrix.org/faq) as well!
 
 ### For average users, is Matrix trustworthy?
 
-The tech? Yes, most[^1] of the components of Matrix are open source.
+The tech? Yes, most of the components of Matrix are open source. The only exception that this guide is aware of is the Scalar integration manager, which Element and SchildiChat use as default. However, this guide [provides](../#pc-and-mobile) methods to use the open source [Dimension](https://github.com/turt2live/matrix-dimension) integration manager instead.
 
 The operators? Note that you have the freedom to pick [your homeserver](../../servers). Do you trust big corporations, or small guys that are actually enthusiastic about privacy? Do your research.
+
+The only thing that may negatively affect trust is Matrix's use of a central identity server `vector.im` (`matrix.org` is just an alias of it), which handles contact discovery through email. However, as of late 2021 it can only be enabled on an opt-in basis. Furthermore, you can start a DM based on their MXID, so email is not required.
 
 ### How is Matrix funded?
 
@@ -65,7 +67,3 @@ People [did ask for this](https://www.reddit.com/r/discordapp/comments/qq4qx3/is
 Thus, even with funding, it will be very difficult for Matrix to even attempt trying to integrate something the community does not want.
 
 Also, if you insist that you refuse to use any platform that has ever been involved with cryptocurrencies, then there will be very, very few platforms that you can use. Think about it.
-
-## Footnotes
-
-[^1]: The only exception that this guide is aware of is the Scalar integration manager, which Element and SchildiChat use as default. However, this guide [provides](../#pc-and-mobile) methods to use the open source [Dimension](https://github.com/turt2live/matrix-dimension) integration manager instead.

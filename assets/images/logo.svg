@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="1143.0698"
+   inkscape:export-xdpi="1143.0698"
+   inkscape:export-filename="/Users/austinhuang/downloads/bitmap.png"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   height="43"
+   width="43"
+   sodipodi:docname="Matrix_icon.svg"
+   id="svg843"
+   viewBox="0 0 43 43"
+   version="1.1">
+  <metadata
+     id="metadata849">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Matrix (protocol) logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs847">
+    <linearGradient
+       id="a"
+       gradientUnits="userSpaceOnUse"
+       x1="83.460403"
+       y1="67.090797"
+       x2="204.8024"
+       y2="188.4328"
+       gradientTransform="matrix(0,1,1,0,-4.883e-4,-9.766e-4)">
+      <stop
+         offset="0"
+         stop-color="#06C"
+         id="stop8" />
+      <stop
+         offset="1"
+         stop-color="#039"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       id="b"
+       gradientUnits="userSpaceOnUse"
+       x1="83.398399"
+       y1="66.984398"
+       x2="204.8073"
+       y2="188.3932"
+       gradientTransform="matrix(0,1,1,0,-4.883e-4,-9.766e-4)">
+      <stop
+         offset="0"
+         stop-color="#FFF"
+         id="stop15" />
+      <stop
+         offset="1"
+         stop-color="#F0F0F0"
+         id="stop17" />
+    </linearGradient>
+    <linearGradient
+       id="c"
+       gradientUnits="userSpaceOnUse"
+       x1="82.572304"
+       y1="67.966301"
+       x2="203.9109"
+       y2="189.3049"
+       gradientTransform="matrix(0,1,1,0,-4.883e-4,-9.766e-4)">
+      <stop
+         offset="0"
+         stop-color="#FFF"
+         id="stop22" />
+      <stop
+         offset="1"
+         stop-color="#DFDFDF"
+         id="stop24" />
+    </linearGradient>
+    <linearGradient
+       id="d"
+       gradientUnits="userSpaceOnUse"
+       x1="102.7588"
+       y1="92.283203"
+       x2="195.35629"
+       y2="184.881"
+       gradientTransform="matrix(0,1,1,0,-4.883e-4,-9.766e-4)">
+      <stop
+         offset="0"
+         stop-color="#428AFF"
+         id="stop29" />
+      <stop
+         offset="1"
+         stop-color="#039"
+         id="stop31" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4135"
+       id="linearGradient4306"
+       gradientUnits="userSpaceOnUse"
+       x1="971.42853"
+       y1="1052.3622"
+       x2="717.14276"
+       y2="135.21933"
+       gradientTransform="matrix(0.01788217,-0.01343245,0.01307847,0.01741091,-9.2039105,20.35373)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4135">
+      <stop
+         id="stop4139"
+         offset="0"
+         style="stop-color:#006000;stop-opacity:1" />
+      <stop
+         id="stop4137"
+         offset="1"
+         style="stop-color:#00ff00;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4135"
+       id="linearGradient4308"
+       gradientUnits="userSpaceOnUse"
+       x1="845.71429"
+       y1="806.64789"
+       x2="588.57141"
+       y2="52.362183"
+       gradientTransform="matrix(0.01788217,-0.01343245,0.01307847,0.01741091,-9.2039105,20.35373)" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:current-layer="g841"
+     inkscape:window-maximized="1"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:cy="26.583726"
+     inkscape:cx="19.924242"
+     inkscape:zoom="9.1342138"
+     fit-margin-bottom="1.5"
+     fit-margin-right="8.5"
+     fit-margin-top="8.5"
+     fit-margin-left="0"
+     showgrid="false"
+     id="namedview845"
+     inkscape:window-height="771"
+     inkscape:window-width="1440"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <title
+     id="title833">Matrix (protocol) logo</title>
+  <g
+     id="g841"
+     fill="#040404"
+     transform="translate(6.595114,8.536)">
+    <path
+       id="path835"
+       d="M 28.114698,28.29478 V -2.205215 h -2.19 v -0.732 h 3.04 V 29.06278 h -3.04 v -0.732 z" />
+    <path
+       id="path839"
+       d="M 1.9506935,-2.173215 V 28.32678 h 2.19 v 0.732 h -3.04 V -2.941215 h 3.03 v 0.732 z" />
+    <path
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path4300"
+       d="m -4.7816789,23.049019 c 2.7787051,1.729663 4.3379092,4.233671 6.4469615,9.008213 4.1595095,-6.4815 8.6329714,-12.711594 14.9065374,-17.500208 0,0 2.249317,1.271622 5.483033,7.086594 C 21.969261,14.099819 22.009968,8.02919 22.307748,4.9570326 15.78175,2.7420181 12.087868,4.3808799 7.6258615,3.9243282 8.8474576,5.0362824 10.522991,6.4701862 11.342732,8.446887 4.620583,12.147715 -0.4918005,17.242305 -4.7816789,23.049019 Z"
+       style="fill:url(#linearGradient4306);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient4308);stroke-width:1.10343;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
