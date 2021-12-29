@@ -6,7 +6,7 @@ remote_theme: pmarsceill/stately@master
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://austinhuang.me
+url:                   https://joinmatrix.org
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -14,7 +14,7 @@ url:                   https://austinhuang.me
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
-baseurl:               '/joinmatrix'
+baseurl:               ''
 
 title: Join Matrix!
 
