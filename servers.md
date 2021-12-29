@@ -2,6 +2,8 @@
 title: Public Homeservers
 layout: page
 nav: true
+permalink: servers/
+description: Support the decentralization of Matrix by getting your account on an alternative homeserver!
 ---
 
 ## List of public Matrix homeservers
@@ -72,8 +74,9 @@ From left to right:
   * "...-oriented": The homeserver is intended to serve the mentioned purpose.
   * "...-inclined": While the homeserver is not specifically intended to serve any purpose, it is nevertheless used for the mentioned purpose.
 * **Registration method**: Exact registration procedure. Those are tested (but not necessarily thoroughly) on [the official Element web client](https://app.element.io) and, in most cases, should work for other clients as well.
-  * A domain: After clicking "Create Account" and "Edit," enter the domain as specified in this column (without `https://`) to [create an account](../guide/#register-an-account) on this homeserver. This discrepancy is usually due to the misconfiguration of `.well-known`.
   * "In-house Element": You may [register](../guide/#register-an-account) using the Element client hosted on the homeserver, which is linked. This is usually due to reCaptcha domain restriction.
+  * "See info page": Refer to the page linked in the "server name" column.
+  * A domain: After clicking "Create Account" and "Edit," enter the domain as specified in this column (without `https://`) to [create an account](../guide/#register-an-account) on this homeserver. This discrepancy is usually due to the misconfiguration of `.well-known`.
   * "SSO": The homeserver requires [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) for authentication. You must create an account through the link prior to creating an account on the Matrix homeserver itself. Usually, the account can be used to access other services offered by the homeserver operator.
 * **Version**: The software version of the homeserver, [updated daily by a GitHub Action](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/.github/workflows/matrix_ver.yml#L5).
   * Unless indicated otherwise, the homeserver is running Synapse, where version `>=1.47.1` is [recommended](https://matrix.org/blog/2021/11/23/synapse-1-47-1-released) to address a security issue.
@@ -81,8 +84,8 @@ From left to right:
 
 ## Other Matrix homeserver lists
 
-* [asra.gr's list](https://wiki.asra.gr/en:public_servers)
-* [CHATONS's list](https://www.chatons.org/search/by-service?service_type_target_id=All&field_alternatives_aux_services_target_id=All&field_software_target_id=274&field_is_shared_value=All&title=) (Most of them require payment)
+* [asra.gr's list](https://wiki.asra.gr/en:public_servers): A raw dataset of homeservers that allows (but are not necessarily intended for) public registration.
+* [German homeservers list](https://fediverse.blog/~/FossMessenger/matrix-server): A list of homeservers hosted in Germany.
 
 ---
 

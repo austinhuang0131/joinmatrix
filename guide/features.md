@@ -4,6 +4,7 @@ layout: page-two-col
 nav: false
 parent: guide
 permalink: guide/features/
+description: A guide that details various features of Matrix, the federated chat platform that actually respects you.
 ---
 
 ## More Features of Matrix

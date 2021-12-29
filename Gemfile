@@ -16,6 +16,7 @@ group :jekyll_plugins do
   gem "github-pages"
   gem "jekyll-include-cache"
   gem "jekyll-compose"
+  gem 'jekyll-seo-tag'
 end
 
 gem "kramdown-parser-gfm"

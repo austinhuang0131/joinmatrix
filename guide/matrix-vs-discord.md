@@ -4,6 +4,7 @@ layout: page-two-col
 nav: false
 parent: guide
 permalink: guide/matrix-vs-discord/
+description: It's time to ditch Discord. Imagine a place where users are actually respected. Join Matrix, the federated chat platform that does exactly that.
 ---
 
 ## Matrix vs. Discord

@@ -4,6 +4,7 @@ layout: page-two-col
 nav: false
 parent: guide
 permalink: guide/matrix-vs-al/
+description: It's time to ditch whatever messaging platform you're using. Join Matrix, the federated chat platform that actually respects you.
 ---
 
 ## How does Matrix compare to other platforms?

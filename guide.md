@@ -4,6 +4,7 @@ layout: page-two-col
 nav: true
 parent: guide
 permalink: guide/
+description: A beginner-friendly guide for Matrix, the federated chat platform that actually respects you.
 ---
 
 ## The "Join Matrix!" Guide: Basics

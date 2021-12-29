@@ -35,6 +35,14 @@ exclude:
   - vendor
   - README.md
 
+# https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+tagline: Chat Freely. Join Matrix.
+google_site_verification: 23WPTykMMe_jOZBOuCWqAcIhpw9LuHecXo8nKqDYYXk
+logo: /assets/favicons/android-chrome-512x512.png
+
+plugins:
+  - jekyll-seo-tag
+
 # Stately settings
 nav_logo_file: assets/images/logo.svg # path to the logo file for the main nav (supports svg, png, jpg, gif). Delete this line for no logo.
 # footer_logo_file: assets/images/stately-logo.png # path to the logo file for the footer nav (supports svg, png, jpg, gif). Delete this line for no logo.
