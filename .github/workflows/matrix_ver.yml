@@ -1,0 +1,19 @@
+name: Scheduled Version Check
+
+on:
+  schedule: [{cron: "0 12 * * *"}]
+  workflow_dispatch:
+
+jobs:
+  health_check_job:
+    runs-on: ubuntu-latest
+    name: Check all sites
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run Shell Script
+        id: shell_script_run
+        run: bash ./test.sh
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update Matrix homeserver versions
+          commit_author: GitHub Actions <actions@github.com>

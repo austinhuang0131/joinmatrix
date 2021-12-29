@@ -21,12 +21,16 @@ The following guides contain configurations that are specific to a homeserver, b
 
 This guide is written by [Austin Huang](https://austinhuang.me) with the help of many people, whose feedback is greatly appreciated.
 
+The `joinmatrix.org` domain is owned by [Jonah Aragon](https://www.jonaharagon.com/) on behalf of [Privacy Guides](https://www.privacyguides.org/), whose contribution is also greatly appreciated.
+
 All contents of this guide are licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). Please link back to this website.
 
 The logo is a derivative work of:
 
 * [Matrix icon](https://commons.wikimedia.org/wiki/File:Matrix_icon.svg).
 * [Green Stylish Arrow](https://commons.wikimedia.org/wiki/File:Green_Stylish_Arrow.svg). Copyright 2015 Vitor Mazuco. CC BY-SA 4.0.
+
+This site is hosted on GitHub pages and thus [GitHub Privacy Statement](https://docs.github.com/en/github/site-policy/github-privacy-statement) applies.
 
 ## Questions about Matrix
 
