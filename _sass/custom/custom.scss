@@ -23,7 +23,7 @@
   }
 }
 
-img {
+img:not(.home-side-image) {
   max-width: 100%;
 }
 
