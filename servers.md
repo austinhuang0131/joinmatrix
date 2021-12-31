@@ -6,32 +6,6 @@ permalink: servers/
 description: Support the decentralization of Matrix by getting your account on an alternative homeserver!
 ---
 
-<script type="text/javascript">
-Array.from(document.getElementsByTagName("tr")).slice(1).forEach(r => {
-  let c = r.children;
-  let i = 2;
-  while(i < 4) {
-    switch (c[i].textContent) {
-      case "No":
-        c[i].classList.add("red");
-        break;
-      case "Yes":
-      case "CoC and ToS":
-        c[i].classList.add("green");
-        break;
-      default:
-        c[i].classList.add("orange");
-    }
-    i++;
-  }
-  if (c[7].textContent == "Error!!")
-    c[7].classList.add("red");
-  else if (c[7].textContent.indexOf("Dendrite") == -1) {
-    c[7].classList.add(parseFloat(c[7].textContent.substring(2)) >= 47.1 ? "green" : "orange");
-  }
-})
-</script>
-
 ## List of public Matrix homeservers
 
 This is a list of public Matrix homeservers as compiled by the author of this guide. Support for this list is provided at [`#public_servers:tchncs.de`](https://matrix.to/#/#public_servers:tchncs.de). Remember:

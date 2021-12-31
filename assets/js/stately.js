@@ -55,3 +55,29 @@ if (
 } else {
   document.addEventListener("DOMContentLoaded", ready);
 }
+
+if (document.URL === "https://joinmatrix.org/servers/") {
+  Array.from(document.getElementsByTagName("tr")).slice(1).forEach(r => {
+    let c = r.children;
+    let i = 2;
+    while(i < 4) {
+      switch (c[i].textContent) {
+        case "No":
+          c[i].classList.add("red");
+          break;
+        case "Yes":
+        case "CoC and ToS":
+          c[i].classList.add("green");
+          break;
+        default:
+          c[i].classList.add("orange");
+      }
+      i++;
+    }
+    if (c[7].textContent == "Error!!")
+      c[7].classList.add("red");
+    else if (c[7].textContent.indexOf("Dendrite") == -1) {
+      c[7].classList.add(parseFloat(c[7].textContent.substring(2)) >= 47.1 ? "green" : "orange");
+    }
+  })
+}
