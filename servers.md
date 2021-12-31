@@ -6,6 +6,32 @@ permalink: servers/
 description: Support the decentralization of Matrix by getting your account on an alternative homeserver!
 ---
 
+<script>
+Array.from(document.getElementsByTagName("tr")).slice(1).forEach(r => {
+  let c = r.children;
+  let i = 2;
+  while(i < 4) {
+    switch (c[i].textContent) {
+      case "No":
+        c[i].classList.add("red");
+        break;
+      case "Yes":
+      case "CoC and ToS":
+        c[i].classList.add("green");
+        break;
+      default:
+        c[i].classList.add("orange");
+    }
+    i++;
+  }
+  if (c[7].textContent == "Error!!")
+    c[7].classList.add("red");
+  else if (c[7].textContent.indexOf("Dendrite") == -1) {
+    c[7].classList.add(parseFloat(c[7].textContent.substring(2)) >= 47.1 ? "green" : "orange");
+  }
+})
+</script>
+
 ## List of public Matrix homeservers
 
 This is a list of public Matrix homeservers as compiled by the author of this guide. Support for this list is provided at [`#public_servers:tchncs.de`](https://matrix.to/#/#public_servers:tchncs.de). Remember:
@@ -62,8 +88,8 @@ From left to right:
 
 * **Homeserver name**: This is the part that follows your username. For example, my ID is `@austin:tchncs.de`, where `austin` is my username and `tchncs.de` is the display name of the homeserver. See [here](https://spec.matrix.org/v1.1/server-server-api/#resolving-server-names) for a technical explanation.
 * **Jurisdiction (and Server location)**: The jurisdiction the homeserver is located within. The server location, if differs from the jurisdiction of the homeserver, is shown in the brackets. Note that generally, homeservers located in Germany are more actively moderated due to [legal and social contexts](https://en.wikipedia.org/wiki/Censorship_in_Germany#Re-unified_Germany_(1990%E2%80%93present)).
-* **Rules?**: The existence of written rules/ToS for all users on the homeserver. Note that rules can only be considered if they apply to all activities (not just those in specific rooms) of a user, and if they are published in a webpage (including but not limited to `/_matrix/consent`). An "unclear" or "sort of" means that the rules' scope or wording is unclear.
-* **Privacy Policy?**: The existence of written privacy policy for all users on the homeserver. Generally, most parts of the ["Understand how your data is used" notice](https://matrix-client.matrix.org/_matrix/consent?v=1.0) apply network-wide. Note that a privacy policy can only be considered if it is explicitly applied to the Matrix homeserver, is published in a webpage (including but not limited to `/_matrix/consent`), and is not a copy of the aforementioned notice. An "unclear" or "sort of" means the privacy policy's scope or wording is unclear.
+* **Rules?**: The existence of written rules/ToS for all users on the homeserver. Note that rules can only be considered if they apply to all activities (not just those in specific rooms) of a user, and if they are published in a webpage (including but not limited to `/_matrix/consent`). An "unclear" or "sort of" (colored yellow) means that the rules' scope or wording is unclear.
+* **Privacy Policy?**: The existence of written privacy policy for all users on the homeserver. Generally, most parts of the ["Understand how your data is used" notice](https://matrix-client.matrix.org/_matrix/consent?v=1.0) apply network-wide. Note that a privacy policy can only be considered if it is explicitly applied to the Matrix homeserver, is published in a webpage (including but not limited to `/_matrix/consent`), and is not a copy of the aforementioned notice. An "unclear" or "sort of" (colored yellow) means the privacy policy's scope or wording is unclear.
 * **Privacy concerns?**: Any remarks regarding the configuration of the homeserver that *may be* of concern for user privacy.
   * "reCaptcha": Registering on the homeserver requires filling out a Google reCaptcha. This does not apply to logins. Due to reCaptcha configurations, it may be necessary to register on the homeserver's own Element client.
   * "Email": Registering on the homeserver requires an email address.
@@ -79,8 +105,9 @@ From left to right:
   * A domain: After clicking "Create Account" and "Edit," enter the domain as specified in this column (without `https://`) to [create an account](../guide/#register-an-account) on this homeserver. This discrepancy is usually due to the misconfiguration of `.well-known`.
   * "SSO": The homeserver requires [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) for authentication. You must create an account through the link prior to creating an account on the Matrix homeserver itself. Usually, the account can be used to access other services offered by the homeserver operator.
 * **Version**: The software version of the homeserver, [updated daily by a GitHub Action](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/.github/workflows/matrix_ver.yml#L5).
-  * Unless indicated otherwise, the homeserver is running Synapse, where version `>=1.47.1` is [recommended](https://matrix.org/blog/2021/11/23/synapse-1-47-1-released) to address a security issue.
-  * "Error!!": The homeserver cannot be reached at the time of checking. This is usually occasional, as frequent downtime are grounds for exclusion from this list.
+  * Unless indicated otherwise, the homeserver is running Synapse, where version `>=1.47.1` (coloured green) is [recommended](https://matrix.org/blog/2021/11/23/synapse-1-47-1-released) to address a security issue. Homeservers running older versions are coloured yellow.
+  * Homeservers that use experimental implementations (ie. ones other than Synapse) are not coloured.
+  * "Error!!" (coloured red): The homeserver cannot be reached at the time of checking. This is usually occasional, as frequent downtime are grounds for exclusion from this list.
 
 ## Other Matrix homeserver lists
 
