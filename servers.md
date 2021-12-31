@@ -6,7 +6,7 @@ permalink: servers/
 description: Support the decentralization of Matrix by getting your account on an alternative homeserver!
 ---
 
-<script>
+<script type="text/javascript">
 Array.from(document.getElementsByTagName("tr")).slice(1).forEach(r => {
   let c = r.children;
   let i = 2;
