@@ -47,8 +47,6 @@ This is a list of public Matrix homeservers as compiled by the author of this gu
 * Inclusion does **NOT** imply any opinion (affiliation, endorsement, etc.) on individual homeservers, nor any guarantee regarding their availability.
 * This list is provided "as is." Any dispute regarding your account on one of the homeservers should be resolved between you and the operator(s) of the homeserver.
 
-## List
-
 See [Legends](#legends) for column explanations.
 
 {% capture my_include %}{% include matrix_prod.md %}{% endcapture %}
@@ -74,7 +72,7 @@ The absolute criteria are:
 
 * The homeserver is intended for public registration.
   * Generally, inclusion is based on either my interpretation of information about the homeserver, or explicit consent from the homeserver operator(s).
-  * Homeservers that grant accounts on approval must have such process accessible to the general public and are only considered on a case-by-case basis.
+  * Homeservers that grant accounts on approval must have such process accessible to the general public.
 * The homeserver name must be a second-level domain (so `example.com` is acceptable, but `matrix.example.com` is not).
 * The homeserver does not operate through a free TLD, specifically those offered by Freenom (due to risks of takeover by fraudulent entities).
 * The homeserver is neither `matrix.org` nor operated by Element Matrix Services (previously known as Modular).
@@ -116,8 +114,4 @@ From left to right:
 * [asra.gr's list](https://wiki.asra.gr/en:public_servers): A raw dataset of homeservers that allows (but are not necessarily intended for) public registration.
 * [German homeservers list](https://fediverse.blog/~/FossMessenger/matrix-server): A list of homeservers hosted in Germany.
 
----
-
 This list was originally located at [AustinHuang.me](https://austinhuang.me/matrix-homeservers.html).
-
-This list is featured in [This Week in Matrix](https://matrix.org/blog/2021/11/19/this-week-in-matrix-2021-11-19/) on November 19, 2021.
