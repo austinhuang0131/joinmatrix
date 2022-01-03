@@ -2,6 +2,9 @@ name: Scheduled Version Check
 
 on:
   schedule: [{cron: "0 12 * * *"}]
+  push:
+    paths:
+      - '_includes/matrix_base.md'
   workflow_dispatch:
 
 jobs:
