@@ -83,7 +83,7 @@ The attachment can be accessed on the internet by replacing the `mxc://` prefix 
 Currently, support for stickers across Matrix is somewhat inconsistent. Note that stickers sent from either app are visible to both apps.
 
 * For Element and SchildiChat, stickers are offered by integration managers. If you have used [the config](../#pc-and-mobile) provided by this guide, the [Dimension integration manager](https://dimension.t2bot.io) allows you to create your own sticker packs.
-* For FluffyChat, stickers are offered by rooms, some of them are collected in the [`stickers-and-emojis:pixie.town`](https://matrix.to/#/#stickers-and-emojis:pixie.town) Space. To get stickers or custom emotes in a room, press the room name, expand settings, and open emoji settings. Then, open the desired sticker or emote pack and enable them as you wish.
+* For FluffyChat, stickers are offered by rooms, some of them are collected in the [`#stickers-and-emojis:pixie.town`](https://matrix.to/#/#stickers-and-emojis:pixie.town) Space. To get stickers or custom emotes in a room, press the room name, expand settings, and open emoji settings. Then, open the desired sticker or emote pack and enable them as you wish.
 
 See [here](https://1hiking.github.io/posts/2021/09/matrix-stickers/) if you want more details.
 
