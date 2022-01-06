@@ -5,6 +5,7 @@ on:
   push:
     paths:
       - '_includes/matrix_base.md'
+      - '!_includes/matrix_prod.md'
   workflow_dispatch:
 
 jobs:

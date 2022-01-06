@@ -8,7 +8,7 @@ description: Support the decentralization of Matrix by getting your account on a
 
 <script>
 document.addEventListener('DOMContentLoaded', (event) => {
-  Array.from(document.getElementsByTagName("tr")).slice(1).forEach(r => {
+  Array.from(document.getElementsByTagName("tr")).forEach(r => {
     let c = r.children;
     let i = 2;
     while(i < 4) {
@@ -25,10 +25,11 @@ document.addEventListener('DOMContentLoaded', (event) => {
       }
       i++;
     }
-    if (c[7].textContent == "Error!!")
-      c[7].classList.add("red");
-    else if (c[7].textContent.indexOf("Dendrite") == -1) {
-      c[7].classList.add(parseFloat(c[7].textContent.substring(2)) >= 47.1 ? "green" : "orange");
+    i = r.children.length - 1;
+    if (c[i].textContent == "Error!!")
+      c[i].classList.add("red");
+    else if (c[i].textContent.indexOf("Dendrite") == -1) {
+      c[i].classList.add(parseFloat(c[7].textContent.substring(2)) >= 47.1 ? "green" : "orange");
     }
   })
 })
