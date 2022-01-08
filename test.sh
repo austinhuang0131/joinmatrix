@@ -8,7 +8,7 @@ rm _includes/matrix_prod.md
 
 for Line in $Lines
 do
-    Line=$(echo "$Line" | sed -Ee "s/\\\\\[(\\^[0-9]+)\\\\\]/\[\1\]/g" -Ee "s/\\\\\`/\`/")
+    Line=$(echo "$Line" | sed -Ee "s/\\\\\[(\\^[0-9]+)\\\\\]/\[\1\]/g" -Ee "s/\\\\\`/\`/g")
     if [[ $Line =~ \[([0-9a-z-]+\.[0-9a-z]+)\] ]]; then
         raw="${BASH_REMATCH[1]}"
         base=$(curl -Ls -m 10 "https://$raw/.well-known/matrix/server" | jq '."m.server"' | sed s/\"//g)
