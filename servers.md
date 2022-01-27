@@ -35,6 +35,8 @@ document.addEventListener('DOMContentLoaded', (event) => {
 })
 </script>
 
+**Due to an ongoing spam wave, some homeservers may not be available for registration. Additionally, the requirement regarding matrix.org blacklists will be suspended for currently listed homeservers until Friday, February 11, 2022.**
+
 ## List of public Matrix homeservers
 
 This is a list of public Matrix homeservers as compiled by the author of this guide. Support for this list is provided at [`#public_servers:tchncs.de`](https://matrix.to/#/#public_servers:tchncs.de). Remember:
