@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 })
 </script>
 
-**Due to an ongoing spam wave, some homeservers may not be available for registration. Additionally, the requirement regarding matrix.org blacklists will be suspended for currently listed homeservers until Friday, February 11, 2022.**
+**The requirement regarding matrix.org blacklists will be suspended for currently listed homeservers until Friday, February 11, 2022.**
 
 ## List of public Matrix homeservers
 
@@ -61,13 +61,10 @@ Ideally you would host your own homeserver, but not everyone has the means... An
 
 1. It is overloaded at times, and
 2. If everyone continues to register on the same homeserver, then it will become more centralized, thus shifting away from the original goal of Matrix.
-
-This list exists because...
-
-1. It is necessary to let people discover other homeservers available to them,
-2. It is necessary to let other homeservers be discovered by those interested,
-3. Other existing lists suffer from low quality or abandonment, and
-4. Practical aspects (such as rules) are often overlooked.
+  
+## Note for Homeserver Owners
+  
+Admins of listed homeservers are recommended to implement [MSC1929](https://github.com/matrix-org/matrix-doc/blob/hs/proposal-admin-contact-1/proposals/1929-admin-contact.md) and/or join [`#alladmins:grin.hu`](https://matrix.to/#/#alladmins:grin.hu).
 
 ## Criteria
 
