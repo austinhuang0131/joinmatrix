@@ -1,8 +1,3 @@
-
-### Open registration
-
-Alphabetically-ordered by the homeserver name.
-
 | **Homeserver name**                                                                                  | **Jurisdiction (and Server location)** | **Rules**                                                                            | **Privacy Policy**                                            | **Privacy concerns**            | **Note**                                            | **Registration method**                                    | **Version** |
 | ---------------------------------------------------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------- | ------------------------------- | --------------------------------------------------- | ---------------------------------------------------------- | ----------- |
 | [0wnz.at](https://0wnz.at)                                                                           | Austria                                | No                                                                                   | No                                                            | reCaptcha; Email                |                                                     | [In-house Element](https://im.0wnz.at/element-web/)        | 1.49.2 |
@@ -132,9 +127,3 @@ Servers with technical restrictions first, then servers that require manual appr
 | [libreon.fr](https://libreon.fr)                    | France                                 | [Yes](https://libreon.fr/cgu)                               | [Yes](https://libreon.fr/cgu)                                  | In French                                             | [Contact](https://libreon.fr/account)                          | 1.49.2 |
 | [hadoly.fr](https://hadoly.fr)                      | France                                 | [Yes](https://hadoly.fr/cgu.html)                           | No                                                             | In French                                             | [Membership](https://hadoly.fr/#adh%C3%A9rer) (7~25€)          | 1.51.0 |
 | [sans-nuage.fr](https://sans-nuage.fr)              | France                                 | No                                                          | No                                                             | In French                                             | Membership (15€)                                               | 1.42.0 |
-
-[^1]: Email address is said to be optional for registration, but is actually required.
-
-[^2]: No reCaptcha needed if using SSO, but email address is used as MXID username (eg. `@bob=40example.com:filik.eu`).
-
-[^3]: The rules for their Mastodon instance (which are believed to apply to the Matrix homeserver as well) states that a user "must be \[...\] a S.T.E.M. student or professional to join," however the operator's stance is that the rule is only enforced on users who "appear to be anti-STEM" such as promoting anti-science conspiracy theories.

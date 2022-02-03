@@ -52,8 +52,18 @@ This is a list of public Matrix homeservers as compiled by the author of this gu
 
 See [Legends](#legends) for column explanations.
 
+### Open registration
+
+Alphabetically-ordered by the homeserver name.
+
 {% capture my_include %}{% include matrix_prod.md %}{% endcapture %}
 {{ my_include | markdownify }}
+
+[^1]: Email address is said to be optional for registration, but is actually required.
+
+[^2]: No reCaptcha needed if using SSO, but email address is used as MXID username (eg. `@bob=40example.com:filik.eu`).
+
+[^3]: The rules for their Mastodon instance (which are believed to apply to the Matrix homeserver as well) states that a user "must be \[...\] a S.T.E.M. student or professional to join," however the operator's stance is that the rule is only enforced on users who "appear to be anti-STEM" such as promoting anti-science conspiracy theories.
 
 ## Why?
 
