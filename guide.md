@@ -182,4 +182,4 @@ On Element and SchildiChat, Spaces show up on the left of your room list. Select
 
 [^9]: Which is not a reasonable gauge of activity. First, accounts can be inactive. Second, if a room uses [bridges](./features/#all-about-bridges), then these accounts are counted as well, even if their activity is mostly not from Matrix (you can still interact with them, however).
 
-[^10]: Which, to be exact, is a special type of rooms. But that's too technical, so this guide will treat Space as its own thing, although similar to rooms.
+[^10]: Which, to be exact, is a special type of rooms. Other than that you can list rooms (and Spaces) instead of sending messages, there are no differences between a Space and a room.
