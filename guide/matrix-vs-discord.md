@@ -80,7 +80,7 @@ Note that Matrix does not (and cannot, due to its decentralized nature) paywall 
 | Avatar | Static, maximum 8 MB. Cannot be zoomed unless using a bot, in which case the returned avatar has a maximum definition of 1024x1024. | **See "Attachments" for limits.** Can be zoomed (at least in Element/SchildiChat), in which case the avatar will be shown in the uploaded definition. Animated avatars are **supported**. |
 | Profile description and background | **Supported**. | Not supported. |
 | Profile status | **Supported**. | Effectively not supported[^1]. |
-| Nicknames[^2] | Supported. Maximum 32 characters. | **Supported** (`/myroomnick`). No limit. |
+| Nicknames[^2] | Supported. Maximum 32 characters. | **Supported** (`/myroomnick`). Up to ~65200 bytes. |
 | Specific avatars[^2] | Requires Nitro. | [**Supported**](../features/#attachments) (`/myroomavatar`). See "Attachments" for limits. |
 | 2FA | Email or SMS/TOTP. | Not required for login, but required (QR code, emoji verification, or Security Key) for viewing past encrypted messages. |
 | **Text messages** | Maximum 2000 characters. Supports Markdown (with some modifications). | **Up to ~65200 bytes (up to ~40770 bytes if a formatted message with plain text fallback sent).[^7] [Supports Markdown and HTML.](../features/#text)** |
