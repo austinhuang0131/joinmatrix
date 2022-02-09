@@ -28,7 +28,7 @@ Despite recent studies, Telegram's use of its own MTProto protocol remains a deb
 
 | Feature | Telegram | Matrix |
 | ------- | -------- | ------ |
-| **Registration** | Requires phone number. | **Phone number is usually optional.** Depending on homeserver, **email may not be required**. There is usually no human check after registration. |
+| **Registration** | Requires phone number. | **Phone number is usually optional.** Depending on homeserver, **email is commonly required**. There is usually no human check after registration. |
 | **Username** | Users are identified by phone number or username (if set up, 5~32 alphanumeric characters) to fellow users, and user IDs (around 9~10 digits) for programming purposes. A display name can be added (no limit). | Users are identified by their MXID (eg. `@alice:example.com`), composed of the username (must be ASCII characters, up to 255 characters) and the server name. A display name can be optionally added (up to ~65200 bytes)[^2]. |
 | Avatar | Static or animated; limit unknown. Can be zoomed; the returned avatar has a maximum definition of 640x640. | **See "Attachments" for limits.** Can be zoomed (at least in Element/SchildiChat), in which case the avatar will be shown in the uploaded definition. Animated avatars are supported and will be rendered (at least in Element/SchildiChat). |
 | Profile description | **Supported**. | Not supported. |
