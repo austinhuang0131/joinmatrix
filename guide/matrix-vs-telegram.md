@@ -28,18 +28,18 @@ Despite recent studies, Telegram's use of its own MTProto protocol remains a deb
 
 | Feature | Telegram | Matrix |
 | ------- | -------- | ------ |
-| **Registration** | Requires phone number. | **Phone number is always optional.** Depending on homeserver, **email may not be required**. |
-| **Username** | Users are identified by phone number or username (if set up, 5~32 alphanumeric characters) to fellow users, and user IDs (around 9~10 digits) for programming purposes. A display name can be added (no limit). | Users are identified by their MXID (eg. `@alice:example.com`), composed of the username (must be ASCII characters, but no length limit) and the server name. A display name can be optionally added (no limit). |
+| **Registration** | Requires phone number. | **Phone number is usually optional.** Depending on homeserver, **email may not be required**. There is usually no human check after registration. |
+| **Username** | Users are identified by phone number or username (if set up, 5~32 alphanumeric characters) to fellow users, and user IDs (around 9~10 digits) for programming purposes. A display name can be added (no limit). | Users are identified by their MXID (eg. `@alice:example.com`), composed of the username (must be ASCII characters, up to 255 characters) and the server name. A display name can be optionally added (up to ~65200 bytes)[^2]. |
 | Avatar | Static or animated; limit unknown. Can be zoomed; the returned avatar has a maximum definition of 640x640. | **See "Attachments" for limits.** Can be zoomed (at least in Element/SchildiChat), in which case the avatar will be shown in the uploaded definition. Animated avatars are supported and will be rendered (at least in Element/SchildiChat). |
 | Profile description | **Supported**. | Not supported. |
-| Room-specific nicknames | Not supported, though group admins can talk on behalf of the whole group. | **Supported** (`/myroomnick`). |
+| Room-specific nicknames | Not supported, though group admins can talk on behalf of the whole group. | **Supported** (`/myroomnick`). Up to ~65200 bytes. [^2] |
 | Room-specific avatars | Not supported. | [**Supported**](../features/#attachments) (`/myroomavatar`). See "Attachments" for limits. |
 | 2FA | One-time token sent to another session. | Not required for login, but required (QR code, emoji verification, or Security Key) for viewing past encrypted messages. |
-| **Text messages** | Maximum 4096 characters. Supports Markdown. | **No maximum. [Supports Markdown and HTML.](../features/#text)** |
+| **Text messages** | Maximum 4096 characters. Supports Markdown. | **Up to ~65200 bytes (up to ~40770 bytes if a formatted message with plain text fallback sent).[^2] [Supports Markdown and HTML.](../features/#text)** |
 | Attachments | **Maximum 2 GB.** | Maximum 50~100 MB (for most homeservers; customizable if you run your own homeserver). |
 | Reactions | Very limited. Must be enabled by group admins in groups. | All unicode emotes and [text](../features/#reactions). |
 | Stickers | Up to 200 packs of 120 static or 50 animated each. | **Unlimited (static or animated) with setup.** See [here](../features/#stickers). |
-| Read receipts | Supported ambiguously. | **Supported.** |
+| Public read receipts | Supported ambiguously. | **Supported.** |
 | **Direct messages** | Not encrypted unless explicitly opted into secret chat, which cannot be carried across devices. VoIP is encrypted. | **Encrypted by default**, including VoIP. |
 | **Group chats** | You can join up to 500 groups and channels. | You can join an **unlimited** amount of rooms. |
 | VoIP in groups | Supported. | Not supported until early 2022. |
@@ -48,7 +48,7 @@ Despite recent studies, Telegram's use of its own MTProto protocol remains a deb
 | Publicity | Any group or channel set to public can be listed in search results, but how they are shown is arbitrary, as global search is not always visible to users. | Each homeserver has a room directory which anyone may publish to. |
 | Invite | Through directly inviting users, or through generating invite links. | Through directly inviting users, or through shareable [addresses](../features/#promotion). |
 | Permissions | Permissions of each administrator are set manually. All admins are equal (except owner). | 2^54 power levels (I think it's -2^53 to 2^53-1, however I highly doubt you will *ever* reach that limit). A user acquires a permission if their power level is equal to or higher than the power level required for the specific permission. |
-| Ads | Popular channels now carry ads that you cannot opt out. | **It is not possible for Matrix to implement ads.** |
+| Ads | Popular channels now carry ads that you cannot opt out. | **Most Matrix home servers do not allow ads in the chats hosted in them. No known Matrix home server inserts ads into room state.** |
 
 ## Helpful Tips
 
@@ -57,3 +57,6 @@ There is a [bridge](https://t2bot.io/telegram) that allows you to connect a Tele
 ## Footnotes
 
 [^1]: Enabling encryption is irreversible. Note that it is pointless to enable encryption in a public room. Furthermore, enabling encryption means users will not see messages before their invitation (if applicable) or their entry.
+
+[^2]: Limited by Matrix event size limits. The current event size limit is specified to be 65536 bytes. Formatted message size limit assuming the formatted body takes approximately twice as much as plain text body.
+
