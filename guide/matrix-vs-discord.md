@@ -113,7 +113,7 @@ Note that Matrix does not (and cannot, due to its decentralized nature) paywall 
 
 [^2]: For Discord "servers" and for Matrix rooms.
 
-[^3]: Note that Matrix has no concept of "friends" or "contacts," although the DM list can serve the same purpose.
+[^3]: Note that Matrix has no concept of "friends" or "contacts", although the DM list can serve the same purpose. However, user-based contact ignoring exists on Matrix, using two different methods. The former method prevents any and all messages from reaching the recipient, and the latter method hides them client-side by interpreting an ignore list.
 
 [^4]: Enabling encryption is irreversible for security reasons. Note that it is pointless to enable encryption in a public room. Furthermore, enabling encryption means users will not see messages before their invitation (if applicable) or their entry.
 
