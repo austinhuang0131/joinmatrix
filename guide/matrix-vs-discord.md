@@ -98,7 +98,7 @@ Note that Matrix does not (and cannot, due to its decentralized nature) paywall 
 | Server-side deletion guarantees | Messages that are removed from Discord are garbage collected from discord.com databases within less than 2 days. | As Matrix follows an event chain model, there is no true deletion. The closest thing available is redaction, which instructs the users and servers to blank the content but not the metadata of the event. Redactions are best-effort. |
 | Publicity | Although Discord offers its own server discovery feature, the requirements are somewhat arbitrary, so third-party services are often used. | Each homeserver has a room directory which anyone may publish to. |
 | Invite | Through generating invite links. | Through directly inviting users, or through shareable [addresses](../features/#promotion). |
-| Permissions | 255 roles. How long did it take for you to learn role hierarchy? | 2^54 power levels (I think it's -2^53 to 2^53-1, however I highly doubt you will *ever* reach that limit), with minimal permissions. A user acquires a permission if their power level is equal to or higher than the power level required for the specific permission. |
+| Permissions | 255 roles. How long did it take for you to learn role hierarchy?[^8] | 2^54 power levels (I think it's -2^53 to 2^53-1, however I highly doubt you will *ever* reach that limit), with minimal permissions. A user acquires a permission if their power level is equal to or higher than the power level required for the specific permission. |
 | **Running a bot** | Running a bot in more than 100 "servers" requires proof of identity. Selfbotting is forbidden. | You can run bots on any user accounts[^5] [^6]. Selfbotting is permitted (but be nice). |
 | **Apps to access platform** | You are only allowed to use the official Discord app (including its PTB and Canary variants). Client modifications are forbidden but effectively tolerated. Third-party clients are forbidden but some are also tolerated. | Element is the main app, but [**you're welcomed to use whatever you wish**](../#what-app-should-i-use). You can even make an app yourself[^6]! |
 
@@ -122,3 +122,5 @@ Note that Matrix does not (and cannot, due to its decentralized nature) paywall 
 [^6]: If your app/bot is good, then [matrix.org would love to hear from you (with the potential possibility of featuring you on their blog)!](https://matrix.to/#/#thisweekinmatrix:matrix.org)
 
 [^7]: Limited by Matrix event size limits. The current event size limit is specified to be 65536 bytes. Formatted message size limit assuming the formatted body takes approximately twice as much as plain text body.
+
+[^8]: May be more accurately described as ban hierarchy, as the order of roles only affect role changes, nick overrides, kicks and bans. Discord's permission system is otherwise "explicit allow wins".
