@@ -48,7 +48,7 @@ Despite recent studies, Telegram's use of its own MTProto protocol remains a deb
 | Publicity | Any group or channel set to public can be listed in search results, but how they are shown is arbitrary, as global search is not always visible to users. | Each homeserver has a room directory which anyone in that homeserver may publish to. |
 | Invite | Through directly inviting users, or through generating invite links. | Through directly inviting users, or through shareable [addresses](../features/#promotion). |
 | Permissions | Permissions of each administrator are set manually. All admins are equal (except owner). | 2^54 power levels (I think it's -2^53 to 2^53-1, however I highly doubt you will *ever* reach that limit). A user acquires a permission if their power level is equal to or higher than the power level required for the specific permission. |
-| Ads | Popular channels now carry ads that you cannot opt out. | **Most Matrix home servers do not allow ads in the chats hosted in them. No known Matrix home server inserts ads into room state.** |
+| Ads | Popular channels now carry ads that you cannot opt out. | It is technically possible for a homeserver to insert ads, but **there are no known occurrences**. |
 
 ## Helpful Tips
 
