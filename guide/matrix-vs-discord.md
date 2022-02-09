@@ -74,32 +74,33 @@ Note that Matrix does not (and cannot, due to its decentralized nature) paywall 
 
 | Feature | Discord | Matrix |
 | ------- | ------- | ------ |
-| **Registration** | Requires email. Discord may demand your phone number if it detects "suspicious activity." | Depending on homeserver, **email may not be required**. Phone number is always optional. There is no human check after registration. |
+| **Registration** | Requires email. Discord may demand your phone number if it detects "suspicious activity." | Depending on homeserver, **email may not be required**. Phone number is always optional. There is usually no human check after registration. |
 | Price | Free, with certain features paywalled. | Free for [most homeservers](../../servers) (but please consider donating to them). Hosting a private homeserver may also incur cost (could be [free](https://matrix.org/docs/guides/free-small-matrix-server)). Note that paying (not donation) only affects where your data is hosted and (to a much lesser degree) server performance; it has no effect on features. |
-| **Username** | Users are identified by display name (maximum 32 characters) + discriminator (4 randomly-assigned digits) to fellow users, and user IDs (Around 18 digits) for programming purposes. | Users are identified by their MXID (eg. `@alice:example.com`), composed of the username (must be ASCII characters, but no length limit) and the server name. A display name can be optionally added (no limit). |
+| **Username** | Users are identified by display name (maximum 32 characters) + discriminator (4 randomly-assigned digits) to fellow users, and user IDs (Around 18 digits) for programming purposes. | Users are identified by their MXID (eg. `@alice:example.com`), composed of the username (must be ASCII characters, up to 255 characters) and the server name. A display name can be optionally added (up to ~65200 characters)[^7]. |
 | Avatar | Static, maximum 8 MB. Cannot be zoomed unless using a bot, in which case the returned avatar has a maximum definition of 1024x1024. | **See "Attachments" for limits.** Can be zoomed (at least in Element/SchildiChat), in which case the avatar will be shown in the uploaded definition. Animated avatars are **supported**. |
 | Profile description and background | **Supported**. | Not supported. |
 | Profile status | **Supported**. | Effectively not supported[^1]. |
 | Nicknames[^2] | Supported. Maximum 32 characters. | **Supported** (`/myroomnick`). No limit. |
 | Specific avatars[^2] | Requires Nitro. | [**Supported**](../features/#attachments) (`/myroomavatar`). See "Attachments" for limits. |
 | 2FA | Email or SMS/TOTP. | Not required for login, but required (QR code, emoji verification, or Security Key) for viewing past encrypted messages. |
-| **Text messages** | Maximum 2000 characters. Supports Markdown (with some modifications). | **No maximum. [Supports Markdown and HTML.](../features/#text)** |
-| Attachments | Maximum 8 MB. | **Maximum 50~100 MB** (for most homeservers; customizable if you run your own homeserver). |
+| **Text messages** | Maximum 2000 characters. Supports Markdown (with some modifications). | **Up to ~65200 bytes.[^7] [Supports Markdown and HTML.](../features/#text)** |
+| Attachments | Maximum 8 MB (maximum 100 MB for users with Nitro, and also for all users in a "server" with boost tier 3). | **Maximum 50~100 MB** (for most homeservers; customizable if you run your own homeserver). |
 | Custom emotes in messages | Free users can only use static emotes defined within the "server." | It is possible to insert user-defined static emotes in messages, see [here](../features/#attachments). No support for animated emotes. |
 | Reactions | Only emotes (Unicode or custom ones) | Unicode emotes and [text](../features/#reactions). |
 | Stickers | Only stickers defined within the "server". | **Unlimited with setup.** See [here](../features/#stickers). |
-| Read receipts | Not supported. | **Supported.** |
+| Public read receipts | Not supported. | **Supported.** |
 | **Direct messages** | Not encrypted. | **Encrypted by default**, including VoIP. |
 | Starting a DM | Depending on privacy settings, initiating a DM requires the two users to have established "friendship" or have certain mutual "servers." Users are given the choice to accept, remove, or report a DM (since late 2021). | Initiating a DM solely requires the recipient to accept the request[^3]. Users can leave DMs anytime they wish. |
-| **Group chats** | A channel is associated with a "server." You can only join 100 "servers." | A room is standalone, but can be optionally included and associated with a Space. You can join **unlimited** amount of rooms. |
+| **Group chats** | A channel is associated with a "server." You can only join 100 "servers." | A room is standalone, but can be optionally included and associated with a Space, which is just a room linking to other rooms. You can join **unlimited** amount of rooms. |
 | VoIP in groups | Supported. | Not supported until early 2022. |
 | Organizing chats | "Servers" can be organized into folders, but each "server" can only belong to 1 folder. Channels can only be organized by the "server" owner. | Rooms can be included within an unlimited amount of Spaces. Spaces may also include other Spaces (similar to Discord's channel categories). |
-| Group chat privacy | Denying "View Channel History" permission prevents users from reading messages prior to their most recent login. | You may deny new members from reading messages prior to them being invited / joining. You may also allow or deny guest access (such as [Matrix Static](http://view.matrix.org/)) from reading messages. You may also enable encryption[^4]. |
+| Group chat privacy | Denying "View Channel History" permission prevents users from reading messages prior to their most recent login. However the "server" owners cannot enjoy that privacy, due to how Discord's permission system works. | You may deny new members from reading messages prior to them being invited / joining. You may also allow or deny guest access (such as [Matrix Static](http://view.matrix.org/)) from reading messages. You may also enable encryption[^4]. |
+| Server-side deletion guarantees | Messages that are removed from Discord is garbage collected from discord.com databases in less than 2 days. | As Matrix follows an event chain model, there is no true deletion. The closest thing available is redaction, which instructs the users and servers to blank the content but not the metadata of the event. Redactions are best-effort. |
 | Publicity | Although Discord offers its own server discovery feature, the requirements are somewhat arbitrary, so third-party services are often used. | Each homeserver has a room directory which anyone may publish to. |
 | Invite | Through generating invite links. | Through directly inviting users, or through shareable [addresses](../features/#promotion). |
 | Permissions | 255 roles. How long did it take for you to learn role hierarchy? | 2^54 power levels (I think it's -2^53 to 2^53-1, however I highly doubt you will *ever* reach that limit), with minimal permissions. A user acquires a permission if their power level is equal to or higher than the power level required for the specific permission. |
 | **Running a bot** | Running a bot in more than 100 "servers" requires proof of identity. Selfbotting is forbidden. | You can run bots on any user accounts[^5] [^6]. Selfbotting is permitted (but be nice). |
-| **Apps to access platform** | You are only allowed to use the official Discord app (including its PTB and Canary variants). Client modifications are forbidden but effectively tolerated. Third-party clients are forbidden. | Element is the main app, but [**you're welcomed to use whatever you wish**](../#what-app-should-i-use). You can even make an app yourself[^6]! |
+| **Apps to access platform** | You are only allowed to use the official Discord app (including its PTB and Canary variants). Client modifications are forbidden but effectively tolerated. Third-party clients are forbidden but some are also tolerated. | Element is the main app, but [**you're welcomed to use whatever you wish**](../#what-app-should-i-use). You can even make an app yourself[^6]! |
 
 ## Helpful Tips
 
@@ -114,8 +115,10 @@ Note that Matrix does not (and cannot, due to its decentralized nature) paywall 
 
 [^3]: Note that Matrix has no concept of "friends" or "contacts," although the DM list can serve the same purpose.
 
-[^4]: Enabling encryption is irreversible. Note that it is pointless to enable encryption in a public room. Furthermore, enabling encryption means users will not see messages before their invitation (if applicable) or their entry.
+[^4]: Enabling encryption is irreversible for security reasons. Note that it is pointless to enable encryption in a public room. Furthermore, enabling encryption means users will not see messages before their invitation (if applicable) or their entry.
 
-[^5]: Matrix has no distinction between user and bot accounts (nor is there any dependency between the two). Unless specifically exempted by the homeserver (not needed in most cases), bots have the same ratelimit as other users. In Element and SchildiChat, the user token of an account is available by accessing "User Settings" then "Help & About." When running an autonomous bot, please be courteous and indicate to others (in username or display name) that the account is a bot.
+[^5]: Matrix has no distinction between user and bot accounts (nor is there any dependency between the two). Unless specifically exempted by the homeserver (not needed in most cases), bots have the same ratelimit as other users. In Element and SchildiChat, the user token of an account is available by accessing "User Settings" then "Help & About." When running an autonomous bot, please be courteous and indicate to others (in username or display name) that the account is a bot. Bots that want to control other user accounts need to create an application service, which needs to be approved by an administrator of the homeserver that the bot is using.
 
 [^6]: If your app/bot is good, then [matrix.org would love to hear from you (with the potential possibility of featuring you on their blog)!](https://matrix.to/#/#thisweekinmatrix:matrix.org)
+
+[^7]: Limited by Matrix event size limits. The current event size limit is specified to be 65536 bytes.
