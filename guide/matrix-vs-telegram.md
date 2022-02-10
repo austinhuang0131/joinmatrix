@@ -50,7 +50,7 @@ Despite recent studies, Telegram's use of its own MTProto protocol remains a deb
 | Permissions | Permissions of each administrator are set manually. All admins are equal (except owner). Permissions of a member do not survive leave and rejoin. | 2^54 power levels (I think it's -2^53 to 2^53-1, however I highly doubt you will *ever* reach that limit). A user acquires a permission if their power level is equal to or higher than the power level required for the specific permission. Power levels of members survive leave and rejoin. |
 | Disabled and deleted account handling | Disabling an account is reversible until one year after disabling. Messages from deleted accounts survive for one more year from deletion. | Disabling an account is usually irreversible. Messages from disabled accounts are not sent to further users and servers. Rooms created by disabled accounts stay. |
 | Ads | Popular channels now carry ads that you cannot opt out. | It is technically possible for a homeserver to insert ads, but **there are no known occurrences**. |
-| **Network access** | **IPv4 supported, IPv6 broken**.[^3]  | **IPv4&v6 support varies depending on homeserver**. |
+| **Network access** | **IPv4 supported, IPv6 broken**.[^3]  | ***Most if not all homeservers participating in the public federation have IPv4 connectivity but IPv6 connectivity varies from homeserver to homeserver.**. |
 
 
 ## Helpful Tips
