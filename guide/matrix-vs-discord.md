@@ -128,7 +128,7 @@ Note that Matrix does not (and cannot, due to its decentralized nature) paywall 
 
 [^8]: May be more accurately described as ban hierarchy, as the order of roles only affect role changes, nick overrides, kicks and bans. Discord's permission system is otherwise "explicit allow wins".
 
-[^9]: Somebody actually tried to report a message after deleting it and they got "no such message in our database" from T&S. Also backed by [Stanislav Vishnevskiy's blog post on infrastructure of Discord](https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7#.fdhp3rxlo).
+[^9]: Somebody actually tried to report a message after deleting it and they got "no such message in our database" from T&S. Also backed by [Stanislav Vishnevskiy's blog post on infrastructure of Discord](https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7#.fdhp3rxlo). However, deletions are basically a free-for-all matter: users (including bots) may decide to keep or repost deleted messages, and there is nothing stopping this.
 
 [^10]: Process detection only exists in the desktop client. Somebody reverse engineered this process detection. Unlike Steam's similar process detection, this detection only sends the successfully detected games, not the list of every process running. Can be opted out by disabling the game activity detection. Science endpoint is said to drop the data server-side when the relevant toggles are disabled, however no one has verified if that toggle actually works. Hence assumed as "cannot be opted out".
 
