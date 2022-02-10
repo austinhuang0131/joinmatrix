@@ -35,16 +35,18 @@ I'm sure you can find a lot of valid criticisms of Discord, like [here](https://
 
 In the scope of this guide, the key reasons to move from Discord to Matrix are:
 
-* **Lack of privacy for private communications**, as private conversations are not only unencrypted, but also actively scanned (see your settings).
-* **Excessive tracking that cannot be opted-out**, such as the [science endpoint](https://luna.gitlab.io/discord-unofficial-docs/science.html) and the process logger (for activity status).
-* **Hostile stance against unofficial clients or client modifications**, thus preventing users from opting out of certain annoyances or tracking.
-* **Arbitrary phone number requirements**.
+* **Lack of privacy for private communications**, as private conversations are not only unencrypted, but also actively scanned (scope of which depends on your settings, but some happen even when you disable all the filtering-related toggles). People reported their messages were substituted with cooking recipes when they tried to send something that is a virus.
+* **Excessive tracking some of which cannot be opted-out in a ToS-abiding way**, such as the [science endpoint](https://luna.gitlab.io/discord-unofficial-docs/science.html) and the process logger (for activity status)[^10]. Most third party clients and some client mods do not support science endpoint, nor process detection. To this date, there is no known user banned for not sending the telemetry data.
+* **Hostile stance against unofficial clients or client modifications**, thus preventing users from opting out of certain annoyances or tracking in a compliant way.
+* **Arbitrary phone number requirements**. Some users that are deemed suspicious, and users that join certain guilds, are required to verify their phone number.
 * Discord has made **decisions against the users' best interests**, with the most recent ones being:
   * Biased consultations and unilateral proposal of [cryptocurrency integrations](https://www.reddit.com/r/discordapp/comments/qpmhs5/discord_developers_please_do_not_support_nfts/) (which were only dropped after massive backlash); and
-  * Mandatory rollout of slash commands, as well as KYC requirements, for running bots (which were *not* dropped despite [backlash](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)).
+  * Deprecating access to read text messages in "servers" with certain exceptions[^12], effectively equating to mandatory rollout of application commands based interaction flow, as well as KYC requirements, for running bots in more than 100 "servers" (which were *not* dropped despite [backlash](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)).
 * **Closed source**, thus cannot be independently inspected.
 * **Lack of control for private data and no guarantee on reliability**, as Discord is centralized, not federated. See [here](../matrix-vs-al/#centralized-platforms).
-
+* **Paywalling richer expression abilities**.[^11] A user with Nitro unlocks certain additional features, mainly related to what can be included in a message, and twice as more guild cap, and twice as long message length limit.
+* **Not intended for serious use**. A developer experience staff at Discord explicitly said, "We are just a casual chatting app." Marketing campaigns of Discord, such as inclusion of gaming related figures, and use of funny memes, seem to agree with that stance.
+ 
 [Matrix addresses all of the above](../#why-matrix).
 
 ### Special Note
@@ -91,11 +93,11 @@ Note that Matrix does not (and cannot, due to its decentralized nature) paywall 
 | Public read receipts | Not supported. | **Supported.** |
 | **Direct messages** | Not encrypted. | **Encrypted by default**, including VoIP. |
 | Starting a DM | Depending on privacy settings, initiating a DM requires the two users to have established "friendship" or have certain mutual "servers." Users are given the choice to accept, remove, or report a DM (since late 2021). | Initiating a DM solely requires the recipient to accept the request[^3]. Users can leave DMs anytime they wish. |
-| **Group chats** | A channel is associated with a "server." You can only join 100 "servers." | A room is standalone, but can be optionally included and associated with a Space, which is just a room linking to other rooms. You can join **unlimited** amount of rooms. |
+| **Group chats** | A channel is associated with a "server." You can only join 100 "servers," 200 with Nitro. | A room is standalone, but can be optionally included and associated with a Space, which is just a room linking to other rooms. You can join **unlimited** amount of rooms. |
 | VoIP in groups | Supported. | Not supported until early 2022. |
 | Organizing chats | "Servers" can be organized into folders, but each "server" can only belong to 1 folder. Channels can only be organized by the "server" owner. | Rooms can be included within an unlimited amount of Spaces. Spaces may also include other Spaces (similar to Discord's channel categories). |
 | Group chat privacy | Denying "View Channel History" permission prevents users from reading messages prior to their most recent login. However the "server" owners cannot enjoy that privacy, due to how Discord's permission system works. | You may deny new members from reading messages prior to them being invited / joining. You may also allow or deny guest access (such as [Matrix Static](http://view.matrix.org/)) from reading messages. You may also enable encryption[^4]. |
-| Server-side deletion guarantees | Messages that are removed from Discord are garbage collected from discord.com databases within less than 2 days. | As Matrix follows an event chain model, there is no true deletion. The closest thing available is redaction, which instructs the users and servers to blank the content but not the metadata of the event. Redactions are best-effort. |
+| Server-side deletion guarantees | Messages that are removed from Discord are garbage collected from discord.com databases within less than 2 days.[^9] | As Matrix follows an event chain model, there is no true deletion. The closest thing available is redaction, which instructs the users and servers to blank the content but not the metadata of the event. Redactions are best-effort. |
 | Publicity | Although Discord offers its own "server" discovery feature, the requirements are somewhat arbitrary, so third-party services are often used. Only "server" owners can apply to Discord's own "server" discovery directory. Third party directory services may differ. | Each homeserver has a room directory which anyone in that homeserver may publish to. |
 | Invite | Through generating invite links or using an OAuth-based integration. | Through directly inviting users, or through shareable [addresses](../features/#promotion). |
 | Permissions in group chats | Single-owner, up to 255 roles. How long did it take for you to learn role hierarchy?[^8] A "server" can deleted by its owner only, and that deletion affects everyone. | Up to 2^54 power levels (I think it's -2^53 to 2^53-1, however I highly doubt you will *ever* reach that limit), with minimal permissions. A user acquires a permission if their power level is equal to or higher than the power level required for the specific permission. Rooms are not owned by any user or server, hence cannot usually forcibly be shut down without coordination. |
@@ -125,3 +127,11 @@ Note that Matrix does not (and cannot, due to its decentralized nature) paywall 
 [^7]: Limited by Matrix event size limits. The current event size limit is specified to be 65536 bytes. Formatted message size limit assuming the formatted body takes approximately twice as much as plain text body.
 
 [^8]: May be more accurately described as ban hierarchy, as the order of roles only affect role changes, nick overrides, kicks and bans. Discord's permission system is otherwise "explicit allow wins".
+
+[^9]: Somebody actually tried to report a message after deleting it and they got "no such message in our database" from T&S. Also backed by [Stanislav Vishnevskiy's blog post on infrastructure of Discord](https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7#.fdhp3rxlo).
+
+[^10]: Process detection only exists in the desktop client. Somebody reverse engineered this process detection. Unlike Steam's similar process detection, this detection only sends the successfully detected games, not the list of every process running. Can be opted out by disabling the game activity detection. Science endpoint is said to drop the data server-side when the relevant toggles are disabled, however no one has verified if that toggle actually works. Hence assumed as "cannot be opted out".
+
+[^11]: Paywalling features related to customisation and expressivity is Discord's core business model, stated repeatedly by themselves and also verified by various third party sources. https://seoaves.com/how-does-discord-make-money-the-discord-business-model/ https://moneymodels.org/business-models/how-does-discord-make-money/
+
+[^12]: The exception is messages that @-mention the bot user can still be seen without the message content event. As many bot developers said, this is still a band-aid and not a useful solution. Direct messages are not affected by message content intent. 
