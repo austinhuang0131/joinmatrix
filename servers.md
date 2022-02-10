@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 })
 </script>
 
-**The requirement regarding matrix.org blacklists will be suspended for currently listed homeservers until Friday, February 11, 2022.**
+**The requirement regarding matrix.org blacklists will be suspended for currently listed homeservers until further notice.**
 
 ## List of public Matrix homeservers
 
