@@ -44,6 +44,7 @@ This is a list of public Matrix homeservers as compiled by the author of this gu
 * For long-term usage, choose a homeserver that you trust, [is properly federated](https://federationtester.matrix.org/), has a high version number, has an environment suitable to your use, and is designed to last.
 * Any homeserver you choose gets to access all the unencrypted data about your account!
 * **It bears reminding** that all participants of public discourse should foster a respectful environment, and that homeserver operators should discourage disruptive behaviour. As such, this list excludes homeservers that are known to harbour bad actors. Refer to [Criteria](#criteria).
+* For homeserver owners: You are recommended to implement [MSC1929](https://github.com/matrix-org/matrix-doc/blob/hs/proposal-admin-contact-1/proposals/1929-admin-contact.md).
 
 **Disclaimer:**
 
@@ -61,10 +62,6 @@ Ideally you would host your own homeserver, but not everyone has the means... An
 
 1. It is overloaded at times, and
 2. If everyone continues to register on the same homeserver, then it will become more centralized, thus shifting away from the original goal of Matrix.
-  
-## Note for Homeserver Owners
-  
-Admins of listed homeservers are recommended to implement [MSC1929](https://github.com/matrix-org/matrix-doc/blob/hs/proposal-admin-contact-1/proposals/1929-admin-contact.md) and/or join [`#alladmins:grin.hu`](https://matrix.to/#/#alladmins:grin.hu).
 
 ## Criteria
 
@@ -73,6 +70,7 @@ The absolute criteria are:
 * The homeserver is intended for public registration.
   * Generally, inclusion is based on either my interpretation of information about the homeserver, or explicit consent from the homeserver operator(s).
   * Homeservers that grant accounts on approval must have such process accessible to the general public.
+  * Homeservers may disable registrations temporarily, in which case the list will temporarily exclude them.
 * The homeserver name must be a second-level domain (so `example.com` is acceptable, but `matrix.example.com` is not).
 * The homeserver does not operate through a free TLD, specifically those offered by Freenom (due to risks of takeover by fraudulent entities).
 * The homeserver is neither `matrix.org` nor operated by Element Matrix Services (previously known as Modular).
@@ -104,7 +102,7 @@ From left to right:
   * "See info page": Refer to the page linked in the "server name" column.
   * A domain: After clicking "Create Account" and "Edit," enter the domain as specified in this column (without `https://`) to [create an account](../guide/#register-an-account) on this homeserver. This discrepancy is usually due to the misconfiguration of `.well-known`.
   * "SSO": The homeserver requires [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) for authentication. You must create an account through the link prior to creating an account on the Matrix homeserver itself. Usually, the account can be used to access other services offered by the homeserver operator.
-* **Version**: The software version of the homeserver, [updated daily by a GitHub Action](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/.github/workflows/matrix_ver.yml#L5).
+* **Version**: The software version of the homeserver, [updated every 6 hours by a GitHub Action](https://github.com/austinhuang0131/joinmatrix/blob/main/.github/workflows/matrix_ver.yml#L4).
   * Unless indicated otherwise, the homeserver is running Synapse, where version `>=1.47.1` (coloured green) is [recommended](https://matrix.org/blog/2021/11/23/synapse-1-47-1-released) to address a security issue. Homeservers running older versions are coloured yellow.
   * Homeservers that use experimental implementations (ie. ones other than Synapse) are not coloured.
   * "Error!!" (coloured red): The homeserver cannot be reached at the time of checking. This is usually occasional, as frequent downtime are grounds for exclusion from this list.
