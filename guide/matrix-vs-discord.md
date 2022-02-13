@@ -112,7 +112,7 @@ Note that Matrix does not (and cannot, due to its decentralized nature) paywall 
 
 ## Helpful Tips
 
-* There is a [public bridge](https://t2bot.io/discord) that allows you to connect a Discord channel with a Matrix room.There is [another bridge that allows looking at your Discord direct messages from Matrix side](https://github.com/matrix-discord/matrix-appservice-discord), but that one requires self-hosting and more extensive setup than the public t2bot bridge.  (Although, backlinking Matrix data to Discord will reduce its privacy, so please take ethical concerns into account when using it.) 
+* There is a [public bridge](https://t2bot.io/discord) that allows you to connect a Discord channel with a Matrix room. There is [another bridge that allows looking at your Discord direct messages from Matrix side](https://github.com/matrix-discord/matrix-appservice-discord), but that one requires self-hosting and more extensive setup than the public t2bot bridge.  (Although, backlinking Matrix data to Discord will reduce its privacy, so please take ethical concerns into account when using them.) 
 * Your user colour is chosen by a hash function (varies by app) that takes in your MXID.
 
 ## Footnotes
