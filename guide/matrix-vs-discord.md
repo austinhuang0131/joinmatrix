@@ -137,7 +137,7 @@ Note that Matrix does not (and cannot, due to its decentralized nature) paywall 
 
 [^10]: Process detection only exists in the desktop client. Somebody reverse engineered this process detection. Unlike Steam's similar process detection, this detection only sends the successfully detected games, not the list of every process running. Can be opted out by disabling the game activity detection. Science endpoint is said to drop the data server-side when the relevant toggles are disabled, however no one has verified if that toggle actually works. Hence assumed as "cannot be opted out".
 
-[^11]: Paywalling features related to customisation and expressivity is Discord's core business model, stated repeatedly by themselves and also verified by various third party sources. https://seoaves.com/how-does-discord-make-money-the-discord-business-model/ https://moneymodels.org/business-models/how-does-discord-make-money/
+[^11]: Paywalling features related to customisation and expressivity is Discord's core business model, stated repeatedly by themselves and also verified by various third party sources. See [here])https://seoaves.com/how-does-discord-make-money-the-discord-business-model/) and [here](https://moneymodels.org/business-models/how-does-discord-make-money/).
 
 [^12]: The exception is messages that @-mention the bot user can still be seen without the message content event. As many bot developers said, this is still a band-aid and not a useful solution. Direct messages are not affected by message content intent. 
 
