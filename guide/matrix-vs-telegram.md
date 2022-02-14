@@ -42,7 +42,7 @@ Despite recent studies, Telegram's use of its own MTProto protocol remains a deb
 | Public read receipts | Supported ambiguously. | **Supported.** |
 | **Direct messages** | Not encrypted unless explicitly opted into secret chat, which cannot be carried across devices. VoIP is encrypted. | **Encrypted by default**, including VoIP. |
 | **Group chats** | You can join up to 500 groups and channels. | You can join an **unlimited** amount of rooms. |
-| VoIP in groups | Supported. | Not supported until early 2022. |
+| VoIP in groups | Supported. | Limited Support via integration with Jitsi. Expected to be replaced by a better solution during 2022. |
 | Organizing chats | You can pin or archive groups (similar to favourite and low priority on Element/SchildiChat). | Rooms can be included within an unlimited amount of Spaces. Spaces may also include other Spaces. |
 | Group chat privacy | You may deny new members from reading more than 100 messages prior to them joining. | You may deny new members from reading messages prior to them being invited / joining. You may also allow or deny guest access (such as [Matrix Static](http://view.matrix.org/)) from reading messages. You may also enable encryption[^1]. |
 | Publicity | Any group or channel set to public can be listed in search results, but how they are shown is arbitrary, as global search is not always visible to users. | Each homeserver has a room directory which anyone in that homeserver may publish to. |
