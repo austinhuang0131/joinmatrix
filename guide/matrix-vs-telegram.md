@@ -63,5 +63,3 @@ There is a [bridge](https://t2bot.io/telegram) that allows you to connect a Tele
 [^1]: Enabling encryption is irreversible for security reasons. Note that it is pointless to enable encryption in a public room, with one exception: the case you want to have a persistent cryptographic trail of who read the messages. Furthermore, enabling encryption means users will not see messages before their invitation (if applicable) or their entry.
 
 [^2]: Limited by Matrix event size limits. The current event size limit is specified to be 65536 bytes. Formatted message size limit assuming the formatted body takes approximately twice as much as plain text body.
-
-[^3]: See https://flameeyes.blog/2017/08/06/ipv6-horror-story-telegram/ .
