@@ -39,7 +39,7 @@ do
         name=$(echo $body | jq .server.name | sed s/\"//g)
         version=$(echo $body | jq .server.version | sed s/\"//g)
         closed=$(echo $reg | jq .errcode)
-        if [[ $Line =~ \[SSO\] ]] || [[ $Check -eq 0 ]]; then
+        if [[ $Line =~ \[(SSO|Form)\] ]] || [[ $Check -eq 0 ]]; then
             closed="null"
         fi
         if [[ "$name" == "Synapse" ]] && [[ -n "$version" ]] && [[ "$closed" != "\"M_FORBIDDEN\"" ]]; then
