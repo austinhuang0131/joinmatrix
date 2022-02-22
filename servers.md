@@ -28,9 +28,8 @@ document.addEventListener('DOMContentLoaded', (event) => {
     i = r.children.length - 1;
     if (c[i].textContent == "Error!!")
       c[i].classList.add("red");
-    else if (c[i].textContent.indexOf("Dendrite") == -1) {
-      c[i].classList.add(parseFloat(c[i].textContent.substring(2)) >= 47.1 ? "green" : "orange");
-    }
+    else if (c[i].textContent.indexOf("Dendrite") == -1)
+      c[i].classList.add(parseFloat((c[i].textContent.substring(2)) >= 47.1 || c[i].textContent == "1.49.0") ? "green" : "orange");
   })
 })
 </script>
@@ -103,7 +102,7 @@ From left to right:
   * A domain: After clicking "Create Account" and "Edit," enter the domain as specified in this column (without `https://`) to [create an account](../guide/#register-an-account) on this homeserver. This discrepancy is usually due to the misconfiguration of `.well-known`.
   * "SSO": The homeserver requires [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) for authentication. You must create an account through the link prior to creating an account on the Matrix homeserver itself. Usually, the account can be used to access other services offered by the homeserver operator.
 * **Version**: The software version of the homeserver, [updated every 6 hours by a GitHub Action](https://github.com/austinhuang0131/joinmatrix/blob/main/.github/workflows/matrix_ver.yml#L4).
-  * Unless indicated otherwise, the homeserver is running Synapse, where version `>=1.47.1` (coloured green) is [recommended](https://matrix.org/blog/2021/11/23/synapse-1-47-1-released) to address a security issue. Homeservers running older versions are coloured yellow.
+  * Unless indicated otherwise, the homeserver is running Synapse, where versions `1.47.1` and above (coloured green) is [recommended](https://matrix.org/blog/2021/11/23/synapse-1-47-1-released) to address a security issue. Homeservers running deprecated versions, namely those prior to `1.47.1`, as well as `1.49.0` (due to a [regression](https://github.com/matrix-org/synapse/pull/11583)), are coloured yellow.
   * Homeservers that use experimental implementations (ie. ones other than Synapse) are not coloured.
   * "Error!!" (coloured red): The homeserver cannot be reached at the time of checking. This is usually occasional, as frequent downtime are grounds for exclusion from this list.
 
