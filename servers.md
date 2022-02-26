@@ -92,7 +92,7 @@ From left to right:
   * "Email": Registering on the homeserver requires an email address.
 * **Note**: Miscellaneous remarks. Note that a homeserver's theme/orientation can sometimes be seen from the domain itself, in which case it will not be noted down here.
   * Age restriction: Matrix is 16+. Homeservers that require users to be older are specified.
-  * "Accessory": The homeserver is specifically intended for rooms related to the operator (usually a project), however the accounts can be used to access other federated rooms as well.
+  * "Accessory": The homeserver is specifically intended for rooms related to the operator (usually a project), so please be considerate in listing rooms in the public room directory. However, the accounts can be used to access other federated rooms as well.
   * "Residential": The homeserver may be hosting on a residential internet connection.
   * "...-oriented": The homeserver is intended to serve the mentioned purpose.
   * "...-inclined": While the homeserver is not specifically intended to serve any purpose, it is nevertheless used for the mentioned purpose.
