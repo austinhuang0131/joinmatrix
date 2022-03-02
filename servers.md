@@ -34,8 +34,6 @@ document.addEventListener('DOMContentLoaded', (event) => {
 })
 </script>
 
-**The requirement regarding matrix.org blacklists will be suspended for currently listed homeservers until further notice.**
-
 ## List of public Matrix homeservers
 
 This is a list of public Matrix homeservers as compiled by the author of this guide. Support for this list is provided at [`#public_servers:tchncs.de`](https://matrix.to/#/#public_servers:tchncs.de). Remember:
