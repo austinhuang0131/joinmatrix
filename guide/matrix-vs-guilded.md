@@ -55,7 +55,7 @@ In Matrix, a place that allows sending text messages is called a room.
 
 ### "Server" vs. Space
 
-In Guilded, text channels that are not DMs (including group DMs) must be associated with a "server." Thus a "server" can be understood as a collection of channels that share certain settings.
+In Guilded, text channels that are not DMs must be associated with a "server." Thus a "server" can be understood as a collection of channels that share certain settings.
 
 In Matrix, rooms *can* be included in a Space. A Space can be used in similar fashion to a Discord "server" (controlled by the admins of the constituent rooms) or a "server" folder (controlled by anyone). A Space may also include another Space. Rooms do not share settings with Spaces, although rooms can require Space membership for joining.
 
