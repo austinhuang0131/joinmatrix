@@ -76,7 +76,7 @@ Note that Matrix does not (and cannot, due to its decentralized nature) paywall 
 | Media-only channels | Supported. | Not supported. |
 | Specific avatars[^2] | **Not supported**. | [**Supported**](../features/#attachments) (`/myroomavatar`). See "Attachments" for limits. |
 | 2FA | Email or TOTP. | Not required for login, but required (QR code, emoji verification, or Security Key) for viewing past encrypted messages. |
-| **Text messages** | Maximum 36608 characters. Markdown to fellow users, JSON-based WML-like formatting internally. | **Up to ~65200 bytes (up to ~40770 bytes if a formatted message with plain text fallback sent).[^7] [Supports Markdown and HTML.](../features/#text)** |
+| **Text messages** | Maximum 36608 characters (main body section can have up to 4000 characters, the rest has to be placed in the embed cards). Markdown to fellow users, JSON-based WML-like formatting internally. | **Up to ~65200 bytes (up to ~40770 bytes if a formatted message with plain text fallback sent).[^7] [Supports Markdown and HTML.](../features/#text)** |
 | Attachments | Maximum 200 MB (25 MB for still images), limited to multimedia and document filetypes[^9]. | **Maximum 50~100 MB, no artificial file type limitations** (for most homeservers; customizable if you run your own homeserver). |
 | Reactions | Only emotes (Unicode or custom ones). | Unicode emotes and [text](../features/#reactions). |
 | Stickers | **Not supported**. | **Unlimited with setup.** See [here](../features/#stickers). |
