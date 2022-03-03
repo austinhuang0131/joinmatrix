@@ -53,6 +53,9 @@ do
                 echo "        \"domain\": \"$PUBLIC\"," >> servers.json
                 while IFS="|" read -r c0 c1 c2 c3 c4 c5 c6 c7
                 do
+                    if [[ "$c1" =~ \[[0-9a-z-]+\.[0-9a-z]+\]\((.*)\) ]]; then
+                        echo "        \"info\": \"${BASH_REMATCH[1]}\"," >> servers.json
+                    fi
                     echo "        \"jurisdiction\": \"$(echo $c2 | sed -e 's/^\ //g' -e 's/\ *$//g')\"," >> servers.json
                     if [[ "$c3" =~ \[[a-zA-Z]+\]\((.*)\) ]]; then
                         echo "        \"tos\": \"${BASH_REMATCH[1]}\"," >> servers.json
@@ -71,6 +74,9 @@ do
                         if [[ "$c7" =~ \[(.*)\]\((.*)\) ]]; then
                             echo "        \"reg_method\": \"${BASH_REMATCH[1]}\"," >> servers.json
                             echo "        \"reg_link\": \"${BASH_REMATCH[2]}\"," >> servers.json
+                        else
+                            echo "        \"reg_method\": null," >> servers.json
+                            echo "        \"reg_link\": null," >> servers.json
                         fi
                         # remove ends here
                     else
@@ -80,8 +86,11 @@ do
                         if [[ "$c6" =~ \[(.*)\]\((.*)\) ]]; then
                             echo "        \"reg_method\": \"${BASH_REMATCH[1]}\"," >> servers.json
                             echo "        \"reg_link\": \"${BASH_REMATCH[2]}\"," >> servers.json
-                        fi # remove
-                    fi
+                        else
+                            echo "        \"reg_method\": null," >> servers.json
+                            echo "        \"reg_link\": null," >> servers.json
+                        fi
+                    fi # remove
                 done < <(echo "$Line")
                 echo "        \"software\": \"$name\"," >> servers.json
                 echo "        \"version\": \"$version\"" >> servers.json
