@@ -70,7 +70,13 @@ do
                     if [[ $Check -ne 0 ]]; then
                         echo "        \"open\": true," >> servers.json
                         # remove starts here
-                        echo "        \"remarks\": \"$(echo $c6 | sed -E -e 's/^\ //g' -e 's/\ *$//g' -e 's/\[\^[0-9]+\]//g')\"," >> servers.json
+                        if [[ "$c6" =~ (.*)\*(.*)\* ]]; then
+                            echo "        \"remarks\": \"$(echo ${BASH_REMATCH[1]} | sed -E -e 's/^\ //g' -e 's/\ $//g' -e 's/\[\^[0-9]+\]//g')\"," >> servers.json
+                            echo "        \"antifeature\": \"$(echo ${BASH_REMATCH[2]} | sed -E 's/\[\^[0-9]+\]//g')\"," >> servers.json
+                        else
+                            echo "        \"remarks\": \"$(echo $c6 | sed -E -e 's/^\ //g' -e 's/\ *$//g' -e 's/\[\^[0-9]+\]//g')\"," >> servers.json
+                            echo "        \"antifeature\": null," >> servers.json
+                        fi
                         if [[ "$c7" =~ \[(.*)\]\((.*)\) ]]; then
                             echo "        \"reg_method\": \"${BASH_REMATCH[1]}\"," >> servers.json
                             echo "        \"reg_link\": \"${BASH_REMATCH[2]}\"," >> servers.json
@@ -82,7 +88,13 @@ do
                     else
                         echo "        \"open\": false," >> servers.json
                         # fi here
-                        echo "        \"remarks\": \"$(echo $c5 | sed -E -e 's/^\ //g' -e 's/\ *$//g' -e 's/\[\^[0-9]+\]//g')\"," >> servers.json
+                        if [[ "$c5" =~ (.*)\*(.*)\* ]]; then
+                            echo "        \"remarks\": \"$(echo ${BASH_REMATCH[1]} | sed -E -e 's/^\ //g' -e 's/\ $//g' -e 's/\[\^[0-9]+\]//g')\"," >> servers.json
+                            echo "        \"antifeature\": \"$(echo ${BASH_REMATCH[2]} | sed -E 's/\[\^[0-9]+\]//g')\"," >> servers.json
+                        else
+                            echo "        \"remarks\": \"$(echo $c5 | sed -E -e 's/^\ //g' -e 's/\ *$//g' -e 's/\[\^[0-9]+\]//g')\"," >> servers.json
+                            echo "        \"antifeature\": null," >> servers.json
+                        fi
                         if [[ "$c6" =~ \[(.*)\]\((.*)\) ]]; then
                             echo "        \"reg_method\": \"${BASH_REMATCH[1]}\"," >> servers.json
                             echo "        \"reg_link\": \"${BASH_REMATCH[2]}\"," >> servers.json
@@ -118,5 +130,5 @@ do
     fi
 done
 
-sed -i '$ s/,$//' servers.json
+sed -i '' '$ s/,$//' servers.json
 echo "]" >> servers.json
