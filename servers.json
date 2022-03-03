@@ -75,6 +75,21 @@
         "version": "1.53.0"
     },
     {
+        "name": "aria-net.org",
+        "domain": "aria-net.org",
+        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
+        "jurisdiction": "Italy?",
+        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "open": true,
+        "remarks": "Throwaway email addresses forbidden",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://el.aria-net.org/",
+        "software": "Synapse",
+        "version": "1.53.0"
+    },
+    {
         "name": "arrayinamatrix.xyz",
         "domain": "arrayinamatrix.xyz",
         "info": "https://arrayinamatrix.xyz/index/socials/matrix/",
@@ -133,6 +148,21 @@
         "reg_link": "https://element.badstuebner.biz/",
         "software": "Synapse",
         "version": "1.53.0"
+    },
+    {
+        "name": "bitcoiner.chat",
+        "domain": "bitcoiner.chat",
+        "info": "https://bitcoiner.guide/",
+        "jurisdiction": "US?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Crypto",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.46.0"
     },
     {
         "name": "buyvm.net",
@@ -855,6 +885,21 @@
         "version": "1.53.0"
     },
     {
+        "name": "milkte.ch",
+        "domain": "milkte.ch",
+        "info": "https://milkte.ch",
+        "jurisdiction": "Switzerland?",
+        "tos": "https://milkte.ch/rules.html",
+        "privacy": "https://milkte.ch/privacy.html",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.41.1"
+    },
+    {
         "name": "monero.social",
         "domain": "monero.social",
         "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
@@ -1378,6 +1423,21 @@
         "reg_link": "https://element.unredacted.org/",
         "software": "Synapse",
         "version": "1.48.0"
+    },
+    {
+        "name": "usethe.tools",
+        "domain": "usethe.tools",
+        "info": "https://nitter.net/Diverter_NoKYC/status/1419381576912285702",
+        "jurisdiction": "US?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Crypto",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.53.0"
     },
     {
         "name": "utc.chat",
