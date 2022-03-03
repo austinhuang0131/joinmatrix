@@ -61,7 +61,7 @@ In Matrix, rooms *can* be included in a Space. A Space can be used in similar fa
 
 ## Feature comparison
 
-Note that Matrix does not (and cannot, due to its decentralized nature) paywall features. Thus any exception in Discord features that require Nitro or Nitro Classic subscription is not considered.
+Note that Matrix does not (and cannot, due to its decentralized nature) paywall features.
 
 | Feature | Discord | Matrix |
 | ------- | ------- | ------ |
