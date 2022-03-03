@@ -64,20 +64,27 @@ do
                     else
                         echo "        \"privacy\": null," >> servers.json
                     fi
-                    # to change after reformatting
-                    echo "        \"remarks\": \"$(echo $c6 | sed -E -e 's/^\ //g' -e 's/\ *$//g' -e 's/\[\^[0-9]+\]//g')\"," >> servers.json
-                    if [[ "$c7" =~ \[(.*)\]\((.*)\) ]]; then
-                        echo "        \"reg_method\": \"${BASH_REMATCH[1]}\"," >> servers.json
-                        echo "        \"reg_link\": \"${BASH_REMATCH[2]}\"," >> servers.json
+                    if [[ $Check -ne 0 ]]; then
+                        echo "        \"open\": true," >> servers.json
+                        # remove starts here
+                        echo "        \"remarks\": \"$(echo $c6 | sed -E -e 's/^\ //g' -e 's/\ *$//g' -e 's/\[\^[0-9]+\]//g')\"," >> servers.json
+                        if [[ "$c7" =~ \[(.*)\]\((.*)\) ]]; then
+                            echo "        \"reg_method\": \"${BASH_REMATCH[1]}\"," >> servers.json
+                            echo "        \"reg_link\": \"${BASH_REMATCH[2]}\"," >> servers.json
+                        fi
+                        # remove ends here
+                    else
+                        echo "        \"open\": false," >> servers.json
+                        # fi here
+                        echo "        \"remarks\": \"$(echo $c5 | sed -E -e 's/^\ //g' -e 's/\ *$//g' -e 's/\[\^[0-9]+\]//g')\"," >> servers.json
+                        if [[ "$c6" =~ \[(.*)\]\((.*)\) ]]; then
+                            echo "        \"reg_method\": \"${BASH_REMATCH[1]}\"," >> servers.json
+                            echo "        \"reg_link\": \"${BASH_REMATCH[2]}\"," >> servers.json
+                        fi # remove
                     fi
                 done < <(echo "$Line")
                 echo "        \"software\": \"$name\"," >> servers.json
-                echo "        \"version\": \"$version\"," >> servers.json
-                if [[ $Check -ne 0 ]]; then
-                    echo "        \"open\": true"
-                else
-                    echo "        \"open\": false"
-                fi
+                echo "        \"version\": \"$version\"" >> servers.json
                 echo "    }," >> servers.json
                 if [[ "$name" == "Synapse" ]]; then
                     echo "$Line $version |" >> _includes/matrix_prod.md
