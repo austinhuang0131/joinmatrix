@@ -118,5 +118,5 @@ do
     fi
 done
 
-sed -i '' '$ s/,$//' servers.json
+sed -i '$ s/,$//' servers.json
 echo "]" >> servers.json
