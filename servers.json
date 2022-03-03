@@ -2,6 +2,7 @@
     {
         "name": "0wnz.at",
         "domain": "0wnz.at",
+        "info": "https://0wnz.at",
         "jurisdiction": "Austria",
         "tos": null,
         "privacy": null,
@@ -15,6 +16,7 @@
     {
         "name": "activism.international",
         "domain": "activism.international",
+        "info": "https://activism.international",
         "jurisdiction": "Germany",
         "tos": "https://activism.international/usage-policy/",
         "privacy": "https://activism.international/privacy/cloud/",
@@ -28,28 +30,35 @@
     {
         "name": "altertek.org",
         "domain": "altertek.org",
+        "info": "https://altertek.org/en/services/",
         "jurisdiction": "France",
         "tos": "https://altertek.org/en/terms-conditions/",
         "privacy": null,
         "open": true,
         "remarks": "",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.49.2"
     },
     {
         "name": "antifash.gay",
         "domain": "antifash.gay",
+        "info": "https://antifash.gay",
         "jurisdiction": "US?",
         "tos": null,
         "privacy": null,
         "open": true,
         "remarks": "Left-wing",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.30.1"
     },
     {
         "name": "arcticfoxes.net",
         "domain": "arcticfoxes.net",
+        "info": "https://arcticfoxes.net",
         "jurisdiction": "US (UK)",
         "tos": null,
         "privacy": null,
@@ -63,6 +72,7 @@
     {
         "name": "aria-net.org",
         "domain": "aria-net.org",
+        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
         "jurisdiction": "Italy?",
         "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
         "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
@@ -76,6 +86,7 @@
     {
         "name": "arrayinamatrix.xyz",
         "domain": "arrayinamatrix.xyz",
+        "info": "https://arrayinamatrix.xyz/index/socials/matrix/",
         "jurisdiction": "Canada",
         "tos": "https://arrayinamatrix.xyz/index/matrix/#rules",
         "privacy": "https://arrayinamatrix.xyz/index/privacy/#matrix",
@@ -89,6 +100,7 @@
     {
         "name": "asozial.org",
         "domain": "asozial.org",
+        "info": "https://asozial.org",
         "jurisdiction": "Germany",
         "tos": null,
         "privacy": null,
@@ -102,6 +114,7 @@
     {
         "name": "bachgau.social",
         "domain": "bachgau.social",
+        "info": "https://www.bachgau.social/unsere-dienste/matrix/",
         "jurisdiction": "Germany",
         "tos": "https://mastodon.bachgau.social/about/more",
         "privacy": "https://www.bachgau.social/datenschutzerklaerung/",
@@ -115,6 +128,7 @@
     {
         "name": "badstuebner.biz",
         "domain": "badstuebner.biz",
+        "info": "https://badstuebner.biz",
         "jurisdiction": "Germany",
         "tos": null,
         "privacy": "https://badstuebner.biz/impressum.php",
@@ -128,6 +142,7 @@
     {
         "name": "buyvm.net",
         "domain": "buyvm.net",
+        "info": "https://buyvm.net/beware-the-moshbear/",
         "jurisdiction": "US",
         "tos": null,
         "privacy": null,
@@ -141,6 +156,7 @@
     {
         "name": "bytes4u.de",
         "domain": "matrix.bytes4u.de",
+        "info": "https://bytes4u.de",
         "jurisdiction": "Germany",
         "tos": "https://www.bytes4u.de/rules.html",
         "privacy": "https://www.bytes4u.de/matrix.html",
@@ -154,6 +170,7 @@
     {
         "name": "catgirl.cloud",
         "domain": "catgirl.cloud",
+        "info": "https://catgirl.cloud",
         "jurisdiction": "Germany",
         "tos": "https://catgirl.cloud/#rules",
         "privacy": "https://catgirl.cloud/#privacy",
@@ -167,6 +184,7 @@
     {
         "name": "chagai.website",
         "domain": "chagai.website",
+        "info": "https://chagai.website",
         "jurisdiction": "Switzerland",
         "tos": null,
         "privacy": null,
@@ -180,6 +198,7 @@
     {
         "name": "chatcloud.net",
         "domain": "chatcloud.net",
+        "info": "https://chatcloud.net",
         "jurisdiction": "Austria (Germany)",
         "tos": "https://www.chatcloud.net/terms-of-use/",
         "privacy": "https://www.chatcloud.net/privacy/",
@@ -193,6 +212,7 @@
     {
         "name": "chatwave.org",
         "domain": "chatwave.org",
+        "info": "https://yatrix.org",
         "jurisdiction": "Germany",
         "tos": null,
         "privacy": "https://yatrix.org/",
@@ -206,28 +226,35 @@
     {
         "name": "club1.fr",
         "domain": "club1.fr",
+        "info": "https://club1.fr/matrix/",
         "jurisdiction": "France",
         "tos": null,
         "privacy": null,
         "open": true,
         "remarks": "In French",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.53.0"
     },
     {
         "name": "comm.cx",
         "domain": "comm.cx",
+        "info": "https://comm.cx",
         "jurisdiction": "?",
         "tos": null,
         "privacy": null,
         "open": true,
         "remarks": "",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.52.0"
     },
     {
         "name": "community.rs",
         "domain": "community.rs",
+        "info": "https://community.rs",
         "jurisdiction": "US",
         "tos": null,
         "privacy": null,
@@ -241,17 +268,21 @@
     {
         "name": "converser.eu",
         "domain": "converser.eu",
+        "info": "https://converser.eu",
         "jurisdiction": "France",
         "tos": null,
         "privacy": null,
         "open": true,
         "remarks": "In French",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.52.0"
     },
     {
         "name": "crossbach.de",
         "domain": "crossbach.de",
+        "info": "https://crossbach.de",
         "jurisdiction": "Germany",
         "tos": null,
         "privacy": "https://crossbach.de/datenschutz/datenschutz.html",
@@ -265,17 +296,21 @@
     {
         "name": "cubebuilder.me",
         "domain": "cubebuilder.me",
+        "info": "https://cubebuilder.me",
         "jurisdiction": "US?",
         "tos": "https://cubebuilder.me/",
         "privacy": null,
         "open": true,
         "remarks": "",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.49.2"
     },
     {
         "name": "cuum.space",
         "domain": "cuum.space",
+        "info": "https://cuum.space",
         "jurisdiction": "Russia",
         "tos": "https://cuum.space/_matrix/consent?v=1.0",
         "privacy": "https://cuum.space/_matrix/consent?v=1.0",
@@ -289,6 +324,7 @@
     {
         "name": "danskungdom.dk",
         "domain": "danskungdom.dk",
+        "info": "https://danskungdom.dk/guides/matrix/",
         "jurisdiction": "Denmark (Germany)",
         "tos": null,
         "privacy": null,
@@ -302,6 +338,7 @@
     {
         "name": "dark.fi",
         "domain": "dark.fi",
+        "info": "https://dark.fi/community.html",
         "jurisdiction": "Germany?",
         "tos": null,
         "privacy": null,
@@ -315,6 +352,7 @@
     {
         "name": "das-labor.org",
         "domain": "das-labor.org",
+        "info": "https://wiki.das-labor.org/w/Projekt/Matrix",
         "jurisdiction": "Germany",
         "tos": null,
         "privacy": null,
@@ -328,6 +366,7 @@
     {
         "name": "data.haus",
         "domain": "data.haus",
+        "info": "https://data.haus",
         "jurisdiction": "Germany",
         "tos": null,
         "privacy": null,
@@ -341,6 +380,7 @@
     {
         "name": "demoicracy.org",
         "domain": "demoicracy.org",
+        "info": "https://demoicracy.org",
         "jurisdiction": "US?",
         "tos": null,
         "privacy": null,
@@ -354,6 +394,7 @@
     {
         "name": "devass.su",
         "domain": "matrix.devass.su",
+        "info": "https://devass.su",
         "jurisdiction": "Russia?",
         "tos": null,
         "privacy": null,
@@ -367,6 +408,7 @@
     {
         "name": "duesen.chat",
         "domain": "duesen.chat",
+        "info": "https://yatrix.org",
         "jurisdiction": "Germany",
         "tos": null,
         "privacy": "https://yatrix.org/",
@@ -380,6 +422,7 @@
     {
         "name": "egora.org",
         "domain": "matrix.egora.org",
+        "info": "https://egora.org/",
         "jurisdiction": "Finland?",
         "tos": null,
         "privacy": null,
@@ -393,6 +436,7 @@
     {
         "name": "envs.net",
         "domain": "envs.net",
+        "info": "https://envs.net/chat/matrix/",
         "jurisdiction": "Germany",
         "tos": "https://envs.net/terms-of-service",
         "privacy": "https://envs.net/privacy-policy/",
@@ -406,6 +450,7 @@
     {
         "name": "erfurt.chat",
         "domain": "erfurt.chat",
+        "info": "https://wiki.technikkultur-erfurt.de/dienste:matrix",
         "jurisdiction": "Germany",
         "tos": null,
         "privacy": "https://technikkultur-erfurt.de/datenschutzerklaerung/",
@@ -419,28 +464,35 @@
     {
         "name": "exarius.org",
         "domain": "exarius.org",
+        "info": "https://exarius.org/wiki/services/exatrix/",
         "jurisdiction": "France",
         "tos": null,
         "privacy": null,
         "open": true,
         "remarks": "",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.47.1"
     },
     {
         "name": "filik.eu",
         "domain": "filik.eu",
+        "info": "https://filik.eu",
         "jurisdiction": "Czech Republic",
         "tos": null,
         "privacy": null,
         "open": true,
         "remarks": "",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.53.0"
     },
     {
         "name": "flieger.chat",
         "domain": "flieger.chat",
+        "info": "https://yatrix.org",
         "jurisdiction": "Germany",
         "tos": null,
         "privacy": "https://yatrix.org/",
@@ -454,6 +506,7 @@
     {
         "name": "freiburg.social",
         "domain": "freiburg.social",
+        "info": "https://wir.freiburg.social/angebote/matrix/",
         "jurisdiction": "Germany",
         "tos": "https://freiburg.social/terms",
         "privacy": "https://wir.freiburg.social/datenschutz-matrix/",
@@ -467,6 +520,7 @@
     {
         "name": "freitrix.de",
         "domain": "freitrix.de",
+        "info": "https://freitrix.de",
         "jurisdiction": "Germany",
         "tos": null,
         "privacy": "https://freifunk-suedholstein.de/datenschutz/",
@@ -480,6 +534,7 @@
     {
         "name": "g24.at",
         "domain": "g24.at",
+        "info": "https://g24.at",
         "jurisdiction": "Austria",
         "tos": null,
         "privacy": null,
@@ -493,6 +548,7 @@
     {
         "name": "gemeinsam.jetzt",
         "domain": "gemeinsam.jetzt",
+        "info": "https://gemeinsam.jetzt/accounts/profile/",
         "jurisdiction": "Austria",
         "tos": null,
         "privacy": "https://matrix.gemeinsam.jetzt/_matrix/consent?v=1.0",
@@ -506,6 +562,7 @@
     {
         "name": "ggc-project.de",
         "domain": "ggc-project.de",
+        "info": "https://www.ggc-project.de/en/index.html",
         "jurisdiction": "Germany",
         "tos": "https://www.ggc-project.de/en/terms.html",
         "privacy": "https://www.ggc-project.de/datenschutz.html",
@@ -519,17 +576,21 @@
     {
         "name": "glasgow.social",
         "domain": "glasgow.social",
+        "info": "https://opensource.glasgow.social/matrix",
         "jurisdiction": "UK",
         "tos": null,
         "privacy": null,
         "open": true,
         "remarks": "Region-specific",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.49.2"
     },
     {
         "name": "grin.hu",
         "domain": "grin.hu",
+        "info": "https://matrix.grin.hu",
         "jurisdiction": "Hungary",
         "tos": null,
         "privacy": null,
@@ -543,17 +604,21 @@
     {
         "name": "group.lt",
         "domain": "group.lt",
+        "info": "https://group.lt",
         "jurisdiction": "Lithuania?",
         "tos": null,
         "privacy": null,
         "open": true,
         "remarks": "",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.53.0"
     },
     {
         "name": "inetd.xyz",
         "domain": "inetd.xyz",
+        "info": "https://inetd.xyz",
         "jurisdiction": "Netherlands",
         "tos": null,
         "privacy": "https://inetd.xyz/privacy/",
@@ -567,39 +632,49 @@
     {
         "name": "jonasled.de",
         "domain": "jonasled.de",
+        "info": "https://jonasled.de",
         "jurisdiction": "Germany",
         "tos": null,
         "privacy": null,
         "open": true,
         "remarks": "In German",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.53.0"
     },
     {
         "name": "jupiterbroadcasting.com",
         "domain": "jupiterbroadcasting.com",
+        "info": "https://linuxunplugged.com/matrixinfo",
         "jurisdiction": "US?",
         "tos": null,
         "privacy": null,
         "open": true,
         "remarks": "Accessory",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.53.0"
     },
     {
         "name": "kreatea.space",
         "domain": "kreatea.space",
+        "info": "https://kreatea.space/wiki/matrix/",
         "jurisdiction": "Turkey (Germany)",
         "tos": "https://kreatea.space",
         "privacy": null,
         "open": true,
         "remarks": "",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.53.0"
     },
     {
         "name": "liberta.casa",
         "domain": "matrix.liberta.casa",
+        "info": "https://liberta.casa",
         "jurisdiction": "Germany?",
         "tos": "https://liberta.casa/",
         "privacy": null,
@@ -613,6 +688,7 @@
     {
         "name": "librem.one",
         "domain": "chat.librem.one",
+        "info": "https://librem.one",
         "jurisdiction": "US",
         "tos": null,
         "privacy": "https://librem.one/policy/",
@@ -626,17 +702,21 @@
     {
         "name": "librosphere.org",
         "domain": "mtx.librosphere.org",
+        "info": "https://librosphere.org/guide.html",
         "jurisdiction": "France",
         "tos": null,
         "privacy": null,
         "open": true,
         "remarks": "In French",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.47.1"
     },
     {
         "name": "llamarific.social",
         "domain": "llamarific.social",
+        "info": "https://llamarific.social/matrix.html",
         "jurisdiction": "US?",
         "tos": null,
         "privacy": null,
@@ -650,6 +730,7 @@
     {
         "name": "magaya.org",
         "domain": "magaya.org",
+        "info": "https://magaya.org",
         "jurisdiction": "Australia",
         "tos": "https://magaya.org/terms/",
         "privacy": "https://magaya.org/privacy-policy/",
@@ -663,6 +744,7 @@
     {
         "name": "magdeburg.jetzt",
         "domain": "magdeburg.jetzt",
+        "info": "https://magdeburg.jetzt/",
         "jurisdiction": "Germany",
         "tos": "https://softwerke.md/nutzungsbestimmungen/",
         "privacy": "https://softwerke.md/datenschutz/",
@@ -676,6 +758,7 @@
     {
         "name": "mailstation.de",
         "domain": "mailstation.de",
+        "info": "https://turing.mailstation.de/?page_id=1375",
         "jurisdiction": "Germany",
         "tos": "https://turing.mailstation.de/terms-and-conditions/",
         "privacy": null,
@@ -689,17 +772,21 @@
     {
         "name": "matrix.im",
         "domain": "matrix.im",
+        "info": "https://matrix.im",
         "jurisdiction": "Germany",
         "tos": null,
         "privacy": "https://www.matrix.im/datenschutz.html",
         "open": true,
         "remarks": "In German",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.53.0"
     },
     {
         "name": "matrixim.cc",
         "domain": "matrixim.cc",
+        "info": "https://matrixim.cc",
         "jurisdiction": "China? (Finland)",
         "tos": null,
         "privacy": null,
@@ -713,28 +800,49 @@
     {
         "name": "melroy.org",
         "domain": "melroy.org",
+        "info": "https://docs.libreweb.org/community/discussions/",
         "jurisdiction": "Netherlands",
         "tos": null,
         "privacy": null,
         "open": true,
         "remarks": "Accessory",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.53.0"
     },
     {
+        "name": "milkte.ch",
+        "domain": "milkte.ch",
+        "info": "https://milkte.ch",
+        "jurisdiction": "Switzerland?",
+        "tos": "https://milkte.ch/rules.html",
+        "privacy": "https://milkte.ch/privacy.html",
+        "open": true,
+        "remarks": "",
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.41.1"
+    },
+    {
         "name": "monero.social",
         "domain": "monero.social",
+        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
         "jurisdiction": "US",
         "tos": "https://www.getmonero.org/legal/",
         "privacy": null,
         "open": true,
         "remarks": "18+; accessory; crypto",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.52.0"
     },
     {
         "name": "mtrx.nz",
         "domain": "mtrx.nz",
+        "info": "https://mtrx.nz",
         "jurisdiction": "New Zealand",
         "tos": null,
         "privacy": null,
@@ -748,6 +856,7 @@
     {
         "name": "mux.re",
         "domain": "mux.re",
+        "info": "https://mux.re",
         "jurisdiction": "France?",
         "tos": null,
         "privacy": null,
@@ -761,6 +870,7 @@
     {
         "name": "nitro.chat",
         "domain": "nitro.chat",
+        "info": "https://nitro.chat",
         "jurisdiction": "Germany",
         "tos": null,
         "privacy": "https://www.nitrokey.com/data-privacy-policy",
@@ -774,6 +884,7 @@
     {
         "name": "nixbitcoin.org",
         "domain": "nixbitcoin.org",
+        "info": "https://nixbitcoin.org",
         "jurisdiction": "Germany?",
         "tos": null,
         "privacy": null,
@@ -787,6 +898,7 @@
     {
         "name": "nltrix.net",
         "domain": "nltrix.net",
+        "info": "https://nltrix.net",
         "jurisdiction": "Netherlands",
         "tos": "https://nltrix.net/#coc",
         "privacy": "https://www.bit.nl/nl/over-bit/voorwaarden-en-policies",
@@ -800,6 +912,7 @@
     {
         "name": "noagenda.chat",
         "domain": "noagenda.chat",
+        "info": "https://noagenda.chat",
         "jurisdiction": "US?",
         "tos": null,
         "privacy": null,
@@ -813,6 +926,7 @@
     {
         "name": "oblak.be",
         "domain": "oblak.be",
+        "info": "https://oblak.be/apps/chat/",
         "jurisdiction": "Germany?",
         "tos": null,
         "privacy": null,
@@ -826,6 +940,7 @@
     {
         "name": "ohai.su",
         "domain": "ohai.su",
+        "info": "https://ohai.su",
         "jurisdiction": "Germany",
         "tos": null,
         "privacy": null,
@@ -839,6 +954,7 @@
     {
         "name": "okash.it",
         "domain": "okash.it",
+        "info": "https://okash.it/services.html",
         "jurisdiction": "US?",
         "tos": null,
         "privacy": null,
@@ -852,6 +968,7 @@
     {
         "name": "ombreport.info",
         "domain": "matrix.ombreport.info",
+        "info": "http://ombreport.info",
         "jurisdiction": "France?",
         "tos": null,
         "privacy": null,
@@ -865,6 +982,7 @@
     {
         "name": "pcriot.org",
         "domain": "pcriot.org",
+        "info": "https://pcriot.org",
         "jurisdiction": "Germany?",
         "tos": null,
         "privacy": null,
@@ -878,6 +996,7 @@
     {
         "name": "perthchat.org",
         "domain": "perthchat.org",
+        "info": "https://perthchat.org",
         "jurisdiction": "Australia",
         "tos": null,
         "privacy": null,
@@ -891,6 +1010,7 @@
     {
         "name": "planetdecred.org",
         "domain": "planetdecred.org",
+        "info": "https://planetdecred.org/chat/",
         "jurisdiction": "US?",
         "tos": null,
         "privacy": null,
@@ -904,17 +1024,21 @@
     {
         "name": "poenisch.info",
         "domain": "poenisch.info",
+        "info": "https://poenisch.info/matrix.php",
         "jurisdiction": "Germany",
         "tos": null,
         "privacy": "https://poenisch.info/datenschutz.php",
         "open": true,
         "remarks": "",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.24.0"
     },
     {
         "name": "pragma-messenger.ch",
         "domain": "pragma-messenger.ch",
+        "info": "https://pragma-solution.com/de/Produkte/messenger/",
         "jurisdiction": "Switzerland",
         "tos": "https://pragma-solution.com/de/Produkte/messenger/Matrix-Nutzungsbedingungen",
         "privacy": "https://pragma-solution.com/de/Produkte/messenger/Matrix-Datenschutz",
@@ -928,6 +1052,7 @@
     {
         "name": "privex.io",
         "domain": "privex.io",
+        "info": "https://privex.io",
         "jurisdiction": "Belize? (Sweden)",
         "tos": null,
         "privacy": null,
@@ -941,6 +1066,7 @@
     {
         "name": "pub.solar",
         "domain": "pub.solar",
+        "info": "https://pub.solar",
         "jurisdiction": "Germany",
         "tos": null,
         "privacy": "https://pub.solar/privacy.html",
@@ -954,6 +1080,7 @@
     {
         "name": "qoto.org",
         "domain": "matrix.qoto.org",
+        "info": "https://qoto.org/about/more",
         "jurisdiction": "US?",
         "tos": "https://qoto.org/about/more",
         "privacy": null,
@@ -967,6 +1094,7 @@
     {
         "name": "radicle.community",
         "domain": "radicle.community",
+        "info": "https://docs.radicle.xyz/docs/get-involved/join-the-community",
         "jurisdiction": "Switzerland",
         "tos": null,
         "privacy": null,
@@ -980,6 +1108,7 @@
     {
         "name": "riotchat.de",
         "domain": "riotchat.de",
+        "info": "https://riotchat.de/legal/help.html",
         "jurisdiction": "Germany",
         "tos": "https://riotchat.de/legal/terms.html",
         "privacy": "https://riotchat.de/legal/privacy.html",
@@ -993,6 +1122,7 @@
     {
         "name": "ru-matrix.org",
         "domain": "ru-matrix.org",
+        "info": "https://ru-matrix.org",
         "jurisdiction": "Russia (Germany)",
         "tos": null,
         "privacy": null,
@@ -1006,17 +1136,21 @@
     {
         "name": "rumatrix.org",
         "domain": "rumatrix.org",
+        "info": "https://rumatrix.org",
         "jurisdiction": "Russia (Netherlands)",
         "tos": null,
         "privacy": null,
         "open": true,
         "remarks": "In Russian",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.53.0"
     },
     {
         "name": "scyldings.com",
         "domain": "scyldings.com",
+        "info": "https://scyldings.com/guide-joining-the-chat-server-on-scyldings-com/",
         "jurisdiction": "UK? (US)",
         "tos": null,
         "privacy": null,
@@ -1030,6 +1164,7 @@
     {
         "name": "socialnetwork24.com",
         "domain": "socialnetwork24.com",
+        "info": "https://blog.unixweb.de/telegram-abgeschaltet-alternative-matrix/",
         "jurisdiction": "Germany",
         "tos": null,
         "privacy": null,
@@ -1043,6 +1178,7 @@
     {
         "name": "studichat.de",
         "domain": "studichat.de",
+        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
         "jurisdiction": "Germany",
         "tos": null,
         "privacy": null,
@@ -1056,6 +1192,7 @@
     {
         "name": "sudo.is",
         "domain": "sudo.is",
+        "info": "https://matrix.sudo.is/",
         "jurisdiction": "Germany",
         "tos": null,
         "privacy": null,
@@ -1069,6 +1206,7 @@
     {
         "name": "synod.im",
         "domain": "synod.im",
+        "info": "https://doc.librechurch.org/Wiki.jsp?page=Matrix#section-Matrix-DieMatrixInstanzSynod.im",
         "jurisdiction": "Germany",
         "tos": "https://synod.im/_matrix/consent?v=1.0",
         "privacy": "https://synod.im/privacy-1.2.html",
@@ -1082,17 +1220,21 @@
     {
         "name": "tauasul.net",
         "domain": "tauasul.net",
+        "info": "https://tauasul.net",
         "jurisdiction": "? (Germany)",
         "tos": null,
         "privacy": null,
         "open": true,
         "remarks": "In Arabic",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "0.24.1"
     },
     {
         "name": "techsaviours.org",
         "domain": "techsaviours.org",
+        "info": "https://techsaviours.org/services.html",
         "jurisdiction": "Germany",
         "tos": "https://techsaviours.org/terms-of-use.html",
         "privacy": "https://techsaviours.org/privacy-policy.html",
@@ -1106,6 +1248,7 @@
     {
         "name": "tedomum.net",
         "domain": "tedomum.net",
+        "info": "https://tedomum.net/service/matrix/",
         "jurisdiction": "France",
         "tos": "https://tedomum.net/page/cgu/#",
         "privacy": "https://tedomum.net/page/cgu/",
@@ -1119,6 +1262,7 @@
     {
         "name": "the-apothecary.club",
         "domain": "the-apothecary.club",
+        "info": "https://the-apothecary.club",
         "jurisdiction": "Germany?",
         "tos": "https://the-apothecary.club/rules/",
         "privacy": null,
@@ -1132,6 +1276,7 @@
     {
         "name": "trygve.me",
         "domain": "trygve.me",
+        "info": "https://trygve.me/matrix_info/",
         "jurisdiction": "Norway",
         "tos": null,
         "privacy": null,
@@ -1145,6 +1290,7 @@
     {
         "name": "ungleich.ch",
         "domain": "ungleich.ch",
+        "info": "https://ungleich.ch/u/projects/open-chat/",
         "jurisdiction": "Switzerland",
         "tos": null,
         "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
@@ -1158,6 +1304,7 @@
     {
         "name": "unredacted.org",
         "domain": "unredacted.org",
+        "info": "https://unredacted.org/services/matrix/",
         "jurisdiction": "US (Romania)",
         "tos": null,
         "privacy": null,
@@ -1171,6 +1318,7 @@
     {
         "name": "utc.chat",
         "domain": "utc.chat",
+        "info": "https://utc.today/whichside",
         "jurisdiction": "China? (US)",
         "tos": null,
         "privacy": null,
@@ -1184,6 +1332,7 @@
     {
         "name": "utwente.io",
         "domain": "utwente.io",
+        "info": "https://syscom.utwente.io/info/matrix/homeserver/",
         "jurisdiction": "Netherlands",
         "tos": "https://syscom.utwente.io/info/matrix/homeserver/#rules",
         "privacy": "https://syscom.utwente.io/info/privacy/matrix/",
@@ -1197,6 +1346,7 @@
     {
         "name": "virto.community",
         "domain": "virto.community",
+        "info": "https://virto.network/",
         "jurisdiction": "? (Germany)",
         "tos": null,
         "privacy": null,
@@ -1210,6 +1360,7 @@
     {
         "name": "yatrix.org",
         "domain": "yatrix.org",
+        "info": "https://yatrix.org",
         "jurisdiction": "Germany",
         "tos": null,
         "privacy": "https://yatrix.org/#datenschutzhinweise",
@@ -1223,6 +1374,7 @@
     {
         "name": "fachschaften.org",
         "domain": "fachschaften.org",
+        "info": "https://fachschaften.org",
         "jurisdiction": "Germany",
         "tos": "https://fsinfo.cs.tu-dortmund.de/studis/coc",
         "privacy": "https://md.fachschaften.org/_hmxfyc-SZi-fLjyyT2kvw",
@@ -1236,6 +1388,7 @@
     {
         "name": "pikaviestin.fi",
         "domain": "pikaviestin.fi",
+        "info": "https://pikaviestin.fi",
         "jurisdiction": "Finland",
         "tos": null,
         "privacy": "https://www.pikaviestin.fi/tietosuojaseloste.pdf",
@@ -1249,6 +1402,7 @@
     {
         "name": "aletheia.moe",
         "domain": "aletheia.moe",
+        "info": "https://aletheia.moe",
         "jurisdiction": "Iceland?",
         "tos": "https://aletheia.moe/tos/",
         "privacy": "https://aletheia.moe/tos/",
@@ -1262,6 +1416,7 @@
     {
         "name": "bitma.st",
         "domain": "bitma.st",
+        "info": "https://bitma.st",
         "jurisdiction": "US",
         "tos": "https://bitma.st/en/terms-of-service/",
         "privacy": "https://bitma.st/en/privacy-policy/",
@@ -1275,6 +1430,7 @@
     {
         "name": "deuxfleurs.fr",
         "domain": "deuxfleurs.fr",
+        "info": "https://deuxfleurs.fr",
         "jurisdiction": "France",
         "tos": null,
         "privacy": null,
@@ -1288,17 +1444,21 @@
     {
         "name": "hingst.net",
         "domain": "hingst.net",
+        "info": "https://hingst.net",
         "jurisdiction": "Sweden",
         "tos": "https://www.hovkluster.se/matrix/villkor_hingst.html",
         "privacy": "https://www.hovkluster.se/matrix/integritet_hingst.html",
         "open": false,
         "remarks": "In Swedish",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.52.0"
     },
     {
         "name": "libreon.fr",
         "domain": "libreon.fr",
+        "info": "https://libreon.fr",
         "jurisdiction": "France",
         "tos": "https://libreon.fr/cgu",
         "privacy": "https://libreon.fr/cgu",
@@ -1312,38 +1472,43 @@
     {
         "name": "fsfe.org",
         "domain": "fsfe.org",
+        "info": "https://fsfe.org/news/2022/news-20220202-01.html",
         "jurisdiction": "Germany",
         "tos": "https://fsfe.org/about/codeofconduct",
         "privacy": "https://fsfe.org/about/legal/imprint.en.html#id-privacy-policy",
         "open": false,
         "remarks": "Accessory",
         "reg_method": "Membership",
-        "reg_link": "https://my.fsfe.org/donate) (10+€/month",
+        "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
         "version": "1.51.0"
     },
     {
         "name": "hadoly.fr",
         "domain": "hadoly.fr",
+        "info": "https://hadoly.fr",
         "jurisdiction": "France",
         "tos": "https://hadoly.fr/cgu.html",
         "privacy": null,
         "open": false,
         "remarks": "In French",
         "reg_method": "Membership",
-        "reg_link": "https://hadoly.fr/#adh%C3%A9rer) (7~25€",
+        "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
         "software": "Synapse",
         "version": "1.53.0"
     },
     {
         "name": "sans-nuage.fr",
         "domain": "sans-nuage.fr",
+        "info": "https://sans-nuage.fr",
         "jurisdiction": "France",
         "tos": null,
         "privacy": null,
         "open": false,
         "remarks": "In French",
+        "reg_method": "Membership",
+        "reg_link": "https://adherents.arn-fai.net/members/register/",
         "software": "Synapse",
         "version": "1.51.0"
-    },
+    }
 ]
