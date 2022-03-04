@@ -705,6 +705,21 @@
         "version": "1.53.0"
     },
     {
+        "name": "jupiterbroadcasting.com",
+        "domain": "jupiterbroadcasting.com",
+        "info": "https://linuxunplugged.com/matrixinfo",
+        "jurisdiction": "US?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Accessory",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.53.0"
+    },
+    {
         "name": "kreatea.space",
         "domain": "kreatea.space",
         "info": "https://kreatea.space/wiki/matrix/",
@@ -960,21 +975,6 @@
         "version": "1.53.0"
     },
     {
-        "name": "noagenda.chat",
-        "domain": "noagenda.chat",
-        "info": "https://noagenda.chat",
-        "jurisdiction": "US?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.noagenda.chat/",
-        "software": "Synapse",
-        "version": "1.49.2"
-    },
-    {
         "name": "oblak.be",
         "domain": "oblak.be",
         "info": "https://oblak.be/apps/chat/",
@@ -1183,21 +1183,6 @@
         "reg_link": "https://riotchat.de/register/form.php",
         "software": "Synapse",
         "version": "1.51.0"
-    },
-    {
-        "name": "ru-matrix.org",
-        "domain": "ru-matrix.org",
-        "info": "https://ru-matrix.org",
-        "jurisdiction": "Russia (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Russian",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://riot.ru-matrix.org/",
-        "software": "Synapse",
-        "version": "1.53.0"
     },
     {
         "name": "rumatrix.org",
