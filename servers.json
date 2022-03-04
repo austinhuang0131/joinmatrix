@@ -885,21 +885,6 @@
         "version": "1.53.0"
     },
     {
-        "name": "milkte.ch",
-        "domain": "milkte.ch",
-        "info": "https://milkte.ch",
-        "jurisdiction": "Switzerland?",
-        "tos": "https://milkte.ch/rules.html",
-        "privacy": "https://milkte.ch/privacy.html",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.41.1"
-    },
-    {
         "name": "monero.social",
         "domain": "monero.social",
         "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
