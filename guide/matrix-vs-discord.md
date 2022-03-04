@@ -35,7 +35,7 @@ I'm sure you can find a lot of valid criticisms of Discord, like [here](https://
 
 In the scope of this guide, the key reasons to move from Discord to Matrix are:
 
-* **Lack of privacy for private communications**, as private conversations are not only unencrypted, but also actively scanned (scope of which depends on your settings, but some happen even when you disable all the filtering-related toggles). People reported their messages were substituted with cooking recipes when they tried to send something that is considered a virus by Discord.
+* **Lack of privacy for private communications**, as private conversations are not only unencrypted, but also actively scanned (scope of which depends on your settings, but some happen even when you disable all the filtering-related toggles). [People reported](https://www.reddit.com/r/discordapp/comments/t5v3of/viruses_now_get_turned_into_recipe_links_funny/) their messages were substituted with cooking recipes when they tried to send something that is considered a virus by Discord.
 * **Excessive tracking some of which cannot be opted-out in a ToS-abiding way**, such as the [science endpoint](https://luna.gitlab.io/discord-unofficial-docs/science.html) and the process logger (for activity status)[^10]. Most third party clients and some client mods do not support science endpoint, nor process detection. To this date, there is no known user banned for not sending the telemetry data.
 * **Hostile stance against unofficial clients or client modifications**, thus preventing users from opting out of certain annoyances or tracking in a compliant way.
 * **Arbitrary phone number requirements**. Some users that are deemed suspicious and users that join certain "servers" are required to verify their phone number.
