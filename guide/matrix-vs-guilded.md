@@ -37,7 +37,7 @@ In the scope of this guide, the key reasons to move from Guilded to Matrix are:
 * **Closed source**, thus cannot be independently inspected.
 * **Lack of control for private data and no guarantee on reliability**, as Guilded is centralized, not federated. See [here](../matrix-vs-al/#centralized-platforms).
 * **Client-server API has serious performance issues**. This is verified by Guilded, has not been resolved despite several attempts. A Guilded channel causes ten times as much data to be retrieved as a similar Matrix room does.
-* **Guilded did not allow deleting user accounts until recently**. Prior to June 2021, it was not possible to delete Guilded user accounts; they instead advised just stopping using Guilded.
+* **Guilded did not allow deleting user accounts until recently**. Prior to June 2021, it was not possible to delete Guilded user accounts; they instead advised to just stop using Guilded.
 * **Guilded is owned by Roblox**.
  
 [Matrix addresses all of the above](../#why-matrix).
