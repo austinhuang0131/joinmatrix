@@ -525,21 +525,6 @@
         "version": "1.47.1"
     },
     {
-        "name": "filik.eu",
-        "domain": "filik.eu",
-        "info": "https://filik.eu",
-        "jurisdiction": "Czech Republic",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.53.0"
-    },
-    {
         "name": "flieger.chat",
         "domain": "flieger.chat",
         "info": "https://yatrix.org",
@@ -855,21 +840,6 @@
         "version": "1.53.0"
     },
     {
-        "name": "matrixim.cc",
-        "domain": "matrixim.cc",
-        "info": "https://matrixim.cc",
-        "jurisdiction": "China? (Finland)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Chinese",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.matrixim.cc/",
-        "software": "Synapse",
-        "version": "1.53.0"
-    },
-    {
         "name": "melroy.org",
         "domain": "melroy.org",
         "info": "https://docs.libreweb.org/community/discussions/",
@@ -883,6 +853,21 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.53.0"
+    },
+    {
+        "name": "milkte.ch",
+        "domain": "milkte.ch",
+        "info": "https://milkte.ch",
+        "jurisdiction": "Switzerland?",
+        "tos": "https://milkte.ch/rules.html",
+        "privacy": "https://milkte.ch/privacy.html",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.41.1"
     },
     {
         "name": "monero.social",
@@ -1230,21 +1215,6 @@
         "version": "1.50.1"
     },
     {
-        "name": "studichat.de",
-        "domain": "studichat.de",
-        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.studichat.de/",
-        "software": "Synapse",
-        "version": "1.52.0"
-    },
-    {
         "name": "sudo.is",
         "domain": "sudo.is",
         "info": "https://matrix.sudo.is/",
@@ -1588,5 +1558,20 @@
         "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
         "software": "Synapse",
         "version": "1.53.0"
+    },
+    {
+        "name": "sans-nuage.fr",
+        "domain": "sans-nuage.fr",
+        "info": "https://sans-nuage.fr",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": false,
+        "remarks": "In French",
+        "antifeature": null,
+        "reg_method": "Membership",
+        "reg_link": "https://adherents.arn-fai.net/members/register/",
+        "software": "Synapse",
+        "version": "1.51.0"
     },
 ]
