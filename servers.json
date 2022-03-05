@@ -690,21 +690,6 @@
         "version": "1.53.0"
     },
     {
-        "name": "jupiterbroadcasting.com",
-        "domain": "jupiterbroadcasting.com",
-        "info": "https://linuxunplugged.com/matrixinfo",
-        "jurisdiction": "US?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.53.0"
-    },
-    {
         "name": "kreatea.space",
         "domain": "kreatea.space",
         "info": "https://kreatea.space/wiki/matrix/",
@@ -853,21 +838,6 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.53.0"
-    },
-    {
-        "name": "milkte.ch",
-        "domain": "milkte.ch",
-        "info": "https://milkte.ch",
-        "jurisdiction": "Switzerland?",
-        "tos": "https://milkte.ch/rules.html",
-        "privacy": "https://milkte.ch/privacy.html",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.41.1"
     },
     {
         "name": "monero.social",
@@ -1213,6 +1183,21 @@
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
         "version": "1.50.1"
+    },
+    {
+        "name": "studichat.de",
+        "domain": "studichat.de",
+        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; student-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.studichat.de/",
+        "software": "Synapse",
+        "version": "1.53.0"
     },
     {
         "name": "sudo.is",
