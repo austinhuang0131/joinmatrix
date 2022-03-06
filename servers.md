@@ -41,7 +41,8 @@ This is a list of public Matrix homeservers as compiled by the author of this gu
 * For long-term usage, choose a homeserver that you trust, [is properly federated](https://federationtester.matrix.org/), has a high version number, has an environment suitable to your use, and is designed to last.
 * Any homeserver you choose gets to access all the unencrypted data about your account!
 * **It bears reminding** that all participants of public discourse should foster a respectful environment, and that homeserver operators should discourage disruptive behaviour. As such, this list excludes homeservers that are known to harbour bad actors. Refer to [Criteria](#criteria).
-* For homeserver owners: You are recommended to implement [MSC1929](https://github.com/matrix-org/matrix-doc/blob/hs/proposal-admin-contact-1/proposals/1929-admin-contact.md).
+* For homeserver owners: You should implement [MSC1929](https://github.com/matrix-org/matrix-doc/blob/hs/proposal-admin-contact-1/proposals/1929-admin-contact.md).
+* This list is also available [as a JSON](../servers.json). Clients are welcomed to implement it as long as sufficient credit is given.
 
 **Disclaimer:**
 
@@ -85,10 +86,7 @@ From left to right:
 * **Jurisdiction (and Server location)**: The jurisdiction the homeserver is located within. The server location, if differs from the jurisdiction of the homeserver, is shown in the brackets. Note that generally, homeservers located in Germany are more actively moderated due to [legal and social contexts](https://en.wikipedia.org/wiki/Censorship_in_Germany#Re-unified_Germany_(1990%E2%80%93present)).
 * **Rules?**: The existence of written rules/ToS for all users on the homeserver. Note that rules can only be considered if they apply to all activities (not just those in specific rooms) of a user, and if they are published in a webpage (including but not limited to `/_matrix/consent`). An "unclear" or "sort of" (colored yellow) means that the rules' scope or wording is unclear.
 * **Privacy Policy?**: The existence of written privacy policy for all users on the homeserver. Generally, most parts of the ["Understand how your data is used" notice](https://matrix-client.matrix.org/_matrix/consent?v=1.0) apply network-wide. Note that a privacy policy can only be considered if it is explicitly applied to the Matrix homeserver, is published in a webpage (including but not limited to `/_matrix/consent`), and is not a copy of the aforementioned notice. An "unclear" or "sort of" (colored yellow) means the privacy policy's scope or wording is unclear.
-* **Privacy concerns?**: Any remarks regarding the configuration of the homeserver that *may be* of concern for user privacy.
-  * "reCaptcha": Registering on the homeserver requires filling out a Google reCaptcha. This does not apply to logins. Due to reCaptcha configurations, it may be necessary to register on the homeserver's own Element client.
-  * "Email": Registering on the homeserver requires an email address.
-* **Note**: Miscellaneous remarks. Note that a homeserver's theme/orientation can sometimes be seen from the domain itself, in which case it will not be noted down here.
+* **Note**: Miscellaneous remarks. Note that a homeserver's theme/orientation can sometimes be seen from the domain itself, in which case it will not be noted down here. Anti-features are *italicized*.
   * Age restriction: Matrix is 16+. Homeservers that require users to be older are specified.
   * "Accessory": The homeserver is specifically intended for rooms related to the operator (usually a project), so please be considerate in listing rooms in the public room directory. However, the accounts can be used to access other federated rooms as well.
   * "Residential": The homeserver may be hosting on a residential internet connection.
@@ -96,12 +94,13 @@ From left to right:
   * "...-inclined": While the homeserver is not specifically intended to serve any purpose, it is nevertheless used for the mentioned purpose.
 * **Registration method**: Exact registration procedure. Those are tested (but not necessarily thoroughly) on [the official Element web client](https://app.element.io) and, in most cases, should work for other clients as well.
   * "In-house Element": You may [register](../guide/#register-an-account) using the Element client hosted on the homeserver, which is linked. This is usually due to reCaptcha domain restriction.
+  * "Form": You may register using the linked form.
   * "See info page": Refer to the page linked in the "server name" column.
   * A domain: After clicking "Create Account" and "Edit," enter the domain as specified in this column (without `https://`) to [create an account](../guide/#register-an-account) on this homeserver. This discrepancy is usually due to the misconfiguration of `.well-known`.
   * "SSO": The homeserver requires [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) for authentication. You must create an account through the link prior to creating an account on the Matrix homeserver itself. Usually, the account can be used to access other services offered by the homeserver operator.
 * **Version**: The software version of the homeserver, [updated every 6 hours by a GitHub Action](https://github.com/austinhuang0131/joinmatrix/blob/main/.github/workflows/matrix_ver.yml#L4).
   * Unless indicated otherwise, the homeserver is running Synapse, where versions `1.47.1` and above (coloured green) is [recommended](https://matrix.org/blog/2021/11/23/synapse-1-47-1-released) to address a security issue. Homeservers running deprecated versions, namely those prior to `1.47.1`, as well as `1.49.0` (due to a [regression](https://github.com/matrix-org/synapse/pull/11583)), are coloured yellow.
-  * Homeservers that use experimental implementations (ie. ones other than Synapse) are not coloured.
+  * Homeservers that use Dendrite are not coloured. (The list will not include homeservers using other implementations in the near future.)
   * "Error!!" (coloured red): The homeserver cannot be reached at the time of checking. This is usually occasional, as frequent downtime are grounds for exclusion from this list.
 
 ## Other Matrix homeserver lists
