@@ -1197,7 +1197,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.shibabox.eu/",
         "software": "Synapse",
-        "version": "1.47.0"
+        "version": "1.53.0"
     },
     {
         "name": "socialnetwork24.com",
@@ -1273,6 +1273,21 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "0.24.1"
+    },
+    {
+        "name": "tchncs.de",
+        "domain": "tchncs.de",
+        "info": "https://tchncs.de/matrix",
+        "jurisdiction": "Germany",
+        "tos": "https://tchncs.de/matrix/tos",
+        "privacy": "https://tchncs.de/matrix/privacy",
+        "open": true,
+        "remarks": "Only stores messages for a year",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.tchncs.de/#/register",
+        "software": "Synapse",
+        "version": "1.53.0"
     },
     {
         "name": "techsaviours.org",
