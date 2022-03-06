@@ -357,7 +357,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.cuum.space/",
         "software": "Dendrite",
-        "version": "0.6.4+0297929b"
+        "version": "0.6.5+86d4eef9"
     },
     {
         "name": "danskungdom.dk",
@@ -683,21 +683,6 @@
         "privacy": null,
         "open": true,
         "remarks": "In German",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.53.0"
-    },
-    {
-        "name": "jupiterbroadcasting.com",
-        "domain": "jupiterbroadcasting.com",
-        "info": "https://linuxunplugged.com/matrixinfo",
-        "jurisdiction": "US?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory",
         "antifeature": null,
         "reg_method": null,
         "reg_link": null,
