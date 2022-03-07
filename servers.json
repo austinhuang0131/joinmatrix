@@ -330,21 +330,6 @@
         "version": "1.49.2"
     },
     {
-        "name": "cuum.space",
-        "domain": "cuum.space",
-        "info": "https://cuum.space",
-        "jurisdiction": "Russia",
-        "tos": "https://cuum.space/_matrix/consent?v=1.0",
-        "privacy": "https://cuum.space/_matrix/consent?v=1.0",
-        "open": true,
-        "remarks": "NSFW-inclined",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.cuum.space/",
-        "software": "Dendrite",
-        "version": "0.6.5+86d4eef9"
-    },
-    {
         "name": "danskungdom.dk",
         "domain": "danskungdom.dk",
         "info": "https://danskungdom.dk/guides/matrix/",
@@ -778,6 +763,21 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.47.1"
+    },
+    {
+        "name": "llamarific.social",
+        "domain": "llamarific.social",
+        "info": "https://llamarific.social/matrix.html",
+        "jurisdiction": "US?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.llamarific.social/",
+        "software": "Synapse",
+        "version": "1.53.0"
     },
     {
         "name": "maahl.com",
