@@ -132,7 +132,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.bachgau.social/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "badstuebner.biz",
@@ -193,6 +193,21 @@
         "reg_link": "https://element.schaeferit.de/",
         "software": "Synapse",
         "version": "1.53.0"
+    },
+    {
+        "name": "catgirl.cloud",
+        "domain": "catgirl.cloud",
+        "info": "https://catgirl.cloud",
+        "jurisdiction": "Germany",
+        "tos": "https://catgirl.cloud/#rules",
+        "privacy": "https://catgirl.cloud/#privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.catgirl.cloud/",
+        "software": "Synapse",
+        "version": "1.54.0"
     },
     {
         "name": "chagai.website",
@@ -356,6 +371,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.das-labor.org/",
+        "software": "Synapse",
+        "version": "1.53.0"
+    },
+    {
+        "name": "data.haus",
+        "domain": "data.haus",
+        "info": "https://data.haus",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.data.haus/",
         "software": "Synapse",
         "version": "1.53.0"
     },
@@ -567,7 +597,7 @@
         "reg_method": "Form",
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
-        "version": "1.51.0"
+        "version": "1.53.0"
     },
     {
         "name": "glasgow.social",
@@ -822,7 +852,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "melroy.org",
@@ -1032,7 +1062,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "privex.io",
@@ -1107,7 +1137,7 @@
         "reg_method": "Form",
         "reg_link": "https://riotchat.de/register/form.php",
         "software": "Synapse",
-        "version": "1.51.0"
+        "version": "1.53.0"
     },
     {
         "name": "rumatrix.org",
@@ -1185,6 +1215,21 @@
         "version": "1.50.1"
     },
     {
+        "name": "studichat.de",
+        "domain": "studichat.de",
+        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; student-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.studichat.de/",
+        "software": "Synapse",
+        "version": "1.54.0"
+    },
+    {
         "name": "sudo.is",
         "domain": "sudo.is",
         "info": "https://matrix.sudo.is/",
@@ -1212,7 +1257,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "tauasul.net",
@@ -1362,7 +1407,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://utc.chat/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "utwente.io",
