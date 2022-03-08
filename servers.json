@@ -120,6 +120,21 @@
         "version": "0.5.1+e81ef164"
     },
     {
+        "name": "bachgau.social",
+        "domain": "bachgau.social",
+        "info": "https://www.bachgau.social/unsere-dienste/matrix/",
+        "jurisdiction": "Germany",
+        "tos": "https://mastodon.bachgau.social/about/more",
+        "privacy": "https://www.bachgau.social/datenschutzerklaerung/",
+        "open": true,
+        "remarks": "In German; region-specific",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.bachgau.social/",
+        "software": "Synapse",
+        "version": "1.53.0"
+    },
+    {
         "name": "badstuebner.biz",
         "domain": "badstuebner.biz",
         "info": "https://badstuebner.biz",
@@ -176,21 +191,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.schaeferit.de/",
-        "software": "Synapse",
-        "version": "1.53.0"
-    },
-    {
-        "name": "catgirl.cloud",
-        "domain": "catgirl.cloud",
-        "info": "https://catgirl.cloud",
-        "jurisdiction": "Germany",
-        "tos": "https://catgirl.cloud/#rules",
-        "privacy": "https://catgirl.cloud/#privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.catgirl.cloud/",
         "software": "Synapse",
         "version": "1.53.0"
     },
@@ -360,21 +360,6 @@
         "version": "1.53.0"
     },
     {
-        "name": "data.haus",
-        "domain": "data.haus",
-        "info": "https://data.haus",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.data.haus/",
-        "software": "Synapse",
-        "version": "1.53.0"
-    },
-    {
         "name": "demoicracy.org",
         "domain": "demoicracy.org",
         "info": "https://demoicracy.org",
@@ -447,7 +432,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "erfurt.chat",
@@ -672,7 +657,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "jupiterbroadcasting.com",
@@ -972,7 +957,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://matrix.ohai.su/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "ombreport.info",
@@ -1200,21 +1185,6 @@
         "version": "1.50.1"
     },
     {
-        "name": "studichat.de",
-        "domain": "studichat.de",
-        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.studichat.de/",
-        "software": "Synapse",
-        "version": "1.53.0"
-    },
-    {
         "name": "sudo.is",
         "domain": "sudo.is",
         "info": "https://matrix.sudo.is/",
@@ -1272,7 +1242,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "techsaviours.org",
@@ -1302,7 +1272,7 @@
         "reg_method": "SSO",
         "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "the-apothecary.club",
@@ -1452,7 +1422,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "pikaviestin.fi",
@@ -1468,21 +1438,6 @@
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
         "version": "1.51.0"
-    },
-    {
-        "name": "aletheia.moe",
-        "domain": "aletheia.moe",
-        "info": "https://aletheia.moe",
-        "jurisdiction": "Iceland?",
-        "tos": "https://aletheia.moe/tos/",
-        "privacy": "https://aletheia.moe/tos/",
-        "open": false,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://aletheia.moe/registration/",
-        "software": "Synapse",
-        "version": "1.53.0"
     },
     {
         "name": "bitma.st",
