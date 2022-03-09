@@ -507,7 +507,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "flieger.chat",
@@ -672,7 +672,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.inetd.xyz/",
         "software": "Synapse",
-        "version": "1.51.0"
+        "version": "1.54.0"
     },
     {
         "name": "jonasled.de",
@@ -781,7 +781,7 @@
     },
     {
         "name": "maahl.com",
-        "domain": "maahl.com",
+        "domain": "matrix.maahl.com",
         "info": "https://maahl.com",
         "jurisdiction": "Finland",
         "tos": null,
@@ -927,7 +927,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "nixbitcoin.org",
@@ -957,7 +957,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nltrix.net/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "oblak.be",
@@ -1148,21 +1148,6 @@
         "privacy": null,
         "open": true,
         "remarks": "In Russian",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.53.0"
-    },
-    {
-        "name": "sameteem.com",
-        "domain": "sameteem.com",
-        "info": "https://sameteem.com",
-        "jurisdiction": "US? (UK)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory",
         "antifeature": null,
         "reg_method": null,
         "reg_link": null,
