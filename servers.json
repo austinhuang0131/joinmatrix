@@ -15,21 +15,6 @@
         "version": "1.53.0"
     },
     {
-        "name": "activism.international",
-        "domain": "activism.international",
-        "info": "https://activism.international",
-        "jurisdiction": "Germany",
-        "tos": "https://activism.international/usage-policy/",
-        "privacy": "https://activism.international/privacy/cloud/",
-        "open": true,
-        "remarks": "Left-wing; accounts serve as SSO for other services",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.activism.international/",
-        "software": "Synapse",
-        "version": "1.51.0"
-    },
-    {
         "name": "altertek.org",
         "domain": "altertek.org",
         "info": "https://altertek.org/en/services/",
@@ -688,6 +673,21 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.54.0"
+    },
+    {
+        "name": "jupiterbroadcasting.com",
+        "domain": "jupiterbroadcasting.com",
+        "info": "https://linuxunplugged.com/matrixinfo",
+        "jurisdiction": "US?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Accessory",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.53.0"
     },
     {
         "name": "kreatea.space",
