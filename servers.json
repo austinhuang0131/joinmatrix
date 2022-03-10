@@ -642,7 +642,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.hingst.net/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "inetd.xyz",
@@ -673,21 +673,6 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.54.0"
-    },
-    {
-        "name": "jupiterbroadcasting.com",
-        "domain": "jupiterbroadcasting.com",
-        "info": "https://linuxunplugged.com/matrixinfo",
-        "jurisdiction": "US?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.53.0"
     },
     {
         "name": "kreatea.space",
@@ -747,7 +732,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.47.1"
+        "version": "1.54.0"
     },
     {
         "name": "llamarific.social",
@@ -766,7 +751,7 @@
     },
     {
         "name": "maahl.com",
-        "domain": "matrix.maahl.com",
+        "domain": "maahl.com",
         "info": "https://maahl.com",
         "jurisdiction": "Finland",
         "tos": null,
@@ -882,7 +867,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://mtrx.nz/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "mux.re",
