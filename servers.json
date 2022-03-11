@@ -717,7 +717,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "liberta.casa",
@@ -781,7 +781,7 @@
     },
     {
         "name": "maahl.com",
-        "domain": "maahl.com",
+        "domain": "matrix.maahl.com",
         "info": "https://maahl.com",
         "jurisdiction": "Finland",
         "tos": null,
@@ -1287,7 +1287,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
-        "version": "1.52.0"
+        "version": "1.54.0"
     },
     {
         "name": "tedomum.net",
