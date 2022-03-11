@@ -225,21 +225,6 @@
         "version": "1.49.0"
     },
     {
-        "name": "chatwave.org",
-        "domain": "chatwave.org",
-        "info": "https://yatrix.org",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://yatrix.org/",
-        "open": true,
-        "remarks": "In German; operated by yatrix.org",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.chatwave.org/",
-        "software": "Synapse",
-        "version": "1.53.0"
-    },
-    {
         "name": "club1.fr",
         "domain": "club1.fr",
         "info": "https://club1.fr/matrix/",
@@ -673,21 +658,6 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.54.0"
-    },
-    {
-        "name": "jupiterbroadcasting.com",
-        "domain": "jupiterbroadcasting.com",
-        "info": "https://linuxunplugged.com/matrixinfo",
-        "jurisdiction": "US?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.53.0"
     },
     {
         "name": "kreatea.space",
@@ -1438,21 +1408,6 @@
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
         "version": "1.53.0"
-    },
-    {
-        "name": "fachschaften.org",
-        "domain": "fachschaften.org",
-        "info": "https://fachschaften.org",
-        "jurisdiction": "Germany",
-        "tos": "https://fsinfo.cs.tu-dortmund.de/studis/coc",
-        "privacy": "https://md.fachschaften.org/_hmxfyc-SZi-fLjyyT2kvw",
-        "open": false,
-        "remarks": "In German; student-oriented; requires a German university email address",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.fachschaften.org/",
-        "software": "Synapse",
-        "version": "1.54.0"
     },
     {
         "name": "pikaviestin.fi",
