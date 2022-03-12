@@ -87,7 +87,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://el.aria-net.org/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "arrayinamatrix.xyz",
@@ -615,6 +615,21 @@
         "version": "1.49.2"
     },
     {
+        "name": "grin.hu",
+        "domain": "grin.hu",
+        "info": "https://matrix.grin.hu",
+        "jurisdiction": "Hungary",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://riot.grin.hu/",
+        "software": "Synapse",
+        "version": "1.53.0"
+    },
+    {
         "name": "group.lt",
         "domain": "group.lt",
         "info": "https://group.lt",
@@ -766,7 +781,7 @@
     },
     {
         "name": "maahl.com",
-        "domain": "matrix.maahl.com",
+        "domain": "maahl.com",
         "info": "https://maahl.com",
         "jurisdiction": "Finland",
         "tos": null,
@@ -898,21 +913,6 @@
         "reg_link": "https://chat.mux.re/",
         "software": "Synapse",
         "version": "1.53.0"
-    },
-    {
-        "name": "nitro.chat",
-        "domain": "nitro.chat",
-        "info": "https://nitro.chat",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://www.nitrokey.com/data-privacy-policy",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://app.nitro.chat/",
-        "software": "Synapse",
-        "version": "1.54.0"
     },
     {
         "name": "nltrix.net",
@@ -1183,21 +1183,6 @@
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
         "version": "1.50.1"
-    },
-    {
-        "name": "studichat.de",
-        "domain": "studichat.de",
-        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.studichat.de/",
-        "software": "Synapse",
-        "version": "1.54.0"
     },
     {
         "name": "sudo.is",
