@@ -387,7 +387,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.data.haus/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "demoicracy.org",
@@ -613,21 +613,6 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.49.2"
-    },
-    {
-        "name": "grin.hu",
-        "domain": "grin.hu",
-        "info": "https://matrix.grin.hu",
-        "jurisdiction": "Hungary",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://riot.grin.hu/",
-        "software": "Synapse",
-        "version": "1.53.0"
     },
     {
         "name": "group.lt",
