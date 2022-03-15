@@ -660,6 +660,21 @@
         "version": "1.54.0"
     },
     {
+        "name": "jupiterbroadcasting.com",
+        "domain": "jupiterbroadcasting.com",
+        "info": "https://linuxunplugged.com/matrixinfo",
+        "jurisdiction": "US?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Accessory",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.53.0"
+    },
+    {
         "name": "kreatea.space",
         "domain": "kreatea.space",
         "info": "https://kreatea.space/wiki/matrix/",
@@ -736,7 +751,7 @@
     },
     {
         "name": "maahl.com",
-        "domain": "maahl.com",
+        "domain": "matrix.maahl.com",
         "info": "https://maahl.com",
         "jurisdiction": "Finland",
         "tos": null,
@@ -1378,6 +1393,21 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.50.2"
+    },
+    {
+        "name": "virto.community",
+        "domain": "virto.community",
+        "info": "https://virto.network/",
+        "jurisdiction": "? (Germany)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Accessory; crypto",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.virto.community/",
+        "software": "Synapse",
+        "version": "1.52.0"
     },
     {
         "name": "yatrix.org",
