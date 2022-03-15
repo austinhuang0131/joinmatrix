@@ -30,21 +30,6 @@
         "version": "1.54.0"
     },
     {
-        "name": "altertek.org",
-        "domain": "altertek.org",
-        "info": "https://altertek.org/en/services/",
-        "jurisdiction": "France",
-        "tos": "https://altertek.org/en/terms-conditions/",
-        "privacy": null,
-        "open": true,
-        "remarks": "Tech collective",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.49.2"
-    },
-    {
         "name": "antifash.gay",
         "domain": "antifash.gay",
         "info": "https://antifash.gay",
@@ -675,21 +660,6 @@
         "version": "1.54.0"
     },
     {
-        "name": "jupiterbroadcasting.com",
-        "domain": "jupiterbroadcasting.com",
-        "info": "https://linuxunplugged.com/matrixinfo",
-        "jurisdiction": "US?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.53.0"
-    },
-    {
         "name": "kreatea.space",
         "domain": "kreatea.space",
         "info": "https://kreatea.space/wiki/matrix/",
@@ -1155,6 +1125,21 @@
         "version": "1.52.0"
     },
     {
+        "name": "sfunk1x.com",
+        "domain": "sfunk1x.com",
+        "info": "https://sfunk1x.com",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.sfunk1x.com/",
+        "software": "Synapse",
+        "version": "1.52.0"
+    },
+    {
         "name": "shibabox.eu",
         "domain": "shibabox.eu",
         "info": "https://shibabox.eu",
@@ -1393,21 +1378,6 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.50.2"
-    },
-    {
-        "name": "virto.community",
-        "domain": "virto.community",
-        "info": "https://virto.network/",
-        "jurisdiction": "? (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory; crypto",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.virto.community/",
-        "software": "Synapse",
-        "version": "1.52.0"
     },
     {
         "name": "yatrix.org",
