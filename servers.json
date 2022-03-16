@@ -1500,6 +1500,21 @@
         "version": "1.53.0"
     },
     {
+        "name": "bitma.st",
+        "domain": "bitma.st",
+        "info": "https://bitma.st",
+        "jurisdiction": "US",
+        "tos": "https://bitma.st/en/terms-of-service/",
+        "privacy": "https://bitma.st/en/privacy-policy/",
+        "open": false,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://bitma.st/en/contact/",
+        "software": "Synapse",
+        "version": "1.47.1"
+    },
+    {
         "name": "deuxfleurs.fr",
         "domain": "deuxfleurs.fr",
         "info": "https://deuxfleurs.fr",
