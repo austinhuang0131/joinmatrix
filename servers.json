@@ -855,6 +855,21 @@
         "version": "1.53.0"
     },
     {
+        "name": "monero.social",
+        "domain": "monero.social",
+        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
+        "jurisdiction": "US",
+        "tos": "https://www.getmonero.org/legal/",
+        "privacy": null,
+        "open": true,
+        "remarks": "18+; accessory; crypto",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.52.0"
+    },
+    {
         "name": "mtrx.nz",
         "domain": "mtrx.nz",
         "info": "https://mtrx.nz",
@@ -979,15 +994,15 @@
         "domain": "perthchat.org",
         "info": "https://perthchat.org",
         "jurisdiction": "Australia",
-        "tos": null,
-        "privacy": null,
+        "tos": "https://gitlab.com/perthchat.org/legal/-/raw/main/terms-of-service.txt",
+        "privacy": "https://gitlab.com/perthchat.org/legal/-/raw/main/privacy-policy.txt",
         "open": true,
         "remarks": "18+; regional",
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://client.perthchat.org/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "planetdecred.org",
@@ -1408,21 +1423,6 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.50.2"
-    },
-    {
-        "name": "virto.community",
-        "domain": "virto.community",
-        "info": "https://virto.network/",
-        "jurisdiction": "? (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory; crypto",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.virto.community/",
-        "software": "Synapse",
-        "version": "1.52.0"
     },
     {
         "name": "yatrix.org",
