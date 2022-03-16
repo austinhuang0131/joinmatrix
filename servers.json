@@ -87,22 +87,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.arrayinamatrix.xyz/",
         "software": "Synapse",
-        "version": "1.53.0"
-    },
-    {
-        "name": "asozial.org",
-        "domain": "asozial.org",
-        "info": "https://asozial.org",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; left-wing",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.asozial.org/",
-        "software": "Dendrite",
-        "version": "0.5.1+e81ef164"
+        "version": "1.54.0"
     },
     {
         "name": "bachgau.social",
@@ -373,21 +358,6 @@
         "reg_link": "https://chat.data.haus/",
         "software": "Synapse",
         "version": "1.54.0"
-    },
-    {
-        "name": "demoicracy.org",
-        "domain": "demoicracy.org",
-        "info": "https://demoicracy.org",
-        "jurisdiction": "US?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.demoicracy.org/",
-        "software": "Synapse",
-        "version": "1.39.0"
     },
     {
         "name": "devass.su",
@@ -1498,21 +1468,6 @@
         "reg_link": "https://aletheia.moe/registration/",
         "software": "Synapse",
         "version": "1.53.0"
-    },
-    {
-        "name": "bitma.st",
-        "domain": "bitma.st",
-        "info": "https://bitma.st",
-        "jurisdiction": "US",
-        "tos": "https://bitma.st/en/terms-of-service/",
-        "privacy": "https://bitma.st/en/privacy-policy/",
-        "open": false,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://bitma.st/en/contact/",
-        "software": "Synapse",
-        "version": "1.47.1"
     },
     {
         "name": "deuxfleurs.fr",
