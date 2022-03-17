@@ -75,19 +75,19 @@
         "version": "1.54.0"
     },
     {
-        "name": "arrayinamatrix.xyz",
-        "domain": "arrayinamatrix.xyz",
-        "info": "https://arrayinamatrix.xyz/index/matrix/",
-        "jurisdiction": "Canada",
-        "tos": "https://arrayinamatrix.xyz/index/matrix/#rules",
-        "privacy": "https://arrayinamatrix.xyz/index/privacy/#matrix",
+        "name": "asozial.org",
+        "domain": "asozial.org",
+        "info": "https://asozial.org",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
         "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
+        "remarks": "In German; left-wing",
+        "antifeature": null,
         "reg_method": "In-house Element",
-        "reg_link": "https://element.arrayinamatrix.xyz/",
-        "software": "Synapse",
-        "version": "1.54.0"
+        "reg_link": "https://chat.asozial.org/",
+        "software": "Dendrite",
+        "version": "0.5.1+e81ef164"
     },
     {
         "name": "bachgau.social",
@@ -387,7 +387,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "egora.org",
@@ -477,7 +477,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "freiburg.social",
@@ -1215,21 +1215,6 @@
         "version": "1.53.0"
     },
     {
-        "name": "sykorp.com",
-        "domain": "sykorp.com",
-        "info": "https://sykorp.com",
-        "jurisdiction": "Saudi Arabia",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Residential",
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.54.0"
-    },
-    {
         "name": "tauasul.net",
         "domain": "tauasul.net",
         "info": "https://tauasul.net",
@@ -1422,7 +1407,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "fachschaften.org",
@@ -1468,6 +1453,21 @@
         "reg_link": "https://aletheia.moe/registration/",
         "software": "Synapse",
         "version": "1.53.0"
+    },
+    {
+        "name": "bitma.st",
+        "domain": "bitma.st",
+        "info": "https://bitma.st",
+        "jurisdiction": "US",
+        "tos": "https://bitma.st/en/terms-of-service/",
+        "privacy": "https://bitma.st/en/privacy-policy/",
+        "open": false,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://bitma.st/en/contact/",
+        "software": "Synapse",
+        "version": "1.47.1"
     },
     {
         "name": "deuxfleurs.fr",
