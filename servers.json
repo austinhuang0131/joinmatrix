@@ -162,7 +162,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.schaeferit.de/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "catgirl.cloud",
@@ -660,6 +660,21 @@
         "version": "1.54.0"
     },
     {
+        "name": "jupiterbroadcasting.com",
+        "domain": "jupiterbroadcasting.com",
+        "info": "https://linuxunplugged.com/matrixinfo",
+        "jurisdiction": "US?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Accessory",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.53.0"
+    },
+    {
         "name": "kreatea.space",
         "domain": "kreatea.space",
         "info": "https://kreatea.space/wiki/matrix/",
@@ -736,7 +751,7 @@
     },
     {
         "name": "maahl.com",
-        "domain": "matrix.maahl.com",
+        "domain": "maahl.com",
         "info": "https://maahl.com",
         "jurisdiction": "Finland",
         "tos": null,
@@ -803,6 +818,21 @@
         "privacy": "https://www.matrix.im/datenschutz.html",
         "open": true,
         "remarks": "In German",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.54.0"
+    },
+    {
+        "name": "melroy.org",
+        "domain": "melroy.org",
+        "info": "https://docs.libreweb.org/community/discussions/",
+        "jurisdiction": "Netherlands",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Accessory",
         "antifeature": null,
         "reg_method": null,
         "reg_link": null,
@@ -1200,21 +1230,6 @@
         "version": "1.53.0"
     },
     {
-        "name": "sykorp.com",
-        "domain": "sykorp.com",
-        "info": "https://sykorp.com",
-        "jurisdiction": "Saudi Arabia",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Residential",
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.54.0"
-    },
-    {
         "name": "tauasul.net",
         "domain": "tauasul.net",
         "info": "https://tauasul.net",
@@ -1287,7 +1302,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://the-apothecary.club/",
         "software": "Synapse",
-        "version": "1.50.1"
+        "version": "1.54.0"
     },
     {
         "name": "tomesh.net",
@@ -1318,6 +1333,21 @@
         "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
         "version": "1.53.0"
+    },
+    {
+        "name": "ungleich.ch",
+        "domain": "ungleich.ch",
+        "info": "https://ungleich.ch/u/projects/open-chat/",
+        "jurisdiction": "Switzerland",
+        "tos": null,
+        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
+        "open": true,
+        "remarks": "Hosting provider",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://account.ungleich.ch/",
+        "software": "Synapse",
+        "version": "1.47.0"
     },
     {
         "name": "unredacted.org",
