@@ -75,6 +75,21 @@
         "version": "1.54.0"
     },
     {
+        "name": "arrayinamatrix.xyz",
+        "domain": "arrayinamatrix.xyz",
+        "info": "https://arrayinamatrix.xyz/index/matrix/",
+        "jurisdiction": "Canada",
+        "tos": "https://arrayinamatrix.xyz/index/matrix/#rules",
+        "privacy": "https://arrayinamatrix.xyz/index/privacy/#matrix",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.arrayinamatrix.xyz/",
+        "software": "Synapse",
+        "version": "1.54.0"
+    },
+    {
         "name": "asozial.org",
         "domain": "asozial.org",
         "info": "https://asozial.org",
