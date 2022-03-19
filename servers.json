@@ -135,21 +135,6 @@
         "version": "1.54.0"
     },
     {
-        "name": "buyvm.net",
-        "domain": "buyvm.net",
-        "info": "https://buyvm.net/beware-the-moshbear/",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Hosting provider; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.buyvm.net/element/",
-        "software": "Synapse",
-        "version": "1.54.0"
-    },
-    {
         "name": "bytes4u.de",
         "domain": "matrix.bytes4u.de",
         "info": "https://bytes4u.de",
@@ -751,7 +736,7 @@
     },
     {
         "name": "maahl.com",
-        "domain": "matrix.maahl.com",
+        "domain": "maahl.com",
         "info": "https://maahl.com",
         "jurisdiction": "Finland",
         "tos": null,
@@ -807,7 +792,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "matrix.im",
@@ -818,6 +803,21 @@
         "privacy": "https://www.matrix.im/datenschutz.html",
         "open": true,
         "remarks": "In German",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.54.0"
+    },
+    {
+        "name": "melroy.org",
+        "domain": "melroy.org",
+        "info": "https://docs.libreweb.org/community/discussions/",
+        "jurisdiction": "Netherlands",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Accessory",
         "antifeature": null,
         "reg_method": null,
         "reg_link": null,
