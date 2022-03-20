@@ -766,7 +766,7 @@
     },
     {
         "name": "maahl.com",
-        "domain": "matrix.maahl.com",
+        "domain": "maahl.com",
         "info": "https://maahl.com",
         "jurisdiction": "Finland",
         "tos": null,
@@ -1155,21 +1155,6 @@
         "version": "1.52.0"
     },
     {
-        "name": "sfunk1x.com",
-        "domain": "sfunk1x.com",
-        "info": "https://sfunk1x.com",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.sfunk1x.com/",
-        "software": "Synapse",
-        "version": "1.52.0"
-    },
-    {
         "name": "shibabox.eu",
         "domain": "shibabox.eu",
         "info": "https://shibabox.eu",
@@ -1242,7 +1227,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://talk.sudo.is/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "sykorp.com",
