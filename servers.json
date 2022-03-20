@@ -465,21 +465,6 @@
         "version": "1.0.0"
     },
     {
-        "name": "exarius.org",
-        "domain": "exarius.org",
-        "info": "https://exarius.org/wiki/services/exatrix/",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.47.1"
-    },
-    {
         "name": "filik.eu",
         "domain": "filik.eu",
         "info": "https://filik.eu",
@@ -766,7 +751,7 @@
     },
     {
         "name": "maahl.com",
-        "domain": "maahl.com",
+        "domain": "matrix.maahl.com",
         "info": "https://maahl.com",
         "jurisdiction": "Finland",
         "tos": null,
