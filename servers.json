@@ -480,21 +480,6 @@
         "version": "1.47.1"
     },
     {
-        "name": "filik.eu",
-        "domain": "filik.eu",
-        "info": "https://filik.eu",
-        "jurisdiction": "Czech Republic",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.54.0"
-    },
-    {
         "name": "flieger.chat",
         "domain": "flieger.chat",
         "info": "https://yatrix.org",
@@ -1153,6 +1138,21 @@
         "reg_link": "https://element.scyldings.com/",
         "software": "Synapse",
         "version": "1.52.0"
+    },
+    {
+        "name": "sfunk1x.com",
+        "domain": "sfunk1x.com",
+        "info": "https://sfunk1x.com",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.sfunk1x.com/",
+        "software": "Synapse",
+        "version": "1.54.0"
     },
     {
         "name": "shibabox.eu",
