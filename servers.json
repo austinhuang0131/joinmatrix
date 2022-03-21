@@ -270,21 +270,6 @@
         "version": "1.54.0"
     },
     {
-        "name": "comm.cx",
-        "domain": "comm.cx",
-        "info": "https://comm.cx",
-        "jurisdiction": "?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Uses Cloudflare",
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.54.0"
-    },
-    {
         "name": "community.rs",
         "domain": "community.rs",
         "info": "https://community.rs",
@@ -478,6 +463,21 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.47.1"
+    },
+    {
+        "name": "filik.eu",
+        "domain": "filik.eu",
+        "info": "https://filik.eu",
+        "jurisdiction": "Czech Republic",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.54.0"
     },
     {
         "name": "flieger.chat",
@@ -1153,21 +1153,6 @@
         "reg_link": "https://element.sfunk1x.com/",
         "software": "Synapse",
         "version": "1.54.0"
-    },
-    {
-        "name": "shibabox.eu",
-        "domain": "shibabox.eu",
-        "info": "https://shibabox.eu",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Furry-oriented; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.shibabox.eu/",
-        "software": "Synapse",
-        "version": "1.53.0"
     },
     {
         "name": "sibnsk.net",
