@@ -270,21 +270,6 @@
         "version": "1.54.0"
     },
     {
-        "name": "comm.cx",
-        "domain": "comm.cx",
-        "info": "https://comm.cx",
-        "jurisdiction": "?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Uses Cloudflare",
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.54.0"
-    },
-    {
         "name": "community.rs",
         "domain": "community.rs",
         "info": "https://community.rs",
@@ -656,6 +641,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.inetd.xyz/",
+        "software": "Synapse",
+        "version": "1.54.0"
+    },
+    {
+        "name": "jonasled.de",
+        "domain": "jonasled.de",
+        "info": "https://jonasled.de",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.54.0"
     },
