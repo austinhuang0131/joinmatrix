@@ -675,21 +675,6 @@
         "version": "1.54.0"
     },
     {
-        "name": "jupiterbroadcasting.com",
-        "domain": "jupiterbroadcasting.com",
-        "info": "https://linuxunplugged.com/matrixinfo",
-        "jurisdiction": "US?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.53.0"
-    },
-    {
         "name": "kreatea.space",
         "domain": "kreatea.space",
         "info": "https://kreatea.space/wiki/matrix/",
@@ -1051,7 +1036,7 @@
     },
     {
         "name": "pub.solar",
-        "domain": "pub.solar",
+        "domain": "matrix.pub.solar",
         "info": "https://pub.solar",
         "jurisdiction": "Germany",
         "tos": null,
@@ -1226,21 +1211,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
-        "software": "Synapse",
-        "version": "1.54.0"
-    },
-    {
-        "name": "sudo.is",
-        "domain": "sudo.is",
-        "info": "https://matrix.sudo.is/",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal?",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://talk.sudo.is/",
         "software": "Synapse",
         "version": "1.54.0"
     },
