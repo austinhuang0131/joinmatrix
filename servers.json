@@ -105,6 +105,21 @@
         "version": "0.5.1+e81ef164"
     },
     {
+        "name": "bachgau.social",
+        "domain": "bachgau.social",
+        "info": "https://www.bachgau.social/unsere-dienste/matrix/",
+        "jurisdiction": "Germany",
+        "tos": "https://mastodon.bachgau.social/about/more",
+        "privacy": "https://www.bachgau.social/datenschutzerklaerung/",
+        "open": true,
+        "remarks": "In German; regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.bachgau.social/",
+        "software": "Synapse",
+        "version": "1.54.0"
+    },
+    {
         "name": "badstuebner.biz",
         "domain": "badstuebner.biz",
         "info": "https://badstuebner.biz",
@@ -177,7 +192,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.55.0"
     },
     {
         "name": "chagai.website",
@@ -237,7 +252,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.55.0"
     },
     {
         "name": "club1.fr",
@@ -342,7 +357,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.das-labor.org/",
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.55.0"
     },
     {
         "name": "data.haus",
@@ -597,22 +612,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.53.0"
-    },
-    {
-        "name": "hingst.net",
-        "domain": "hingst.net",
-        "info": "https://hingst.net",
-        "jurisdiction": "Sweden",
-        "tos": "https://www.hovkluster.se/matrix/villkor_hingst.html",
-        "privacy": "https://www.hovkluster.se/matrix/integritet_hingst.html",
-        "open": true,
-        "remarks": "In Swedish",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.hingst.net/",
-        "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.55.0"
     },
     {
         "name": "inetd.xyz",
@@ -642,7 +642,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.55.0"
     },
     {
         "name": "jupiterbroadcasting.com",
@@ -736,7 +736,7 @@
     },
     {
         "name": "maahl.com",
-        "domain": "maahl.com",
+        "domain": "matrix.maahl.com",
         "info": "https://maahl.com",
         "jurisdiction": "Finland",
         "tos": null,
@@ -927,7 +927,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://matrix.ohai.su/",
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.55.0"
     },
     {
         "name": "ombreport.info",
@@ -1182,7 +1182,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
-        "version": "1.50.1"
+        "version": "1.55.0"
     },
     {
         "name": "studichat.de",
@@ -1272,7 +1272,7 @@
         "reg_method": "SSO",
         "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.55.0"
     },
     {
         "name": "the-apothecary.club",
@@ -1377,7 +1377,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://utc.chat/",
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.55.0"
     },
     {
         "name": "utwente.io",
@@ -1437,7 +1437,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.55.0"
     },
     {
         "name": "pikaviestin.fi",
@@ -1468,21 +1468,6 @@
         "reg_link": "https://aletheia.moe/registration/",
         "software": "Synapse",
         "version": "1.53.0"
-    },
-    {
-        "name": "bitma.st",
-        "domain": "bitma.st",
-        "info": "https://bitma.st",
-        "jurisdiction": "US",
-        "tos": "https://bitma.st/en/terms-of-service/",
-        "privacy": "https://bitma.st/en/privacy-policy/",
-        "open": false,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://bitma.st/en/contact/",
-        "software": "Synapse",
-        "version": "1.47.1"
     },
     {
         "name": "deuxfleurs.fr",
