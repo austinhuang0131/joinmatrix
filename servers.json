@@ -660,19 +660,19 @@
         "version": "1.54.0"
     },
     {
-        "name": "jonasled.de",
-        "domain": "jonasled.de",
-        "info": "https://jonasled.de",
-        "jurisdiction": "Germany",
+        "name": "jupiterbroadcasting.com",
+        "domain": "jupiterbroadcasting.com",
+        "info": "https://linuxunplugged.com/matrixinfo",
+        "jurisdiction": "US?",
         "tos": null,
         "privacy": null,
         "open": true,
-        "remarks": "In German; personal",
+        "remarks": "Accessory",
         "antifeature": null,
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.53.0"
     },
     {
         "name": "kreatea.space",
@@ -1036,7 +1036,7 @@
     },
     {
         "name": "pub.solar",
-        "domain": "matrix.pub.solar",
+        "domain": "pub.solar",
         "info": "https://pub.solar",
         "jurisdiction": "Germany",
         "tos": null,
