@@ -477,7 +477,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.55.0"
     },
     {
         "name": "flieger.chat",
@@ -615,6 +615,21 @@
         "version": "1.55.0"
     },
     {
+        "name": "hingst.net",
+        "domain": "hingst.net",
+        "info": "https://hingst.net",
+        "jurisdiction": "Sweden",
+        "tos": "https://www.hovkluster.se/matrix/villkor_hingst.html",
+        "privacy": "https://www.hovkluster.se/matrix/integritet_hingst.html",
+        "open": true,
+        "remarks": "In Swedish",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.hingst.net/",
+        "software": "Synapse",
+        "version": "1.55.0"
+    },
+    {
         "name": "inetd.xyz",
         "domain": "inetd.xyz",
         "info": "https://inetd.xyz",
@@ -736,7 +751,7 @@
     },
     {
         "name": "maahl.com",
-        "domain": "matrix.maahl.com",
+        "domain": "maahl.com",
         "info": "https://maahl.com",
         "jurisdiction": "Finland",
         "tos": null,
@@ -1032,7 +1047,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.55.0"
     },
     {
         "name": "qoto.org",
@@ -1092,7 +1107,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.55.0"
     },
     {
         "name": "sameteem.com",
