@@ -1245,21 +1245,6 @@
         "version": "0.24.1"
     },
     {
-        "name": "tchncs.de",
-        "domain": "tchncs.de",
-        "info": "https://tchncs.de/matrix",
-        "jurisdiction": "Germany",
-        "tos": "https://tchncs.de/matrix/tos",
-        "privacy": "https://tchncs.de/matrix/privacy",
-        "open": true,
-        "remarks": "General host; only stores messages for a year",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.tchncs.de/#/register",
-        "software": "Synapse",
-        "version": "1.55.0"
-    },
-    {
         "name": "techsaviours.org",
         "domain": "techsaviours.org",
         "info": "https://techsaviours.org",
