@@ -72,7 +72,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://el.aria-net.org/",
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.55.0.arianet.0"
     },
     {
         "name": "arrayinamatrix.xyz",
@@ -210,21 +210,6 @@
         "version": "1.49.0"
     },
     {
-        "name": "chatcloud.net",
-        "domain": "chatcloud.net",
-        "info": "https://chatcloud.net",
-        "jurisdiction": "Austria (Germany)",
-        "tos": "https://www.chatcloud.net/terms-of-use/",
-        "privacy": "https://www.chatcloud.net/privacy/",
-        "open": true,
-        "remarks": "Relationship-oriented?",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://talk.chatcloud.net/",
-        "software": "Synapse",
-        "version": "1.49.0"
-    },
-    {
         "name": "chatwave.org",
         "domain": "chatwave.org",
         "info": "https://yatrix.org",
@@ -264,6 +249,21 @@
         "open": true,
         "remarks": "In French; tech collective",
         "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.54.0"
+    },
+    {
+        "name": "comm.cx",
+        "domain": "comm.cx",
+        "info": "https://comm.cx",
+        "jurisdiction": "?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": "Uses Cloudflare",
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
@@ -736,7 +736,7 @@
     },
     {
         "name": "maahl.com",
-        "domain": "matrix.maahl.com",
+        "domain": "maahl.com",
         "info": "https://maahl.com",
         "jurisdiction": "Finland",
         "tos": null,
@@ -1107,7 +1107,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.55.0"
     },
     {
         "name": "scyldings.com",
@@ -1212,7 +1212,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.55.0"
     },
     {
         "name": "tauasul.net",
@@ -1468,6 +1468,21 @@
         "reg_link": "https://aletheia.moe/registration/",
         "software": "Synapse",
         "version": "1.53.0"
+    },
+    {
+        "name": "bitma.st",
+        "domain": "bitma.st",
+        "info": "https://bitma.st",
+        "jurisdiction": "US",
+        "tos": "https://bitma.st/en/terms-of-service/",
+        "privacy": "https://bitma.st/en/privacy-policy/",
+        "open": false,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://bitma.st/en/contact/",
+        "software": "Synapse",
+        "version": "1.47.1"
     },
     {
         "name": "deuxfleurs.fr",
