@@ -270,6 +270,21 @@
         "version": "1.54.0"
     },
     {
+        "name": "comm.cx",
+        "domain": "comm.cx",
+        "info": "https://comm.cx",
+        "jurisdiction": "?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": "Uses Cloudflare",
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.54.0"
+    },
+    {
         "name": "community.rs",
         "domain": "community.rs",
         "info": "https://community.rs",
@@ -751,7 +766,7 @@
     },
     {
         "name": "maahl.com",
-        "domain": "maahl.com",
+        "domain": "matrix.maahl.com",
         "info": "https://maahl.com",
         "jurisdiction": "Finland",
         "tos": null,
@@ -1243,6 +1258,21 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "0.24.1"
+    },
+    {
+        "name": "tchncs.de",
+        "domain": "tchncs.de",
+        "info": "https://tchncs.de/matrix",
+        "jurisdiction": "Germany",
+        "tos": "https://tchncs.de/matrix/tos",
+        "privacy": "https://tchncs.de/matrix/privacy",
+        "open": true,
+        "remarks": "General host; only stores messages for a year",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.tchncs.de/#/register",
+        "software": "Synapse",
+        "version": "1.55.0"
     },
     {
         "name": "techsaviours.org",
