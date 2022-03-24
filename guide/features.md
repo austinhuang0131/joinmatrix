@@ -27,7 +27,7 @@ Now that you have aced the [basics](..), let's talk about the intricate details 
 
 Without prefixing a message with `/html`, Matrix supports basic markdown, as in everything in the [CommonMark spec](https://commonmark.org/help/). The changes are:
 
-* For embedding images, the link must be an [MXC URI](#attachments), not an HTTP/S URL.
+* For embedding images, the link must be an [MXC URI](#attachments), not an HTTP/S URL. This is required by Matrix specification to prevent remote homeservers from creating IP trackers to track users of multiple homeservers.
 * Language syntax highlighting in code blocks is supported - simply specify the language on the same line after the first three backticks.
 
 Aside from the above:
