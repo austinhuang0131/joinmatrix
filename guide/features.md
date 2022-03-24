@@ -20,6 +20,7 @@ Now that you have aced the [basics](..), let's talk about the intricate details 
   <li>Due to a spec defect, initial revision of a message can only be removed if the message is removed altogether. Subsequent revisions can be removed on their own.</li>
   <li>If a message has been replied to, <b>all</b> of its replies, <b>plus</b> the original message, must be deleted to fully remove its content!</li>
   <li>Note that anyone who could read the message may still record its content before deletion. (For unencrypted messages, this includes the homeserver operators.) This applies to virtually <i>any</i> instant messaging platforms in existence, so you still need to be careful of what you say.</li>
+  <li>If a user annoys you, you can ignore them. <a href="https://github.com/vector-im/element-web/issues/12394">Careful not to ignore yourself!</a></li>
 </ul></div>
 
 #### Text
