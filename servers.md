@@ -59,7 +59,9 @@ See [Legends](#legends) for column explanations.
 Ideally you would host your own homeserver, but not everyone has the means... Anyway, you should use a homeserver other than the default `matrix.org` because...
 
 1. It is overloaded at times, and
-2. If everyone continues to register on the same homeserver, then it will become more centralized, thus shifting away from the original goal of Matrix.
+2. If everyone continues to register on the same homeserver, then Matrix will become less decentralized as intended.
+
+In some cases you might also want your MXID to show your affiliation with a specific community.
 
 ## Criteria
 
@@ -69,14 +71,15 @@ The absolute criteria are:
   * Generally, inclusion is based on either my interpretation of information about the homeserver, or explicit consent from the homeserver operator(s).
   * Homeservers that grant accounts on approval must have such process accessible to the general public.
   * Homeservers may disable registrations temporarily, in which case the list will temporarily exclude them.
-* The homeserver name must be a second-level domain (so `example.com` is acceptable, but `matrix.example.com` is not).
+* The homeserver name must be a second-level domain (so `example.com` is acceptable, but `matrix.example.com` is not). See [Synapse documentation](https://matrix-org.github.io/synapse/latest/delegate.html).
 * The homeserver does not operate through a free TLD, specifically those offered by Freenom (due to risks of takeover by fraudulent entities).
+* The domain that the homeserver is on must have at least one meaningful web page (including Element).
 * The homeserver is neither `matrix.org` nor operated by Element Matrix Services (previously known as Modular).
 * The homeserver does not have an ongoing Mjolnir server ban (`m.room.rule.server`) on:
   * `#matrix-org-coc-bl:matrix.org`: [matrix.org Code of Conduct](https://matrix.org/legal/code-of-conduct/) ban list. It is used on many popular public rooms.
   * `#matrix-org-hs-tos-bl:matrix.org`: [matrix.org Homeserver Terms of Service](https://matrix.org/legal/terms-and-conditions/) ban list.
 
-Some homeservers are excluded from this list on content grounds.
+Some homeservers are excluded from this list on content grounds. Inclusion in other reputable ban lists may also be grounds for exclusion from this list.
 
 ## Legends
 
@@ -100,12 +103,13 @@ From left to right:
   * "SSO": The homeserver requires [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) for authentication. You must create an account through the link prior to creating an account on the Matrix homeserver itself. Usually, the account can be used to access other services offered by the homeserver operator.
 * **Version**: The software version of the homeserver, [updated every 6 hours by a GitHub Action](https://github.com/austinhuang0131/joinmatrix/blob/main/.github/workflows/matrix_ver.yml#L4).
   * Unless indicated otherwise, the homeserver is running Synapse, where versions `1.47.1` and above (coloured green) is [recommended](https://matrix.org/blog/2021/11/23/synapse-1-47-1-released) to address a security issue. Homeservers running deprecated versions, namely those prior to `1.47.1`, as well as `1.49.0` (due to a [regression](https://github.com/matrix-org/synapse/pull/11583)), are coloured yellow.
-  * Homeservers that use Dendrite are not coloured. (The list will not include homeservers using other implementations in the near future.)
+  * Homeservers that use Dendrite are not coloured.
   * "Error!!" (coloured red): The homeserver cannot be reached at the time of checking. This is usually occasional, as frequent downtime are grounds for exclusion from this list.
 
 ## Other Matrix homeserver lists
 
 * [asra.gr's list](https://wiki.asra.gr/en:public_servers): A raw dataset of homeservers that allows (but are not necessarily intended for) public registration.
+* [CHATONS list](https://www.chatons.org/search/by-service?service_type_target_id=All&field_alternatives_aux_services_target_id=All&field_software_target_id=274&field_is_shared_value=All&title=): A list of homeservers hosted in France that adhere to certain ethical standards. Some may require membership.
 * [German homeservers list](https://fediverse.blog/~/FossMessenger/matrix-server): A list of homeservers hosted in Germany.
 
 This list was originally located at [AustinHuang.me](https://austinhuang.me/matrix-homeservers.html).
