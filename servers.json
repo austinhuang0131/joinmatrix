@@ -270,21 +270,6 @@
         "version": "1.54.0"
     },
     {
-        "name": "comm.cx",
-        "domain": "comm.cx",
-        "info": "https://comm.cx",
-        "jurisdiction": "?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Uses Cloudflare",
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.54.0"
-    },
-    {
         "name": "community.rs",
         "domain": "community.rs",
         "info": "https://community.rs",
@@ -1423,21 +1408,6 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.50.2"
-    },
-    {
-        "name": "virto.community",
-        "domain": "virto.community",
-        "info": "https://virto.network/",
-        "jurisdiction": "? (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory; crypto",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.virto.community/",
-        "software": "Synapse",
-        "version": "1.52.0"
     },
     {
         "name": "yatrix.org",
