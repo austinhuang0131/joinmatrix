@@ -210,21 +210,6 @@
         "version": "1.49.0"
     },
     {
-        "name": "chatcloud.net",
-        "domain": "chatcloud.net",
-        "info": "https://chatcloud.net",
-        "jurisdiction": "Austria (Germany)",
-        "tos": "https://www.chatcloud.net/terms-of-use/",
-        "privacy": "https://www.chatcloud.net/privacy/",
-        "open": true,
-        "remarks": "Relationship-oriented?",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://talk.chatcloud.net/",
-        "software": "Synapse",
-        "version": "1.49.2"
-    },
-    {
         "name": "chatwave.org",
         "domain": "chatwave.org",
         "info": "https://yatrix.org",
@@ -660,21 +645,6 @@
         "version": "1.55.2"
     },
     {
-        "name": "jupiterbroadcasting.com",
-        "domain": "jupiterbroadcasting.com",
-        "info": "https://linuxunplugged.com/matrixinfo",
-        "jurisdiction": "US?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.53.0"
-    },
-    {
         "name": "kreatea.space",
         "domain": "kreatea.space",
         "info": "https://kreatea.space/wiki/matrix/",
@@ -913,21 +883,6 @@
         "reg_link": "https://chat.oblak.be/",
         "software": "Synapse",
         "version": "1.46.0"
-    },
-    {
-        "name": "ohai.su",
-        "domain": "ohai.su",
-        "info": "https://ohai.su",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.ohai.su/",
-        "software": "Synapse",
-        "version": "1.55.2"
     },
     {
         "name": "ombreport.info",
@@ -1272,7 +1227,7 @@
         "reg_method": "SSO",
         "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
-        "version": "1.55.1"
+        "version": "1.55.2"
     },
     {
         "name": "the-apothecary.club",
