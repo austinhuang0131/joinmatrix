@@ -105,21 +105,6 @@
         "version": "0.5.1+e81ef164"
     },
     {
-        "name": "bachgau.social",
-        "domain": "bachgau.social",
-        "info": "https://www.bachgau.social/unsere-dienste/matrix/",
-        "jurisdiction": "Germany",
-        "tos": "https://mastodon.bachgau.social/about/more",
-        "privacy": "https://www.bachgau.social/datenschutzerklaerung/",
-        "open": true,
-        "remarks": "In German; regional",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.bachgau.social/",
-        "software": "Synapse",
-        "version": "1.55.0"
-    },
-    {
         "name": "badstuebner.biz",
         "domain": "badstuebner.biz",
         "info": "https://badstuebner.biz",
@@ -390,6 +375,21 @@
         "version": "1.54.0"
     },
     {
+        "name": "devass.su",
+        "domain": "matrix.devass.su",
+        "info": "https://devass.su",
+        "jurisdiction": "Russia",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In Russian",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.devass.su/",
+        "software": "Synapse",
+        "version": "1.52.0"
+    },
+    {
         "name": "duesen.chat",
         "domain": "duesen.chat",
         "info": "https://yatrix.org",
@@ -552,7 +552,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.gemeinsam.jetzt/",
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.55.0"
     },
     {
         "name": "ggc-project.de",
@@ -627,7 +627,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.hingst.net/",
         "software": "Synapse",
-        "version": "1.55.0"
+        "version": "1.55.2"
     },
     {
         "name": "inetd.xyz",
@@ -1393,21 +1393,6 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.50.2"
-    },
-    {
-        "name": "virto.community",
-        "domain": "virto.community",
-        "info": "https://virto.network/",
-        "jurisdiction": "? (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory; crypto",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.virto.community/",
-        "software": "Synapse",
-        "version": "1.52.0"
     },
     {
         "name": "yatrix.org",
