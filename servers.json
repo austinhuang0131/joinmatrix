@@ -195,21 +195,6 @@
         "version": "1.49.0"
     },
     {
-        "name": "chatcloud.net",
-        "domain": "chatcloud.net",
-        "info": "https://chatcloud.net",
-        "jurisdiction": "Austria (Germany)",
-        "tos": "https://www.chatcloud.net/terms-of-use/",
-        "privacy": "https://www.chatcloud.net/privacy/",
-        "open": true,
-        "remarks": "Relationship-oriented?",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://talk.chatcloud.net/",
-        "software": "Synapse",
-        "version": "1.49.2"
-    },
-    {
         "name": "chatwave.org",
         "domain": "chatwave.org",
         "info": "https://yatrix.org",
@@ -645,19 +630,19 @@
         "version": "1.54.0"
     },
     {
-        "name": "jupiterbroadcasting.com",
-        "domain": "jupiterbroadcasting.com",
-        "info": "https://linuxunplugged.com/matrixinfo",
-        "jurisdiction": "US?",
+        "name": "jonasled.de",
+        "domain": "jonasled.de",
+        "info": "https://jonasled.de",
+        "jurisdiction": "Germany",
         "tos": null,
         "privacy": null,
         "open": true,
-        "remarks": "Accessory",
+        "remarks": "In German; personal",
         "antifeature": null,
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.55.2"
     },
     {
         "name": "kreatea.space",
@@ -1287,7 +1272,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tomesh.net/",
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.55.0"
     },
     {
         "name": "trygve.me",
@@ -1423,6 +1408,21 @@
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
         "version": "1.55.0"
+    },
+    {
+        "name": "pikaviestin.fi",
+        "domain": "pikaviestin.fi",
+        "info": "https://pikaviestin.fi",
+        "jurisdiction": "Finland",
+        "tos": null,
+        "privacy": "https://www.pikaviestin.fi/tietosuojaseloste.pdf",
+        "open": false,
+        "remarks": "In Finnish; requires a Finnish email address",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
+        "software": "Synapse",
+        "version": "1.51.0"
     },
     {
         "name": "aletheia.moe",
