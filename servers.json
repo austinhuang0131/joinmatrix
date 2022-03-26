@@ -195,6 +195,21 @@
         "version": "1.49.0"
     },
     {
+        "name": "chatcloud.net",
+        "domain": "chatcloud.net",
+        "info": "https://chatcloud.net",
+        "jurisdiction": "Austria (Germany)",
+        "tos": "https://www.chatcloud.net/terms-of-use/",
+        "privacy": "https://www.chatcloud.net/privacy/",
+        "open": true,
+        "remarks": "Relationship-oriented?",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://talk.chatcloud.net/",
+        "software": "Synapse",
+        "version": "1.49.2"
+    },
+    {
         "name": "chatwave.org",
         "domain": "chatwave.org",
         "info": "https://yatrix.org",
@@ -643,6 +658,21 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.55.2"
+    },
+    {
+        "name": "jupiterbroadcasting.com",
+        "domain": "jupiterbroadcasting.com",
+        "info": "https://linuxunplugged.com/matrixinfo",
+        "jurisdiction": "US?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Accessory",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.53.0"
     },
     {
         "name": "kreatea.space",
