@@ -645,21 +645,6 @@
         "version": "1.54.0"
     },
     {
-        "name": "jonasled.de",
-        "domain": "jonasled.de",
-        "info": "https://jonasled.de",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; personal",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.55.2"
-    },
-    {
         "name": "jupiterbroadcasting.com",
         "domain": "jupiterbroadcasting.com",
         "info": "https://linuxunplugged.com/matrixinfo",
@@ -957,7 +942,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pcriot.org/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.55.2"
     },
     {
         "name": "perthchat.org",
@@ -1395,6 +1380,21 @@
         "version": "1.50.2"
     },
     {
+        "name": "virto.community",
+        "domain": "virto.community",
+        "info": "https://virto.network/",
+        "jurisdiction": "? (Germany)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Accessory; crypto",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.virto.community/",
+        "software": "Synapse",
+        "version": "1.52.0"
+    },
+    {
         "name": "yatrix.org",
         "domain": "yatrix.org",
         "info": "https://yatrix.org",
@@ -1423,21 +1423,6 @@
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
         "version": "1.55.0"
-    },
-    {
-        "name": "pikaviestin.fi",
-        "domain": "pikaviestin.fi",
-        "info": "https://pikaviestin.fi",
-        "jurisdiction": "Finland",
-        "tos": null,
-        "privacy": "https://www.pikaviestin.fi/tietosuojaseloste.pdf",
-        "open": false,
-        "remarks": "In Finnish; requires a Finnish email address",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
-        "software": "Synapse",
-        "version": "1.51.0"
     },
     {
         "name": "aletheia.moe",
