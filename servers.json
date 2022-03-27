@@ -312,7 +312,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.49.2"
+        "version": "1.55.0"
     },
     {
         "name": "danskungdom.dk",
@@ -762,7 +762,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.magaya.org",
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.55.2"
     },
     {
         "name": "magdeburg.jetzt",
@@ -960,6 +960,21 @@
         "version": "1.55.2"
     },
     {
+        "name": "perthchat.org",
+        "domain": "perthchat.org",
+        "info": "https://perthchat.org",
+        "jurisdiction": "Australia",
+        "tos": "https://gitlab.com/perthchat.org/legal/-/raw/main/terms-of-service.txt",
+        "privacy": "https://gitlab.com/perthchat.org/legal/-/raw/main/privacy-policy.txt",
+        "open": true,
+        "remarks": "18+; regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://client.perthchat.org/",
+        "software": "Synapse",
+        "version": "1.55.2"
+    },
+    {
         "name": "planetdecred.org",
         "domain": "planetdecred.org",
         "info": "https://planetdecred.org/chat/",
@@ -988,6 +1003,21 @@
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
         "version": "1.55.0"
+    },
+    {
+        "name": "privex.io",
+        "domain": "privex.io",
+        "info": "https://privex.io",
+        "jurisdiction": "Belize? (Sweden)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Hosting provider; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://riot.privex.io/",
+        "software": "Synapse",
+        "version": "1.51.0"
     },
     {
         "name": "pub.solar",
@@ -1153,21 +1183,6 @@
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
         "version": "1.55.0"
-    },
-    {
-        "name": "studichat.de",
-        "domain": "studichat.de",
-        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.studichat.de/",
-        "software": "Synapse",
-        "version": "1.54.0"
     },
     {
         "name": "sykorp.com",
@@ -1513,5 +1528,20 @@
         "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
         "software": "Synapse",
         "version": "1.53.0"
+    },
+    {
+        "name": "sans-nuage.fr",
+        "domain": "sans-nuage.fr",
+        "info": "https://sans-nuage.fr",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": false,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "Membership",
+        "reg_link": "https://adherents.arn-fai.net/members/register/",
+        "software": "Synapse",
+        "version": "1.51.0"
     }
 ]
