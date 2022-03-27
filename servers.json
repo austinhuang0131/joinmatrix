@@ -105,6 +105,21 @@
         "version": "0.5.1+e81ef164"
     },
     {
+        "name": "bachgau.social",
+        "domain": "bachgau.social",
+        "info": "https://www.bachgau.social/unsere-dienste/matrix/",
+        "jurisdiction": "Germany",
+        "tos": "https://mastodon.bachgau.social/about/more",
+        "privacy": "https://www.bachgau.social/datenschutzerklaerung/",
+        "open": true,
+        "remarks": "In German; regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.bachgau.social/",
+        "software": "Synapse",
+        "version": "1.55.0"
+    },
+    {
         "name": "badstuebner.biz",
         "domain": "badstuebner.biz",
         "info": "https://badstuebner.biz",
@@ -570,21 +585,6 @@
         "version": "1.54.0"
     },
     {
-        "name": "glasgow.social",
-        "domain": "glasgow.social",
-        "info": "https://opensource.glasgow.social/matrix",
-        "jurisdiction": "UK",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional tech collective",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.49.2"
-    },
-    {
         "name": "grin.hu",
         "domain": "grin.hu",
         "info": "https://matrix.grin.hu",
@@ -658,6 +658,21 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.55.2"
+    },
+    {
+        "name": "jupiterbroadcasting.com",
+        "domain": "jupiterbroadcasting.com",
+        "info": "https://linuxunplugged.com/matrixinfo",
+        "jurisdiction": "US?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Accessory",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.53.0"
     },
     {
         "name": "kreatea.space",
@@ -1170,6 +1185,21 @@
         "version": "1.55.0"
     },
     {
+        "name": "studichat.de",
+        "domain": "studichat.de",
+        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; student-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.studichat.de/",
+        "software": "Synapse",
+        "version": "1.54.0"
+    },
+    {
         "name": "sykorp.com",
         "domain": "sykorp.com",
         "info": "https://sykorp.com",
@@ -1287,7 +1317,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.55.2"
     },
     {
         "name": "ungleich.ch",
@@ -1365,21 +1395,6 @@
         "version": "1.50.2"
     },
     {
-        "name": "virto.community",
-        "domain": "virto.community",
-        "info": "https://virto.network/",
-        "jurisdiction": "? (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory; crypto",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.virto.community/",
-        "software": "Synapse",
-        "version": "1.52.0"
-    },
-    {
         "name": "yatrix.org",
         "domain": "yatrix.org",
         "info": "https://yatrix.org",
@@ -1407,7 +1422,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.55.0"
+        "version": "1.55.2"
     },
     {
         "name": "pikaviestin.fi",
