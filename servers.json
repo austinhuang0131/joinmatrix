@@ -60,6 +60,21 @@
         "version": "1.55.2"
     },
     {
+        "name": "aria-net.org",
+        "domain": "aria-net.org",
+        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
+        "jurisdiction": "Italy?",
+        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://el.aria-net.org/",
+        "software": "Synapse",
+        "version": "1.55.0.arianet.0"
+    },
+    {
         "name": "arrayinamatrix.xyz",
         "domain": "arrayinamatrix.xyz",
         "info": "https://arrayinamatrix.xyz/index/matrix/",
@@ -1140,21 +1155,6 @@
         "version": "1.54.0"
     },
     {
-        "name": "shibabox.eu",
-        "domain": "shibabox.eu",
-        "info": "https://shibabox.eu",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Furry-oriented; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.shibabox.eu/",
-        "software": "Synapse",
-        "version": "1.53.0"
-    },
-    {
         "name": "sibnsk.net",
         "domain": "sibnsk.net",
         "info": "https://lugnsk.org/page/blog/matrix",
@@ -1183,6 +1183,21 @@
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
         "version": "1.55.0"
+    },
+    {
+        "name": "studichat.de",
+        "domain": "studichat.de",
+        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; student-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.studichat.de/",
+        "software": "Synapse",
+        "version": "1.54.0"
     },
     {
         "name": "sykorp.com",
