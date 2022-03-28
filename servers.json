@@ -57,7 +57,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.arcticfoxes.net",
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.55.2"
     },
     {
         "name": "aria-net.org",
@@ -237,7 +237,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.55.2"
     },
     {
         "name": "chrrreeeeesss.com",
@@ -417,7 +417,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.55.2"
     },
     {
         "name": "egora.org",
