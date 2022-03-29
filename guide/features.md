@@ -108,13 +108,23 @@ Matrix prides itself in technical interoperability, i.e. ability to work with ot
 
 Note that encryption is **not** supported on most bridges. Furthermore, the following instructions apply across the Matrix federation, but private homeserver providers as well as some public homeservers operate certain bridges for the benefit of their users, in which case please inquire the relevant providers.
 
+<div class="flash flash-warn">
+ Some bridges offer the possibility to bridge an account from another platform onto Matrix (known as puppeting). However, it is often against the ToS of the platform to do so (as interoperability is antithetical to centralized "walled garden" approaches) and may result in loss of account. Furthermore, it may damage the encryption mechanisms of the platform, as messages must be decrypted first before re-encryption. Lastly, the bridge operator can see your login credentials (not an issue if you're hosting the bridges yourself). You have been warned.
+</div>
+
 ### Discord
 
 To bridge a Matrix room with a Discord channel, you can install [matrix-appservice-discord](https://github.com/Half-Shot/matrix-appservice-discord) if you're running your own homeserver[^3], or set up [t2bot's Discord bridge](https://t2bot.io/discord) otherwise. Matrix users will show up as webhooks on Discord, and Discord users will show up as standard users on Matrix (but you cannot DM them).
 
 ### Telegram
 
-To bridge a Matrix room with a Telegram group chat, you can install [mautrix telegram](https://github.com/mautrix/telegram) if you're running your own homeserver, or set up [t2bot's Telegram bridge](https://t2bot.io/telegram) otherwise. Matrix users will be represented by the bridging bot on Telegram, while Telegram users will show up as standard users on Matrix (but you cannot DM them).
+To bridge a Matrix room with a Telegram group chat, you can install [mautrix telegram](https://github.com/mautrix/telegram) if you're running your own homeserver, or set up one of the free public bridges otherwise:
+
+* [t2bot](https://t2bot.io/telegram) (No puppeting)
+* [tchncs.de](https://tchncs.de/matrix) (Puppeting requires approval)
+* [SNT](https://syscom.utwente.io/info/matrix/telegram/)
+
+When a Matrix room is bridged with a Telegram group, Matrix users will be represented by the bridging bot on Telegram, while Telegram users will show up as standard users on Matrix (but you cannot DM them). When you log into a Telegram account on a bridge, you may use it to control your own account such that you may interact with the whole of Telegram from Matrix.
 
 ### Slack
 
@@ -141,6 +151,9 @@ You can join any XMPP MUC on any instance directly from Matrix, using the Bifros
 Matrix supports many other platforms, but such bridges generally require setup. If you want to bridge those platforms, or if you have performance requirements that cannot be met by existing public bridges, you may either:
 
 * [Host the bridges yourself](https://matrix.org/bridges/), if you run your own homeserver
+* Use public bridges:
+  * [Aria Network](https://aria-net.org/SitePages/Portal/Bridges.aspx) (Facebook, Instagram, MS Teams, Twitter, WhatsApp; only available to accounts on the aria-net.org homeserver)
+  * [yatrix.org](https://yatrix.org/#interoperabilität) (Signal, WhatsApp; requires approval)
 * Set up bridges as part of a managed homeserver hosting:
   * [Element Matrix Store](https://element.io/element-matrix-store) (WhatsApp, Slack, MS Teams, IRC, Discord, Telegram)
   * [etke.cc](https://etke.cc) (Many platforms)
@@ -148,10 +161,6 @@ Matrix supports many other platforms, but such bridges generally require setup. 
 * Purchase managed bridging services without a homeserver:
   * [Element One](https://element.io/element-one) (WhatsApp, Signal, Telegram)
   * [Beeper](https://www.beeper.com/) (Many platforms; has waitlist)
-
-<div class="flash flash-warn">
-  With the last option, it is technically possible to bridge an account on another platform onto Matrix. However, it is often against the ToS of the platform to do so (as interoperability is antithetical to centralized "walled garden" approaches) and may result in loss of account. Furthermore, it may damage the encryption mechanisms of the platform. You have been warned.
-</div>
 
 ## All about rooms
 
