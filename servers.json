@@ -33,7 +33,7 @@
         "name": "agdersam.no",
         "domain": "agdersam.no",
         "info": "https://agdersam.no/",
-        "jurisdiction": "Norway (Germany?)",
+        "jurisdiction": "Norway (Germany)",
         "tos": null,
         "privacy": null,
         "open": true,
@@ -690,6 +690,21 @@
         "version": "1.55.2"
     },
     {
+        "name": "jupiterbroadcasting.com",
+        "domain": "jupiterbroadcasting.com",
+        "info": "https://linuxunplugged.com/matrixinfo",
+        "jurisdiction": "US?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Accessory",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.53.0"
+    },
+    {
         "name": "kreatea.space",
         "domain": "kreatea.space",
         "info": "https://kreatea.space/wiki/matrix/",
@@ -852,7 +867,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.52.0"
+        "version": "1.55.2"
     },
     {
         "name": "mtrx.nz",
@@ -1392,7 +1407,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://utc.chat/",
         "software": "Synapse",
-        "version": "1.55.0"
+        "version": "1.55.2"
     },
     {
         "name": "utwente.io",
@@ -1437,7 +1452,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.55.2"
     },
     {
         "name": "fachschaften.org",
