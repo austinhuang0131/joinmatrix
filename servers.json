@@ -30,6 +30,21 @@
         "version": "1.54.0"
     },
     {
+        "name": "agdersam.no",
+        "domain": "agdersam.no",
+        "info": "https://agdersam.no/",
+        "jurisdiction": "Norway (Germany?)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.agdersam.no/",
+        "software": "Synapse",
+        "version": "1.55.0"
+    },
+    {
         "name": "antifash.gay",
         "domain": "antifash.gay",
         "info": "https://antifash.gay",
@@ -267,7 +282,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.55.0"
     },
     {
         "name": "comm.cx",
@@ -292,7 +307,7 @@
         "tos": null,
         "privacy": null,
         "open": true,
-        "remarks": "",
+        "remarks": "Rust-oriented",
         "antifeature": "Uses Cloudflare",
         "reg_method": "In-house Element",
         "reg_link": "https://element.community.rs/",
@@ -1473,7 +1488,7 @@
         "name": "aletheia.moe",
         "domain": "aletheia.moe",
         "info": "https://aletheia.moe",
-        "jurisdiction": "Iceland?",
+        "jurisdiction": "? (Iceland)",
         "tos": "https://aletheia.moe/tos/",
         "privacy": "https://aletheia.moe/tos/",
         "open": false,
