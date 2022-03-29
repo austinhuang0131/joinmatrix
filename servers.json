@@ -1155,6 +1155,21 @@
         "version": "1.54.0"
     },
     {
+        "name": "shibabox.eu",
+        "domain": "shibabox.eu",
+        "info": "https://shibabox.eu",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Furry-oriented; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.shibabox.eu/",
+        "software": "Synapse",
+        "version": "1.55.2"
+    },
+    {
         "name": "sibnsk.net",
         "domain": "sibnsk.net",
         "info": "https://lugnsk.org/page/blog/matrix",
