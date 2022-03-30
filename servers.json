@@ -120,21 +120,6 @@
         "version": "0.5.1+e81ef164"
     },
     {
-        "name": "bachgau.social",
-        "domain": "bachgau.social",
-        "info": "https://www.bachgau.social/unsere-dienste/matrix/",
-        "jurisdiction": "Germany",
-        "tos": "https://mastodon.bachgau.social/about/more",
-        "privacy": "https://www.bachgau.social/datenschutzerklaerung/",
-        "open": true,
-        "remarks": "In German; regional",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.bachgau.social/",
-        "software": "Synapse",
-        "version": "1.55.0"
-    },
-    {
         "name": "badstuebner.biz",
         "domain": "badstuebner.biz",
         "info": "https://badstuebner.biz",
@@ -493,21 +478,6 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.47.1"
-    },
-    {
-        "name": "filik.eu",
-        "domain": "filik.eu",
-        "info": "https://filik.eu",
-        "jurisdiction": "Czech Republic",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.55.0"
     },
     {
         "name": "flieger.chat",
@@ -1437,7 +1407,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.virto.community/",
         "software": "Synapse",
-        "version": "1.52.0"
+        "version": "1.55.2"
     },
     {
         "name": "yatrix.org",
