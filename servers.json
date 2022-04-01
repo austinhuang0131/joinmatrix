@@ -105,6 +105,21 @@
         "version": "1.55.2"
     },
     {
+        "name": "asozial.org",
+        "domain": "asozial.org",
+        "info": "https://asozial.org",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; left-wing",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.asozial.org/",
+        "software": "Dendrite",
+        "version": "0.5.1+e81ef164"
+    },
+    {
         "name": "bachgau.social",
         "domain": "bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
@@ -285,6 +300,21 @@
         "version": "1.54.0"
     },
     {
+        "name": "converser.eu",
+        "domain": "converser.eu",
+        "info": "https://converser.eu",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In French",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.53.0"
+    },
+    {
         "name": "cubebuilder.me",
         "domain": "cubebuilder.me",
         "info": "https://cubebuilder.me",
@@ -313,6 +343,21 @@
         "reg_link": "https://element.danskungdom.dk/",
         "software": "Synapse",
         "version": "1.41.1"
+    },
+    {
+        "name": "dark.fi",
+        "domain": "dark.fi",
+        "info": "https://dark.fi/community.html",
+        "jurisdiction": "Germany?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Accessory; crypto",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.dark.fi/",
+        "software": "Synapse",
+        "version": "1.44.0"
     },
     {
         "name": "das-labor.org",
