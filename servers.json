@@ -90,19 +90,19 @@
         "version": "1.55.0.arianet.0"
     },
     {
-        "name": "asozial.org",
-        "domain": "asozial.org",
-        "info": "https://asozial.org",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
+        "name": "arrayinamatrix.xyz",
+        "domain": "arrayinamatrix.xyz",
+        "info": "https://arrayinamatrix.xyz/index/matrix/",
+        "jurisdiction": "Canada",
+        "tos": "https://arrayinamatrix.xyz/index/matrix/#rules",
+        "privacy": "https://arrayinamatrix.xyz/index/privacy/#matrix",
         "open": true,
-        "remarks": "In German; left-wing",
-        "antifeature": null,
+        "remarks": "Personal",
+        "antifeature": "Residential",
         "reg_method": "In-house Element",
-        "reg_link": "https://chat.asozial.org/",
-        "software": "Dendrite",
-        "version": "0.5.1+e81ef164"
+        "reg_link": "https://element.arrayinamatrix.xyz/",
+        "software": "Synapse",
+        "version": "1.55.2"
     },
     {
         "name": "bachgau.social",
@@ -285,21 +285,6 @@
         "version": "1.54.0"
     },
     {
-        "name": "converser.eu",
-        "domain": "converser.eu",
-        "info": "https://converser.eu",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.53.0"
-    },
-    {
         "name": "cubebuilder.me",
         "domain": "cubebuilder.me",
         "info": "https://cubebuilder.me",
@@ -328,21 +313,6 @@
         "reg_link": "https://element.danskungdom.dk/",
         "software": "Synapse",
         "version": "1.41.1"
-    },
-    {
-        "name": "dark.fi",
-        "domain": "dark.fi",
-        "info": "https://dark.fi/community.html",
-        "jurisdiction": "Germany?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory; crypto",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.dark.fi/",
-        "software": "Synapse",
-        "version": "1.44.0"
     },
     {
         "name": "das-labor.org",
