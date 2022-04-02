@@ -177,7 +177,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.schaeferit.de/",
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.55.0"
     },
     {
         "name": "catgirl.cloud",
@@ -645,6 +645,21 @@
         "version": "1.55.2"
     },
     {
+        "name": "jupiterbroadcasting.com",
+        "domain": "jupiterbroadcasting.com",
+        "info": "https://linuxunplugged.com/matrixinfo",
+        "jurisdiction": "US?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Accessory",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.55.0"
+    },
+    {
         "name": "kreatea.space",
         "domain": "kreatea.space",
         "info": "https://kreatea.space/wiki/matrix/",
@@ -762,7 +777,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.55.0"
     },
     {
         "name": "matrix.im",
