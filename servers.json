@@ -807,7 +807,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.55.2"
     },
     {
         "name": "monero.social",
