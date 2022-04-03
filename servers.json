@@ -45,21 +45,6 @@
         "version": "1.55.0"
     },
     {
-        "name": "antifash.gay",
-        "domain": "antifash.gay",
-        "info": "https://antifash.gay",
-        "jurisdiction": "US?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.30.1"
-    },
-    {
         "name": "arcticfoxes.net",
         "domain": "arcticfoxes.net",
         "info": "https://arcticfoxes.net",
@@ -645,6 +630,21 @@
         "version": "1.55.2"
     },
     {
+        "name": "houtworm.im",
+        "domain": "houtworm.im",
+        "info": "https://houtworm.im",
+        "jurisdiction": "Netherlands",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://houtworm.im/",
+        "software": "Synapse",
+        "version": "1.55.2"
+    },
+    {
         "name": "inetd.xyz",
         "domain": "inetd.xyz",
         "info": "https://inetd.xyz",
@@ -990,21 +990,6 @@
         "version": "1.55.2"
     },
     {
-        "name": "planetdecred.org",
-        "domain": "planetdecred.org",
-        "info": "https://planetdecred.org/chat/",
-        "jurisdiction": "US?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory; crypto",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.planetdecred.org/",
-        "software": "Synapse",
-        "version": "1.51.0"
-    },
-    {
         "name": "pragma-messenger.ch",
         "domain": "pragma-messenger.ch",
         "info": "https://pragma-solution.com/de/Produkte/messenger/",
@@ -1065,19 +1050,19 @@
         "version": "1.45.1"
     },
     {
-        "name": "radicle.community",
-        "domain": "radicle.community",
-        "info": "https://docs.radicle.xyz/docs/get-involved/join-the-community",
-        "jurisdiction": "Switzerland",
+        "name": "radiowarnerd.org",
+        "domain": "radiowarnerd.org",
+        "info": "https://radiowarnerd.org",
+        "jurisdiction": "US",
         "tos": null,
         "privacy": null,
         "open": true,
         "remarks": "Accessory",
         "antifeature": null,
         "reg_method": "In-house Element",
-        "reg_link": "https://matrix.radicle.community/",
+        "reg_link": "https://element.radiowarnerd.org/",
         "software": "Synapse",
-        "version": "1.48.0"
+        "version": "1.53.0"
     },
     {
         "name": "riotchat.de",
