@@ -1,5 +1,6 @@
 ---
-title: Public Homeservers
+title: List of Public Matrix Homeservers
+ntitle: Public Homeservers
 layout: page
 nav: true
 permalink: servers/
@@ -34,7 +35,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 })
 </script>
 
-## List of public Matrix homeservers
+## List of Public Matrix Homeservers
 
 This is a list of public Matrix homeservers as compiled by the author of this guide. Support for this list is provided at [`#public_servers:tchncs.de`](https://matrix.to/#/#public_servers:tchncs.de). Remember:
 

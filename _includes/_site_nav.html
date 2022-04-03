@@ -10,11 +10,11 @@
       <ol class="site-nav-items list-style-none js-site-nav-list">
         {% assign pages_list = site.pages | sort:"url" %}
           {% for node in pages_list %}
-            {% if node.title != null %}
+            {% if node.ntitle != null %}
               {% if node.nav == true %}
                 <li class="site-nav-item mb-0{% unless forloop.last %} mr-3{% endunless %} js-site-nav-item">
                   <a class="site-nav-link{% if page.url == node.url or layout.active == node.title or page.active == node.title %} active{% endif %}" href="{{ node.url | absolute_url }}">
-                    {{ node.title }}
+                    {{ node.ntitle }}
                   </a>
                 </li>
               {% endif %}
