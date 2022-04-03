@@ -13,6 +13,11 @@ Now that you have aced the [basics](..), let's talk about the intricate details 
 
 ## All about chatting
 
+<div class="flash flash-warn">
+  <strong>IMPORTANT!</strong> You cannot change your Matrix user name. Choose it wisely.
+<div>
+
+
 ### Messages
 
 <div class="flash flash-warn"><ul>
