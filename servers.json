@@ -45,6 +45,21 @@
         "version": "1.55.0"
     },
     {
+        "name": "antifash.gay",
+        "domain": "antifash.gay",
+        "info": "https://antifash.gay",
+        "jurisdiction": "US?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Left-wing",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.30.1"
+    },
+    {
         "name": "arcticfoxes.net",
         "domain": "arcticfoxes.net",
         "info": "https://arcticfoxes.net",
@@ -192,7 +207,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.55.2"
+        "version": "1.56.0"
     },
     {
         "name": "chagai.website",
@@ -342,7 +357,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.das-labor.org/",
         "software": "Synapse",
-        "version": "1.55.0"
+        "version": "1.56.0"
     },
     {
         "name": "data.haus",
@@ -417,7 +432,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.55.0"
+        "version": "1.56.0"
     },
     {
         "name": "erfurt.chat",
@@ -612,7 +627,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.55.0"
+        "version": "1.56.0"
     },
     {
         "name": "hingst.net",
@@ -672,7 +687,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.55.2"
+        "version": "1.56.0"
     },
     {
         "name": "kreatea.space",
@@ -927,7 +942,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://matrix.ohai.su/",
         "software": "Synapse",
-        "version": "1.55.2"
+        "version": "1.56.0"
     },
     {
         "name": "ombreport.info",
@@ -1197,7 +1212,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.55.2"
+        "version": "1.56.0"
     },
     {
         "name": "tauasul.net",
