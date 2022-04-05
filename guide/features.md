@@ -15,7 +15,7 @@ Now that you have aced the [basics](..), let's talk about the intricate details 
 
 <div class="flash flash-warn">
   <strong>IMPORTANT!</strong> You cannot change your Matrix user name. Choose it wisely.
-<div>
+</div>
 
 
 ### Messages
