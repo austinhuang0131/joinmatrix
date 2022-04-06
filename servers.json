@@ -45,6 +45,21 @@
         "version": "1.55.0"
     },
     {
+        "name": "antifash.gay",
+        "domain": "antifash.gay",
+        "info": "https://antifash.gay",
+        "jurisdiction": "US?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Left-wing",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.30.1"
+    },
+    {
         "name": "arcticfoxes.net",
         "domain": "arcticfoxes.net",
         "info": "https://arcticfoxes.net",
@@ -73,6 +88,21 @@
         "reg_link": "https://el.aria-net.org/",
         "software": "Synapse",
         "version": "1.55.0.arianet.0"
+    },
+    {
+        "name": "arrayinamatrix.xyz",
+        "domain": "arrayinamatrix.xyz",
+        "info": "https://arrayinamatrix.xyz/index/matrix/",
+        "jurisdiction": "Canada",
+        "tos": "https://arrayinamatrix.xyz/index/matrix/#rules",
+        "privacy": "https://arrayinamatrix.xyz/index/privacy/#matrix",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.arrayinamatrix.xyz/",
+        "software": "Synapse",
+        "version": "1.55.2"
     },
     {
         "name": "asozial.org",
@@ -646,7 +676,7 @@
     },
     {
         "name": "jonasled.de",
-        "domain": "matrix.jonasled.de",
+        "domain": "jonasled.de",
         "info": "https://jonasled.de",
         "jurisdiction": "Germany",
         "tos": null,
@@ -837,7 +867,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.mux.re/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.54.0"
     },
     {
         "name": "nitro.chat",
@@ -1062,7 +1092,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.55.0"
+        "version": "1.56.0"
     },
     {
         "name": "scyldings.com",
@@ -1257,7 +1287,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tomesh.net/",
         "software": "Synapse",
-        "version": "1.55.0"
+        "version": "1.56.0"
     },
     {
         "name": "trygve.me",
