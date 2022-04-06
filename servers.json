@@ -75,21 +75,6 @@
         "version": "1.55.0.arianet.0"
     },
     {
-        "name": "arrayinamatrix.xyz",
-        "domain": "arrayinamatrix.xyz",
-        "info": "https://arrayinamatrix.xyz/index/matrix/",
-        "jurisdiction": "Canada",
-        "tos": "https://arrayinamatrix.xyz/index/matrix/#rules",
-        "privacy": "https://arrayinamatrix.xyz/index/privacy/#matrix",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.arrayinamatrix.xyz/",
-        "software": "Synapse",
-        "version": "1.55.2"
-    },
-    {
         "name": "asozial.org",
         "domain": "asozial.org",
         "info": "https://asozial.org",
@@ -661,7 +646,7 @@
     },
     {
         "name": "jonasled.de",
-        "domain": "jonasled.de",
+        "domain": "matrix.jonasled.de",
         "info": "https://jonasled.de",
         "jurisdiction": "Germany",
         "tos": null,
@@ -718,21 +703,6 @@
         "reg_link": "https://librem.one",
         "software": "Synapse",
         "version": "1.38.1"
-    },
-    {
-        "name": "librosphere.org",
-        "domain": "mtx.librosphere.org",
-        "info": "https://librosphere.org/guide.html",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.54.0"
     },
     {
         "name": "llamarific.social",
