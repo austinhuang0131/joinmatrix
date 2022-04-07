@@ -12,7 +12,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://im.0wnz.at/element-web/",
         "software": "Synapse",
-        "version": "1.55.0"
+        "version": "1.56.0"
     },
     {
         "name": "activism.international",
@@ -132,7 +132,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.badstuebner.biz/",
         "software": "Synapse",
-        "version": "1.55.2"
+        "version": "1.56.0"
     },
     {
         "name": "bitcoiner.chat",
@@ -148,6 +148,21 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.54.0"
+    },
+    {
+        "name": "buyvm.net",
+        "domain": "buyvm.net",
+        "info": "https://buyvm.net/beware-the-moshbear/",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Hosting provider; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.buyvm.net/element/",
+        "software": "Synapse",
+        "version": "1.55.0"
     },
     {
         "name": "bytes4u.de",
@@ -837,7 +852,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://mtrx.nz/",
         "software": "Synapse",
-        "version": "1.55.0"
+        "version": "1.56.0"
     },
     {
         "name": "mux.re",
@@ -853,6 +868,21 @@
         "reg_link": "https://chat.mux.re/",
         "software": "Synapse",
         "version": "1.54.0"
+    },
+    {
+        "name": "nitro.chat",
+        "domain": "nitro.chat",
+        "info": "https://nitro.chat",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://www.nitrokey.com/data-privacy-policy",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://app.nitro.chat/",
+        "software": "Synapse",
+        "version": "1.55.0"
     },
     {
         "name": "nltrix.net",
@@ -1392,7 +1422,7 @@
         "reg_method": "Contact",
         "reg_link": "https://aletheia.moe/registration/",
         "software": "Synapse",
-        "version": "1.55.0"
+        "version": "1.56.0"
     },
     {
         "name": "bitma.st",
