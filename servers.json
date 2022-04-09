@@ -45,21 +45,6 @@
         "version": "1.55.0"
     },
     {
-        "name": "antifash.gay",
-        "domain": "antifash.gay",
-        "info": "https://antifash.gay",
-        "jurisdiction": "US?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.30.1"
-    },
-    {
         "name": "arcticfoxes.net",
         "domain": "arcticfoxes.net",
         "info": "https://arcticfoxes.net",
@@ -492,7 +477,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.freiburg.social/",
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.56.0"
     },
     {
         "name": "freitrix.de",
@@ -508,21 +493,6 @@
         "reg_link": "https://webchat.freitrix.de/#/register",
         "software": "Synapse",
         "version": "1.56.0"
-    },
-    {
-        "name": "fulda.social",
-        "domain": "fulda.social",
-        "info": "https://dasnetzundich.de/2021/08/14/willkommen-in-der-matrix/",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.fulda.social/",
-        "software": "Synapse",
-        "version": "1.55.2"
     },
     {
         "name": "g24.at",
@@ -705,6 +675,21 @@
         "version": "1.47.1"
     },
     {
+        "name": "librem.one",
+        "domain": "chat.librem.one",
+        "info": "https://librem.one",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": "https://librem.one/policy/",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://librem.one",
+        "software": "Synapse",
+        "version": "1.38.1"
+    },
+    {
         "name": "librosphere.org",
         "domain": "mtx.librosphere.org",
         "info": "https://librosphere.org/guide.html",
@@ -866,6 +851,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
+        "software": "Synapse",
+        "version": "1.56.0"
+    },
+    {
+        "name": "nltrix.net",
+        "domain": "nltrix.net",
+        "info": "https://nltrix.net",
+        "jurisdiction": "Netherlands",
+        "tos": "https://nltrix.net/#coc",
+        "privacy": "https://www.bit.nl/nl/over-bit/voorwaarden-en-policies",
+        "open": true,
+        "remarks": "In Dutch",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.nltrix.net/",
         "software": "Synapse",
         "version": "1.56.0"
     },
