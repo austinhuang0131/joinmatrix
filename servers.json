@@ -237,7 +237,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
-        "version": "1.55.2"
+        "version": "1.56.0"
     },
     {
         "name": "chrrreeeeesss.com",
@@ -264,21 +264,6 @@
         "open": true,
         "remarks": "In French; tech collective",
         "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.56.0"
-    },
-    {
-        "name": "comm.cx",
-        "domain": "comm.cx",
-        "info": "https://comm.cx",
-        "jurisdiction": "Japan",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Uses Cloudflare",
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
