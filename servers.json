@@ -45,6 +45,21 @@
         "version": "1.55.0"
     },
     {
+        "name": "antifash.gay",
+        "domain": "antifash.gay",
+        "info": "https://antifash.gay",
+        "jurisdiction": "US?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Left-wing",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.30.1"
+    },
+    {
         "name": "arcticfoxes.net",
         "domain": "arcticfoxes.net",
         "info": "https://arcticfoxes.net",
@@ -73,21 +88,6 @@
         "reg_link": "https://el.aria-net.org/",
         "software": "Synapse",
         "version": "1.56.0.arianet.0"
-    },
-    {
-        "name": "arrayinamatrix.xyz",
-        "domain": "arrayinamatrix.xyz",
-        "info": "https://arrayinamatrix.xyz/index/matrix/",
-        "jurisdiction": "Canada",
-        "tos": "https://arrayinamatrix.xyz/index/matrix/#rules",
-        "privacy": "https://arrayinamatrix.xyz/index/privacy/#matrix",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.arrayinamatrix.xyz/",
-        "software": "Synapse",
-        "version": "1.55.2"
     },
     {
         "name": "asozial.org",
@@ -1227,7 +1227,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.55.0"
+        "version": "1.56.0"
     },
     {
         "name": "techsaviours.org",
@@ -1423,6 +1423,21 @@
         "reg_link": "https://aletheia.moe/registration/",
         "software": "Synapse",
         "version": "1.56.0"
+    },
+    {
+        "name": "bitma.st",
+        "domain": "bitma.st",
+        "info": "https://bitma.st",
+        "jurisdiction": "US",
+        "tos": "https://bitma.st/en/terms-of-service/",
+        "privacy": "https://bitma.st/en/privacy-policy/",
+        "open": false,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://bitma.st/en/contact/",
+        "software": "Synapse",
+        "version": "1.47.1"
     },
     {
         "name": "deuxfleurs.fr",
