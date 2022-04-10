@@ -1152,7 +1152,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.sibnsk.net",
         "software": "Synapse",
-        "version": "1.55.0"
+        "version": "1.56.0"
     },
     {
         "name": "socialnetwork24.com",
@@ -1332,7 +1332,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.unredacted.org/",
         "software": "Synapse",
-        "version": "1.48.0"
+        "version": "1.56.0"
     },
     {
         "name": "utc.chat",
