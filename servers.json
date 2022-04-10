@@ -45,21 +45,6 @@
         "version": "1.55.0"
     },
     {
-        "name": "antifash.gay",
-        "domain": "antifash.gay",
-        "info": "https://antifash.gay",
-        "jurisdiction": "US?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.30.1"
-    },
-    {
         "name": "arcticfoxes.net",
         "domain": "arcticfoxes.net",
         "info": "https://arcticfoxes.net",
@@ -1002,7 +987,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.55.0"
+        "version": "1.56.0"
     },
     {
         "name": "privex.io",
@@ -1159,8 +1144,8 @@
         "domain": "sibnsk.net",
         "info": "https://lugnsk.org/page/blog/matrix",
         "jurisdiction": "Russia",
-        "tos": null,
-        "privacy": null,
+        "tos": "https://matrix.sibnsk.net/_matrix/consent",
+        "privacy": "https://matrix.sibnsk.net/_matrix/consent",
         "open": true,
         "remarks": "In Russian",
         "antifeature": null,
