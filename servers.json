@@ -42,22 +42,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.agdersam.no/",
         "software": "Synapse",
-        "version": "1.55.0"
-    },
-    {
-        "name": "antifash.gay",
-        "domain": "antifash.gay",
-        "info": "https://antifash.gay",
-        "jurisdiction": "US?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.30.1"
+        "version": "1.56.0"
     },
     {
         "name": "arcticfoxes.net",
@@ -192,7 +177,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.schaeferit.de/",
         "software": "Synapse",
-        "version": "1.55.0"
+        "version": "1.56.0"
     },
     {
         "name": "catgirl.cloud",
@@ -373,6 +358,21 @@
         "reg_link": "https://chat.data.haus/",
         "software": "Synapse",
         "version": "1.55.2"
+    },
+    {
+        "name": "devass.su",
+        "domain": "matrix.devass.su",
+        "info": "https://devass.su",
+        "jurisdiction": "Russia",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In Russian",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.devass.su/",
+        "software": "Synapse",
+        "version": "1.52.0"
     },
     {
         "name": "duesen.chat",
