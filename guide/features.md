@@ -119,7 +119,13 @@ Note that encryption is **not** supported on most bridges. Furthermore, the foll
 
 ### Discord
 
-To bridge a Matrix room with a Discord channel, you can install [matrix-appservice-discord](https://github.com/Half-Shot/matrix-appservice-discord) if you're running your own homeserver[^3], or set up [t2bot's Discord bridge](https://t2bot.io/discord) otherwise. Matrix users will show up as webhooks on Discord, and Discord users will show up as standard users on Matrix (but you cannot DM them).
+To bridge a Matrix room with a Discord channel, you can install [matrix-appservice-discord](https://github.com/Half-Shot/matrix-appservice-discord) if you're running your own homeserver[^3], or set up one of the free public bridges otherwise:
+
+* [t2bot](https://t2bot.io/discord)
+* [tchncs.de](https://tchncs.de/matrix)
+* [TeDomum](https://tedomum.net/service/matrix/bridges/)
+
+Matrix users will show up as webhooks on Discord, and Discord users will show up as standard users on Matrix (but you cannot DM them). There is no puppeting.
 
 ### Telegram
 
@@ -127,6 +133,7 @@ To bridge a Matrix room with a Telegram group chat, you can install [mautrix tel
 
 * [t2bot](https://t2bot.io/telegram) (No puppeting)
 * [tchncs.de](https://tchncs.de/matrix) (Puppeting requires approval)
+* [TeDomum](https://tedomum.net/service/matrix/bridges/)
 * [SNT](https://syscom.utwente.io/info/matrix/telegram/)
 
 When a Matrix room is bridged with a Telegram group, Matrix users will be represented by the bridging bot on Telegram, while Telegram users will show up as standard users on Matrix (but you cannot DM them). When you log into a Telegram account on a bridge, you may use it to control your own account such that you may interact with the whole of Telegram from Matrix.
@@ -156,9 +163,10 @@ You can join any XMPP MUC on any instance directly from Matrix, using the Bifros
 Matrix supports many other platforms, but such bridges generally require setup. If you want to bridge those platforms, or if you have performance requirements that cannot be met by existing public bridges, you may either:
 
 * [Host the bridges yourself](https://matrix.org/bridges/), if you run your own homeserver
-* Use public bridges:
+* Use public bridges (which you're encouraged to donate for):
   * [Aria Network](https://aria-net.org/SitePages/Portal/Bridges.aspx) (Facebook, Instagram, MS Teams, Twitter, WhatsApp; only available to accounts on the aria-net.org homeserver)
   * [yatrix.org](https://yatrix.org/#interoperabilität) (Signal, WhatsApp; requires approval)
+  * [TeDomum](https://tedomum.net/service/matrix/bridges/) (WhatsApp)
 * Set up bridges as part of a managed homeserver hosting:
   * [Element Matrix Store](https://element.io/element-matrix-store) (WhatsApp, Slack, MS Teams, IRC, Discord, Telegram)
   * [etke.cc](https://etke.cc) (Many platforms)
