@@ -1365,21 +1365,6 @@
         "version": "1.56.0"
     },
     {
-        "name": "zinz.dev",
-        "domain": "zinz.dev",
-        "info": "https://zinz.dev",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.52.0"
-    },
-    {
         "name": "fachschaften.org",
         "domain": "fachschaften.org",
         "info": "https://fachschaften.org",
