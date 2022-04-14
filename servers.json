@@ -675,6 +675,21 @@
         "version": "1.56.0"
     },
     {
+        "name": "kreatea.space",
+        "domain": "kreatea.space",
+        "info": "https://kreatea.space/wiki/matrix/",
+        "jurisdiction": "Turkey (Germany)",
+        "tos": "https://kreatea.space",
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.56.0"
+    },
+    {
         "name": "librem.one",
         "domain": "chat.librem.one",
         "info": "https://librem.one",
