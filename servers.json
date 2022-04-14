@@ -65,7 +65,7 @@
         "info": "https://arcticfoxes.net",
         "jurisdiction": "US (UK)",
         "tos": null,
-        "privacy": null,
+        "privacy": "https://arcticfoxes.net/",
         "open": true,
         "remarks": "Personal",
         "antifeature": null,
@@ -95,7 +95,7 @@
         "info": "https://arrayinamatrix.xyz/index/matrix/",
         "jurisdiction": "Canada",
         "tos": "https://arrayinamatrix.xyz/index/matrix/#rules",
-        "privacy": "https://arrayinamatrix.xyz/index/privacy/#matrix",
+        "privacy": "https://arrayinamatrix.xyz/index/apps/privacy/#matrix",
         "open": true,
         "remarks": "Personal",
         "antifeature": "Residential",
@@ -552,7 +552,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://g24.at",
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.56.0"
     },
     {
         "name": "gemeinsam.jetzt",
@@ -1037,7 +1037,7 @@
     {
         "name": "radiowarnerd.org",
         "domain": "radiowarnerd.org",
-        "info": "https://radiowarnerd.org",
+        "info": "https://dokuwiki.radiowarnerd.org/matrixaccountcreation",
         "jurisdiction": "US",
         "tos": null,
         "privacy": null,
