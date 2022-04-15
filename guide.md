@@ -76,7 +76,7 @@ For simplicity, the guide is prepared in such a way that recommends registration
 4. Fill out the required information.
 5. If you did not enter an email address, then you're in. Otherwise, verify your email, after which you will be prompted to [login](#log-into-an-existing-account).
 
-Users are uniquely identified by their MXID. Your MXID is your username plus your server name (not necessarily domain). For example, `@austin:tchncs.de` is my MXID, where `austin` is my username and `tchncs.de` is the name of the server I'm on. **You cannot change it later!** Furthermore, if you deactivate the account, no one else can have this MXID again! You can, however, change the display name, as well as your avatar.
+Users are uniquely identified by their MXID. Your MXID is your username plus your server name (not necessarily domain). For example, `@austin:tchncs.de` is my MXID, where `austin` is my username and `tchncs.de` is the name of the server I'm on. **You cannot change it later**, as using a new username or a different homeserver requires registering a new account (you may [migrate data](https://ems.element.io/tools/matrix-migration), however). Furthermore, if you deactivate the account, no one else can have this MXID again! You can, however, change the display name, as well as your avatar.
 
 Remember to [set up key backup](#set-up-key-backup)!
 
@@ -138,8 +138,7 @@ For those living on the edge: [Commune](https://commune.chat/), [Nheko](https://
 Each Matrix homeserver has a public room directory, which is accessible to the users of that homeserver or, if enabled, users of other homeservers as well.
 
 * On PC, for Element and SchildiChat, click the "Explore Rooms" button below your username on the top-left.
-* On phone, for Element and SchildiChat, click the "Explore Rooms" floating button on the bottom-right.
-* For FluffyChat, click the search button.
+* For FluffyChat, and for Element and SchildiChat on phone, click the search button.
 
 In any case mentioned above, you can enter the room address to directly join a room, or you can enter keywords to search for rooms[^8]. However, the directory may be unintuitive to use as it orders rooms by member count[^9]. The author of this guide recommends joining [this Space](https://matrix.to/#/#offtopic-space:envs.net) (`#offtopic-space:envs.net`), which contains a list of active off-topic or no-topic discussion rooms.
 
@@ -158,6 +157,8 @@ On Element and SchildiChat, Spaces show up on the left of your room list. Select
     <li>In FluffyChat, go to settings, then "devices." Click the sessions to rename them.</li>
   </ul>
 </div>
+
+If you're using Element or SchildiChat, then keep the [Element User Guide](https://element.io/user-guide) handy for a quick reference to the interface!
 
 * [More Features of Matrix](./features): An introduction to more of Matrix's features!
 * [Public homeserver list](../servers)
