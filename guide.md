@@ -23,7 +23,7 @@ Matrix is the long-awaited middleground between one-to-one messaging platforms (
   * [Bridges](./features/#all-about-bridges) allow you to chat with users on other platforms, minimizing the social cost of moving to Matrix!
   * Since Matrix is an open protocol, it is extensible and can be used for purposes beyond just chatting. For example: [help desk](https://www.safesupport.chat/), [social media](https://minestrix.henri2h.fr/), real-time collaboration...
 * **Trust.** You get to actually trust the software you use.
-  * Matrix is an open protocol, and most of its [apps](#what-app-should-i-use) and servers[^5] [^6] are both open source, which you may contribute to!
+  * Matrix is an open protocol, and most[^5] of its [apps](#what-app-should-i-use) and servers[^6] are both open source, which you may contribute to!
   * Matrix is federated, just like email: Unlike conventional platforms which are [centralized](./matrix-vs-al/#centralized-platforms), no single specific entity can control the entirety of the Matrix federation, where homeservers, operated independently from each other, communicate with each other using an agreed-upon protocol.
     * Furthermore, while individual homeservers may experience outage, the entire federation *cannot* go offline.
   * You are welcomed to improve Matrix by creating new apps around it, or by [reviewing or submitting](https://spec.matrix.org/unstable/proposals/) proposals. You can shape your platform towards a better direction!
@@ -174,7 +174,7 @@ If you're using Element or SchildiChat, then keep the [Element User Guide](https
 
 [^4]: Note that public rooms may block certain servers - just like banning individual users - due to prevalence of unacceptable content (spam, hate speech, etc.). If you're not running your own homeserver, don't join homeservers that are known to harbour such content. This does not apply to homeservers listed on [our public list](../servers) as they are vetted against any presence of bad reputation. In any case, behave yourselves, remember the human.
 
-[^5]: This covers all the ones that an average user sees.
+[^5]: This includes all clients and servers that an average user uses.
 
 [^6]: [Synapse](https://github.com/matrix-org/synapse/) is the only stable homeserver implementation as of now. If you are living on the edge, you can try out [Dendrite](https://github.com/matrix-org/dendrite/) and [Conduit](https://conduit.rs/), both of which aim to support p2p eventually (see footnote 1).
 
