@@ -45,21 +45,6 @@
         "version": "1.56.0"
     },
     {
-        "name": "antifash.gay",
-        "domain": "antifash.gay",
-        "info": "https://antifash.gay",
-        "jurisdiction": "US?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.30.1"
-    },
-    {
         "name": "arcticfoxes.net",
         "domain": "arcticfoxes.net",
         "info": "https://arcticfoxes.net",
@@ -360,21 +345,6 @@
         "version": "1.56.0"
     },
     {
-        "name": "data.haus",
-        "domain": "data.haus",
-        "info": "https://data.haus",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.data.haus/",
-        "software": "Synapse",
-        "version": "1.55.2"
-    },
-    {
         "name": "devass.su",
         "domain": "matrix.devass.su",
         "info": "https://devass.su",
@@ -463,21 +433,6 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.47.1"
-    },
-    {
-        "name": "filik.eu",
-        "domain": "filik.eu",
-        "info": "https://filik.eu",
-        "jurisdiction": "Czech Republic",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.56.0"
     },
     {
         "name": "flieger.chat",
@@ -870,21 +825,6 @@
         "version": "1.54.0"
     },
     {
-        "name": "nitro.chat",
-        "domain": "nitro.chat",
-        "info": "https://nitro.chat",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://www.nitrokey.com/data-privacy-policy",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://app.nitro.chat/",
-        "software": "Synapse",
-        "version": "1.56.0"
-    },
-    {
         "name": "nltrix.net",
         "domain": "nltrix.net",
         "info": "https://nltrix.net",
@@ -1018,21 +958,6 @@
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
         "version": "1.56.0"
-    },
-    {
-        "name": "qoto.org",
-        "domain": "matrix.qoto.org",
-        "info": "https://qoto.org/about/more",
-        "jurisdiction": "US?",
-        "tos": "https://qoto.org/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.qoto.org/",
-        "software": "Synapse",
-        "version": "1.45.1"
     },
     {
         "name": "radiowarnerd.org",
