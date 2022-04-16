@@ -60,21 +60,6 @@
         "version": "1.56.0"
     },
     {
-        "name": "aria-net.org",
-        "domain": "aria-net.org",
-        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
-        "jurisdiction": "Italy?",
-        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://el.aria-net.org/",
-        "software": "Synapse",
-        "version": "1.56.0.arianet.0"
-    },
-    {
         "name": "arrayinamatrix.xyz",
         "domain": "arrayinamatrix.xyz",
         "info": "https://arrayinamatrix.xyz/index/matrix/",
@@ -88,21 +73,6 @@
         "reg_link": "https://element.arrayinamatrix.xyz/",
         "software": "Synapse",
         "version": "1.56.0"
-    },
-    {
-        "name": "asozial.org",
-        "domain": "asozial.org",
-        "info": "https://asozial.org",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; left-wing",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.asozial.org/",
-        "software": "Dendrite",
-        "version": "0.5.1+e81ef164"
     },
     {
         "name": "bachgau.social",
@@ -343,6 +313,21 @@
         "reg_link": "https://chat.das-labor.org/",
         "software": "Synapse",
         "version": "1.56.0"
+    },
+    {
+        "name": "data.haus",
+        "domain": "data.haus",
+        "info": "https://data.haus",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.data.haus/",
+        "software": "Synapse",
+        "version": "1.55.2"
     },
     {
         "name": "devass.su",
@@ -988,21 +973,6 @@
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
         "version": "1.56.0"
-    },
-    {
-        "name": "qoto.org",
-        "domain": "matrix.qoto.org",
-        "info": "https://qoto.org/about/more",
-        "jurisdiction": "US?",
-        "tos": "https://qoto.org/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.qoto.org/",
-        "software": "Synapse",
-        "version": "1.45.1"
     },
     {
         "name": "radiowarnerd.org",
