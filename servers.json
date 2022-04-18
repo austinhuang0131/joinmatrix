@@ -222,7 +222,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chagai.website/",
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.57.0rc1"
     },
     {
         "name": "chatcloud.net",
@@ -1303,21 +1303,6 @@
         "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
         "version": "1.47.0"
-    },
-    {
-        "name": "unredacted.org",
-        "domain": "unredacted.org",
-        "info": "https://unredacted.org/services/matrix/",
-        "jurisdiction": "US (Romania)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.unredacted.org/",
-        "software": "Synapse",
-        "version": "1.56.0"
     },
     {
         "name": "utc.chat",
