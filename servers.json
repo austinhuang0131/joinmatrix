@@ -207,7 +207,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.57.0"
     },
     {
         "name": "chagai.website",
@@ -357,7 +357,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.das-labor.org/",
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.57.0"
     },
     {
         "name": "data.haus",
@@ -432,7 +432,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.57.0"
     },
     {
         "name": "erfurt.chat",
@@ -687,7 +687,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.57.0"
     },
     {
         "name": "kreatea.space",
@@ -897,7 +897,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nltrix.net/",
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.57.0"
     },
     {
         "name": "oblak.be",
@@ -927,7 +927,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://matrix.ohai.su/",
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.57.0"
     },
     {
         "name": "ombreport.info",
@@ -942,7 +942,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://riot.ombreport.info/",
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.57.0"
     },
     {
         "name": "pcriot.org",
@@ -1182,7 +1182,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.57.0"
     },
     {
         "name": "tauasul.net",
@@ -1377,7 +1377,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.57.0"
     },
     {
         "name": "pikaviestin.fi",
