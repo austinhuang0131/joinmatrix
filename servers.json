@@ -87,7 +87,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://el.aria-net.org/",
         "software": "Synapse",
-        "version": "1.56.0.arianet.0"
+        "version": "1.57.0.arianet.0"
     },
     {
         "name": "arrayinamatrix.xyz",
@@ -627,7 +627,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.57.0"
     },
     {
         "name": "hingst.net",
@@ -1332,22 +1332,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://utc.chat/",
         "software": "Synapse",
-        "version": "1.56.0"
-    },
-    {
-        "name": "utwente.io",
-        "domain": "utwente.io",
-        "info": "https://syscom.utwente.io/info/matrix/homeserver/",
-        "jurisdiction": "Netherlands",
-        "tos": "https://syscom.utwente.io/info/matrix/homeserver/#rules",
-        "privacy": "https://syscom.utwente.io/info/privacy/matrix/",
-        "open": true,
-        "remarks": "Regional; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.utwente.io/",
-        "software": "Synapse",
-        "version": "1.50.2"
+        "version": "1.57.0"
     },
     {
         "name": "yatrix.org",
