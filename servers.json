@@ -45,21 +45,6 @@
         "version": "1.56.0"
     },
     {
-        "name": "antifash.gay",
-        "domain": "antifash.gay",
-        "info": "https://antifash.gay",
-        "jurisdiction": "US?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.30.1"
-    },
-    {
         "name": "arcticfoxes.net",
         "domain": "arcticfoxes.net",
         "info": "https://arcticfoxes.net",
@@ -403,21 +388,6 @@
         "reg_link": "https://egora.org/tutorials/create-user/",
         "software": "Synapse",
         "version": "1.34.0"
-    },
-    {
-        "name": "envs.net",
-        "domain": "envs.net",
-        "info": "https://matrix-help.envs.net/",
-        "jurisdiction": "Germany",
-        "tos": "https://envs.net/terms-of-service",
-        "privacy": "https://envs.net/privacy-policy/",
-        "open": true,
-        "remarks": "General host; only stores messages for 3 years",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.envs.net/",
-        "software": "Synapse",
-        "version": "1.56.0"
     },
     {
         "name": "erfurt.chat",
@@ -1153,36 +1123,6 @@
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
         "version": "1.55.0"
-    },
-    {
-        "name": "studichat.de",
-        "domain": "studichat.de",
-        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.studichat.de/",
-        "software": "Synapse",
-        "version": "1.56.0"
-    },
-    {
-        "name": "sykorp.com",
-        "domain": "sykorp.com",
-        "info": "https://sykorp.com",
-        "jurisdiction": "Saudi Arabia",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Residential",
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.56.0"
     },
     {
         "name": "tauasul.net",
