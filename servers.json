@@ -45,19 +45,19 @@
         "version": "1.56.0"
     },
     {
-        "name": "arcticfoxes.net",
-        "domain": "arcticfoxes.net",
-        "info": "https://arcticfoxes.net",
-        "jurisdiction": "US (UK)",
+        "name": "antifash.gay",
+        "domain": "antifash.gay",
+        "info": "https://antifash.gay",
+        "jurisdiction": "US?",
         "tos": null,
-        "privacy": "https://arcticfoxes.net/",
+        "privacy": null,
         "open": true,
-        "remarks": "Personal",
+        "remarks": "Left-wing",
         "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://app.arcticfoxes.net",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.30.1"
     },
     {
         "name": "aria-net.org",
@@ -192,7 +192,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.57.0"
+        "version": "1.57.1"
     },
     {
         "name": "chagai.website",
@@ -672,7 +672,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.57.0"
+        "version": "1.57.1"
     },
     {
         "name": "kreatea.space",
@@ -1005,6 +1005,21 @@
         "version": "1.56.0"
     },
     {
+        "name": "qoto.org",
+        "domain": "matrix.qoto.org",
+        "info": "https://qoto.org/about/more",
+        "jurisdiction": "US?",
+        "tos": "https://qoto.org/about/more",
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.qoto.org/",
+        "software": "Synapse",
+        "version": "1.45.1"
+    },
+    {
         "name": "radiowarnerd.org",
         "domain": "radiowarnerd.org",
         "info": "https://dokuwiki.radiowarnerd.org/matrixaccountcreation",
@@ -1151,21 +1166,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
-        "software": "Synapse",
-        "version": "1.57.0"
-    },
-    {
-        "name": "sykorp.com",
-        "domain": "sykorp.com",
-        "info": "https://sykorp.com",
-        "jurisdiction": "Saudi Arabia",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Residential",
-        "reg_method": null,
-        "reg_link": null,
         "software": "Synapse",
         "version": "1.57.0"
     },
