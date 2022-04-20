@@ -360,21 +360,6 @@
         "version": "1.57.0"
     },
     {
-        "name": "data.haus",
-        "domain": "data.haus",
-        "info": "https://data.haus",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.data.haus/",
-        "software": "Synapse",
-        "version": "1.55.2"
-    },
-    {
         "name": "devass.su",
         "domain": "matrix.devass.su",
         "info": "https://devass.su",
@@ -507,7 +492,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.freiburg.social/",
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.57.0"
     },
     {
         "name": "freitrix.de",
@@ -870,21 +855,6 @@
         "version": "1.55.2"
     },
     {
-        "name": "nitro.chat",
-        "domain": "nitro.chat",
-        "info": "https://nitro.chat",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://www.nitrokey.com/data-privacy-policy",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://app.nitro.chat/",
-        "software": "Synapse",
-        "version": "1.56.0"
-    },
-    {
         "name": "nltrix.net",
         "domain": "nltrix.net",
         "info": "https://nltrix.net",
@@ -1092,7 +1062,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.57.0"
     },
     {
         "name": "scyldings.com",
@@ -1181,6 +1151,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
+        "software": "Synapse",
+        "version": "1.57.0"
+    },
+    {
+        "name": "sykorp.com",
+        "domain": "sykorp.com",
+        "info": "https://sykorp.com",
+        "jurisdiction": "Saudi Arabia",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": "Residential",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.57.0"
     },
@@ -1333,6 +1318,21 @@
         "reg_link": "https://utc.chat/",
         "software": "Synapse",
         "version": "1.57.0"
+    },
+    {
+        "name": "utwente.io",
+        "domain": "utwente.io",
+        "info": "https://syscom.utwente.io/info/matrix/homeserver/",
+        "jurisdiction": "Netherlands",
+        "tos": "https://syscom.utwente.io/info/matrix/homeserver/#rules",
+        "privacy": "https://syscom.utwente.io/info/privacy/matrix/",
+        "open": true,
+        "remarks": "Regional; student-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.utwente.io/",
+        "software": "Synapse",
+        "version": "1.50.2"
     },
     {
         "name": "yatrix.org",
