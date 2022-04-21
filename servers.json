@@ -45,6 +45,21 @@
         "version": "1.56.0"
     },
     {
+        "name": "antifash.gay",
+        "domain": "antifash.gay",
+        "info": "https://antifash.gay",
+        "jurisdiction": "US?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Left-wing",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.30.1"
+    },
+    {
         "name": "arcticfoxes.net",
         "domain": "arcticfoxes.net",
         "info": "https://arcticfoxes.net",
@@ -73,21 +88,6 @@
         "reg_link": "https://el.aria-net.org/",
         "software": "Synapse",
         "version": "1.57.0.arianet.0"
-    },
-    {
-        "name": "arrayinamatrix.xyz",
-        "domain": "arrayinamatrix.xyz",
-        "info": "https://arrayinamatrix.xyz/index/matrix/",
-        "jurisdiction": "Canada",
-        "tos": "https://arrayinamatrix.xyz/index/matrix/#rules",
-        "privacy": "https://arrayinamatrix.xyz/index/apps/privacy/#matrix",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.arrayinamatrix.xyz/",
-        "software": "Synapse",
-        "version": "1.56.0"
     },
     {
         "name": "asozial.org",
@@ -293,21 +293,6 @@
         "privacy": null,
         "open": true,
         "remarks": "In French",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.55.0"
-    },
-    {
-        "name": "cubebuilder.me",
-        "domain": "cubebuilder.me",
-        "info": "https://cubebuilder.me",
-        "jurisdiction": "US?",
-        "tos": "https://cubebuilder.me/",
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
         "antifeature": null,
         "reg_method": null,
         "reg_link": null,
@@ -658,21 +643,6 @@
         "reg_link": "https://element.inetd.xyz/",
         "software": "Synapse",
         "version": "1.54.0"
-    },
-    {
-        "name": "jonasled.de",
-        "domain": "jonasled.de",
-        "info": "https://jonasled.de",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; personal",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.57.1"
     },
     {
         "name": "kreatea.space",
@@ -1140,21 +1110,6 @@
         "version": "1.55.2"
     },
     {
-        "name": "sibnsk.net",
-        "domain": "sibnsk.net",
-        "info": "https://lugnsk.org/page/blog/matrix",
-        "jurisdiction": "Russia",
-        "tos": "https://matrix.sibnsk.net/_matrix/consent",
-        "privacy": "https://matrix.sibnsk.net/_matrix/consent",
-        "open": true,
-        "remarks": "In Russian",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.sibnsk.net",
-        "software": "Synapse",
-        "version": "1.56.0"
-    },
-    {
         "name": "socialnetwork24.com",
         "domain": "socialnetwork24.com",
         "info": "https://blog.unixweb.de/telegram-abgeschaltet-alternative-matrix/",
@@ -1183,6 +1138,21 @@
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
         "version": "1.57.0"
+    },
+    {
+        "name": "sykorp.com",
+        "domain": "sykorp.com",
+        "info": "https://sykorp.com",
+        "jurisdiction": "Saudi Arabia",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": "Residential",
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.57.1"
     },
     {
         "name": "tauasul.net",
