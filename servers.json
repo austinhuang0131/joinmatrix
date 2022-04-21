@@ -132,7 +132,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.bachgau.social/",
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.57.0"
     },
     {
         "name": "badstuebner.biz",
@@ -597,7 +597,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://riot.grin.hu/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.56.0"
     },
     {
         "name": "group.lt",
@@ -1227,7 +1227,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.57.1"
     },
     {
         "name": "techsaviours.org",
