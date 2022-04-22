@@ -45,21 +45,6 @@
         "version": "1.56.0"
     },
     {
-        "name": "antifash.gay",
-        "domain": "antifash.gay",
-        "info": "https://antifash.gay",
-        "jurisdiction": "US?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.30.1"
-    },
-    {
         "name": "arcticfoxes.net",
         "domain": "arcticfoxes.net",
         "info": "https://arcticfoxes.net",
@@ -1200,6 +1185,21 @@
         "version": "1.57.1"
     },
     {
+        "name": "techsaviours.org",
+        "domain": "techsaviours.org",
+        "info": "https://techsaviours.org",
+        "jurisdiction": "Germany",
+        "tos": "https://techsaviours.org/terms-of-use.html",
+        "privacy": "https://techsaviours.org/privacy-policy.html",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.techsaviours.org/",
+        "software": "Synapse",
+        "version": "1.55.2"
+    },
+    {
         "name": "tedomum.net",
         "domain": "tedomum.net",
         "info": "https://tedomum.net/service/matrix/",
@@ -1468,5 +1468,20 @@
         "reg_link": "https://adherents.arn-fai.net/members/register/",
         "software": "Synapse",
         "version": "1.51.0"
+    },
+    {
+        "name": "hyteck.de",
+        "domain": "hyteck.de",
+        "info": "https:hyteck.de",
+        "jurisdiction": "Germany",
+        "tos": "https://hyteck.de/services/#usage-policy-german",
+        "privacy": "https://hyteck.de/imprint/",
+        "open": false,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://hyteck.de/about/",
+        "software": "Synapse",
+        "version": "1.57.0"
     }
 ]
