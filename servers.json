@@ -462,7 +462,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.57.1"
     },
     {
         "name": "freiburg.social",
@@ -1166,6 +1166,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
+        "software": "Synapse",
+        "version": "1.57.1"
+    },
+    {
+        "name": "sykorp.com",
+        "domain": "sykorp.com",
+        "info": "https://sykorp.com",
+        "jurisdiction": "Saudi Arabia",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": "Residential",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.57.1"
     },
