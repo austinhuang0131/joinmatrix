@@ -132,7 +132,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.badstuebner.biz/",
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.57.1"
     },
     {
         "name": "bitcoiner.chat",
@@ -1170,21 +1170,6 @@
         "version": "1.57.1"
     },
     {
-        "name": "sykorp.com",
-        "domain": "sykorp.com",
-        "info": "https://sykorp.com",
-        "jurisdiction": "Saudi Arabia",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Residential",
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.57.1"
-    },
-    {
         "name": "tauasul.net",
         "domain": "tauasul.net",
         "info": "https://tauasul.net",
@@ -1392,7 +1377,7 @@
         "reg_method": "SSO",
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
-        "version": "1.51.0"
+        "version": "1.57.0"
     },
     {
         "name": "aletheia.moe",
