@@ -45,6 +45,21 @@
         "version": "1.56.0"
     },
     {
+        "name": "antifash.gay",
+        "domain": "antifash.gay",
+        "info": "https://antifash.gay",
+        "jurisdiction": "US?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Left-wing",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.30.1"
+    },
+    {
         "name": "arcticfoxes.net",
         "domain": "arcticfoxes.net",
         "info": "https://arcticfoxes.net",
@@ -88,21 +103,6 @@
         "reg_link": "https://element.arrayinamatrix.xyz/",
         "software": "Synapse",
         "version": "1.57.1"
-    },
-    {
-        "name": "asozial.org",
-        "domain": "asozial.org",
-        "info": "https://asozial.org",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; left-wing",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.asozial.org/",
-        "software": "Dendrite",
-        "version": "0.5.1+e81ef164"
     },
     {
         "name": "bachgau.social",
@@ -675,21 +675,6 @@
         "version": "1.57.1"
     },
     {
-        "name": "librem.one",
-        "domain": "chat.librem.one",
-        "info": "https://librem.one",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": "https://librem.one/policy/",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://librem.one",
-        "software": "Synapse",
-        "version": "1.38.1"
-    },
-    {
         "name": "librosphere.org",
         "domain": "mtx.librosphere.org",
         "info": "https://librosphere.org/guide.html",
@@ -1077,7 +1062,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.scyldings.com/",
         "software": "Synapse",
-        "version": "1.52.0"
+        "version": "1.57.1"
     },
     {
         "name": "sfunk1x.com",
@@ -1376,21 +1361,6 @@
         "antifeature": null,
         "reg_method": "SSO",
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
-        "software": "Synapse",
-        "version": "1.57.0"
-    },
-    {
-        "name": "aletheia.moe",
-        "domain": "aletheia.moe",
-        "info": "https://aletheia.moe",
-        "jurisdiction": "? (Iceland)",
-        "tos": "https://aletheia.moe/tos/",
-        "privacy": "https://aletheia.moe/tos/",
-        "open": false,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://aletheia.moe/registration/",
         "software": "Synapse",
         "version": "1.57.0"
     },
