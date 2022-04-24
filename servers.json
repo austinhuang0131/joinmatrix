@@ -675,6 +675,21 @@
         "version": "1.57.1"
     },
     {
+        "name": "librem.one",
+        "domain": "chat.librem.one",
+        "info": "https://librem.one",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": "https://librem.one/policy/",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://librem.one",
+        "software": "Synapse",
+        "version": "1.38.1"
+    },
+    {
         "name": "librosphere.org",
         "domain": "mtx.librosphere.org",
         "info": "https://librosphere.org/guide.html",
@@ -1361,6 +1376,21 @@
         "antifeature": null,
         "reg_method": "SSO",
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
+        "software": "Synapse",
+        "version": "1.57.0"
+    },
+    {
+        "name": "aletheia.moe",
+        "domain": "aletheia.moe",
+        "info": "https://aletheia.moe",
+        "jurisdiction": "? (Iceland)",
+        "tos": "https://aletheia.moe/tos/",
+        "privacy": "https://aletheia.moe/tos/",
+        "open": false,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://aletheia.moe/registration/",
         "software": "Synapse",
         "version": "1.57.0"
     },
