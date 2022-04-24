@@ -642,7 +642,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.inetd.xyz/",
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.57.0"
     },
     {
         "name": "jonasled.de",
@@ -837,7 +837,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://mtrx.nz/",
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.57.0"
     },
     {
         "name": "mux.re",
@@ -853,6 +853,21 @@
         "reg_link": "https://chat.mux.re/",
         "software": "Synapse",
         "version": "1.55.2"
+    },
+    {
+        "name": "nitro.chat",
+        "domain": "nitro.chat",
+        "info": "https://nitro.chat",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://www.nitrokey.com/data-privacy-policy",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://app.nitro.chat/",
+        "software": "Synapse",
+        "version": "1.57.0"
     },
     {
         "name": "nltrix.net",
@@ -1302,7 +1317,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.unredacted.org/",
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.57.1"
     },
     {
         "name": "utc.chat",
