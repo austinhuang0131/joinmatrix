@@ -840,21 +840,6 @@
         "version": "1.55.2"
     },
     {
-        "name": "nitro.chat",
-        "domain": "nitro.chat",
-        "info": "https://nitro.chat",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://www.nitrokey.com/data-privacy-policy",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://app.nitro.chat/",
-        "software": "Synapse",
-        "version": "1.57.0"
-    },
-    {
         "name": "nltrix.net",
         "domain": "nltrix.net",
         "info": "https://nltrix.net",
@@ -1273,21 +1258,6 @@
         "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
         "version": "1.56.0"
-    },
-    {
-        "name": "ungleich.ch",
-        "domain": "ungleich.ch",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
-        "software": "Synapse",
-        "version": "1.47.0"
     },
     {
         "name": "unredacted.org",
