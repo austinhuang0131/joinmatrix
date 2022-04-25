@@ -45,21 +45,6 @@
         "version": "1.56.0"
     },
     {
-        "name": "antifash.gay",
-        "domain": "antifash.gay",
-        "info": "https://antifash.gay",
-        "jurisdiction": "US?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.30.1"
-    },
-    {
         "name": "arcticfoxes.net",
         "domain": "arcticfoxes.net",
         "info": "https://arcticfoxes.net",
@@ -522,7 +507,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://g24.at",
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.57.0"
     },
     {
         "name": "gemeinsam.jetzt",
@@ -732,7 +717,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.magaya.org",
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.57.1"
     },
     {
         "name": "magdeburg.jetzt",
@@ -853,6 +838,21 @@
         "reg_link": "https://chat.mux.re/",
         "software": "Synapse",
         "version": "1.55.2"
+    },
+    {
+        "name": "nitro.chat",
+        "domain": "nitro.chat",
+        "info": "https://nitro.chat",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://www.nitrokey.com/data-privacy-policy",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://app.nitro.chat/",
+        "software": "Synapse",
+        "version": "1.57.0"
     },
     {
         "name": "nltrix.net",
