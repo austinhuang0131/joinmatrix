@@ -45,6 +45,21 @@
         "version": "1.56.0"
     },
     {
+        "name": "antifash.gay",
+        "domain": "antifash.gay",
+        "info": "https://antifash.gay",
+        "jurisdiction": "US?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Left-wing",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.30.1"
+    },
+    {
         "name": "arcticfoxes.net",
         "domain": "arcticfoxes.net",
         "info": "https://arcticfoxes.net",
@@ -432,7 +447,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.57.0"
     },
     {
         "name": "flieger.chat",
@@ -840,6 +855,21 @@
         "version": "1.55.2"
     },
     {
+        "name": "nitro.chat",
+        "domain": "nitro.chat",
+        "info": "https://nitro.chat",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://www.nitrokey.com/data-privacy-policy",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://app.nitro.chat/",
+        "software": "Synapse",
+        "version": "1.57.0"
+    },
+    {
         "name": "nltrix.net",
         "domain": "nltrix.net",
         "info": "https://nltrix.net",
@@ -1197,7 +1227,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
-        "version": "1.55.2"
+        "version": "1.57.0"
     },
     {
         "name": "tedomum.net",
@@ -1260,6 +1290,21 @@
         "version": "1.56.0"
     },
     {
+        "name": "ungleich.ch",
+        "domain": "ungleich.ch",
+        "info": "https://ungleich.ch/u/projects/open-chat/",
+        "jurisdiction": "Switzerland",
+        "tos": null,
+        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
+        "open": true,
+        "remarks": "Hosting provider",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://account.ungleich.ch/",
+        "software": "Synapse",
+        "version": "1.47.0"
+    },
+    {
         "name": "unredacted.org",
         "domain": "unredacted.org",
         "info": "https://unredacted.org/services/matrix/",
@@ -1303,6 +1348,21 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.50.2"
+    },
+    {
+        "name": "virto.community",
+        "domain": "virto.community",
+        "info": "https://virto.network/",
+        "jurisdiction": "? (Germany)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Accessory; crypto",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.virto.community/",
+        "software": "Synapse",
+        "version": "1.55.2"
     },
     {
         "name": "yatrix.org",
@@ -1378,21 +1438,6 @@
         "reg_link": "https://bitma.st/en/contact/",
         "software": "Synapse",
         "version": "1.47.1"
-    },
-    {
-        "name": "deuxfleurs.fr",
-        "domain": "deuxfleurs.fr",
-        "info": "https://deuxfleurs.fr",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": false,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://deuxfleurs.fr/",
-        "software": "Synapse",
-        "version": "1.54.0"
     },
     {
         "name": "libreon.fr",
