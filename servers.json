@@ -225,6 +225,21 @@
         "version": "1.57.1"
     },
     {
+        "name": "chrrreeeeesss.com",
+        "domain": "chrrreeeeesss.com",
+        "info": "https://chrrreeeeesss.com",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chrrreeeeesss.com/element",
+        "software": "Synapse",
+        "version": "1.57.1"
+    },
+    {
         "name": "club1.fr",
         "domain": "club1.fr",
         "info": "https://club1.fr/matrix/",
@@ -942,7 +957,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.57.1"
     },
     {
         "name": "privex.io",
@@ -1303,6 +1318,36 @@
         "reg_link": "https://utc.chat/",
         "software": "Synapse",
         "version": "1.57.0"
+    },
+    {
+        "name": "utwente.io",
+        "domain": "utwente.io",
+        "info": "https://syscom.utwente.io/info/matrix/homeserver/",
+        "jurisdiction": "Netherlands",
+        "tos": "https://syscom.utwente.io/info/matrix/homeserver/#rules",
+        "privacy": "https://syscom.utwente.io/info/privacy/matrix/",
+        "open": true,
+        "remarks": "Regional; student-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.utwente.io/",
+        "software": "Synapse",
+        "version": "1.50.2"
+    },
+    {
+        "name": "virto.community",
+        "domain": "virto.community",
+        "info": "https://virto.network/",
+        "jurisdiction": "? (Germany)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Accessory; crypto",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.virto.community/",
+        "software": "Synapse",
+        "version": "1.57.1"
     },
     {
         "name": "yatrix.org",
