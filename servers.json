@@ -285,21 +285,6 @@
         "version": "1.57.0"
     },
     {
-        "name": "converser.eu",
-        "domain": "converser.eu",
-        "info": "https://converser.eu",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.55.0"
-    },
-    {
         "name": "danskungdom.dk",
         "domain": "danskungdom.dk",
         "info": "https://danskungdom.dk/guides/matrix/",
@@ -1003,6 +988,21 @@
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
         "version": "1.56.0"
+    },
+    {
+        "name": "qoto.org",
+        "domain": "matrix.qoto.org",
+        "info": "https://qoto.org/about/more",
+        "jurisdiction": "US?",
+        "tos": "https://qoto.org/about/more",
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.qoto.org/",
+        "software": "Synapse",
+        "version": "1.45.1"
     },
     {
         "name": "radiowarnerd.org",
