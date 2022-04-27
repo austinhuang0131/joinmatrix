@@ -45,21 +45,6 @@
         "version": "1.56.0"
     },
     {
-        "name": "antifash.gay",
-        "domain": "antifash.gay",
-        "info": "https://antifash.gay",
-        "jurisdiction": "US?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.30.1"
-    },
-    {
         "name": "arcticfoxes.net",
         "domain": "arcticfoxes.net",
         "info": "https://arcticfoxes.net",
@@ -103,6 +88,21 @@
         "reg_link": "https://element.arrayinamatrix.xyz/",
         "software": "Synapse",
         "version": "1.57.1"
+    },
+    {
+        "name": "bachgau.social",
+        "domain": "bachgau.social",
+        "info": "https://www.bachgau.social/unsere-dienste/matrix/",
+        "jurisdiction": "Germany",
+        "tos": "https://mastodon.bachgau.social/about/more",
+        "privacy": "https://www.bachgau.social/datenschutzerklaerung/",
+        "open": true,
+        "remarks": "In German; regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.bachgau.social/",
+        "software": "Synapse",
+        "version": "1.57.0"
     },
     {
         "name": "badstuebner.biz",
@@ -1288,21 +1288,6 @@
         "reg_link": "https://element.unredacted.org/",
         "software": "Synapse",
         "version": "1.57.1"
-    },
-    {
-        "name": "utc.chat",
-        "domain": "utc.chat",
-        "info": "https://utc.today/whichside",
-        "jurisdiction": "China? (US)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Chinese; accessory; crypto",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://utc.chat/",
-        "software": "Synapse",
-        "version": "1.57.0"
     },
     {
         "name": "utwente.io",
