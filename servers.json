@@ -150,21 +150,6 @@
         "version": "1.54.0"
     },
     {
-        "name": "buyvm.net",
-        "domain": "buyvm.net",
-        "info": "https://buyvm.net/beware-the-moshbear/",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Hosting provider; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.buyvm.net/element/",
-        "software": "Synapse",
-        "version": "1.55.0"
-    },
-    {
         "name": "bytes4u.de",
         "domain": "matrix.bytes4u.de",
         "info": "https://bytes4u.de",
@@ -283,6 +268,21 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.57.0"
+    },
+    {
+        "name": "converser.eu",
+        "domain": "converser.eu",
+        "info": "https://converser.eu",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In French",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.55.0"
     },
     {
         "name": "danskungdom.dk",
@@ -988,21 +988,6 @@
         "reg_link": "https://element.qoto.org/",
         "software": "Synapse",
         "version": "1.45.1"
-    },
-    {
-        "name": "radiowarnerd.org",
-        "domain": "radiowarnerd.org",
-        "info": "https://dokuwiki.radiowarnerd.org/matrixaccountcreation",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.radiowarnerd.org/",
-        "software": "Synapse",
-        "version": "1.53.0"
     },
     {
         "name": "riotchat.de",
