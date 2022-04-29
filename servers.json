@@ -750,6 +750,21 @@
         "version": "1.47.1"
     },
     {
+        "name": "mailstation.de",
+        "domain": "mailstation.de",
+        "info": "https://turing.mailstation.de/?page_id=1375",
+        "jurisdiction": "Germany",
+        "tos": "https://turing.mailstation.de/terms-and-conditions/",
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.mailstation.de/",
+        "software": "Synapse",
+        "version": "1.57.0"
+    },
+    {
         "name": "mandragot.org",
         "domain": "mandragot.org",
         "info": "https://www.mandragot.org/page/matrix/",
