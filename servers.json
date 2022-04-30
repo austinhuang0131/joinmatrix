@@ -1,20 +1,5 @@
 [
     {
-        "name": "0wnz.at",
-        "domain": "0wnz.at",
-        "info": "https://0wnz.at",
-        "jurisdiction": "Austria",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://im.0wnz.at/element-web/",
-        "software": "Synapse",
-        "version": "1.57.0"
-    },
-    {
         "name": "activism.international",
         "domain": "activism.international",
         "info": "https://activism.international",
@@ -264,21 +249,6 @@
         "open": true,
         "remarks": "In French; tech collective",
         "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.57.0"
-    },
-    {
-        "name": "comm.cx",
-        "domain": "comm.cx",
-        "info": "https://comm.cx",
-        "jurisdiction": "Japan",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Uses Cloudflare",
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
@@ -898,21 +868,6 @@
         "reg_link": "https://chat.oblak.be/",
         "software": "Synapse",
         "version": "1.46.0"
-    },
-    {
-        "name": "ohai.su",
-        "domain": "ohai.su",
-        "info": "https://ohai.su",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.ohai.su/",
-        "software": "Synapse",
-        "version": "1.57.0"
     },
     {
         "name": "ombreport.info",
