@@ -57,7 +57,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.30.1"
+        "version": "1.57.0"
     },
     {
         "name": "arcticfoxes.net",
@@ -822,7 +822,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.55.2"
+        "version": "1.57.1"
     },
     {
         "name": "mtrx.nz",
@@ -1290,21 +1290,6 @@
         "version": "1.57.1"
     },
     {
-        "name": "utwente.io",
-        "domain": "utwente.io",
-        "info": "https://syscom.utwente.io/info/matrix/homeserver/",
-        "jurisdiction": "Netherlands",
-        "tos": "https://syscom.utwente.io/info/matrix/homeserver/#rules",
-        "privacy": "https://syscom.utwente.io/info/privacy/matrix/",
-        "open": true,
-        "remarks": "Regional; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.utwente.io/",
-        "software": "Synapse",
-        "version": "1.50.2"
-    },
-    {
         "name": "virto.community",
         "domain": "virto.community",
         "info": "https://virto.network/",
@@ -1408,6 +1393,21 @@
         "reg_link": "https://deuxfleurs.fr/",
         "software": "Synapse",
         "version": "1.54.0"
+    },
+    {
+        "name": "hyteck.de",
+        "domain": "hyteck.de",
+        "info": "https://hyteck.de/services/",
+        "jurisdiction": "Germany",
+        "tos": "https://hyteck.de/services/",
+        "privacy": null,
+        "open": false,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://hyteck.de/about/",
+        "software": "Synapse",
+        "version": "1.57.1"
     },
     {
         "name": "libreon.fr",
