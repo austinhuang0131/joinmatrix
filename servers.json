@@ -1110,21 +1110,6 @@
         "version": "1.57.0"
     },
     {
-        "name": "socialnetwork24.com",
-        "domain": "socialnetwork24.com",
-        "info": "https://blog.unixweb.de/telegram-abgeschaltet-alternative-matrix/",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.socialnetwork24.com",
-        "software": "Synapse",
-        "version": "1.55.0"
-    },
-    {
         "name": "studichat.de",
         "domain": "studichat.de",
         "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
@@ -1288,6 +1273,21 @@
         "reg_link": "https://element.unredacted.org/",
         "software": "Synapse",
         "version": "1.57.1"
+    },
+    {
+        "name": "utwente.io",
+        "domain": "utwente.io",
+        "info": "https://syscom.utwente.io/info/matrix/homeserver/",
+        "jurisdiction": "Netherlands",
+        "tos": "https://syscom.utwente.io/info/matrix/homeserver/#rules",
+        "privacy": "https://syscom.utwente.io/info/privacy/matrix/",
+        "open": true,
+        "remarks": "Regional; student-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.utwente.io/",
+        "software": "Synapse",
+        "version": "1.50.2"
     },
     {
         "name": "virto.community",
