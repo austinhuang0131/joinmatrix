@@ -1,5 +1,20 @@
 [
     {
+        "name": "0wnz.at",
+        "domain": "0wnz.at",
+        "info": "https://0wnz.at",
+        "jurisdiction": "Austria",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://im.0wnz.at/element-web/",
+        "software": "Synapse",
+        "version": "1.57.0"
+    },
+    {
         "name": "activism.international",
         "domain": "activism.international",
         "info": "https://activism.international",
@@ -255,6 +270,21 @@
         "version": "1.57.0"
     },
     {
+        "name": "comm.cx",
+        "domain": "comm.cx",
+        "info": "https://comm.cx",
+        "jurisdiction": "Japan",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": "Uses Cloudflare",
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.57.0"
+    },
+    {
         "name": "converser.eu",
         "domain": "converser.eu",
         "info": "https://converser.eu",
@@ -327,7 +357,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.devass.su/",
         "software": "Synapse",
-        "version": "1.52.0"
+        "version": "1.57.0"
     },
     {
         "name": "duesen.chat",
@@ -870,6 +900,21 @@
         "version": "1.46.0"
     },
     {
+        "name": "ohai.su",
+        "domain": "ohai.su",
+        "info": "https://ohai.su",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.ohai.su/",
+        "software": "Synapse",
+        "version": "1.57.0"
+    },
+    {
         "name": "ombreport.info",
         "domain": "matrix.ombreport.info",
         "info": "http://ombreport.info",
@@ -1033,6 +1078,21 @@
         "reg_link": "https://element.scyldings.com/",
         "software": "Synapse",
         "version": "1.57.1"
+    },
+    {
+        "name": "sfunk1x.com",
+        "domain": "sfunk1x.com",
+        "info": "https://sfunk1x.com",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.sfunk1x.com/",
+        "software": "Synapse",
+        "version": "1.57.0"
     },
     {
         "name": "shibabox.eu",
