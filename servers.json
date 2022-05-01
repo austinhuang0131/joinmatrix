@@ -285,6 +285,21 @@
         "version": "1.55.0"
     },
     {
+        "name": "cubebuilder.me",
+        "domain": "cubebuilder.me",
+        "info": "https://cubebuilder.me",
+        "jurisdiction": "US?",
+        "tos": "https://cubebuilder.me/",
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.55.0"
+    },
+    {
         "name": "danskungdom.dk",
         "domain": "danskungdom.dk",
         "info": "https://danskungdom.dk/guides/matrix/",
@@ -990,21 +1005,6 @@
         "version": "1.53.0"
     },
     {
-        "name": "riotchat.de",
-        "domain": "riotchat.de",
-        "info": "https://riotchat.de/legal/help.html",
-        "jurisdiction": "Germany",
-        "tos": "https://riotchat.de/legal/terms.html",
-        "privacy": "https://riotchat.de/legal/privacy.html",
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://riotchat.de/register/form.php",
-        "software": "Synapse",
-        "version": "1.55.2"
-    },
-    {
         "name": "rumatrix.org",
         "domain": "rumatrix.org",
         "info": "https://rumatrix.org",
@@ -1093,6 +1093,21 @@
         "reg_link": "https://element.sibnsk.net",
         "software": "Synapse",
         "version": "1.57.0"
+    },
+    {
+        "name": "socialnetwork24.com",
+        "domain": "socialnetwork24.com",
+        "info": "https://blog.unixweb.de/telegram-abgeschaltet-alternative-matrix/",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.socialnetwork24.com",
+        "software": "Synapse",
+        "version": "1.55.0"
     },
     {
         "name": "studichat.de",
@@ -1273,6 +1288,21 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.50.2"
+    },
+    {
+        "name": "virto.community",
+        "domain": "virto.community",
+        "info": "https://virto.network/",
+        "jurisdiction": "? (Germany)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Accessory; crypto",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.virto.community/",
+        "software": "Synapse",
+        "version": "1.57.1"
     },
     {
         "name": "yatrix.org",
