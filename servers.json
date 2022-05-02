@@ -627,7 +627,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.hingst.net/",
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.57.1"
     },
     {
         "name": "houtworm.im",
@@ -690,19 +690,19 @@
         "version": "1.57.1"
     },
     {
-        "name": "librosphere.org",
-        "domain": "mtx.librosphere.org",
-        "info": "https://librosphere.org/guide.html",
-        "jurisdiction": "France",
+        "name": "librem.one",
+        "domain": "chat.librem.one",
+        "info": "https://librem.one",
+        "jurisdiction": "US",
         "tos": null,
-        "privacy": null,
+        "privacy": "https://librem.one/policy/",
         "open": true,
-        "remarks": "In French; tech collective",
+        "remarks": "General host",
         "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
+        "reg_method": "SSO",
+        "reg_link": "https://librem.one",
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.38.1"
     },
     {
         "name": "llamarific.social",
@@ -987,7 +987,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.57.1"
     },
     {
         "name": "qoto.org",
@@ -1018,6 +1018,21 @@
         "reg_link": "https://element.radiowarnerd.org/",
         "software": "Synapse",
         "version": "1.53.0"
+    },
+    {
+        "name": "riotchat.de",
+        "domain": "riotchat.de",
+        "info": "https://riotchat.de/legal/help.html",
+        "jurisdiction": "Germany",
+        "tos": "https://riotchat.de/legal/terms.html",
+        "privacy": "https://riotchat.de/legal/privacy.html",
+        "open": true,
+        "remarks": "In German",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://riotchat.de/register/form.php",
+        "software": "Synapse",
+        "version": "1.55.2"
     },
     {
         "name": "rumatrix.org",
@@ -1258,21 +1273,6 @@
         "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
         "version": "1.57.1"
-    },
-    {
-        "name": "ungleich.ch",
-        "domain": "ungleich.ch",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
-        "software": "Synapse",
-        "version": "1.47.0"
     },
     {
         "name": "unredacted.org",
