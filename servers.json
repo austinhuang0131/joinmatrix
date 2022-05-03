@@ -87,7 +87,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://el.aria-net.org/",
         "software": "Synapse",
-        "version": "1.57.0.arianet.0"
+        "version": "1.58.0.arianet.0"
     },
     {
         "name": "arrayinamatrix.xyz",
@@ -117,7 +117,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.bachgau.social/",
         "software": "Synapse",
-        "version": "1.57.0"
+        "version": "1.58.0"
     },
     {
         "name": "badstuebner.biz",
@@ -192,7 +192,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.57.1"
+        "version": "1.58.0"
     },
     {
         "name": "chagai.website",
@@ -252,7 +252,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
-        "version": "1.57.1"
+        "version": "1.58.0"
     },
     {
         "name": "club1.fr",
@@ -267,7 +267,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.57.0"
+        "version": "1.58.0"
     },
     {
         "name": "comm.cx",
@@ -342,7 +342,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.das-labor.org/",
         "software": "Synapse",
-        "version": "1.57.0"
+        "version": "1.58.0"
     },
     {
         "name": "data.haus",
@@ -417,7 +417,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.57.0"
+        "version": "1.58.0"
     },
     {
         "name": "erfurt.chat",
@@ -672,7 +672,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.57.1"
+        "version": "1.58.0"
     },
     {
         "name": "kreatea.space",
@@ -688,21 +688,6 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.57.1"
-    },
-    {
-        "name": "librem.one",
-        "domain": "chat.librem.one",
-        "info": "https://librem.one",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": "https://librem.one/policy/",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://librem.one",
-        "software": "Synapse",
-        "version": "1.38.1"
     },
     {
         "name": "llamarific.social",
@@ -855,6 +840,21 @@
         "version": "1.55.2"
     },
     {
+        "name": "nitro.chat",
+        "domain": "nitro.chat",
+        "info": "https://nitro.chat",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://www.nitrokey.com/data-privacy-policy",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://app.nitro.chat/",
+        "software": "Synapse",
+        "version": "1.57.0"
+    },
+    {
         "name": "nltrix.net",
         "domain": "nltrix.net",
         "info": "https://nltrix.net",
@@ -867,7 +867,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nltrix.net/",
         "software": "Synapse",
-        "version": "1.57.0"
+        "version": "1.58.0"
     },
     {
         "name": "oblak.be",
@@ -973,6 +973,21 @@
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
         "version": "1.57.1"
+    },
+    {
+        "name": "qoto.org",
+        "domain": "matrix.qoto.org",
+        "info": "https://qoto.org/about/more",
+        "jurisdiction": "US?",
+        "tos": "https://qoto.org/about/more",
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.qoto.org/",
+        "software": "Synapse",
+        "version": "1.45.1"
     },
     {
         "name": "radiowarnerd.org",
@@ -1122,7 +1137,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
-        "version": "1.57.1"
+        "version": "1.58.0"
     },
     {
         "name": "sykorp.com",
@@ -1137,7 +1152,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.57.1"
+        "version": "1.58.0"
     },
     {
         "name": "tauasul.net",
@@ -1167,7 +1182,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.57.1"
+        "version": "1.58.0"
     },
     {
         "name": "techsaviours.org",
@@ -1332,7 +1347,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.57.1"
+        "version": "1.58.0"
     },
     {
         "name": "pikaviestin.fi",
