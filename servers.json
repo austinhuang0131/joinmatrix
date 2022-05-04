@@ -12,7 +12,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://im.0wnz.at/element-web/",
         "software": "Synapse",
-        "version": "1.57.0"
+        "version": "1.58.0"
     },
     {
         "name": "activism.international",
@@ -88,21 +88,6 @@
         "reg_link": "https://el.aria-net.org/",
         "software": "Synapse",
         "version": "1.58.0.arianet.0"
-    },
-    {
-        "name": "arrayinamatrix.xyz",
-        "domain": "arrayinamatrix.xyz",
-        "info": "https://arrayinamatrix.xyz/index/matrix/",
-        "jurisdiction": "Canada",
-        "tos": "https://arrayinamatrix.xyz/index/matrix/#rules",
-        "privacy": "https://arrayinamatrix.xyz/index/apps/privacy/#matrix",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.arrayinamatrix.xyz/",
-        "software": "Synapse",
-        "version": "1.57.1"
     },
     {
         "name": "bachgau.social",
@@ -537,7 +522,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://g24.at",
         "software": "Synapse",
-        "version": "1.57.0"
+        "version": "1.58.0"
     },
     {
         "name": "gemeinsam.jetzt",
@@ -612,7 +597,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.57.1"
+        "version": "1.58.0"
     },
     {
         "name": "hingst.net",
@@ -822,7 +807,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.57.0"
+        "version": "1.58.0"
     },
     {
         "name": "melroy.org",
@@ -1348,21 +1333,6 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.50.2"
-    },
-    {
-        "name": "virto.community",
-        "domain": "virto.community",
-        "info": "https://virto.network/",
-        "jurisdiction": "? (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory; crypto",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.virto.community/",
-        "software": "Synapse",
-        "version": "1.57.1"
     },
     {
         "name": "yatrix.org",
