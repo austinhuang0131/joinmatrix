@@ -1305,21 +1305,6 @@
         "version": "1.50.2"
     },
     {
-        "name": "virto.community",
-        "domain": "virto.community",
-        "info": "https://virto.network/",
-        "jurisdiction": "? (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory; crypto",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.virto.community/",
-        "software": "Synapse",
-        "version": "1.57.1"
-    },
-    {
         "name": "yatrix.org",
         "domain": "yatrix.org",
         "info": "https://yatrix.org",
