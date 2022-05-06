@@ -90,19 +90,19 @@
         "version": "1.58.0.arianet.0"
     },
     {
-        "name": "bachgau.social",
-        "domain": "bachgau.social",
-        "info": "https://www.bachgau.social/unsere-dienste/matrix/",
-        "jurisdiction": "Germany",
-        "tos": "https://mastodon.bachgau.social/about/more",
-        "privacy": "https://www.bachgau.social/datenschutzerklaerung/",
+        "name": "arrayinamatrix.xyz",
+        "domain": "arrayinamatrix.xyz",
+        "info": "https://arrayinamatrix.xyz/index/matrix/",
+        "jurisdiction": "Canada",
+        "tos": "https://arrayinamatrix.xyz/index/matrix/#rules",
+        "privacy": "https://arrayinamatrix.xyz/index/apps/privacy/#matrix",
         "open": true,
-        "remarks": "In German; regional",
-        "antifeature": null,
+        "remarks": "Personal",
+        "antifeature": "Residential",
         "reg_method": "In-house Element",
-        "reg_link": "https://element.bachgau.social/",
+        "reg_link": "https://element.arrayinamatrix.xyz/",
         "software": "Synapse",
-        "version": "1.58.1"
+        "version": "1.57.1"
     },
     {
         "name": "badstuebner.biz",
@@ -795,21 +795,6 @@
         "version": "1.58.0"
     },
     {
-        "name": "melroy.org",
-        "domain": "melroy.org",
-        "info": "https://docs.libreweb.org/community/discussions/",
-        "jurisdiction": "Netherlands",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.57.1"
-    },
-    {
         "name": "monero.social",
         "domain": "monero.social",
         "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
@@ -990,21 +975,6 @@
         "version": "1.58.0"
     },
     {
-        "name": "qoto.org",
-        "domain": "matrix.qoto.org",
-        "info": "https://qoto.org/about/more",
-        "jurisdiction": "US?",
-        "tos": "https://qoto.org/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.qoto.org/",
-        "software": "Synapse",
-        "version": "1.45.1"
-    },
-    {
         "name": "radiowarnerd.org",
         "domain": "radiowarnerd.org",
         "info": "https://dokuwiki.radiowarnerd.org/matrixaccountcreation",
@@ -1035,21 +1005,6 @@
         "version": "1.55.2"
     },
     {
-        "name": "ru-matrix.org",
-        "domain": "ru-matrix.org",
-        "info": "https://ru-matrix.org",
-        "jurisdiction": "Russia (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Russian",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://riot.ru-matrix.org/",
-        "software": "Synapse",
-        "version": "1.55.0"
-    },
-    {
         "name": "rumatrix.org",
         "domain": "rumatrix.org",
         "info": "https://rumatrix.org",
@@ -1077,7 +1032,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.58.0"
+        "version": "1.58.1"
     },
     {
         "name": "scyldings.com",
@@ -1182,7 +1137,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.58.0"
+        "version": "1.58.1"
     },
     {
         "name": "tauasul.net",
