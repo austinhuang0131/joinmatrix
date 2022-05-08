@@ -900,6 +900,21 @@
         "version": "1.58.1"
     },
     {
+        "name": "oblak.be",
+        "domain": "oblak.be",
+        "info": "https://oblak.be/apps/chat/",
+        "jurisdiction": "Germany?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.oblak.be/",
+        "software": "Synapse",
+        "version": "1.46.0"
+    },
+    {
         "name": "ohai.su",
         "domain": "ohai.su",
         "info": "https://ohai.su",
@@ -942,7 +957,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pcriot.org/",
         "software": "Synapse",
-        "version": "1.57.1"
+        "version": "1.58.1"
     },
     {
         "name": "pragma-messenger.ch",
