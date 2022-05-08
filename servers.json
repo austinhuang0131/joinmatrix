@@ -177,7 +177,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.schaeferit.de/",
         "software": "Synapse",
-        "version": "1.57.0"
+        "version": "1.58.1"
     },
     {
         "name": "cat.casa",
@@ -583,21 +583,6 @@
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
         "version": "1.55.2"
-    },
-    {
-        "name": "glasgow.social",
-        "domain": "glasgow.social",
-        "info": "https://opensource.glasgow.social/matrix",
-        "jurisdiction": "UK",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional tech collective",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.49.2"
     },
     {
         "name": "grin.hu",
@@ -1047,7 +1032,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.radiowarnerd.org/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.58.1"
     },
     {
         "name": "riotchat.de",
