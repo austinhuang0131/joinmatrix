@@ -867,7 +867,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.mux.re/",
         "software": "Synapse",
-        "version": "1.55.2"
+        "version": "1.57.0"
     },
     {
         "name": "nitro.chat",
