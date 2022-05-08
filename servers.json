@@ -90,19 +90,19 @@
         "version": "1.58.0.arianet.0"
     },
     {
-        "name": "arrayinamatrix.xyz",
-        "domain": "arrayinamatrix.xyz",
-        "info": "https://arrayinamatrix.xyz/index/matrix/",
-        "jurisdiction": "Canada",
-        "tos": "https://arrayinamatrix.xyz/index/matrix/#rules",
-        "privacy": "https://arrayinamatrix.xyz/index/apps/privacy/#matrix",
+        "name": "asozial.org",
+        "domain": "asozial.org",
+        "info": "https://asozial.org",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
         "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
+        "remarks": "In German; left-wing",
+        "antifeature": null,
         "reg_method": "In-house Element",
-        "reg_link": "https://element.arrayinamatrix.xyz/",
-        "software": "Synapse",
-        "version": "1.57.1"
+        "reg_link": "https://chat.asozial.org/",
+        "software": "Dendrite",
+        "version": "0.8.2+bfa344e8"
     },
     {
         "name": "bachgau.social",
@@ -583,6 +583,21 @@
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
         "version": "1.55.2"
+    },
+    {
+        "name": "glasgow.social",
+        "domain": "glasgow.social",
+        "info": "https://opensource.glasgow.social/matrix",
+        "jurisdiction": "UK",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional tech collective",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.49.2"
     },
     {
         "name": "grin.hu",
