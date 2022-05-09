@@ -582,7 +582,7 @@
         "reg_method": "Form",
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
-        "version": "1.55.2"
+        "version": "1.57.0"
     },
     {
         "name": "glasgow.social",
@@ -882,7 +882,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.mux.re/",
         "software": "Synapse",
-        "version": "1.57.0"
+        "version": "1.57.1"
     },
     {
         "name": "nitro.chat",
@@ -1062,7 +1062,7 @@
         "reg_method": "Form",
         "reg_link": "https://riotchat.de/register/form.php",
         "software": "Synapse",
-        "version": "1.55.2"
+        "version": "1.57.0"
     },
     {
         "name": "rumatrix.org",
