@@ -1005,21 +1005,6 @@
         "version": "1.58.0"
     },
     {
-        "name": "qoto.org",
-        "domain": "matrix.qoto.org",
-        "info": "https://qoto.org/about/more",
-        "jurisdiction": "US?",
-        "tos": "https://qoto.org/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.qoto.org/",
-        "software": "Synapse",
-        "version": "1.45.1"
-    },
-    {
         "name": "radiowarnerd.org",
         "domain": "radiowarnerd.org",
         "info": "https://dokuwiki.radiowarnerd.org/matrixaccountcreation",
@@ -1362,7 +1347,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.57.1"
+        "version": "1.58.1"
     },
     {
         "name": "fachschaften.org",
@@ -1440,21 +1425,6 @@
         "version": "1.54.0"
     },
     {
-        "name": "hingst.net",
-        "domain": "hingst.net",
-        "info": "https://hingst.net",
-        "jurisdiction": "Sweden",
-        "tos": "https://www.hovkluster.se/matrix/villkor_hingst.html",
-        "privacy": "https://www.hovkluster.se/matrix/integritet_hingst.html",
-        "open": false,
-        "remarks": "In Swedish",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://hingst.net/kontakt/",
-        "software": "Synapse",
-        "version": "1.58.1"
-    },
-    {
         "name": "hyteck.de",
         "domain": "hyteck.de",
         "info": "https://hyteck.de/services/",
@@ -1483,21 +1453,6 @@
         "reg_link": "https://libreon.fr/account",
         "software": "Synapse",
         "version": "1.53.0"
-    },
-    {
-        "name": "fsfe.org",
-        "domain": "fsfe.org",
-        "info": "https://fsfe.org/news/2022/news-20220202-01.html",
-        "jurisdiction": "Germany",
-        "tos": "https://fsfe.org/about/codeofconduct",
-        "privacy": "https://fsfe.org/about/legal/imprint.en.html#id-privacy-policy",
-        "open": false,
-        "remarks": "Accessory; advocacy",
-        "antifeature": null,
-        "reg_method": "Membership",
-        "reg_link": "https://my.fsfe.org/donate",
-        "software": "Synapse",
-        "version": "1.57.0"
     },
     {
         "name": "hadoly.fr",
