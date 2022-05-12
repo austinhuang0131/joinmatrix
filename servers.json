@@ -1005,21 +1005,6 @@
         "version": "1.58.0"
     },
     {
-        "name": "qoto.org",
-        "domain": "matrix.qoto.org",
-        "info": "https://qoto.org/about/more",
-        "jurisdiction": "US?",
-        "tos": "https://qoto.org/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.qoto.org/",
-        "software": "Synapse",
-        "version": "1.45.1"
-    },
-    {
         "name": "radiowarnerd.org",
         "domain": "radiowarnerd.org",
         "info": "https://dokuwiki.radiowarnerd.org/matrixaccountcreation",
@@ -1048,6 +1033,21 @@
         "reg_link": "https://riotchat.de/register/form.php",
         "software": "Synapse",
         "version": "1.57.0"
+    },
+    {
+        "name": "ru-matrix.org",
+        "domain": "ru-matrix.org",
+        "info": "https://ru-matrix.org",
+        "jurisdiction": "Russia (Germany)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In Russian",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://riot.ru-matrix.org/",
+        "software": "Synapse",
+        "version": "1.55.0"
     },
     {
         "name": "rumatrix.org",
