@@ -192,7 +192,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.cat.casa/",
         "software": "Synapse",
-        "version": "1.57.0"
+        "version": "1.58.1"
     },
     {
         "name": "catgirl.cloud",
@@ -870,21 +870,6 @@
         "version": "1.57.1"
     },
     {
-        "name": "nitro.chat",
-        "domain": "nitro.chat",
-        "info": "https://nitro.chat",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://www.nitrokey.com/data-privacy-policy",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://app.nitro.chat/",
-        "software": "Synapse",
-        "version": "1.58.1"
-    },
-    {
         "name": "nltrix.net",
         "domain": "nltrix.net",
         "info": "https://nltrix.net",
@@ -942,7 +927,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://riot.ombreport.info/",
         "software": "Synapse",
-        "version": "1.57.0"
+        "version": "1.58.1"
     },
     {
         "name": "pcriot.org",
@@ -1005,6 +990,21 @@
         "version": "1.58.0"
     },
     {
+        "name": "qoto.org",
+        "domain": "matrix.qoto.org",
+        "info": "https://qoto.org/about/more",
+        "jurisdiction": "US?",
+        "tos": "https://qoto.org/about/more",
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.qoto.org/",
+        "software": "Synapse",
+        "version": "1.45.1"
+    },
+    {
         "name": "radiowarnerd.org",
         "domain": "radiowarnerd.org",
         "info": "https://dokuwiki.radiowarnerd.org/matrixaccountcreation",
@@ -1033,21 +1033,6 @@
         "reg_link": "https://riotchat.de/register/form.php",
         "software": "Synapse",
         "version": "1.57.0"
-    },
-    {
-        "name": "ru-matrix.org",
-        "domain": "ru-matrix.org",
-        "info": "https://ru-matrix.org",
-        "jurisdiction": "Russia (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Russian",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://riot.ru-matrix.org/",
-        "software": "Synapse",
-        "version": "1.55.0"
     },
     {
         "name": "rumatrix.org",
@@ -1137,7 +1122,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.sibnsk.net",
         "software": "Synapse",
-        "version": "1.57.0"
+        "version": "1.58.1"
     },
     {
         "name": "socialnetwork24.com",
