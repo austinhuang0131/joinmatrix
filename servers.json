@@ -90,6 +90,21 @@
         "version": "1.58.1.arianet.0"
     },
     {
+        "name": "arrayinamatrix.xyz",
+        "domain": "arrayinamatrix.xyz",
+        "info": "https://arrayinamatrix.xyz/index/matrix/",
+        "jurisdiction": "Canada",
+        "tos": "https://arrayinamatrix.xyz/index/matrix/#rules",
+        "privacy": "https://arrayinamatrix.xyz/index/apps/privacy/#matrix",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.arrayinamatrix.xyz/",
+        "software": "Synapse",
+        "version": "1.58.1"
+    },
+    {
         "name": "asozial.org",
         "domain": "asozial.org",
         "info": "https://asozial.org",
@@ -720,21 +735,6 @@
         "version": "1.38.1"
     },
     {
-        "name": "librosphere.org",
-        "domain": "mtx.librosphere.org",
-        "info": "https://librosphere.org/guide.html",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.58.1"
-    },
-    {
         "name": "llamarific.social",
         "domain": "llamarific.social",
         "info": "https://llamarific.social/matrix.html",
@@ -1303,21 +1303,6 @@
         "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
         "version": "1.58.1"
-    },
-    {
-        "name": "ungleich.ch",
-        "domain": "ungleich.ch",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
-        "software": "Synapse",
-        "version": "1.47.0"
     },
     {
         "name": "unredacted.org",
