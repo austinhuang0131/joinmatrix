@@ -1065,6 +1065,21 @@
         "version": "1.57.0"
     },
     {
+        "name": "rumatrix.org",
+        "domain": "rumatrix.org",
+        "info": "https://rumatrix.org",
+        "jurisdiction": "Russia (Netherlands)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In Russian",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.58.1"
+    },
+    {
         "name": "sameteem.com",
         "domain": "sameteem.com",
         "info": "https://sameteem.com",
@@ -1272,7 +1287,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tomesh.net/",
         "software": "Synapse",
-        "version": "1.57.0"
+        "version": "1.58.1"
     },
     {
         "name": "trygve.me",
