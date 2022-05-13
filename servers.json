@@ -102,7 +102,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.asozial.org/",
         "software": "Dendrite",
-        "version": "0.8.2+bfa344e8"
+        "version": "0.8.4+0d1505a4"
     },
     {
         "name": "bachgau.social",
@@ -1063,21 +1063,6 @@
         "reg_link": "https://riotchat.de/register/form.php",
         "software": "Synapse",
         "version": "1.57.0"
-    },
-    {
-        "name": "rumatrix.org",
-        "domain": "rumatrix.org",
-        "info": "https://rumatrix.org",
-        "jurisdiction": "Russia (Netherlands)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Russian",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.55.0"
     },
     {
         "name": "sameteem.com",
