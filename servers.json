@@ -837,7 +837,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.57.1"
+        "version": "1.58.1"
     },
     {
         "name": "monero.social",
@@ -868,21 +868,6 @@
         "reg_link": "https://mtrx.nz/",
         "software": "Synapse",
         "version": "1.58.1"
-    },
-    {
-        "name": "mux.re",
-        "domain": "mux.re",
-        "info": "https://mux.re",
-        "jurisdiction": "France?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.mux.re/",
-        "software": "Synapse",
-        "version": "1.57.1"
     },
     {
         "name": "nitro.chat",
