@@ -870,6 +870,21 @@
         "version": "1.58.1"
     },
     {
+        "name": "mux.re",
+        "domain": "mux.re",
+        "info": "https://mux.re",
+        "jurisdiction": "France?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In French",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.mux.re/",
+        "software": "Synapse",
+        "version": "1.57.1"
+    },
+    {
         "name": "nitro.chat",
         "domain": "nitro.chat",
         "info": "https://nitro.chat",
@@ -1153,21 +1168,6 @@
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
         "version": "1.58.1"
-    },
-    {
-        "name": "studichat.de",
-        "domain": "studichat.de",
-        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.studichat.de/",
-        "software": "Synapse",
-        "version": "1.58.0"
     },
     {
         "name": "sykorp.com",
