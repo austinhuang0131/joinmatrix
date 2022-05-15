@@ -1170,6 +1170,21 @@
         "version": "1.58.1"
     },
     {
+        "name": "studichat.de",
+        "domain": "studichat.de",
+        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; student-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.studichat.de/",
+        "software": "Synapse",
+        "version": "1.58.0"
+    },
+    {
         "name": "sykorp.com",
         "domain": "sykorp.com",
         "info": "https://sykorp.com",
