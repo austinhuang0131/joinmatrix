@@ -540,21 +540,6 @@
         "version": "1.58.1"
     },
     {
-        "name": "fulda.social",
-        "domain": "fulda.social",
-        "info": "https://dasnetzundich.de/2021/08/14/willkommen-in-der-matrix/",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.fulda.social/",
-        "software": "Synapse",
-        "version": "1.58.1"
-    },
-    {
         "name": "g24.at",
         "domain": "g24.at",
         "info": "https://g24.at",
@@ -703,21 +688,6 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.58.1"
-    },
-    {
-        "name": "kreatea.space",
-        "domain": "kreatea.space",
-        "info": "https://kreatea.space/wiki/matrix/",
-        "jurisdiction": "Turkey (Germany)",
-        "tos": "https://kreatea.space",
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.57.1"
     },
     {
         "name": "librem.one",
