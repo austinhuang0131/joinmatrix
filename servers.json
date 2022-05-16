@@ -285,6 +285,21 @@
         "version": "1.58.1"
     },
     {
+        "name": "club1.fr",
+        "domain": "club1.fr",
+        "info": "https://club1.fr/matrix/",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.58.1"
+    },
+    {
         "name": "comm.cx",
         "domain": "comm.cx",
         "info": "https://comm.cx",
@@ -930,6 +945,21 @@
         "version": "1.58.1"
     },
     {
+        "name": "pcriot.org",
+        "domain": "pcriot.org",
+        "info": "https://pcriot.org",
+        "jurisdiction": "Germany?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal?",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.pcriot.org/",
+        "software": "Synapse",
+        "version": "1.58.1"
+    },
+    {
         "name": "pragma-messenger.ch",
         "domain": "pragma-messenger.ch",
         "info": "https://pragma-solution.com/de/Produkte/messenger/",
@@ -973,21 +1003,6 @@
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
         "version": "1.58.0"
-    },
-    {
-        "name": "qoto.org",
-        "domain": "matrix.qoto.org",
-        "info": "https://qoto.org/about/more",
-        "jurisdiction": "US?",
-        "tos": "https://qoto.org/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.qoto.org/",
-        "software": "Synapse",
-        "version": "1.45.1"
     },
     {
         "name": "radiowarnerd.org",
@@ -1422,7 +1437,7 @@
         "reg_method": "Contact",
         "reg_link": "https://hyteck.de/about/",
         "software": "Synapse",
-        "version": "1.57.1"
+        "version": "1.58.1"
     },
     {
         "name": "libreon.fr",
