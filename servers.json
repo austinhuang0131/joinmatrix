@@ -1260,6 +1260,21 @@
         "version": "1.58.1"
     },
     {
+        "name": "trygve.me",
+        "domain": "trygve.me",
+        "info": "https://trygve.me/matrix_info/",
+        "jurisdiction": "Norway",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In Norwegian; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.trygve.me/",
+        "software": "Synapse",
+        "version": "1.58.1"
+    },
+    {
         "name": "ungleich.ch",
         "domain": "ungleich.ch",
         "info": "https://ungleich.ch/u/projects/open-chat/",
