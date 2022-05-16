@@ -285,21 +285,6 @@
         "version": "1.58.1"
     },
     {
-        "name": "club1.fr",
-        "domain": "club1.fr",
-        "info": "https://club1.fr/matrix/",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.58.1"
-    },
-    {
         "name": "comm.cx",
         "domain": "comm.cx",
         "info": "https://comm.cx",
@@ -478,6 +463,21 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.47.1"
+    },
+    {
+        "name": "filik.eu",
+        "domain": "filik.eu",
+        "info": "https://filik.eu",
+        "jurisdiction": "Czech Republic",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.58.0"
     },
     {
         "name": "flieger.chat",
@@ -930,21 +930,6 @@
         "version": "1.58.1"
     },
     {
-        "name": "pcriot.org",
-        "domain": "pcriot.org",
-        "info": "https://pcriot.org",
-        "jurisdiction": "Germany?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal?",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.pcriot.org/",
-        "software": "Synapse",
-        "version": "1.58.1"
-    },
-    {
         "name": "pragma-messenger.ch",
         "domain": "pragma-messenger.ch",
         "info": "https://pragma-solution.com/de/Produkte/messenger/",
@@ -988,6 +973,21 @@
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
         "version": "1.58.0"
+    },
+    {
+        "name": "qoto.org",
+        "domain": "matrix.qoto.org",
+        "info": "https://qoto.org/about/more",
+        "jurisdiction": "US?",
+        "tos": "https://qoto.org/about/more",
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.qoto.org/",
+        "software": "Synapse",
+        "version": "1.45.1"
     },
     {
         "name": "radiowarnerd.org",
@@ -1245,6 +1245,21 @@
         "version": "1.58.1"
     },
     {
+        "name": "ungleich.ch",
+        "domain": "ungleich.ch",
+        "info": "https://ungleich.ch/u/projects/open-chat/",
+        "jurisdiction": "Switzerland",
+        "tos": null,
+        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
+        "open": true,
+        "remarks": "Hosting provider",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://account.ungleich.ch/",
+        "software": "Synapse",
+        "version": "1.47.0"
+    },
+    {
         "name": "unredacted.org",
         "domain": "unredacted.org",
         "info": "https://unredacted.org/services/matrix/",
@@ -1331,6 +1346,21 @@
         "antifeature": null,
         "reg_method": "SSO",
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
+        "software": "Synapse",
+        "version": "1.58.1"
+    },
+    {
+        "name": "aletheia.moe",
+        "domain": "aletheia.moe",
+        "info": "https://aletheia.moe",
+        "jurisdiction": "? (Iceland)",
+        "tos": "https://aletheia.moe/tos/",
+        "privacy": "https://aletheia.moe/tos/",
+        "open": false,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://aletheia.moe/registration/",
         "software": "Synapse",
         "version": "1.58.1"
     },
