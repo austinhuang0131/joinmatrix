@@ -87,7 +87,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://el.aria-net.org/",
         "software": "Synapse",
-        "version": "1.58.1.arianet.0"
+        "version": "1.59.0.arianet.0"
     },
     {
         "name": "arrayinamatrix.xyz",
@@ -642,7 +642,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.58.1"
+        "version": "1.59.0"
     },
     {
         "name": "hot-chilli.im",
@@ -703,6 +703,21 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.59.0"
+    },
+    {
+        "name": "librem.one",
+        "domain": "chat.librem.one",
+        "info": "https://librem.one",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": "https://librem.one/policy/",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://librem.one",
+        "software": "Synapse",
+        "version": "1.38.1"
     },
     {
         "name": "llamarific.social",
@@ -1182,7 +1197,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.58.0"
+        "version": "1.59.0"
     },
     {
         "name": "techsaviours.org",
@@ -1347,7 +1362,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.58.1"
+        "version": "1.59.0"
     },
     {
         "name": "pikaviestin.fi",
