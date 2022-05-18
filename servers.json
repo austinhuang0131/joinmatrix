@@ -15,21 +15,6 @@
         "version": "1.58.1"
     },
     {
-        "name": "activism.international",
-        "domain": "activism.international",
-        "info": "https://activism.international",
-        "jurisdiction": "Germany",
-        "tos": "https://activism.international/usage-policy/",
-        "privacy": "https://activism.international/privacy/cloud/",
-        "open": true,
-        "remarks": "Left-wing; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.activism.international/",
-        "software": "Synapse",
-        "version": "1.56.0"
-    },
-    {
         "name": "agdersam.no",
         "domain": "agdersam.no",
         "info": "https://agdersam.no/",
@@ -672,7 +657,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://houtworm.im/",
         "software": "Synapse",
-        "version": "1.55.2"
+        "version": "1.59.0"
     },
     {
         "name": "inetd.xyz",
