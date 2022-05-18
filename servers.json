@@ -132,7 +132,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.bachgau.social/",
         "software": "Synapse",
-        "version": "1.59.0"
+        "version": "1.59.1"
     },
     {
         "name": "badstuebner.biz",
@@ -192,7 +192,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.schaeferit.de/",
         "software": "Synapse",
-        "version": "1.58.1"
+        "version": "1.59.1"
     },
     {
         "name": "cat.casa",
@@ -1077,7 +1077,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.scyldings.com/",
         "software": "Synapse",
-        "version": "1.57.1"
+        "version": "1.59.1"
     },
     {
         "name": "sfunk1x.com",
@@ -1167,7 +1167,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.59.0"
+        "version": "1.59.1"
     },
     {
         "name": "tauasul.net",
@@ -1273,21 +1273,6 @@
         "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
         "version": "1.58.1"
-    },
-    {
-        "name": "ungleich.ch",
-        "domain": "ungleich.ch",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
-        "software": "Synapse",
-        "version": "1.47.0"
     },
     {
         "name": "unredacted.org",
