@@ -42,7 +42,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.agdersam.no/",
         "software": "Synapse",
-        "version": "1.56.0"
+        "version": "1.59.1"
     },
     {
         "name": "antifash.gay",
@@ -1378,21 +1378,6 @@
         "reg_link": "https://aletheia.moe/registration/",
         "software": "Synapse",
         "version": "1.59.1"
-    },
-    {
-        "name": "bitma.st",
-        "domain": "bitma.st",
-        "info": "https://bitma.st",
-        "jurisdiction": "US",
-        "tos": "https://bitma.st/en/terms-of-service/",
-        "privacy": "https://bitma.st/en/privacy-policy/",
-        "open": false,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://bitma.st/en/contact/",
-        "software": "Synapse",
-        "version": "1.47.1"
     },
     {
         "name": "deuxfleurs.fr",
