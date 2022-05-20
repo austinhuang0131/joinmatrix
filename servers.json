@@ -480,21 +480,6 @@
         "version": "1.47.1"
     },
     {
-        "name": "filik.eu",
-        "domain": "filik.eu",
-        "info": "https://filik.eu",
-        "jurisdiction": "Czech Republic",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.58.0"
-    },
-    {
         "name": "flieger.chat",
         "domain": "flieger.chat",
         "info": "https://yatrix.org",
@@ -598,21 +583,6 @@
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
         "version": "1.57.0"
-    },
-    {
-        "name": "glasgow.social",
-        "domain": "glasgow.social",
-        "info": "https://opensource.glasgow.social/matrix",
-        "jurisdiction": "UK",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional tech collective",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.49.2"
     },
     {
         "name": "grin.hu",
@@ -807,7 +777,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
-        "version": "1.58.1"
+        "version": "1.59.1"
     },
     {
         "name": "melroy.org",
@@ -867,7 +837,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
-        "version": "1.59.0"
+        "version": "1.59.1"
     },
     {
         "name": "nltrix.net",
@@ -988,6 +958,21 @@
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
         "version": "1.58.0"
+    },
+    {
+        "name": "qoto.org",
+        "domain": "matrix.qoto.org",
+        "info": "https://qoto.org/about/more",
+        "jurisdiction": "US?",
+        "tos": "https://qoto.org/about/more",
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.qoto.org/",
+        "software": "Synapse",
+        "version": "1.45.1"
     },
     {
         "name": "radiowarnerd.org",
