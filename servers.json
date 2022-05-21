@@ -90,21 +90,6 @@
         "version": "1.59.1.arianet.1"
     },
     {
-        "name": "arrayinamatrix.xyz",
-        "domain": "arrayinamatrix.xyz",
-        "info": "https://arrayinamatrix.xyz/index/matrix/",
-        "jurisdiction": "Canada",
-        "tos": "https://arrayinamatrix.xyz/index/matrix/#rules",
-        "privacy": "https://arrayinamatrix.xyz/index/apps/privacy/#matrix",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.arrayinamatrix.xyz/",
-        "software": "Synapse",
-        "version": "1.58.1"
-    },
-    {
         "name": "asozial.org",
         "domain": "asozial.org",
         "info": "https://asozial.org",
@@ -1197,7 +1182,22 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
-        "version": "1.57.0"
+        "version": "1.59.1"
+    },
+    {
+        "name": "tedomum.net",
+        "domain": "tedomum.net",
+        "info": "https://tedomum.net/service/matrix/",
+        "jurisdiction": "France",
+        "tos": "https://tedomum.net/page/cgu/#",
+        "privacy": "https://tedomum.net/page/cgu/",
+        "open": true,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://tedomum.net/documentation/general/account/",
+        "software": "Synapse",
+        "version": "1.55.2"
     },
     {
         "name": "the-apothecary.club",
@@ -1243,21 +1243,6 @@
         "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
         "version": "1.58.1"
-    },
-    {
-        "name": "ungleich.ch",
-        "domain": "ungleich.ch",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
-        "software": "Synapse",
-        "version": "1.47.0"
     },
     {
         "name": "unredacted.org",
