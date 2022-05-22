@@ -330,21 +330,6 @@
         "version": "1.59.1"
     },
     {
-        "name": "converser.eu",
-        "domain": "converser.eu",
-        "info": "https://converser.eu",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.57.1"
-    },
-    {
         "name": "cubebuilder.me",
         "domain": "cubebuilder.me",
         "info": "https://cubebuilder.me",
