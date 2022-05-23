@@ -180,21 +180,6 @@
         "version": "1.54.0"
     },
     {
-        "name": "buyvm.net",
-        "domain": "buyvm.net",
-        "info": "https://buyvm.net/beware-the-moshbear/",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Hosting provider; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.buyvm.net/element/",
-        "software": "Synapse",
-        "version": "1.59.1"
-    },
-    {
         "name": "bytes4u.de",
         "domain": "matrix.bytes4u.de",
         "info": "https://bytes4u.de",
@@ -315,6 +300,21 @@
         "version": "1.59.1"
     },
     {
+        "name": "comm.cx",
+        "domain": "comm.cx",
+        "info": "https://comm.cx",
+        "jurisdiction": "Japan",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": "Uses Cloudflare",
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.59.1"
+    },
+    {
         "name": "community.rs",
         "domain": "community.rs",
         "info": "https://community.rs",
@@ -395,7 +395,7 @@
         "info": "https://data.haus",
         "jurisdiction": "Germany",
         "tos": null,
-        "privacy": null,
+        "privacy": "https://data.haus/tos.html",
         "open": true,
         "remarks": "General host",
         "antifeature": null,
