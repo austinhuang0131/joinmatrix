@@ -87,7 +87,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.arcticfoxes.net",
         "software": "Synapse",
-        "version": "1.58.1"
+        "version": "1.59.1"
     },
     {
         "name": "aria-net.org",
@@ -282,7 +282,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
-        "version": "1.58.1"
+        "version": "1.59.1"
     },
     {
         "name": "chrrreeeeesss.com",
@@ -309,21 +309,6 @@
         "open": true,
         "remarks": "In French; tech collective",
         "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.59.1"
-    },
-    {
-        "name": "comm.cx",
-        "domain": "comm.cx",
-        "info": "https://comm.cx",
-        "jurisdiction": "Japan",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Uses Cloudflare",
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
@@ -432,7 +417,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.58.1"
+        "version": "1.59.1"
     },
     {
         "name": "egora.org",
@@ -507,7 +492,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
-        "version": "1.58.1"
+        "version": "1.59.1"
     },
     {
         "name": "freiburg.social",
@@ -1332,7 +1317,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.58.1"
+        "version": "1.59.1"
     },
     {
         "name": "fachschaften.org",
