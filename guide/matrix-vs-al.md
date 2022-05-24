@@ -51,7 +51,7 @@ XMPP and Matrix are very similar: most of [these](../#why-matrix) also apply to 
 * XMPP is relatively barebone, which may not be able to serve modern communication needs.
 * Clients are spread across different platforms and may support different features differently, making no client one-size-fits-all.
 
-Furthermore, XMPP is not encrypted by default, but use of OMEMO is also quite widespread. Still, it has the same [metadata problem](https://infosec-handbook.eu/articles/xmpp-aitm/) [as Matrix](../#fn:1). However, it is true that XMPP servers are lighter than Matrix, since in XMPP, most of the heavy work is done by the clients, whereas in Matrix, the homeservers need to constantly store things.
+Furthermore, XMPP is not encrypted by default, but use of OMEMO is also quite widespread. Still, it has the same [metadata problem](https://web.archive.org/web/20211215132539/https://infosec-handbook.eu/articles/xmpp-aitm/) [as Matrix](../#fn:1). However, it is true that XMPP servers are lighter than Matrix, since in XMPP, most of the heavy work is done by the clients, whereas in Matrix, the homeservers need to constantly store things.
 
 For reference, the official comment from matrix.org is [here](https://matrix.org/faq/#what-is-the-difference-between-matrix-and-xmpp%3F).
 
