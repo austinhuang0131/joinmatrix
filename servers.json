@@ -417,7 +417,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.data.haus/",
         "software": "Synapse",
-        "version": "1.57.0"
+        "version": "1.59.1"
     },
     {
         "name": "devass.su",
@@ -597,7 +597,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://g24.at",
         "software": "Synapse",
-        "version": "1.58.1"
+        "version": "1.59.1"
     },
     {
         "name": "gemeinsam.jetzt",
