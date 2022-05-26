@@ -612,7 +612,7 @@
         "reg_method": "Form",
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
-        "version": "1.57.0"
+        "version": "1.59.1"
     },
     {
         "name": "glasgow.social",
@@ -945,21 +945,6 @@
         "version": "1.58.1"
     },
     {
-        "name": "pcriot.org",
-        "domain": "pcriot.org",
-        "info": "https://pcriot.org",
-        "jurisdiction": "Germany?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal?",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.pcriot.org/",
-        "software": "Synapse",
-        "version": "1.58.1"
-    },
-    {
         "name": "pragma-messenger.ch",
         "domain": "pragma-messenger.ch",
         "info": "https://pragma-solution.com/de/Produkte/messenger/",
@@ -1047,7 +1032,7 @@
         "reg_method": "Form",
         "reg_link": "https://riotchat.de/register/form.php",
         "software": "Synapse",
-        "version": "1.57.0"
+        "version": "1.59.1"
     },
     {
         "name": "rumatrix.org",
