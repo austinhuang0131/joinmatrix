@@ -945,6 +945,21 @@
         "version": "1.58.1"
     },
     {
+        "name": "pcriot.org",
+        "domain": "pcriot.org",
+        "info": "https://pcriot.org",
+        "jurisdiction": "Germany?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal?",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.pcriot.org/",
+        "software": "Synapse",
+        "version": "1.58.1"
+    },
+    {
         "name": "pragma-messenger.ch",
         "domain": "pragma-messenger.ch",
         "info": "https://pragma-solution.com/de/Produkte/messenger/",
@@ -1033,6 +1048,21 @@
         "reg_link": "https://riotchat.de/register/form.php",
         "software": "Synapse",
         "version": "1.59.1"
+    },
+    {
+        "name": "ru-matrix.org",
+        "domain": "ru-matrix.org",
+        "info": "https://ru-matrix.org",
+        "jurisdiction": "Russia (Germany)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In Russian",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://riot.ru-matrix.org/",
+        "software": "Synapse",
+        "version": "1.55.0"
     },
     {
         "name": "rumatrix.org",
