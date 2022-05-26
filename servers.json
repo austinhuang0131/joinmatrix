@@ -720,6 +720,21 @@
         "version": "1.59.1"
     },
     {
+        "name": "librem.one",
+        "domain": "chat.librem.one",
+        "info": "https://librem.one",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": "https://librem.one/policy/",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://librem.one",
+        "software": "Synapse",
+        "version": "1.38.1"
+    },
+    {
         "name": "llamarific.social",
         "domain": "llamarific.social",
         "info": "https://llamarific.social/matrix.html",
