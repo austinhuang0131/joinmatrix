@@ -105,21 +105,6 @@
         "version": "1.59.1.arianet.1"
     },
     {
-        "name": "asozial.org",
-        "domain": "asozial.org",
-        "info": "https://asozial.org",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; left-wing",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.asozial.org/",
-        "software": "Dendrite",
-        "version": "0.8.4+0d1505a4"
-    },
-    {
         "name": "bachgau.social",
         "domain": "bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
@@ -237,7 +222,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chagai.website/",
         "software": "Synapse",
-        "version": "1.57.0rc1"
+        "version": "1.59.1"
     },
     {
         "name": "chatcloud.net",
@@ -702,7 +687,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.inetd.xyz/",
         "software": "Synapse",
-        "version": "1.57.0"
+        "version": "1.59.1"
     },
     {
         "name": "jonasled.de",
@@ -1050,21 +1035,6 @@
         "version": "1.59.1"
     },
     {
-        "name": "ru-matrix.org",
-        "domain": "ru-matrix.org",
-        "info": "https://ru-matrix.org",
-        "jurisdiction": "Russia (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Russian",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://riot.ru-matrix.org/",
-        "software": "Synapse",
-        "version": "1.55.0"
-    },
-    {
         "name": "rumatrix.org",
         "domain": "rumatrix.org",
         "info": "https://rumatrix.org",
@@ -1243,21 +1213,6 @@
         "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
         "version": "1.59.1"
-    },
-    {
-        "name": "tedomum.net",
-        "domain": "tedomum.net",
-        "info": "https://tedomum.net/service/matrix/",
-        "jurisdiction": "France",
-        "tos": "https://tedomum.net/page/cgu/#",
-        "privacy": "https://tedomum.net/page/cgu/",
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://tedomum.net/documentation/general/account/",
-        "software": "Synapse",
-        "version": "1.55.2"
     },
     {
         "name": "the-apothecary.club",
