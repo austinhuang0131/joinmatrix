@@ -15,6 +15,21 @@
         "version": "1.59.1"
     },
     {
+        "name": "activism.international",
+        "domain": "activism.international",
+        "info": "https://activism.international",
+        "jurisdiction": "Germany",
+        "tos": "https://activism.international/usage-policy/",
+        "privacy": "https://activism.international/privacy/cloud/",
+        "open": true,
+        "remarks": "Left-wing; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.activism.international/",
+        "software": "Synapse",
+        "version": "1.59.1"
+    },
+    {
         "name": "agdersam.no",
         "domain": "agdersam.no",
         "info": "https://agdersam.no/",
@@ -133,6 +148,21 @@
         "reg_link": "https://element.badstuebner.biz/",
         "software": "Synapse",
         "version": "1.59.1"
+    },
+    {
+        "name": "bienvenidoainternet.org",
+        "domain": "bienvenidoainternet.org",
+        "info": "https://bienvenidoainternet.org/chat.html",
+        "jurisdiction": "US? (Germany)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In Spanish; accessory",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.51.0"
     },
     {
         "name": "bitcoiner.chat",
@@ -388,21 +418,6 @@
         "reg_link": "https://chat.data.haus/",
         "software": "Synapse",
         "version": "1.59.1"
-    },
-    {
-        "name": "devass.su",
-        "domain": "matrix.devass.su",
-        "info": "https://devass.su",
-        "jurisdiction": "Russia",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Russian",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.devass.su/",
-        "software": "Synapse",
-        "version": "1.57.0"
     },
     {
         "name": "duesen.chat",
