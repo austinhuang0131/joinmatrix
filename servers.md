@@ -111,6 +111,5 @@ From left to right:
 
 * [asra.gr's list](https://wiki.asra.gr/en:public_servers): A raw dataset of homeservers that allows (but are not necessarily intended for) public registration.
 * [CHATONS list](https://www.chatons.org/search/by-service?service_type_target_id=All&field_alternatives_aux_services_target_id=All&field_software_target_id=274&field_is_shared_value=All&title=): A list of homeservers hosted in France that adhere to certain ethical standards. Some may require membership.
-* [German homeservers list](https://fediverse.blog/~/FossMessenger/matrix-server): A list of homeservers hosted in Germany.
 
-This list was originally located at [AustinHuang.me](https://austinhuang.me/matrix-homeservers.html).
+This list was originally located at AustinHuang.me.
