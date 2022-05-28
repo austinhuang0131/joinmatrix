@@ -45,21 +45,6 @@
         "version": "1.59.1"
     },
     {
-        "name": "antifash.gay",
-        "domain": "antifash.gay",
-        "info": "https://antifash.gay",
-        "jurisdiction": "US?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.57.0"
-    },
-    {
         "name": "archoslinux.cz",
         "domain": "archoslinux.cz",
         "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
