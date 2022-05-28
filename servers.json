@@ -180,21 +180,6 @@
         "version": "1.59.1"
     },
     {
-        "name": "cat.casa",
-        "domain": "cat.casa",
-        "info": "https://cat.casa/",
-        "jurisdiction": "Germany",
-        "tos": "https://cat.casa/codeofconduct",
-        "privacy": "https://cat.casa/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.cat.casa/",
-        "software": "Synapse",
-        "version": "1.58.1"
-    },
-    {
         "name": "catgirl.cloud",
         "domain": "catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -315,21 +300,6 @@
         "version": "1.59.1"
     },
     {
-        "name": "converser.eu",
-        "domain": "converser.eu",
-        "info": "https://converser.eu",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.57.1"
-    },
-    {
         "name": "cubebuilder.me",
         "domain": "cubebuilder.me",
         "info": "https://cubebuilder.me",
@@ -388,21 +358,6 @@
         "reg_link": "https://chat.data.haus/",
         "software": "Synapse",
         "version": "1.59.1"
-    },
-    {
-        "name": "devass.su",
-        "domain": "matrix.devass.su",
-        "info": "https://devass.su",
-        "jurisdiction": "Russia",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Russian",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.devass.su/",
-        "software": "Synapse",
-        "version": "1.57.0"
     },
     {
         "name": "duesen.chat",
@@ -1033,21 +988,6 @@
         "reg_link": "https://riotchat.de/register/form.php",
         "software": "Synapse",
         "version": "1.59.1"
-    },
-    {
-        "name": "ru-matrix.org",
-        "domain": "ru-matrix.org",
-        "info": "https://ru-matrix.org",
-        "jurisdiction": "Russia (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Russian",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://riot.ru-matrix.org/",
-        "software": "Synapse",
-        "version": "1.55.0"
     },
     {
         "name": "rumatrix.org",
