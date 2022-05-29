@@ -15,21 +15,6 @@
         "version": "1.59.1"
     },
     {
-        "name": "activism.international",
-        "domain": "activism.international",
-        "info": "https://activism.international",
-        "jurisdiction": "Germany",
-        "tos": "https://activism.international/usage-policy/",
-        "privacy": "https://activism.international/privacy/cloud/",
-        "open": true,
-        "remarks": "Left-wing; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.activism.international/",
-        "software": "Synapse",
-        "version": "1.59.1"
-    },
-    {
         "name": "agdersam.no",
         "domain": "agdersam.no",
         "info": "https://agdersam.no/",
@@ -73,6 +58,21 @@
         "reg_link": "https://app.arcticfoxes.net",
         "software": "Synapse",
         "version": "1.59.1"
+    },
+    {
+        "name": "aria-net.org",
+        "domain": "aria-net.org",
+        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
+        "jurisdiction": "Italy?",
+        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://el.aria-net.org/",
+        "software": "Synapse",
+        "version": "1.59.1.arianet.1"
     },
     {
         "name": "asozial.org",
@@ -1243,21 +1243,6 @@
         "reg_link": "https://the-apothecary.club/",
         "software": "Synapse",
         "version": "1.59.1"
-    },
-    {
-        "name": "tomesh.net",
-        "domain": "matrix.tomesh.net",
-        "info": "https://tomesh.net/mesh-services/",
-        "jurisdiction": "Canada (US)",
-        "tos": "https://tomesh.net/code-of-conduct/",
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.tomesh.net/",
-        "software": "Synapse",
-        "version": "1.58.1"
     },
     {
         "name": "trygve.me",
