@@ -60,19 +60,19 @@
         "version": "1.59.1"
     },
     {
-        "name": "aria-net.org",
-        "domain": "aria-net.org",
-        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
-        "jurisdiction": "Italy?",
-        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "name": "asozial.org",
+        "domain": "asozial.org",
+        "info": "https://asozial.org",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
         "open": true,
-        "remarks": "",
+        "remarks": "In German; left-wing",
         "antifeature": null,
         "reg_method": "In-house Element",
-        "reg_link": "https://el.aria-net.org/",
-        "software": "Synapse",
-        "version": "1.59.1.arianet.1"
+        "reg_link": "https://chat.asozial.org/",
+        "software": "Dendrite",
+        "version": "0.8.4+0d1505a4"
     },
     {
         "name": "bachgau.social",
@@ -133,6 +133,21 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.54.0"
+    },
+    {
+        "name": "buyvm.net",
+        "domain": "buyvm.net",
+        "info": "https://buyvm.net/beware-the-moshbear/",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Hosting provider; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.buyvm.net/element/",
+        "software": "Synapse",
+        "version": "1.59.1"
     },
     {
         "name": "bytes4u.de",
@@ -1362,7 +1377,7 @@
         "reg_method": "SSO",
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
-        "version": "1.59.0"
+        "version": "1.59.1"
     },
     {
         "name": "aletheia.moe",
