@@ -75,36 +75,6 @@
         "version": "1.59.1.arianet.1"
     },
     {
-        "name": "asozial.org",
-        "domain": "asozial.org",
-        "info": "https://asozial.org",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; left-wing",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.asozial.org/",
-        "software": "Dendrite",
-        "version": "0.8.6+9f8b3136"
-    },
-    {
-        "name": "bachgau.social",
-        "domain": "bachgau.social",
-        "info": "https://www.bachgau.social/unsere-dienste/matrix/",
-        "jurisdiction": "Germany",
-        "tos": "https://mastodon.bachgau.social/about/more",
-        "privacy": "https://www.bachgau.social/datenschutzerklaerung/",
-        "open": true,
-        "remarks": "In German; regional",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.bachgau.social/",
-        "software": "Synapse",
-        "version": "1.59.1"
-    },
-    {
         "name": "badstuebner.biz",
         "domain": "badstuebner.biz",
         "info": "https://badstuebner.biz",
@@ -252,7 +222,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
-        "version": "1.59.1"
+        "version": "1.60.0"
     },
     {
         "name": "chrrreeeeesss.com",
@@ -330,21 +300,6 @@
         "version": "1.57.1"
     },
     {
-        "name": "cubebuilder.me",
-        "domain": "cubebuilder.me",
-        "info": "https://cubebuilder.me",
-        "jurisdiction": "US?",
-        "tos": "https://cubebuilder.me/",
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.55.0"
-    },
-    {
         "name": "danskungdom.dk",
         "domain": "danskungdom.dk",
         "info": "https://danskungdom.dk/guides/matrix/",
@@ -417,7 +372,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.59.1"
+        "version": "1.60.0"
     },
     {
         "name": "egora.org",
@@ -507,7 +462,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
-        "version": "1.59.1"
+        "version": "1.60.0"
     },
     {
         "name": "freiburg.social",
@@ -642,7 +597,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.59.0"
+        "version": "1.60.0"
     },
     {
         "name": "hot-chilli.im",
@@ -657,7 +612,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.hot-chilli.im/",
         "software": "Synapse",
-        "version": "1.59.1"
+        "version": "1.60.0"
     },
     {
         "name": "houtworm.im",
@@ -870,21 +825,6 @@
         "version": "1.59.1"
     },
     {
-        "name": "nltrix.net",
-        "domain": "nltrix.net",
-        "info": "https://nltrix.net",
-        "jurisdiction": "Netherlands",
-        "tos": "https://nltrix.net/#coc",
-        "privacy": "https://www.bit.nl/nl/over-bit/voorwaarden-en-policies",
-        "open": true,
-        "remarks": "In Dutch",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.nltrix.net/",
-        "software": "Synapse",
-        "version": "1.60.0"
-    },
-    {
         "name": "oblak.be",
         "domain": "oblak.be",
         "info": "https://oblak.be/apps/chat/",
@@ -927,7 +867,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://riot.ombreport.info/",
         "software": "Synapse",
-        "version": "1.58.1"
+        "version": "1.60.0"
     },
     {
         "name": "pcriot.org",
@@ -956,6 +896,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
+        "software": "Synapse",
+        "version": "1.59.1"
+    },
+    {
+        "name": "prometheus.systems",
+        "domain": "prometheus.systems",
+        "info": "https://prometheus.systems",
+        "jurisdiction": "Canada?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Tech collective",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://chat.prometheus.systems/",
         "software": "Synapse",
         "version": "1.59.1"
     },
@@ -1287,7 +1242,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
-        "version": "1.59.1"
+        "version": "1.60.0"
     },
     {
         "name": "unredacted.org",
@@ -1347,7 +1302,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.59.1"
+        "version": "1.60.0"
     },
     {
         "name": "zinz.dev",
