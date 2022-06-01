@@ -90,6 +90,21 @@
         "version": "1.60.0..arianet.1arianet.1"
     },
     {
+        "name": "asozial.org",
+        "domain": "asozial.org",
+        "info": "https://asozial.org",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; left-wing",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.asozial.org/",
+        "software": "Dendrite",
+        "version": "0.8.6+9f8b3136"
+    },
+    {
         "name": "bachgau.social",
         "domain": "bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
