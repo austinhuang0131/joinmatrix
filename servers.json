@@ -15,6 +15,21 @@
         "version": "1.60.0"
     },
     {
+        "name": "activism.international",
+        "domain": "activism.international",
+        "info": "https://activism.international",
+        "jurisdiction": "Germany",
+        "tos": "https://activism.international/usage-policy/",
+        "privacy": "https://activism.international/privacy/cloud/",
+        "open": true,
+        "remarks": "Left-wing; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.activism.international/",
+        "software": "Synapse",
+        "version": "1.60.0"
+    },
+    {
         "name": "agdersam.no",
         "domain": "agdersam.no",
         "info": "https://agdersam.no/",
@@ -26,21 +41,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.agdersam.no/",
-        "software": "Synapse",
-        "version": "1.59.1"
-    },
-    {
-        "name": "archoslinux.cz",
-        "domain": "archoslinux.cz",
-        "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
-        "jurisdiction": "Czech Republic (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Czech; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
         "version": "1.59.1"
     },
@@ -88,6 +88,21 @@
         "reg_link": "https://chat.asozial.org/",
         "software": "Dendrite",
         "version": "0.8.6+9f8b3136"
+    },
+    {
+        "name": "bachgau.social",
+        "domain": "bachgau.social",
+        "info": "https://www.bachgau.social/unsere-dienste/matrix/",
+        "jurisdiction": "Germany",
+        "tos": "https://mastodon.bachgau.social/about/more",
+        "privacy": "https://www.bachgau.social/datenschutzerklaerung/",
+        "open": true,
+        "remarks": "In German; regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.bachgau.social/",
+        "software": "Synapse",
+        "version": "1.60.0"
     },
     {
         "name": "badstuebner.biz",
@@ -342,7 +357,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.das-labor.org/",
         "software": "Synapse",
-        "version": "1.59.1"
+        "version": "1.60.0"
     },
     {
         "name": "data.haus",
@@ -568,21 +583,6 @@
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
         "version": "1.59.1"
-    },
-    {
-        "name": "glasgow.social",
-        "domain": "glasgow.social",
-        "info": "https://opensource.glasgow.social/matrix",
-        "jurisdiction": "UK",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional tech collective",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.49.2"
     },
     {
         "name": "grin.hu",
@@ -1047,7 +1047,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.59.1"
+        "version": "1.60.0"
     },
     {
         "name": "scyldings.com",
@@ -1062,7 +1062,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.scyldings.com/",
         "software": "Synapse",
-        "version": "1.59.1"
+        "version": "1.60.0"
     },
     {
         "name": "sfunk1x.com",
