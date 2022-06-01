@@ -45,6 +45,21 @@
         "version": "1.59.1"
     },
     {
+        "name": "archoslinux.cz",
+        "domain": "archoslinux.cz",
+        "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
+        "jurisdiction": "Czech Republic (Germany)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In Czech; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.archoslinux.cz/",
+        "software": "Synapse",
+        "version": "1.60.0"
+    },
+    {
         "name": "arcticfoxes.net",
         "domain": "arcticfoxes.net",
         "info": "https://arcticfoxes.net",
@@ -72,7 +87,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://el.aria-net.org/",
         "software": "Synapse",
-        "version": "1.59.1.arianet.1"
+        "version": "1.60.0..arianet.1arianet.1"
     },
     {
         "name": "asozial.org",
@@ -477,7 +492,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.59.0"
+        "version": "1.60.0"
     },
     {
         "name": "flieger.chat",
@@ -583,6 +598,21 @@
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
         "version": "1.59.1"
+    },
+    {
+        "name": "glasgow.social",
+        "domain": "glasgow.social",
+        "info": "https://opensource.glasgow.social/matrix",
+        "jurisdiction": "UK",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional tech collective",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.49.2"
     },
     {
         "name": "grin.hu",
@@ -748,21 +778,6 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.59.1"
-    },
-    {
-        "name": "mandragot.org",
-        "domain": "mandragot.org",
-        "info": "https://www.mandragot.org/page/matrix/",
-        "jurisdiction": "France?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.57.0"
     },
     {
         "name": "matrix.im",
@@ -972,7 +987,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
-        "version": "1.58.0"
+        "version": "1.60.0"
     },
     {
         "name": "qoto.org",
