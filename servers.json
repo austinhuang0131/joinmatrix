@@ -60,21 +60,6 @@
         "version": "1.60.0"
     },
     {
-        "name": "arcticfoxes.net",
-        "domain": "arcticfoxes.net",
-        "info": "https://arcticfoxes.net",
-        "jurisdiction": "US (UK)",
-        "tos": null,
-        "privacy": "https://arcticfoxes.net/",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://app.arcticfoxes.net",
-        "software": "Synapse",
-        "version": "1.59.1"
-    },
-    {
         "name": "aria-net.org",
         "domain": "aria-net.org",
         "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
@@ -87,7 +72,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://el.aria-net.org/",
         "software": "Synapse",
-        "version": "1.60.0..arianet.1arianet.1"
+        "version": "1.60.0.arianet.1"
     },
     {
         "name": "asozial.org",
@@ -1467,7 +1452,7 @@
         "reg_method": "Contact",
         "reg_link": "https://hyteck.de/about/",
         "software": "Synapse",
-        "version": "1.58.1"
+        "version": "1.60.0"
     },
     {
         "name": "libreon.fr",
