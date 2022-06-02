@@ -60,6 +60,21 @@
         "version": "1.60.0"
     },
     {
+        "name": "arcticfoxes.net",
+        "domain": "arcticfoxes.net",
+        "info": "https://arcticfoxes.net",
+        "jurisdiction": "US (UK)",
+        "tos": null,
+        "privacy": "https://arcticfoxes.net/",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://app.arcticfoxes.net",
+        "software": "Synapse",
+        "version": "1.59.1"
+    },
+    {
         "name": "aria-net.org",
         "domain": "aria-net.org",
         "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
@@ -88,21 +103,6 @@
         "reg_link": "https://chat.asozial.org/",
         "software": "Dendrite",
         "version": "0.8.6+9f8b3136"
-    },
-    {
-        "name": "bachgau.social",
-        "domain": "bachgau.social",
-        "info": "https://www.bachgau.social/unsere-dienste/matrix/",
-        "jurisdiction": "Germany",
-        "tos": "https://mastodon.bachgau.social/about/more",
-        "privacy": "https://www.bachgau.social/datenschutzerklaerung/",
-        "open": true,
-        "remarks": "In German; regional",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.bachgau.social/",
-        "software": "Synapse",
-        "version": "1.60.0"
     },
     {
         "name": "badstuebner.biz",
@@ -795,21 +795,6 @@
         "version": "1.60.0"
     },
     {
-        "name": "melroy.org",
-        "domain": "melroy.org",
-        "info": "https://docs.libreweb.org/community/discussions/",
-        "jurisdiction": "Netherlands",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.59.1"
-    },
-    {
         "name": "monero.social",
         "domain": "monero.social",
         "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
@@ -823,6 +808,21 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.57.1"
+    },
+    {
+        "name": "mstdn.social",
+        "domain": "mstdn.social",
+        "info": "https://mstdn.social/about/more#matrix",
+        "jurisdiction": "Netherlands (Germany)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.mstdn.social/",
+        "software": "Synapse",
+        "version": "1.59.1"
     },
     {
         "name": "mtrx.nz",
