@@ -75,6 +75,21 @@
         "version": "1.60.0"
     },
     {
+        "name": "aria-net.org",
+        "domain": "aria-net.org",
+        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
+        "jurisdiction": "Italy?",
+        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://el.aria-net.org/",
+        "software": "Synapse",
+        "version": "1.60.0.arianet.1"
+    },
+    {
         "name": "asozial.org",
         "domain": "asozial.org",
         "info": "https://asozial.org",
@@ -537,7 +552,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.fulda.social/",
         "software": "Synapse",
-        "version": "1.59.1"
+        "version": "1.60.0"
     },
     {
         "name": "g24.at",
@@ -823,21 +838,6 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.57.1"
-    },
-    {
-        "name": "mstdn.social",
-        "domain": "mstdn.social",
-        "info": "https://mstdn.social/about/more#matrix",
-        "jurisdiction": "Netherlands (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.mstdn.social/",
-        "software": "Synapse",
-        "version": "1.60.0"
     },
     {
         "name": "mtrx.nz",
