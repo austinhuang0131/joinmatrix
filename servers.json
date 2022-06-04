@@ -840,6 +840,21 @@
         "version": "1.57.1"
     },
     {
+        "name": "mstdn.social",
+        "domain": "mstdn.social",
+        "info": "https://mstdn.social/about/more#matrix",
+        "jurisdiction": "Netherlands (Germany)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.mstdn.social/",
+        "software": "Synapse",
+        "version": "1.60.0"
+    },
+    {
         "name": "mtrx.nz",
         "domain": "mtrx.nz",
         "info": "https://mtrx.nz",
