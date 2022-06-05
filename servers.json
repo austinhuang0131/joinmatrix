@@ -192,7 +192,22 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.schaeferit.de/",
         "software": "Synapse",
-        "version": "1.59.1"
+        "version": "1.60.0"
+    },
+    {
+        "name": "cat.casa",
+        "domain": "cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/codeofconduct",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.60.0"
     },
     {
         "name": "catgirl.cloud",
@@ -506,21 +521,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.freiburg.social/",
-        "software": "Synapse",
-        "version": "1.60.0"
-    },
-    {
-        "name": "freitrix.de",
-        "domain": "freitrix.de",
-        "info": "https://freitrix.de",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://freifunk-suedholstein.de/datenschutz/",
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://webchat.freitrix.de/#/register",
         "software": "Synapse",
         "version": "1.60.0"
     },
@@ -885,21 +885,6 @@
         "version": "1.60.0"
     },
     {
-        "name": "oblak.be",
-        "domain": "oblak.be",
-        "info": "https://oblak.be/apps/chat/",
-        "jurisdiction": "Germany?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.oblak.be/",
-        "software": "Synapse",
-        "version": "1.46.0"
-    },
-    {
         "name": "ohai.su",
         "domain": "ohai.su",
         "info": "https://ohai.su",
@@ -957,7 +942,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.59.1"
+        "version": "1.60.0"
     },
     {
         "name": "prometheus.systems",
@@ -1063,6 +1048,21 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.58.1"
+    },
+    {
+        "name": "sameteem.com",
+        "domain": "sameteem.com",
+        "info": "https://sameteem.com",
+        "jurisdiction": "US? (UK)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Accessory",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.60.0"
     },
     {
         "name": "scyldings.com",
@@ -1197,7 +1197,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.59.1"
+        "version": "1.60.0"
     },
     {
         "name": "techsaviours.org",
