@@ -135,21 +135,6 @@
         "version": "1.59.1"
     },
     {
-        "name": "bienvenidoainternet.org",
-        "domain": "bienvenidoainternet.org",
-        "info": "https://bienvenidoainternet.org/chat.html",
-        "jurisdiction": "US? (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Spanish; accessory",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.51.0"
-    },
-    {
         "name": "bitcoiner.chat",
         "domain": "bitcoiner.chat",
         "info": "https://bitcoiner.guide/",
@@ -163,21 +148,6 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.54.0"
-    },
-    {
-        "name": "buyvm.net",
-        "domain": "buyvm.net",
-        "info": "https://buyvm.net/beware-the-moshbear/",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Hosting provider; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.buyvm.net/element/",
-        "software": "Synapse",
-        "version": "1.59.1"
     },
     {
         "name": "bytes4u.de",
@@ -521,6 +491,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.freiburg.social/",
+        "software": "Synapse",
+        "version": "1.60.0"
+    },
+    {
+        "name": "freitrix.de",
+        "domain": "freitrix.de",
+        "info": "https://freitrix.de",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://freifunk-suedholstein.de/datenschutz/",
+        "open": true,
+        "remarks": "In German",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://webchat.freitrix.de/#/register",
         "software": "Synapse",
         "version": "1.60.0"
     },
@@ -885,6 +870,21 @@
         "version": "1.60.0"
     },
     {
+        "name": "oblak.be",
+        "domain": "oblak.be",
+        "info": "https://oblak.be/apps/chat/",
+        "jurisdiction": "Germany?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.oblak.be/",
+        "software": "Synapse",
+        "version": "1.46.0"
+    },
+    {
         "name": "ohai.su",
         "domain": "ohai.su",
         "info": "https://ohai.su",
@@ -898,21 +898,6 @@
         "reg_link": "https://matrix.ohai.su/",
         "software": "Synapse",
         "version": "1.57.0"
-    },
-    {
-        "name": "ombreport.info",
-        "domain": "matrix.ombreport.info",
-        "info": "http://ombreport.info",
-        "jurisdiction": "France?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://riot.ombreport.info/",
-        "software": "Synapse",
-        "version": "1.60.0"
     },
     {
         "name": "pcriot.org",
@@ -1213,21 +1198,6 @@
         "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
         "version": "1.59.1"
-    },
-    {
-        "name": "tedomum.net",
-        "domain": "tedomum.net",
-        "info": "https://tedomum.net/service/matrix/",
-        "jurisdiction": "France",
-        "tos": "https://tedomum.net/page/cgu/#",
-        "privacy": "https://tedomum.net/page/cgu/",
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://tedomum.net/documentation/general/account/",
-        "software": "Synapse",
-        "version": "1.55.2"
     },
     {
         "name": "the-apothecary.club",
