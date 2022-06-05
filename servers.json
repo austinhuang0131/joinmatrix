@@ -660,21 +660,6 @@
         "version": "1.60.0"
     },
     {
-        "name": "houtworm.im",
-        "domain": "houtworm.im",
-        "info": "https://houtworm.im",
-        "jurisdiction": "Netherlands",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://houtworm.im/",
-        "software": "Synapse",
-        "version": "1.59.0"
-    },
-    {
         "name": "inetd.xyz",
         "domain": "inetd.xyz",
         "info": "https://inetd.xyz",
