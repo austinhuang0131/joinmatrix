@@ -195,21 +195,6 @@
         "version": "1.59.1"
     },
     {
-        "name": "cat.casa",
-        "domain": "cat.casa",
-        "info": "https://cat.casa/",
-        "jurisdiction": "Germany",
-        "tos": "https://cat.casa/codeofconduct",
-        "privacy": "https://cat.casa/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.cat.casa/",
-        "software": "Synapse",
-        "version": "1.58.1"
-    },
-    {
         "name": "catgirl.cloud",
         "domain": "catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -660,6 +645,21 @@
         "version": "1.60.0"
     },
     {
+        "name": "houtworm.im",
+        "domain": "houtworm.im",
+        "info": "https://houtworm.im",
+        "jurisdiction": "Netherlands",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://houtworm.im/",
+        "software": "Synapse",
+        "version": "1.59.0"
+    },
+    {
         "name": "inetd.xyz",
         "domain": "inetd.xyz",
         "info": "https://inetd.xyz",
@@ -1065,21 +1065,6 @@
         "version": "1.58.1"
     },
     {
-        "name": "sameteem.com",
-        "domain": "sameteem.com",
-        "info": "https://sameteem.com",
-        "jurisdiction": "US? (UK)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.60.0"
-    },
-    {
         "name": "scyldings.com",
         "domain": "scyldings.com",
         "info": "https://scyldings.com/guide-joining-the-chat-server-on-scyldings-com/",
@@ -1137,7 +1122,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.sibnsk.net",
         "software": "Synapse",
-        "version": "1.59.1"
+        "version": "1.60.0"
     },
     {
         "name": "socialnetwork24.com",
