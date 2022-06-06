@@ -150,6 +150,21 @@
         "version": "1.54.0"
     },
     {
+        "name": "buyvm.net",
+        "domain": "buyvm.net",
+        "info": "https://buyvm.net/beware-the-moshbear/",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Hosting provider; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.buyvm.net/element/",
+        "software": "Synapse",
+        "version": "1.59.1"
+    },
+    {
         "name": "bytes4u.de",
         "domain": "matrix.bytes4u.de",
         "info": "https://bytes4u.de",
@@ -297,7 +312,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
-        "version": "1.59.1"
+        "version": "1.60.0"
     },
     {
         "name": "converser.eu",
@@ -1227,7 +1242,7 @@
         "reg_method": "SSO",
         "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
-        "version": "1.55.2"
+        "version": "1.60.0"
     },
     {
         "name": "the-apothecary.club",
@@ -1332,7 +1347,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.virto.community/",
         "software": "Synapse",
-        "version": "1.57.1"
+        "version": "1.60.0"
     },
     {
         "name": "yatrix.org",
@@ -1422,7 +1437,7 @@
         "reg_method": "Contact",
         "reg_link": "https://deuxfleurs.fr/",
         "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.60.0"
     },
     {
         "name": "hingst.net",
