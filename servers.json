@@ -900,6 +900,21 @@
         "version": "1.57.0"
     },
     {
+        "name": "ombreport.info",
+        "domain": "matrix.ombreport.info",
+        "info": "http://ombreport.info",
+        "jurisdiction": "France?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In French",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://riot.ombreport.info/",
+        "software": "Synapse",
+        "version": "1.60.0"
+    },
+    {
         "name": "pcriot.org",
         "domain": "pcriot.org",
         "info": "https://pcriot.org",
@@ -1198,6 +1213,21 @@
         "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
         "version": "1.59.1"
+    },
+    {
+        "name": "tedomum.net",
+        "domain": "tedomum.net",
+        "info": "https://tedomum.net/service/matrix/",
+        "jurisdiction": "France",
+        "tos": "https://tedomum.net/page/cgu/#",
+        "privacy": "https://tedomum.net/page/cgu/",
+        "open": true,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://tedomum.net/documentation/general/account/",
+        "software": "Synapse",
+        "version": "1.55.2"
     },
     {
         "name": "the-apothecary.club",
