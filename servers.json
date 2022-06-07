@@ -150,6 +150,21 @@
         "version": "1.54.0"
     },
     {
+        "name": "buyvm.net",
+        "domain": "buyvm.net",
+        "info": "https://buyvm.net/beware-the-moshbear/",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Hosting provider; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.buyvm.net/element/",
+        "software": "Synapse",
+        "version": "1.59.1"
+    },
+    {
         "name": "bytes4u.de",
         "domain": "matrix.bytes4u.de",
         "info": "https://bytes4u.de",
@@ -192,7 +207,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.0rc1"
     },
     {
         "name": "chagai.website",
@@ -672,7 +687,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.0rc1"
     },
     {
         "name": "librem.one",
@@ -1376,6 +1391,21 @@
         "antifeature": null,
         "reg_method": "SSO",
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
+        "software": "Synapse",
+        "version": "1.59.1"
+    },
+    {
+        "name": "aletheia.moe",
+        "domain": "aletheia.moe",
+        "info": "https://aletheia.moe",
+        "jurisdiction": "? (Iceland)",
+        "tos": "https://aletheia.moe/tos/",
+        "privacy": "https://aletheia.moe/tos/",
+        "open": false,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://aletheia.moe/registration/",
         "software": "Synapse",
         "version": "1.59.1"
     },
