@@ -465,6 +465,21 @@
         "version": "1.47.1"
     },
     {
+        "name": "filik.eu",
+        "domain": "filik.eu",
+        "info": "https://filik.eu",
+        "jurisdiction": "Czech Republic",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.60.0"
+    },
+    {
         "name": "flieger.chat",
         "domain": "flieger.chat",
         "info": "https://yatrix.org",
@@ -960,6 +975,21 @@
         "version": "1.59.1"
     },
     {
+        "name": "privex.io",
+        "domain": "privex.io",
+        "info": "https://privex.io",
+        "jurisdiction": "Belize? (Sweden)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Hosting provider; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://riot.privex.io/",
+        "software": "Synapse",
+        "version": "1.51.0"
+    },
+    {
         "name": "pub.solar",
         "domain": "pub.solar",
         "info": "https://pub.solar",
@@ -1018,21 +1048,6 @@
         "reg_link": "https://riotchat.de/register/form.php",
         "software": "Synapse",
         "version": "1.59.1"
-    },
-    {
-        "name": "rumatrix.org",
-        "domain": "rumatrix.org",
-        "info": "https://rumatrix.org",
-        "jurisdiction": "Russia (Netherlands)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Russian",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.58.1"
     },
     {
         "name": "sameteem.com",
