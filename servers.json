@@ -645,21 +645,6 @@
         "version": "1.60.0"
     },
     {
-        "name": "houtworm.im",
-        "domain": "houtworm.im",
-        "info": "https://houtworm.im",
-        "jurisdiction": "Netherlands",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://houtworm.im/",
-        "software": "Synapse",
-        "version": "1.60.0"
-    },
-    {
         "name": "inetd.xyz",
         "domain": "inetd.xyz",
         "info": "https://inetd.xyz",
@@ -1005,21 +990,6 @@
         "version": "1.58.0"
     },
     {
-        "name": "qoto.org",
-        "domain": "matrix.qoto.org",
-        "info": "https://qoto.org/about/more",
-        "jurisdiction": "US?",
-        "tos": "https://qoto.org/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.qoto.org/",
-        "software": "Synapse",
-        "version": "1.45.1"
-    },
-    {
         "name": "radiowarnerd.org",
         "domain": "radiowarnerd.org",
         "info": "https://dokuwiki.radiowarnerd.org/matrixaccountcreation",
@@ -1167,7 +1137,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.0rc1"
     },
     {
         "name": "tauasul.net",
