@@ -795,21 +795,6 @@
         "version": "1.60.0"
     },
     {
-        "name": "matrixim.cc",
-        "domain": "matrixim.cc",
-        "info": "https://matrixim.cc",
-        "jurisdiction": "China? (Finland)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Chinese",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.matrixim.cc/",
-        "software": "Synapse",
-        "version": "1.59.1"
-    },
-    {
         "name": "melroy.org",
         "domain": "melroy.org",
         "info": "https://docs.libreweb.org/community/discussions/",
@@ -1320,21 +1305,6 @@
         "version": "1.57.1"
     },
     {
-        "name": "utwente.io",
-        "domain": "utwente.io",
-        "info": "https://syscom.utwente.io/info/matrix/homeserver/",
-        "jurisdiction": "Netherlands",
-        "tos": "https://syscom.utwente.io/info/matrix/homeserver/#rules",
-        "privacy": "https://syscom.utwente.io/info/privacy/matrix/",
-        "open": true,
-        "remarks": "Regional; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.utwente.io/",
-        "software": "Synapse",
-        "version": "1.50.2"
-    },
-    {
         "name": "virto.community",
         "domain": "virto.community",
         "info": "https://virto.network/",
@@ -1406,6 +1376,21 @@
         "antifeature": null,
         "reg_method": "SSO",
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
+        "software": "Synapse",
+        "version": "1.59.1"
+    },
+    {
+        "name": "aletheia.moe",
+        "domain": "aletheia.moe",
+        "info": "https://aletheia.moe",
+        "jurisdiction": "? (Iceland)",
+        "tos": "https://aletheia.moe/tos/",
+        "privacy": "https://aletheia.moe/tos/",
+        "open": false,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://aletheia.moe/registration/",
         "software": "Synapse",
         "version": "1.59.1"
     },
