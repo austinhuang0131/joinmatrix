@@ -645,6 +645,21 @@
         "version": "1.60.0"
     },
     {
+        "name": "houtworm.im",
+        "domain": "houtworm.im",
+        "info": "https://houtworm.im",
+        "jurisdiction": "Netherlands",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://houtworm.im/",
+        "software": "Synapse",
+        "version": "1.60.0"
+    },
+    {
         "name": "inetd.xyz",
         "domain": "inetd.xyz",
         "info": "https://inetd.xyz",
@@ -778,6 +793,21 @@
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
         "version": "1.60.0"
+    },
+    {
+        "name": "matrixim.cc",
+        "domain": "matrixim.cc",
+        "info": "https://matrixim.cc",
+        "jurisdiction": "China? (Finland)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In Chinese",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.matrixim.cc/",
+        "software": "Synapse",
+        "version": "1.59.1"
     },
     {
         "name": "melroy.org",
@@ -988,6 +1018,21 @@
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
         "version": "1.58.0"
+    },
+    {
+        "name": "qoto.org",
+        "domain": "matrix.qoto.org",
+        "info": "https://qoto.org/about/more",
+        "jurisdiction": "US?",
+        "tos": "https://qoto.org/about/more",
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.qoto.org/",
+        "software": "Synapse",
+        "version": "1.45.1"
     },
     {
         "name": "radiowarnerd.org",
@@ -1212,7 +1257,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://the-apothecary.club/",
         "software": "Synapse",
-        "version": "1.59.1"
+        "version": "1.61.0rc1"
     },
     {
         "name": "tomesh.net",
@@ -1361,21 +1406,6 @@
         "antifeature": null,
         "reg_method": "SSO",
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
-        "software": "Synapse",
-        "version": "1.59.1"
-    },
-    {
-        "name": "aletheia.moe",
-        "domain": "aletheia.moe",
-        "info": "https://aletheia.moe",
-        "jurisdiction": "? (Iceland)",
-        "tos": "https://aletheia.moe/tos/",
-        "privacy": "https://aletheia.moe/tos/",
-        "open": false,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://aletheia.moe/registration/",
         "software": "Synapse",
         "version": "1.59.1"
     },
