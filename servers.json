@@ -210,21 +210,6 @@
         "version": "1.61.0rc1"
     },
     {
-        "name": "chagai.website",
-        "domain": "chagai.website",
-        "info": "https://chagai.website",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.chagai.website/",
-        "software": "Synapse",
-        "version": "1.59.1"
-    },
-    {
         "name": "chatcloud.net",
         "domain": "chatcloud.net",
         "info": "https://chatcloud.net",
@@ -373,6 +358,21 @@
         "reg_link": "https://chat.data.haus/",
         "software": "Synapse",
         "version": "1.59.1"
+    },
+    {
+        "name": "devass.su",
+        "domain": "matrix.devass.su",
+        "info": "https://devass.su",
+        "jurisdiction": "Russia",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In Russian",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.devass.su/",
+        "software": "Synapse",
+        "version": "1.60.0"
     },
     {
         "name": "duesen.chat",
@@ -1002,7 +1002,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.radiowarnerd.org/",
         "software": "Synapse",
-        "version": "1.58.1"
+        "version": "1.61.0rc1"
     },
     {
         "name": "riotchat.de",
