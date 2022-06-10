@@ -162,7 +162,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.buyvm.net/element/",
         "software": "Synapse",
-        "version": "1.59.1"
+        "version": "1.60.0"
     },
     {
         "name": "bytes4u.de",
@@ -208,6 +208,21 @@
         "reg_link": "https://element.catgirl.cloud/",
         "software": "Synapse",
         "version": "1.61.0rc1"
+    },
+    {
+        "name": "chagai.website",
+        "domain": "chagai.website",
+        "info": "https://chagai.website",
+        "jurisdiction": "Switzerland",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.chagai.website/",
+        "software": "Synapse",
+        "version": "1.59.1"
     },
     {
         "name": "chatcloud.net",
@@ -778,21 +793,6 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.61.0rc1"
-    },
-    {
-        "name": "monero.social",
-        "domain": "monero.social",
-        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
-        "jurisdiction": "US",
-        "tos": "https://www.getmonero.org/legal/",
-        "privacy": null,
-        "open": true,
-        "remarks": "18+; accessory; crypto",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.57.1"
     },
     {
         "name": "mstdn.social",
