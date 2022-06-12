@@ -1062,7 +1062,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.sfunk1x.com/",
         "software": "Synapse",
-        "version": "1.57.0"
+        "version": "1.60.0"
     },
     {
         "name": "shibabox.eu",
@@ -1166,6 +1166,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
+        "software": "Synapse",
+        "version": "1.60.0"
+    },
+    {
+        "name": "techsaviours.org",
+        "domain": "techsaviours.org",
+        "info": "https://techsaviours.org",
+        "jurisdiction": "Germany",
+        "tos": "https://techsaviours.org/terms-of-use.html",
+        "privacy": "https://techsaviours.org/privacy-policy.html",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
         "version": "1.60.0"
     },
@@ -1286,6 +1301,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.virto.community/",
+        "software": "Synapse",
+        "version": "1.60.0"
+    },
+    {
+        "name": "yatrix.org",
+        "domain": "yatrix.org",
+        "info": "https://yatrix.org",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://yatrix.org/#datenschutzhinweise",
+        "open": true,
+        "remarks": "In German",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
         "version": "1.60.0"
     },
