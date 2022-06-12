@@ -90,21 +90,6 @@
         "version": "1.60.0.arianet.1"
     },
     {
-        "name": "asozial.org",
-        "domain": "asozial.org",
-        "info": "https://asozial.org",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; left-wing",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.asozial.org/",
-        "software": "Dendrite",
-        "version": "0.8.8+83797573"
-    },
-    {
         "name": "bachgau.social",
         "domain": "bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
@@ -720,21 +705,6 @@
         "version": "1.53.0"
     },
     {
-        "name": "magaya.org",
-        "domain": "magaya.org",
-        "info": "https://magaya.org",
-        "jurisdiction": "Australia",
-        "tos": "https://magaya.org/terms/",
-        "privacy": "https://magaya.org/privacy-policy/",
-        "open": true,
-        "remarks": "18+",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.magaya.org",
-        "software": "Synapse",
-        "version": "1.59.1"
-    },
-    {
         "name": "magdeburg.jetzt",
         "domain": "magdeburg.jetzt",
         "info": "https://magdeburg.jetzt/",
@@ -822,7 +792,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.57.1"
+        "version": "1.60.0"
     },
     {
         "name": "mstdn.social",
@@ -1392,7 +1362,7 @@
         "reg_method": "Contact",
         "reg_link": "https://aletheia.moe/registration/",
         "software": "Synapse",
-        "version": "1.59.1"
+        "version": "1.60.0"
     },
     {
         "name": "deuxfleurs.fr",
