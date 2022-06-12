@@ -315,19 +315,19 @@
         "version": "1.60.0"
     },
     {
-        "name": "danskungdom.dk",
-        "domain": "danskungdom.dk",
-        "info": "https://danskungdom.dk/guides/matrix/",
-        "jurisdiction": "Denmark (Germany)",
+        "name": "converser.eu",
+        "domain": "converser.eu",
+        "info": "https://converser.eu",
+        "jurisdiction": "France",
         "tos": null,
         "privacy": null,
         "open": true,
-        "remarks": "In Danish",
+        "remarks": "In French",
         "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.danskungdom.dk/",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
-        "version": "1.41.1"
+        "version": "1.57.1"
     },
     {
         "name": "das-labor.org",
@@ -1286,21 +1286,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.virto.community/",
-        "software": "Synapse",
-        "version": "1.60.0"
-    },
-    {
-        "name": "yatrix.org",
-        "domain": "yatrix.org",
-        "info": "https://yatrix.org",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://yatrix.org/#datenschutzhinweise",
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
         "version": "1.60.0"
     },
