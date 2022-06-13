@@ -705,6 +705,21 @@
         "version": "1.53.0"
     },
     {
+        "name": "magaya.org",
+        "domain": "magaya.org",
+        "info": "https://magaya.org",
+        "jurisdiction": "Australia",
+        "tos": "https://magaya.org/terms/",
+        "privacy": "https://magaya.org/privacy-policy/",
+        "open": true,
+        "remarks": "18+",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.magaya.org",
+        "software": "Synapse",
+        "version": "1.59.1"
+    },
+    {
         "name": "magdeburg.jetzt",
         "domain": "magdeburg.jetzt",
         "info": "https://magdeburg.jetzt/",
@@ -960,19 +975,19 @@
         "version": "1.51.0"
     },
     {
-        "name": "pub.solar",
-        "domain": "pub.solar",
-        "info": "https://pub.solar",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://pub.solar/privacy.html",
+        "name": "qoto.org",
+        "domain": "matrix.qoto.org",
+        "info": "https://qoto.org/about/more",
+        "jurisdiction": "US?",
+        "tos": "https://qoto.org/about/more",
+        "privacy": null,
         "open": true,
-        "remarks": "Tech collective",
+        "remarks": "",
         "antifeature": null,
         "reg_method": "In-house Element",
-        "reg_link": "https://chat.pub.solar/",
+        "reg_link": "https://element.qoto.org/",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.45.1"
     },
     {
         "name": "radiowarnerd.org",
@@ -1108,21 +1123,6 @@
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
         "version": "1.60.0"
-    },
-    {
-        "name": "sykorp.com",
-        "domain": "sykorp.com",
-        "info": "https://sykorp.com",
-        "jurisdiction": "Saudi Arabia",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Residential",
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.61.0rc1"
     },
     {
         "name": "tauasul.net",
