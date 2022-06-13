@@ -72,7 +72,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.arcticfoxes.net",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.0rc1"
     },
     {
         "name": "aria-net.org",
@@ -356,21 +356,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.data.haus/",
-        "software": "Synapse",
-        "version": "1.60.0"
-    },
-    {
-        "name": "devass.su",
-        "domain": "matrix.devass.su",
-        "info": "https://devass.su",
-        "jurisdiction": "Russia",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Russian",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.devass.su/",
         "software": "Synapse",
         "version": "1.60.0"
     },
@@ -1241,21 +1226,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.trygve.me/",
-        "software": "Synapse",
-        "version": "1.60.0"
-    },
-    {
-        "name": "ungleich.ch",
-        "domain": "ungleich.ch",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
         "version": "1.60.0"
     },
