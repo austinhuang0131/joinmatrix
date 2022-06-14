@@ -495,6 +495,21 @@
         "version": "1.60.0"
     },
     {
+        "name": "freitrix.de",
+        "domain": "freitrix.de",
+        "info": "https://freitrix.de",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://freifunk-suedholstein.de/datenschutz/",
+        "open": true,
+        "remarks": "In German",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://webchat.freitrix.de/#/register",
+        "software": "Synapse",
+        "version": "1.61.0"
+    },
+    {
         "name": "fulda.social",
         "domain": "fulda.social",
         "info": "https://dasnetzundich.de/2021/08/14/willkommen-in-der-matrix/",
@@ -777,7 +792,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.61.0rc1"
+        "version": "1.61.0"
     },
     {
         "name": "monero.social",
@@ -1452,7 +1467,7 @@
         "reg_method": "Membership",
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
-        "version": "1.57.0"
+        "version": "1.61.0"
     },
     {
         "name": "hadoly.fr",
