@@ -210,21 +210,6 @@
         "version": "1.61.0rc1"
     },
     {
-        "name": "chagai.website",
-        "domain": "chagai.website",
-        "info": "https://chagai.website",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.chagai.website/",
-        "software": "Synapse",
-        "version": "1.59.1"
-    },
-    {
         "name": "chatcloud.net",
         "domain": "chatcloud.net",
         "info": "https://chatcloud.net",
