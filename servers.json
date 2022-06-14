@@ -117,7 +117,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.bachgau.social/",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.0"
     },
     {
         "name": "badstuebner.biz",
@@ -207,7 +207,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.61.0rc1"
+        "version": "1.61.0"
     },
     {
         "name": "chagai.website",
@@ -267,7 +267,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.0"
     },
     {
         "name": "club1.fr",
@@ -417,7 +417,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.0"
     },
     {
         "name": "erfurt.chat",
@@ -491,21 +491,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.freiburg.social/",
-        "software": "Synapse",
-        "version": "1.60.0"
-    },
-    {
-        "name": "freitrix.de",
-        "domain": "freitrix.de",
-        "info": "https://freitrix.de",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://freifunk-suedholstein.de/datenschutz/",
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://webchat.freitrix.de/#/register",
         "software": "Synapse",
         "version": "1.60.0"
     },
@@ -612,7 +597,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.0"
     },
     {
         "name": "hot-chilli.im",
@@ -672,7 +657,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.61.0rc1"
+        "version": "1.61.0"
     },
     {
         "name": "librem.one",
@@ -867,7 +852,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nltrix.net/",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.0"
     },
     {
         "name": "oblak.be",
@@ -942,7 +927,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.0"
     },
     {
         "name": "prometheus.systems",
@@ -1137,7 +1122,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.0"
     },
     {
         "name": "sykorp.com",
@@ -1152,7 +1137,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.61.0rc1"
+        "version": "1.61.0"
     },
     {
         "name": "tauasul.net",
@@ -1182,7 +1167,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.0"
     },
     {
         "name": "techsaviours.org",
