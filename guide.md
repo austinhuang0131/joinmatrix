@@ -118,7 +118,7 @@ There exists [many different apps](https://matrix.org/clients/) that can access 
 * [Element](https://app.element.io): The flagship app.
   * [Element development version](https://develop.element.io): Element with lab features enabled, but potentially unstable.
   * [SchildiChat](https://app.schildi.chat/): Element with lab features enabled, plus an optional speech bubble layout.
-* [Cinny](https://cinny.in/): Matrix in Slack style.
+* [Cinny](https://cinny.in/): The app with elegant and modern UI.
 * [Hydrogen](https://hydrogen.element.io/): Fast and adaptable to mobile browsers, at the cost of missing some optional features.
 
 #### PC and Mobile
