@@ -42,7 +42,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.agdersam.no/",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.0"
     },
     {
         "name": "archoslinux.cz",
@@ -1136,6 +1136,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
+        "software": "Synapse",
+        "version": "1.61.0"
+    },
+    {
+        "name": "sykorp.com",
+        "domain": "sykorp.com",
+        "info": "https://sykorp.com",
+        "jurisdiction": "Saudi Arabia",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": "Residential",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.61.0"
     },
