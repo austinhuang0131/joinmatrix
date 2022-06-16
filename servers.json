@@ -132,7 +132,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.badstuebner.biz/",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.0"
     },
     {
         "name": "bitcoiner.chat",
@@ -810,21 +810,6 @@
         "version": "1.61.0"
     },
     {
-        "name": "mtrx.nz",
-        "domain": "mtrx.nz",
-        "info": "https://mtrx.nz",
-        "jurisdiction": "New Zealand",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://mtrx.nz/",
-        "software": "Synapse",
-        "version": "1.60.0"
-    },
-    {
         "name": "nitro.chat",
         "domain": "nitro.chat",
         "info": "https://nitro.chat",
@@ -1092,7 +1077,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.sibnsk.net",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.0"
     },
     {
         "name": "socialnetwork24.com",
