@@ -255,6 +255,21 @@
         "version": "1.61.0"
     },
     {
+        "name": "chrrreeeeesss.com",
+        "domain": "chrrreeeeesss.com",
+        "info": "https://chrrreeeeesss.com",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chrrreeeeesss.com/element",
+        "software": "Synapse",
+        "version": "1.61.0"
+    },
+    {
         "name": "club1.fr",
         "domain": "club1.fr",
         "info": "https://club1.fr/matrix/",
@@ -552,7 +567,7 @@
         "reg_method": "Form",
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
-        "version": "1.59.1"
+        "version": "1.60.0"
     },
     {
         "name": "glasgow.social",
@@ -810,6 +825,21 @@
         "version": "1.61.0"
     },
     {
+        "name": "mtrx.nz",
+        "domain": "mtrx.nz",
+        "info": "https://mtrx.nz",
+        "jurisdiction": "New Zealand",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://mtrx.nz/",
+        "software": "Synapse",
+        "version": "1.60.0"
+    },
+    {
         "name": "nitro.chat",
         "domain": "nitro.chat",
         "info": "https://nitro.chat",
@@ -1002,7 +1032,7 @@
         "reg_method": "Form",
         "reg_link": "https://riotchat.de/register/form.php",
         "software": "Synapse",
-        "version": "1.59.1"
+        "version": "1.60.0"
     },
     {
         "name": "sameteem.com",
@@ -1106,21 +1136,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
-        "software": "Synapse",
-        "version": "1.61.0"
-    },
-    {
-        "name": "sykorp.com",
-        "domain": "sykorp.com",
-        "info": "https://sykorp.com",
-        "jurisdiction": "Saudi Arabia",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Residential",
-        "reg_method": null,
-        "reg_link": null,
         "software": "Synapse",
         "version": "1.61.0"
     },
@@ -1391,21 +1406,6 @@
         "antifeature": null,
         "reg_method": "Contact",
         "reg_link": "https://hingst.net/kontakt/",
-        "software": "Synapse",
-        "version": "1.60.0"
-    },
-    {
-        "name": "hyteck.de",
-        "domain": "hyteck.de",
-        "info": "https://hyteck.de/services/",
-        "jurisdiction": "Germany",
-        "tos": "https://hyteck.de/services/",
-        "privacy": null,
-        "open": false,
-        "remarks": "In German; personal",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://hyteck.de/about/",
         "software": "Synapse",
         "version": "1.60.0"
     },
