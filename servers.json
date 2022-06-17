@@ -87,7 +87,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://el.aria-net.org/",
         "software": "Synapse",
-        "version": "1.60.0.arianet.1"
+        "version": "1.61.0.arianet.1"
     },
     {
         "name": "asozial.org",
@@ -135,21 +135,6 @@
         "version": "1.61.0"
     },
     {
-        "name": "bitcoiner.chat",
-        "domain": "bitcoiner.chat",
-        "info": "https://bitcoiner.guide/",
-        "jurisdiction": "US?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Crypto",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.54.0"
-    },
-    {
         "name": "buyvm.net",
         "domain": "buyvm.net",
         "info": "https://buyvm.net/beware-the-moshbear/",
@@ -178,6 +163,21 @@
         "reg_link": "https://element.schaeferit.de/",
         "software": "Synapse",
         "version": "1.60.0"
+    },
+    {
+        "name": "byzero.dev",
+        "domain": "byzero.dev",
+        "info": "https://hosting.byzero.dev/",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.byzero.dev/",
+        "software": "Synapse",
+        "version": "1.61.0"
     },
     {
         "name": "cat.casa",
@@ -927,7 +927,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pcriot.org/",
         "software": "Synapse",
-        "version": "1.59.1"
+        "version": "1.61.0"
     },
     {
         "name": "pragma-messenger.ch",
@@ -958,21 +958,6 @@
         "reg_link": "https://chat.prometheus.systems/",
         "software": "Synapse",
         "version": "1.61.0"
-    },
-    {
-        "name": "privex.io",
-        "domain": "privex.io",
-        "info": "https://privex.io",
-        "jurisdiction": "Belize? (Sweden)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Hosting provider; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://riot.privex.io/",
-        "software": "Synapse",
-        "version": "1.51.0"
     },
     {
         "name": "pub.solar",
@@ -1303,6 +1288,21 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.50.2"
+    },
+    {
+        "name": "vern.cc",
+        "domain": "vern.cc",
+        "info": "https://vern.cc/",
+        "jurisdiction": "US/India? (US/Canada)",
+        "tos": "https://vern.cc/rules",
+        "privacy": "https://vern.cc/privpol",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://vern.cc/register.php",
+        "software": "Synapse",
+        "version": "1.61.0"
     },
     {
         "name": "virto.community",
