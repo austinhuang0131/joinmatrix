@@ -315,6 +315,21 @@
         "version": "1.60.0"
     },
     {
+        "name": "converser.eu",
+        "domain": "converser.eu",
+        "info": "https://converser.eu",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In French",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.57.1"
+    },
+    {
         "name": "das-labor.org",
         "domain": "das-labor.org",
         "info": "https://wiki.das-labor.org/w/Projekt/Matrix",
@@ -1452,7 +1467,7 @@
         "reg_method": "Membership",
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.59.0"
     },
     {
         "name": "hadoly.fr",
