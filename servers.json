@@ -162,7 +162,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.buyvm.net/element/",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.0"
     },
     {
         "name": "bytes4u.de",
@@ -313,21 +313,6 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.60.0"
-    },
-    {
-        "name": "converser.eu",
-        "domain": "converser.eu",
-        "info": "https://converser.eu",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.57.1"
     },
     {
         "name": "das-labor.org",
@@ -1421,6 +1406,21 @@
         "antifeature": null,
         "reg_method": "Contact",
         "reg_link": "https://hingst.net/kontakt/",
+        "software": "Synapse",
+        "version": "1.60.0"
+    },
+    {
+        "name": "hyteck.de",
+        "domain": "hyteck.de",
+        "info": "https://hyteck.de/services/",
+        "jurisdiction": "Germany",
+        "tos": "https://hyteck.de/services/",
+        "privacy": null,
+        "open": false,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://hyteck.de/about/",
         "software": "Synapse",
         "version": "1.60.0"
     },
