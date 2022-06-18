@@ -285,21 +285,6 @@
         "version": "1.61.0"
     },
     {
-        "name": "comm.cx",
-        "domain": "comm.cx",
-        "info": "https://comm.cx",
-        "jurisdiction": "Japan",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Uses Cloudflare",
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.60.0"
-    },
-    {
         "name": "community.rs",
         "domain": "community.rs",
         "info": "https://community.rs",
@@ -356,21 +341,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.data.haus/",
-        "software": "Synapse",
-        "version": "1.60.0"
-    },
-    {
-        "name": "devass.su",
-        "domain": "matrix.devass.su",
-        "info": "https://devass.su",
-        "jurisdiction": "Russia",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Russian",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.devass.su/",
         "software": "Synapse",
         "version": "1.60.0"
     },
@@ -568,6 +538,21 @@
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
         "version": "1.60.0"
+    },
+    {
+        "name": "glasgow.social",
+        "domain": "glasgow.social",
+        "info": "https://opensource.glasgow.social/matrix",
+        "jurisdiction": "UK",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional tech collective",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.49.2"
     },
     {
         "name": "grin.hu",
