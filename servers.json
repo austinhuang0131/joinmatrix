@@ -315,21 +315,6 @@
         "version": "1.60.0"
     },
     {
-        "name": "converser.eu",
-        "domain": "converser.eu",
-        "info": "https://converser.eu",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.57.1"
-    },
-    {
         "name": "das-labor.org",
         "domain": "das-labor.org",
         "info": "https://wiki.das-labor.org/w/Projekt/Matrix",
@@ -1245,21 +1230,6 @@
         "version": "1.60.0"
     },
     {
-        "name": "ungleich.ch",
-        "domain": "ungleich.ch",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
-        "software": "Synapse",
-        "version": "1.60.0"
-    },
-    {
         "name": "unredacted.org",
         "domain": "unredacted.org",
         "info": "https://unredacted.org/services/matrix/",
@@ -1288,6 +1258,21 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.50.2"
+    },
+    {
+        "name": "vern.cc",
+        "domain": "vern.cc",
+        "info": "https://vern.cc/",
+        "jurisdiction": "US/India? (US/Canada)",
+        "tos": "https://vern.cc/rules",
+        "privacy": "https://vern.cc/privpol",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://vern.cc/register.php",
+        "software": "Synapse",
+        "version": "1.61.0"
     },
     {
         "name": "virto.community",
