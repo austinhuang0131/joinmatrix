@@ -315,6 +315,21 @@
         "version": "1.60.0"
     },
     {
+        "name": "converser.eu",
+        "domain": "converser.eu",
+        "info": "https://converser.eu",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In French",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.57.1"
+    },
+    {
         "name": "das-labor.org",
         "domain": "das-labor.org",
         "info": "https://wiki.das-labor.org/w/Projekt/Matrix",
@@ -341,21 +356,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.data.haus/",
-        "software": "Synapse",
-        "version": "1.60.0"
-    },
-    {
-        "name": "devass.su",
-        "domain": "matrix.devass.su",
-        "info": "https://devass.su",
-        "jurisdiction": "Russia",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Russian",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.devass.su/",
         "software": "Synapse",
         "version": "1.60.0"
     },
@@ -477,7 +477,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.freiburg.social/",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.0"
     },
     {
         "name": "freitrix.de",
@@ -1347,7 +1347,7 @@
         "reg_method": "SSO",
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
-        "version": "1.59.1"
+        "version": "1.61.0"
     },
     {
         "name": "aletheia.moe",
