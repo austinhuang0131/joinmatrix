@@ -240,6 +240,21 @@
         "version": "1.49.2"
     },
     {
+        "name": "chatwave.org",
+        "domain": "chatwave.org",
+        "info": "https://yatrix.org",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://yatrix.org/",
+        "open": true,
+        "remarks": "In German; operated by yatrix.org",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.chatwave.org/",
+        "software": "Synapse",
+        "version": "1.61.0"
+    },
+    {
         "name": "chrrreeeeesss.com",
         "domain": "chrrreeeeesss.com",
         "info": "https://chrrreeeeesss.com",
@@ -418,6 +433,21 @@
         "reg_link": "https://element.erfurt.chat/",
         "software": "Synapse",
         "version": "1.0.0"
+    },
+    {
+        "name": "exarius.org",
+        "domain": "exarius.org",
+        "info": "https://exarius.org/wiki/services/exatrix/",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.47.1"
     },
     {
         "name": "filik.eu",
@@ -1257,7 +1287,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.unredacted.org/",
         "software": "Synapse",
-        "version": "1.57.1"
+        "version": "1.61.0"
     },
     {
         "name": "utwente.io",
@@ -1406,6 +1436,21 @@
         "antifeature": null,
         "reg_method": "Contact",
         "reg_link": "https://hingst.net/kontakt/",
+        "software": "Synapse",
+        "version": "1.60.0"
+    },
+    {
+        "name": "hyteck.de",
+        "domain": "hyteck.de",
+        "info": "https://hyteck.de/services/",
+        "jurisdiction": "Germany",
+        "tos": "https://hyteck.de/services/",
+        "privacy": null,
+        "open": false,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://hyteck.de/about/",
         "software": "Synapse",
         "version": "1.60.0"
     },
