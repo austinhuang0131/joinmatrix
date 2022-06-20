@@ -72,7 +72,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.arcticfoxes.net",
         "software": "Synapse",
-        "version": "1.61.0rc1"
+        "version": "1.61.0"
     },
     {
         "name": "aria-net.org",
@@ -356,6 +356,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.data.haus/",
+        "software": "Synapse",
+        "version": "1.60.0"
+    },
+    {
+        "name": "devass.su",
+        "domain": "matrix.devass.su",
+        "info": "https://devass.su",
+        "jurisdiction": "Russia",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In Russian",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.devass.su/",
         "software": "Synapse",
         "version": "1.60.0"
     },
@@ -1258,21 +1273,6 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.50.2"
-    },
-    {
-        "name": "vern.cc",
-        "domain": "vern.cc",
-        "info": "https://vern.cc/",
-        "jurisdiction": "US/India? (US/Canada)",
-        "tos": "https://vern.cc/rules",
-        "privacy": "https://vern.cc/privpol",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://vern.cc/register.php",
-        "software": "Synapse",
-        "version": "1.61.0"
     },
     {
         "name": "virto.community",
