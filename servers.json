@@ -15,6 +15,21 @@
         "version": "1.60.0"
     },
     {
+        "name": "activism.international",
+        "domain": "activism.international",
+        "info": "https://activism.international",
+        "jurisdiction": "Germany",
+        "tos": "https://activism.international/usage-policy/",
+        "privacy": "https://activism.international/privacy/cloud/",
+        "open": true,
+        "remarks": "Left-wing; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.activism.international/",
+        "software": "Synapse",
+        "version": "1.61.0"
+    },
+    {
         "name": "agdersam.no",
         "domain": "agdersam.no",
         "info": "https://agdersam.no/",
@@ -435,21 +450,6 @@
         "version": "1.47.1"
     },
     {
-        "name": "filik.eu",
-        "domain": "filik.eu",
-        "info": "https://filik.eu",
-        "jurisdiction": "Czech Republic",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.60.0"
-    },
-    {
         "name": "flieger.chat",
         "domain": "flieger.chat",
         "info": "https://yatrix.org",
@@ -493,21 +493,6 @@
         "reg_link": "https://webchat.freitrix.de/#/register",
         "software": "Synapse",
         "version": "1.61.0"
-    },
-    {
-        "name": "fulda.social",
-        "domain": "fulda.social",
-        "info": "https://dasnetzundich.de/2021/08/14/willkommen-in-der-matrix/",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.fulda.social/",
-        "software": "Synapse",
-        "version": "1.60.0"
     },
     {
         "name": "g24.at",
@@ -555,6 +540,21 @@
         "version": "1.60.0"
     },
     {
+        "name": "glasgow.social",
+        "domain": "glasgow.social",
+        "info": "https://opensource.glasgow.social/matrix",
+        "jurisdiction": "UK",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional tech collective",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.49.2"
+    },
+    {
         "name": "grin.hu",
         "domain": "grin.hu",
         "info": "https://matrix.grin.hu",
@@ -597,7 +597,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.hot-chilli.im/",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.0"
     },
     {
         "name": "houtworm.im",
@@ -718,6 +718,21 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.61.0"
+    },
+    {
+        "name": "mandragot.org",
+        "domain": "mandragot.org",
+        "info": "https://www.mandragot.org/page/matrix/",
+        "jurisdiction": "France?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.57.0"
     },
     {
         "name": "matrix.im",
@@ -943,21 +958,6 @@
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
         "version": "1.60.0"
-    },
-    {
-        "name": "qoto.org",
-        "domain": "matrix.qoto.org",
-        "info": "https://qoto.org/about/more",
-        "jurisdiction": "US?",
-        "tos": "https://qoto.org/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.qoto.org/",
-        "software": "Synapse",
-        "version": "1.45.1"
     },
     {
         "name": "radiowarnerd.org",
@@ -1392,22 +1392,7 @@
         "reg_method": "Contact",
         "reg_link": "https://hingst.net/kontakt/",
         "software": "Synapse",
-        "version": "1.60.0"
-    },
-    {
-        "name": "hyteck.de",
-        "domain": "hyteck.de",
-        "info": "https://hyteck.de/services/",
-        "jurisdiction": "Germany",
-        "tos": "https://hyteck.de/services/",
-        "privacy": null,
-        "open": false,
-        "remarks": "In German; personal",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://hyteck.de/about/",
-        "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.0"
     },
     {
         "name": "libreon.fr",
