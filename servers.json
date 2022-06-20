@@ -495,6 +495,21 @@
         "version": "1.61.0"
     },
     {
+        "name": "fulda.social",
+        "domain": "fulda.social",
+        "info": "https://dasnetzundich.de/2021/08/14/willkommen-in-der-matrix/",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.fulda.social/",
+        "software": "Synapse",
+        "version": "1.60.0"
+    },
+    {
         "name": "g24.at",
         "domain": "g24.at",
         "info": "https://g24.at",
@@ -747,7 +762,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.0"
     },
     {
         "name": "melroy.org",
@@ -958,6 +973,21 @@
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
         "version": "1.60.0"
+    },
+    {
+        "name": "qoto.org",
+        "domain": "matrix.qoto.org",
+        "info": "https://qoto.org/about/more",
+        "jurisdiction": "US?",
+        "tos": "https://qoto.org/about/more",
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.qoto.org/",
+        "software": "Synapse",
+        "version": "1.45.1"
     },
     {
         "name": "radiowarnerd.org",
@@ -1215,21 +1245,6 @@
         "version": "1.60.0"
     },
     {
-        "name": "ungleich.ch",
-        "domain": "ungleich.ch",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
-        "software": "Synapse",
-        "version": "1.60.0"
-    },
-    {
         "name": "unredacted.org",
         "domain": "unredacted.org",
         "info": "https://unredacted.org/services/matrix/",
@@ -1391,6 +1406,21 @@
         "antifeature": null,
         "reg_method": "Contact",
         "reg_link": "https://hingst.net/kontakt/",
+        "software": "Synapse",
+        "version": "1.61.0"
+    },
+    {
+        "name": "hyteck.de",
+        "domain": "hyteck.de",
+        "info": "https://hyteck.de/services/",
+        "jurisdiction": "Germany",
+        "tos": "https://hyteck.de/services/",
+        "privacy": null,
+        "open": false,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://hyteck.de/about/",
         "software": "Synapse",
         "version": "1.61.0"
     },
