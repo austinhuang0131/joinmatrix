@@ -210,21 +210,6 @@
         "version": "1.61.0"
     },
     {
-        "name": "chagai.website",
-        "domain": "chagai.website",
-        "info": "https://chagai.website",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.chagai.website/",
-        "software": "Synapse",
-        "version": "1.59.1"
-    },
-    {
         "name": "chatcloud.net",
         "domain": "chatcloud.net",
         "info": "https://chatcloud.net",
@@ -313,21 +298,6 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.61.0"
-    },
-    {
-        "name": "converser.eu",
-        "domain": "converser.eu",
-        "info": "https://converser.eu",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.59.1"
     },
     {
         "name": "das-labor.org",
@@ -926,21 +896,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pcriot.org/",
-        "software": "Synapse",
-        "version": "1.61.0"
-    },
-    {
-        "name": "pragma-messenger.ch",
-        "domain": "pragma-messenger.ch",
-        "info": "https://pragma-solution.com/de/Produkte/messenger/",
-        "jurisdiction": "Switzerland",
-        "tos": "https://pragma-solution.com/de/Produkte/messenger/Matrix-Nutzungsbedingungen",
-        "privacy": "https://pragma-solution.com/de/Produkte/messenger/Matrix-Datenschutz",
-        "open": true,
-        "remarks": "In German; hosting provider",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
         "version": "1.61.0"
     },
