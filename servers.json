@@ -315,6 +315,21 @@
         "version": "1.59.1"
     },
     {
+        "name": "crossbach.de",
+        "domain": "crossbach.de",
+        "info": "https://crossbach.de",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://crossbach.de/datenschutz/datenschutz.html",
+        "open": true,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.crossbach.de/",
+        "software": "Synapse",
+        "version": "1.61.0"
+    },
+    {
         "name": "das-labor.org",
         "domain": "das-labor.org",
         "info": "https://wiki.das-labor.org/w/Projekt/Matrix",
@@ -642,7 +657,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.inetd.xyz/",
         "software": "Synapse",
-        "version": "1.59.1"
+        "version": "1.61.0"
     },
     {
         "name": "jonasled.de",
@@ -1497,6 +1512,6 @@
         "reg_method": "Membership",
         "reg_link": "https://adherents.arn-fai.net/members/register/",
         "software": "Synapse",
-        "version": "1.51.0"
+        "version": "1.59.0"
     }
 ]
