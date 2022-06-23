@@ -12,7 +12,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://im.0wnz.at/element-web/",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.0"
     },
     {
         "name": "activism.international",
@@ -418,21 +418,6 @@
         "reg_link": "https://element.erfurt.chat/",
         "software": "Synapse",
         "version": "1.0.0"
-    },
-    {
-        "name": "exarius.org",
-        "domain": "exarius.org",
-        "info": "https://exarius.org/wiki/services/exatrix/",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.47.1"
     },
     {
         "name": "filik.eu",
@@ -1378,21 +1363,6 @@
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
         "version": "1.61.0"
-    },
-    {
-        "name": "aletheia.moe",
-        "domain": "aletheia.moe",
-        "info": "https://aletheia.moe",
-        "jurisdiction": "? (Iceland)",
-        "tos": "https://aletheia.moe/tos/",
-        "privacy": "https://aletheia.moe/tos/",
-        "open": false,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://aletheia.moe/registration/",
-        "software": "Synapse",
-        "version": "1.60.0"
     },
     {
         "name": "deuxfleurs.fr",
