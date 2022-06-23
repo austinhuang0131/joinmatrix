@@ -360,6 +360,21 @@
         "version": "1.60.0"
     },
     {
+        "name": "devass.su",
+        "domain": "matrix.devass.su",
+        "info": "https://devass.su",
+        "jurisdiction": "Russia",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In Russian",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.devass.su/",
+        "software": "Synapse",
+        "version": "1.60.0"
+    },
+    {
         "name": "duesen.chat",
         "domain": "duesen.chat",
         "info": "https://yatrix.org",
@@ -418,6 +433,21 @@
         "reg_link": "https://element.erfurt.chat/",
         "software": "Synapse",
         "version": "1.0.0"
+    },
+    {
+        "name": "exarius.org",
+        "domain": "exarius.org",
+        "info": "https://exarius.org/wiki/services/exatrix/",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.47.1"
     },
     {
         "name": "filik.eu",
@@ -960,21 +990,6 @@
         "version": "1.60.0"
     },
     {
-        "name": "qoto.org",
-        "domain": "matrix.qoto.org",
-        "info": "https://qoto.org/about/more",
-        "jurisdiction": "US?",
-        "tos": "https://qoto.org/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.qoto.org/",
-        "software": "Synapse",
-        "version": "1.45.1"
-    },
-    {
         "name": "radiowarnerd.org",
         "domain": "radiowarnerd.org",
         "info": "https://dokuwiki.radiowarnerd.org/matrixaccountcreation",
@@ -1363,6 +1378,21 @@
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
         "version": "1.61.0"
+    },
+    {
+        "name": "aletheia.moe",
+        "domain": "aletheia.moe",
+        "info": "https://aletheia.moe",
+        "jurisdiction": "? (Iceland)",
+        "tos": "https://aletheia.moe/tos/",
+        "privacy": "https://aletheia.moe/tos/",
+        "open": false,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://aletheia.moe/registration/",
+        "software": "Synapse",
+        "version": "1.60.0"
     },
     {
         "name": "deuxfleurs.fr",
