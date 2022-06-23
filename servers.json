@@ -360,21 +360,6 @@
         "version": "1.60.0"
     },
     {
-        "name": "devass.su",
-        "domain": "matrix.devass.su",
-        "info": "https://devass.su",
-        "jurisdiction": "Russia",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Russian",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.devass.su/",
-        "software": "Synapse",
-        "version": "1.60.0"
-    },
-    {
         "name": "duesen.chat",
         "domain": "duesen.chat",
         "info": "https://yatrix.org",
