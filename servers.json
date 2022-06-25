@@ -852,7 +852,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://mtrx.nz/",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.0"
     },
     {
         "name": "nitro.chat",
@@ -1212,7 +1212,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.0"
     },
     {
         "name": "tedomum.net",
