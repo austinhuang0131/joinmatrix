@@ -1287,7 +1287,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.0"
     },
     {
         "name": "unredacted.org",
