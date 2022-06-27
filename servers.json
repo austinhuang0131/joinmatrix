@@ -795,21 +795,6 @@
         "version": "1.61.0"
     },
     {
-        "name": "monero.social",
-        "domain": "monero.social",
-        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
-        "jurisdiction": "US",
-        "tos": "https://www.getmonero.org/legal/",
-        "privacy": null,
-        "open": true,
-        "remarks": "18+; accessory; crypto",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.60.0"
-    },
-    {
         "name": "mstdn.social",
         "domain": "mstdn.social",
         "info": "https://mstdn.social/about/more#matrix",
@@ -1110,21 +1095,6 @@
         "version": "1.61.0rc1"
     },
     {
-        "name": "studichat.de",
-        "domain": "studichat.de",
-        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.studichat.de/",
-        "software": "Synapse",
-        "version": "1.61.0"
-    },
-    {
         "name": "sykorp.com",
         "domain": "sykorp.com",
         "info": "https://sykorp.com",
@@ -1242,7 +1212,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.0"
     },
     {
         "name": "ungleich.ch",
