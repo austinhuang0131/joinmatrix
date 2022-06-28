@@ -87,7 +87,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://el.aria-net.org/",
         "software": "Synapse",
-        "version": "1.61.0.arianet.1"
+        "version": "1.61.1.arianet.1"
     },
     {
         "name": "asozial.org",
@@ -177,7 +177,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.byzero.dev/",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "cat.casa",
@@ -207,7 +207,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "chagai.website",
@@ -282,7 +282,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "comm.cx",
@@ -357,7 +357,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.das-labor.org/",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "data.haus",
@@ -612,7 +612,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "hot-chilli.im",
@@ -672,7 +672,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "librem.one",
@@ -867,7 +867,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nltrix.net/",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "oblak.be",
@@ -912,7 +912,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://riot.ombreport.info/",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "pcriot.org",
@@ -942,7 +942,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "prometheus.systems",
@@ -987,7 +987,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.1"
     },
     {
         "name": "qoto.org",
@@ -1137,7 +1137,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "sykorp.com",
@@ -1152,7 +1152,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "tauasul.net",
@@ -1182,7 +1182,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "techsaviours.org",
@@ -1377,7 +1377,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "pikaviestin.fi",
@@ -1407,7 +1407,7 @@
         "reg_method": "Contact",
         "reg_link": "https://aletheia.moe/registration/",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.1"
     },
     {
         "name": "deuxfleurs.fr",
@@ -1437,7 +1437,7 @@
         "reg_method": "Contact",
         "reg_link": "https://hingst.net/kontakt/",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "hyteck.de",
@@ -1452,7 +1452,7 @@
         "reg_method": "Contact",
         "reg_link": "https://hyteck.de/about/",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "libreon.fr",
