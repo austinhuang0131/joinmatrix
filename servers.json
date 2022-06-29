@@ -27,7 +27,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://matrix.activism.international/",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "agdersam.no",
@@ -492,7 +492,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://webchat.freitrix.de/#/register",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "fulda.social",
@@ -553,6 +553,21 @@
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
         "version": "1.61.0"
+    },
+    {
+        "name": "glasgow.social",
+        "domain": "glasgow.social",
+        "info": "https://opensource.glasgow.social/matrix",
+        "jurisdiction": "UK",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional tech collective",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.61.1"
     },
     {
         "name": "grin.hu",
@@ -747,7 +762,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "melroy.org",
