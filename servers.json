@@ -942,7 +942,7 @@
         "reg_method": "SSO",
         "reg_link": "https://chat.prometheus.systems/",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "privex.io",
@@ -1032,7 +1032,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "scyldings.com",
@@ -1257,7 +1257,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "unredacted.org",
@@ -1288,21 +1288,6 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.50.2"
-    },
-    {
-        "name": "vern.cc",
-        "domain": "vern.cc",
-        "info": "https://vern.cc/",
-        "jurisdiction": "US/India? (US/Canada)",
-        "tos": "https://vern.cc/rules",
-        "privacy": "https://vern.cc/privpol",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://vern.cc/register.php",
-        "software": "Synapse",
-        "version": "1.61.1"
     },
     {
         "name": "virto.community",
@@ -1482,7 +1467,7 @@
         "reg_method": "Membership",
         "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.61.1"
     },
     {
         "name": "sans-nuage.fr",
