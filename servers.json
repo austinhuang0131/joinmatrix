@@ -57,7 +57,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "arcticfoxes.net",
@@ -283,21 +283,6 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.61.1"
-    },
-    {
-        "name": "comm.cx",
-        "domain": "comm.cx",
-        "info": "https://comm.cx",
-        "jurisdiction": "Japan",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Uses Cloudflare",
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.60.0"
     },
     {
         "name": "community.rs",
@@ -570,21 +555,6 @@
         "version": "1.61.0"
     },
     {
-        "name": "glasgow.social",
-        "domain": "glasgow.social",
-        "info": "https://opensource.glasgow.social/matrix",
-        "jurisdiction": "UK",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional tech collective",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.49.2"
-    },
-    {
         "name": "grin.hu",
         "domain": "grin.hu",
         "info": "https://matrix.grin.hu",
@@ -807,7 +777,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.1"
     },
     {
         "name": "mstdn.social",
