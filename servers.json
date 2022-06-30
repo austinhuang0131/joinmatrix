@@ -327,7 +327,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.crossbach.de/",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "das-labor.org",
@@ -447,7 +447,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "flieger.chat",
@@ -1258,6 +1258,21 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.50.2"
+    },
+    {
+        "name": "vern.cc",
+        "domain": "vern.cc",
+        "info": "https://vern.cc/",
+        "jurisdiction": "US/India? (US/Canada)",
+        "tos": "https://vern.cc/rules",
+        "privacy": "https://vern.cc/privpol",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://vern.cc/register.php",
+        "software": "Synapse",
+        "version": "1.61.1"
     },
     {
         "name": "virto.community",
