@@ -312,7 +312,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.59.1"
+        "version": "1.61.0"
     },
     {
         "name": "crossbach.de",
@@ -402,7 +402,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.62.0rc1"
     },
     {
         "name": "erfurt.chat",
@@ -837,7 +837,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "nltrix.net",
@@ -1125,21 +1125,6 @@
         "version": "1.61.1"
     },
     {
-        "name": "sykorp.com",
-        "domain": "sykorp.com",
-        "info": "https://sykorp.com",
-        "jurisdiction": "Saudi Arabia",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Residential",
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.61.1"
-    },
-    {
         "name": "tauasul.net",
         "domain": "tauasul.net",
         "info": "https://tauasul.net",
@@ -1318,6 +1303,21 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.52.0"
+    },
+    {
+        "name": "fachschaften.org",
+        "domain": "fachschaften.org",
+        "info": "https://fachschaften.org",
+        "jurisdiction": "Germany",
+        "tos": "https://fsinfo.cs.tu-dortmund.de/studis/coc",
+        "privacy": "https://md.fachschaften.org/_hmxfyc-SZi-fLjyyT2kvw",
+        "open": false,
+        "remarks": "In German; student-oriented; requires a German university email address",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://account.fachschaften.org/",
+        "software": "Synapse",
+        "version": "1.61.1"
     },
     {
         "name": "pikaviestin.fi",
