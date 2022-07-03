@@ -180,21 +180,6 @@
         "version": "1.61.1"
     },
     {
-        "name": "cat.casa",
-        "domain": "cat.casa",
-        "info": "https://cat.casa/",
-        "jurisdiction": "Germany",
-        "tos": "https://cat.casa/codeofconduct",
-        "privacy": "https://cat.casa/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.cat.casa/",
-        "software": "Synapse",
-        "version": "1.60.0"
-    },
-    {
         "name": "catgirl.cloud",
         "domain": "catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -627,7 +612,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://houtworm.im/",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "inetd.xyz",
@@ -763,21 +748,6 @@
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
         "version": "1.61.1"
-    },
-    {
-        "name": "melroy.org",
-        "domain": "melroy.org",
-        "info": "https://docs.libreweb.org/community/discussions/",
-        "jurisdiction": "Netherlands",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.61.0"
     },
     {
         "name": "monero.social",
@@ -1167,7 +1137,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.61.1"
     },
     {
         "name": "tedomum.net",
@@ -1258,21 +1228,6 @@
         "reg_link": "https://element.unredacted.org/",
         "software": "Synapse",
         "version": "1.61.0"
-    },
-    {
-        "name": "utwente.io",
-        "domain": "utwente.io",
-        "info": "https://syscom.utwente.io/info/matrix/homeserver/",
-        "jurisdiction": "Netherlands",
-        "tos": "https://syscom.utwente.io/info/matrix/homeserver/#rules",
-        "privacy": "https://syscom.utwente.io/info/privacy/matrix/",
-        "open": true,
-        "remarks": "Regional; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.utwente.io/",
-        "software": "Synapse",
-        "version": "1.50.2"
     },
     {
         "name": "vern.cc",
