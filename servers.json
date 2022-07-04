@@ -402,7 +402,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.62.0rc2"
+        "version": "1.62.0rc3"
     },
     {
         "name": "erfurt.chat",
