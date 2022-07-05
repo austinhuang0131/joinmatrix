@@ -252,7 +252,22 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.62.0"
+    },
+    {
+        "name": "chrrreeeeesss.com",
+        "domain": "chrrreeeeesss.com",
+        "info": "https://chrrreeeeesss.com",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chrrreeeeesss.com/element",
+        "software": "Synapse",
+        "version": "1.62.0"
     },
     {
         "name": "club1.fr",
@@ -357,7 +372,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.62.0"
     },
     {
         "name": "egora.org",
@@ -447,7 +462,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.62.0"
     },
     {
         "name": "freiburg.social",
@@ -462,7 +477,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.freiburg.social/",
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.62.0"
     },
     {
         "name": "freitrix.de",
@@ -507,7 +522,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://g24.at",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.61.1"
     },
     {
         "name": "gemeinsam.jetzt",
@@ -582,7 +597,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.62.0"
     },
     {
         "name": "hot-chilli.im",
@@ -822,7 +837,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.62.0"
     },
     {
         "name": "nltrix.net",
@@ -912,7 +927,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.62.0"
     },
     {
         "name": "prometheus.systems",
@@ -957,7 +972,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.62.0"
     },
     {
         "name": "qoto.org",
@@ -1017,7 +1032,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.62.0"
     },
     {
         "name": "scyldings.com",
@@ -1107,7 +1122,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.62.0"
     },
     {
         "name": "tauasul.net",
@@ -1287,7 +1302,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.62.0"
     },
     {
         "name": "zinz.dev",
