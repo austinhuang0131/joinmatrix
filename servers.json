@@ -60,6 +60,21 @@
         "version": "1.62.0"
     },
     {
+        "name": "arcticfoxes.net",
+        "domain": "arcticfoxes.net",
+        "info": "https://arcticfoxes.net",
+        "jurisdiction": "US (UK)",
+        "tos": null,
+        "privacy": "https://arcticfoxes.net/",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://app.arcticfoxes.net",
+        "software": "Synapse",
+        "version": "1.61.1"
+    },
+    {
         "name": "aria-net.org",
         "domain": "aria-net.org",
         "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
@@ -1077,7 +1092,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.sibnsk.net",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.62.0"
     },
     {
         "name": "socialnetwork24.com",
