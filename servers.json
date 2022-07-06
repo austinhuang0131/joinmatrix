@@ -60,36 +60,6 @@
         "version": "1.62.0"
     },
     {
-        "name": "arcticfoxes.net",
-        "domain": "arcticfoxes.net",
-        "info": "https://arcticfoxes.net",
-        "jurisdiction": "US (UK)",
-        "tos": null,
-        "privacy": "https://arcticfoxes.net/",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://app.arcticfoxes.net",
-        "software": "Synapse",
-        "version": "1.61.1"
-    },
-    {
-        "name": "aria-net.org",
-        "domain": "aria-net.org",
-        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
-        "jurisdiction": "Italy?",
-        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://el.aria-net.org/",
-        "software": "Synapse",
-        "version": "1.61.1.arianet.1"
-    },
-    {
         "name": "asozial.org",
         "domain": "asozial.org",
         "info": "https://asozial.org",
@@ -777,7 +747,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.62.0"
     },
     {
         "name": "melroy.org",
@@ -927,7 +897,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pcriot.org/",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.62.0"
     },
     {
         "name": "pragma-messenger.ch",
@@ -1077,7 +1047,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.sfunk1x.com/",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.62.0"
     },
     {
         "name": "shibabox.eu",
