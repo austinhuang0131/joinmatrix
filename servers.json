@@ -237,7 +237,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://talk.chatcloud.net/",
         "software": "Synapse",
-        "version": "1.49.2"
+        "version": "1.62.0"
     },
     {
         "name": "chatwave.org",
@@ -279,6 +279,21 @@
         "open": true,
         "remarks": "In French; tech collective",
         "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.61.1"
+    },
+    {
+        "name": "comm.cx",
+        "domain": "comm.cx",
+        "info": "https://comm.cx",
+        "jurisdiction": "Japan",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": "Uses Cloudflare",
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
@@ -492,7 +507,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://webchat.freitrix.de/#/register",
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.62.0"
     },
     {
         "name": "fulda.social",
@@ -612,7 +627,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.hot-chilli.im/",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.62.0"
     },
     {
         "name": "houtworm.im",
