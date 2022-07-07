@@ -60,6 +60,21 @@
         "version": "1.62.0"
     },
     {
+        "name": "arcticfoxes.net",
+        "domain": "arcticfoxes.net",
+        "info": "https://arcticfoxes.net",
+        "jurisdiction": "US (UK)",
+        "tos": null,
+        "privacy": "https://arcticfoxes.net/",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://app.arcticfoxes.net",
+        "software": "Synapse",
+        "version": "1.61.1"
+    },
+    {
         "name": "aria-net.org",
         "domain": "aria-net.org",
         "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
@@ -267,7 +282,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.62.0"
     },
     {
         "name": "comm.cx",
@@ -1155,6 +1170,21 @@
         "version": "1.62.0"
     },
     {
+        "name": "techsaviours.org",
+        "domain": "techsaviours.org",
+        "info": "https://techsaviours.org",
+        "jurisdiction": "Germany",
+        "tos": "https://techsaviours.org/terms-of-use.html",
+        "privacy": "https://techsaviours.org/privacy-policy.html",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.techsaviours.org/",
+        "software": "Synapse",
+        "version": "1.61.1"
+    },
+    {
         "name": "tedomum.net",
         "domain": "tedomum.net",
         "info": "https://tedomum.net/service/matrix/",
@@ -1198,6 +1228,21 @@
         "reg_link": "https://chat.tomesh.net/",
         "software": "Synapse",
         "version": "1.59.1"
+    },
+    {
+        "name": "trygve.me",
+        "domain": "trygve.me",
+        "info": "https://trygve.me/matrix_info/",
+        "jurisdiction": "Norway",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In Norwegian; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.trygve.me/",
+        "software": "Synapse",
+        "version": "1.62.0"
     },
     {
         "name": "ungleich.ch",
