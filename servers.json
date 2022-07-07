@@ -72,7 +72,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://el.aria-net.org/",
         "software": "Synapse",
-        "version": "1.61.1.arianet.1"
+        "version": "1.62.0.arianet.1"
     },
     {
         "name": "asozial.org",
@@ -942,7 +942,7 @@
         "reg_method": "SSO",
         "reg_link": "https://chat.prometheus.systems/",
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.62.0"
     },
     {
         "name": "privex.io",
@@ -1153,21 +1153,6 @@
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
         "version": "1.62.0"
-    },
-    {
-        "name": "techsaviours.org",
-        "domain": "techsaviours.org",
-        "info": "https://techsaviours.org",
-        "jurisdiction": "Germany",
-        "tos": "https://techsaviours.org/terms-of-use.html",
-        "privacy": "https://techsaviours.org/privacy-policy.html",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.techsaviours.org/",
-        "software": "Synapse",
-        "version": "1.61.1"
     },
     {
         "name": "tedomum.net",
