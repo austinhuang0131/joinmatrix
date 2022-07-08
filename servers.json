@@ -660,21 +660,6 @@
         "version": "1.61.0"
     },
     {
-        "name": "jonasled.de",
-        "domain": "jonasled.de",
-        "info": "https://jonasled.de",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; personal",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.62.0"
-    },
-    {
         "name": "librem.one",
         "domain": "chat.librem.one",
         "info": "https://librem.one",
