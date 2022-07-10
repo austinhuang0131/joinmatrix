@@ -522,7 +522,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.fulda.social/",
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.62.0"
     },
     {
         "name": "g24.at",
@@ -1213,6 +1213,21 @@
         "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
         "version": "1.62.0"
+    },
+    {
+        "name": "ungleich.ch",
+        "domain": "ungleich.ch",
+        "info": "https://ungleich.ch/u/projects/open-chat/",
+        "jurisdiction": "Switzerland",
+        "tos": null,
+        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
+        "open": true,
+        "remarks": "Hosting provider",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://account.ungleich.ch/",
+        "software": "Synapse",
+        "version": "1.61.1"
     },
     {
         "name": "unredacted.org",
