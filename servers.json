@@ -1065,21 +1065,6 @@
         "version": "1.62.0"
     },
     {
-        "name": "shibabox.eu",
-        "domain": "shibabox.eu",
-        "info": "https://shibabox.eu",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Furry-oriented; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.shibabox.eu/",
-        "software": "Synapse",
-        "version": "1.55.2"
-    },
-    {
         "name": "sibnsk.net",
         "domain": "sibnsk.net",
         "info": "https://lugnsk.org/page/blog/matrix",
@@ -1228,21 +1213,6 @@
         "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
         "version": "1.62.0"
-    },
-    {
-        "name": "ungleich.ch",
-        "domain": "ungleich.ch",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
-        "software": "Synapse",
-        "version": "1.61.1"
     },
     {
         "name": "unredacted.org",
