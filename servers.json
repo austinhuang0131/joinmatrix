@@ -522,7 +522,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://g24.at",
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.62.0"
     },
     {
         "name": "gemeinsam.jetzt",
@@ -643,6 +643,21 @@
         "reg_link": "https://element.inetd.xyz/",
         "software": "Synapse",
         "version": "1.61.0"
+    },
+    {
+        "name": "jonasled.de",
+        "domain": "jonasled.de",
+        "info": "https://jonasled.de",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.62.0"
     },
     {
         "name": "librem.one",
@@ -900,21 +915,6 @@
         "version": "1.62.0"
     },
     {
-        "name": "pragma-messenger.ch",
-        "domain": "pragma-messenger.ch",
-        "info": "https://pragma-solution.com/de/Produkte/messenger/",
-        "jurisdiction": "Switzerland",
-        "tos": "https://pragma-solution.com/de/Produkte/messenger/Matrix-Nutzungsbedingungen",
-        "privacy": "https://pragma-solution.com/de/Produkte/messenger/Matrix-Datenschutz",
-        "open": true,
-        "remarks": "In German; hosting provider",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.pragma-messenger.ch/",
-        "software": "Synapse",
-        "version": "1.62.0"
-    },
-    {
         "name": "prometheus.systems",
         "domain": "prometheus.systems",
         "info": "https://prometheus.systems",
@@ -958,21 +958,6 @@
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
         "version": "1.62.0"
-    },
-    {
-        "name": "qoto.org",
-        "domain": "matrix.qoto.org",
-        "info": "https://qoto.org/about/more",
-        "jurisdiction": "US?",
-        "tos": "https://qoto.org/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.qoto.org/",
-        "software": "Synapse",
-        "version": "1.45.1"
     },
     {
         "name": "radiowarnerd.org",
