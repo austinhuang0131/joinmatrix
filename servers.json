@@ -255,21 +255,6 @@
         "version": "1.62.0"
     },
     {
-        "name": "chrrreeeeesss.com",
-        "domain": "chrrreeeeesss.com",
-        "info": "https://chrrreeeeesss.com",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chrrreeeeesss.com/element",
-        "software": "Synapse",
-        "version": "1.62.0"
-    },
-    {
         "name": "club1.fr",
         "domain": "club1.fr",
         "info": "https://club1.fr/matrix/",
@@ -658,21 +643,6 @@
         "reg_link": "https://element.inetd.xyz/",
         "software": "Synapse",
         "version": "1.61.0"
-    },
-    {
-        "name": "jonasled.de",
-        "domain": "jonasled.de",
-        "info": "https://jonasled.de",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; personal",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.62.0"
     },
     {
         "name": "librem.one",
@@ -1333,6 +1303,21 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.52.0"
+    },
+    {
+        "name": "fachschaften.org",
+        "domain": "fachschaften.org",
+        "info": "https://fachschaften.org",
+        "jurisdiction": "Germany",
+        "tos": "https://fsinfo.cs.tu-dortmund.de/studis/coc",
+        "privacy": "https://md.fachschaften.org/_hmxfyc-SZi-fLjyyT2kvw",
+        "open": false,
+        "remarks": "In German; student-oriented; requires a German university email address",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://account.fachschaften.org/",
+        "software": "Synapse",
+        "version": "1.62.0"
     },
     {
         "name": "pikaviestin.fi",
