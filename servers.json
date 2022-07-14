@@ -75,21 +75,6 @@
         "version": "1.62.0"
     },
     {
-        "name": "aria-net.org",
-        "domain": "aria-net.org",
-        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
-        "jurisdiction": "Italy?",
-        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://el.aria-net.org/",
-        "software": "Synapse",
-        "version": "1.62.0.arianet.1"
-    },
-    {
         "name": "asozial.org",
         "domain": "asozial.org",
         "info": "https://asozial.org",
@@ -810,21 +795,6 @@
         "version": "1.61.1"
     },
     {
-        "name": "mstdn.social",
-        "domain": "mstdn.social",
-        "info": "https://mstdn.social/about/more#matrix",
-        "jurisdiction": "Netherlands (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.mstdn.social/",
-        "software": "Synapse",
-        "version": "1.61.0"
-    },
-    {
         "name": "mtrx.nz",
         "domain": "mtrx.nz",
         "info": "https://mtrx.nz",
@@ -990,21 +960,6 @@
         "version": "1.62.0"
     },
     {
-        "name": "qoto.org",
-        "domain": "matrix.qoto.org",
-        "info": "https://qoto.org/about/more",
-        "jurisdiction": "US?",
-        "tos": "https://qoto.org/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.qoto.org/",
-        "software": "Synapse",
-        "version": "1.45.1"
-    },
-    {
         "name": "radiowarnerd.org",
         "domain": "radiowarnerd.org",
         "info": "https://dokuwiki.radiowarnerd.org/matrixaccountcreation",
@@ -1107,7 +1062,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
-        "version": "1.61.0rc1"
+        "version": "1.62.0"
     },
     {
         "name": "studichat.de",
