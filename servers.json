@@ -105,21 +105,6 @@
         "version": "0.8.9+b5c55faf"
     },
     {
-        "name": "bachgau.social",
-        "domain": "bachgau.social",
-        "info": "https://www.bachgau.social/unsere-dienste/matrix/",
-        "jurisdiction": "Germany",
-        "tos": "https://mastodon.bachgau.social/about/more",
-        "privacy": "https://www.bachgau.social/datenschutzerklaerung/",
-        "open": true,
-        "remarks": "In German; regional",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.bachgau.social/",
-        "software": "Synapse",
-        "version": "1.62.0"
-    },
-    {
         "name": "badstuebner.biz",
         "domain": "badstuebner.biz",
         "info": "https://badstuebner.biz",
@@ -147,7 +132,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.buyvm.net/element/",
         "software": "Synapse",
-        "version": "1.61.0"
+        "version": "1.62.0"
     },
     {
         "name": "bytes4u.de",
@@ -780,19 +765,19 @@
         "version": "1.62.0"
     },
     {
-        "name": "melroy.org",
-        "domain": "melroy.org",
-        "info": "https://docs.libreweb.org/community/discussions/",
-        "jurisdiction": "Netherlands",
+        "name": "matrixim.cc",
+        "domain": "matrixim.cc",
+        "info": "https://matrixim.cc",
+        "jurisdiction": "China? (Finland)",
         "tos": null,
         "privacy": null,
         "open": true,
-        "remarks": "Accessory",
+        "remarks": "In Chinese",
         "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.matrixim.cc/",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.61.1"
     },
     {
         "name": "monero.social",
