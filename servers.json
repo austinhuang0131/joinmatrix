@@ -120,21 +120,6 @@
         "version": "1.62.0"
     },
     {
-        "name": "buyvm.net",
-        "domain": "buyvm.net",
-        "info": "https://buyvm.net/beware-the-moshbear/",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Hosting provider; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.buyvm.net/element/",
-        "software": "Synapse",
-        "version": "1.62.0"
-    },
-    {
         "name": "bytes4u.de",
         "domain": "matrix.bytes4u.de",
         "info": "https://bytes4u.de",
@@ -765,21 +750,6 @@
         "version": "1.62.0"
     },
     {
-        "name": "matrixim.cc",
-        "domain": "matrixim.cc",
-        "info": "https://matrixim.cc",
-        "jurisdiction": "China? (Finland)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Chinese",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.matrixim.cc/",
-        "software": "Synapse",
-        "version": "1.61.1"
-    },
-    {
         "name": "monero.social",
         "domain": "monero.social",
         "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
@@ -793,21 +763,6 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.61.1"
-    },
-    {
-        "name": "mstdn.social",
-        "domain": "mstdn.social",
-        "info": "https://mstdn.social/about/more#matrix",
-        "jurisdiction": "Netherlands (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.mstdn.social/",
-        "software": "Synapse",
-        "version": "1.61.0"
     },
     {
         "name": "mtrx.nz",
