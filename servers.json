@@ -570,21 +570,6 @@
         "version": "1.61.0"
     },
     {
-        "name": "glasgow.social",
-        "domain": "glasgow.social",
-        "info": "https://opensource.glasgow.social/matrix",
-        "jurisdiction": "UK",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional tech collective",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.61.1"
-    },
-    {
         "name": "grin.hu",
         "domain": "grin.hu",
         "info": "https://matrix.grin.hu",
@@ -808,21 +793,6 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.61.1"
-    },
-    {
-        "name": "mstdn.social",
-        "domain": "mstdn.social",
-        "info": "https://mstdn.social/about/more#matrix",
-        "jurisdiction": "Netherlands (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.mstdn.social/",
-        "software": "Synapse",
-        "version": "1.61.0"
     },
     {
         "name": "mtrx.nz",
@@ -1392,7 +1362,7 @@
         "reg_method": "Contact",
         "reg_link": "https://hingst.net/kontakt/",
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.62.0"
     },
     {
         "name": "hyteck.de",
