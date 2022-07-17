@@ -75,6 +75,21 @@
         "version": "1.62.0"
     },
     {
+        "name": "aria-net.org",
+        "domain": "aria-net.org",
+        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
+        "jurisdiction": "Italy?",
+        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://el.aria-net.org/",
+        "software": "Synapse",
+        "version": "1.62.0.arianet.1"
+    },
+    {
         "name": "asozial.org",
         "domain": "asozial.org",
         "info": "https://asozial.org",
