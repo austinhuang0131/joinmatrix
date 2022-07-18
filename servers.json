@@ -315,6 +315,21 @@
         "version": "1.62.0"
     },
     {
+        "name": "converser.eu",
+        "domain": "converser.eu",
+        "info": "https://converser.eu",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In French",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.61.0"
+    },
+    {
         "name": "crossbach.de",
         "domain": "crossbach.de",
         "info": "https://crossbach.de",
@@ -1437,7 +1452,7 @@
         "reg_method": "Membership",
         "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.62.0"
     },
     {
         "name": "sans-nuage.fr",
