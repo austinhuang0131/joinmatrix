@@ -135,6 +135,21 @@
         "version": "1.62.0"
     },
     {
+        "name": "bancino.net",
+        "domain": "bancino.net",
+        "info": "https://bancino.net",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://bancino.net/element/",
+        "software": "Synapse",
+        "version": "1.54.0"
+    },
+    {
         "name": "buyvm.net",
         "domain": "buyvm.net",
         "info": "https://buyvm.net/beware-the-moshbear/",
@@ -206,6 +221,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.catgirl.cloud/",
+        "software": "Synapse",
+        "version": "1.62.0"
+    },
+    {
+        "name": "cezeri.tech",
+        "domain": "cezeri.tech",
+        "info": "https://cezeri.tech",
+        "jurisdiction": "Turkey (Germany)",
+        "tos": "https://cezeri.tech/kosullar.html",
+        "privacy": "https://cezeri.tech/gizlilik.html",
+        "open": true,
+        "remarks": "In Turkish; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.cezeri.tech/",
         "software": "Synapse",
         "version": "1.62.0"
     },
