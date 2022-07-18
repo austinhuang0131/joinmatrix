@@ -765,21 +765,6 @@
         "version": "1.62.0"
     },
     {
-        "name": "melroy.org",
-        "domain": "melroy.org",
-        "info": "https://docs.libreweb.org/community/discussions/",
-        "jurisdiction": "Netherlands",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.62.0"
-    },
-    {
         "name": "monero.social",
         "domain": "monero.social",
         "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
