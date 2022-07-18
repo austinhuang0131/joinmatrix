@@ -165,21 +165,6 @@
         "version": "1.62.0"
     },
     {
-        "name": "bytes4u.de",
-        "domain": "matrix.bytes4u.de",
-        "info": "https://bytes4u.de",
-        "jurisdiction": "Germany",
-        "tos": "https://www.bytes4u.de/rules.html",
-        "privacy": "https://www.bytes4u.de/matrix.html",
-        "open": true,
-        "remarks": "In German; personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.schaeferit.de/",
-        "software": "Synapse",
-        "version": "1.62.0"
-    },
-    {
         "name": "byzero.dev",
         "domain": "byzero.dev",
         "info": "https://hosting.byzero.dev/",
