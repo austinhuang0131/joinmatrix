@@ -315,21 +315,6 @@
         "version": "1.62.0"
     },
     {
-        "name": "converser.eu",
-        "domain": "converser.eu",
-        "info": "https://converser.eu",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.61.0"
-    },
-    {
         "name": "crossbach.de",
         "domain": "crossbach.de",
         "info": "https://crossbach.de",
@@ -960,6 +945,21 @@
         "version": "1.62.0"
     },
     {
+        "name": "privex.io",
+        "domain": "privex.io",
+        "info": "https://privex.io",
+        "jurisdiction": "Belize? (Sweden)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Hosting provider; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://riot.privex.io/",
+        "software": "Synapse",
+        "version": "1.51.0"
+    },
+    {
         "name": "pub.solar",
         "domain": "pub.solar",
         "info": "https://pub.solar",
@@ -1287,7 +1287,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.virto.community/",
         "software": "Synapse",
-        "version": "1.60.0"
+        "version": "1.62.0"
     },
     {
         "name": "yatrix.org",
