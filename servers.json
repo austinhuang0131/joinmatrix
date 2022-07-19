@@ -154,8 +154,8 @@
         "domain": "bancino.net",
         "info": "https://bancino.net",
         "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
+        "tos": "https://bancino.net/_matrix/consent",
+        "privacy": "https://bancino.net/_matrix/consent",
         "open": true,
         "remarks": "Personal",
         "antifeature": "Residential",
@@ -444,8 +444,8 @@
         "open": true,
         "remarks": "Right-wing",
         "antifeature": null,
-        "reg_method": "Tutorial",
-        "reg_link": "https://egora.org/tutorials/create-user/",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.34.0"
     },
@@ -463,21 +463,6 @@
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
         "version": "1.63.0"
-    },
-    {
-        "name": "erfurt.chat",
-        "domain": "erfurt.chat",
-        "info": "https://wiki.technikkultur-erfurt.de/dienste:matrix",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://technikkultur-erfurt.de/datenschutzerklaerung/",
-        "open": true,
-        "remarks": "In German; regional tech collective",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.erfurt.chat/",
-        "software": "Synapse",
-        "version": "1.0.0"
     },
     {
         "name": "exarius.org",
@@ -504,8 +489,8 @@
         "open": true,
         "remarks": "",
         "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
+        "reg_method": "SSO",
+        "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
         "software": "Synapse",
         "version": "1.61.1"
     },
@@ -624,8 +609,8 @@
         "open": true,
         "remarks": "Regional tech collective",
         "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.glasgow.social/",
         "software": "Synapse",
         "version": "1.61.1"
     },
@@ -654,8 +639,8 @@
         "open": true,
         "remarks": "",
         "antifeature": "Uses Cloudflare",
-        "reg_method": null,
-        "reg_link": null,
+        "reg_method": "In-house Cinny",
+        "reg_link": "https://chat.group.lt/",
         "software": "Synapse",
         "version": "1.63.0"
     },
@@ -1155,21 +1140,6 @@
         "version": "1.62.0"
     },
     {
-        "name": "tauasul.net",
-        "domain": "tauasul.net",
-        "info": "https://tauasul.net",
-        "jurisdiction": "? (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Arabic",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "0.24.1"
-    },
-    {
         "name": "tchncs.de",
         "domain": "tchncs.de",
         "info": "https://tchncs.de/matrix",
@@ -1363,6 +1333,21 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.52.0"
+    },
+    {
+        "name": "asra.gr",
+        "domain": "asra.gr",
+        "info": "https://asra.gr",
+        "jurisdiction": "Austria? (Germany)",
+        "tos": "https://wiki.asra.gr/en:start#rules",
+        "privacy": null,
+        "open": false,
+        "remarks": "18+; registration geo-blocked outside Germany, Austria, Switzerland and Ukraine",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.asra.gr/",
+        "software": "Synapse",
+        "version": "1.63.0"
     },
     {
         "name": "fachschaften.org",
