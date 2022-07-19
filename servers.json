@@ -19,7 +19,7 @@
         "domain": "activism.international",
         "info": "https://activism.international",
         "jurisdiction": "Germany",
-        "tos": "https://activism.international/usage-policy/",
+        "tos": null,
         "privacy": "https://activism.international/privacy/cloud/",
         "open": true,
         "remarks": "Left-wing; general host",
@@ -43,6 +43,21 @@
         "reg_link": "https://element.agdersam.no/",
         "software": "Synapse",
         "version": "1.61.1"
+    },
+    {
+        "name": "anonymousland.org",
+        "domain": "anonymousland.org",
+        "info": "https://www.anonymousland.org/services#matrix",
+        "jurisdiction": "Sweden",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.62.0"
     },
     {
         "name": "archoslinux.cz",
@@ -165,6 +180,21 @@
         "version": "1.62.0"
     },
     {
+        "name": "bytes4u.de",
+        "domain": "matrix.bytes4u.de",
+        "info": "https://bytes4u.de",
+        "jurisdiction": "Germany",
+        "tos": "https://www.bytes4u.de/rules.html",
+        "privacy": "https://www.bytes4u.de/matrix.html",
+        "open": true,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.schaeferit.de/",
+        "software": "Synapse",
+        "version": "1.62.0"
+    },
+    {
         "name": "byzero.dev",
         "domain": "byzero.dev",
         "info": "https://hosting.byzero.dev/",
@@ -207,7 +237,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.0"
     },
     {
         "name": "cezeri.tech",
@@ -282,7 +312,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.0"
     },
     {
         "name": "club1.fr",
@@ -627,7 +657,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.0"
     },
     {
         "name": "hot-chilli.im",
@@ -687,7 +717,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.0"
     },
     {
         "name": "librem.one",
@@ -912,7 +942,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://riot.ombreport.info/",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.0"
     },
     {
         "name": "pcriot.org",
@@ -958,6 +988,21 @@
         "reg_link": "https://chat.prometheus.systems/",
         "software": "Synapse",
         "version": "1.62.0"
+    },
+    {
+        "name": "privex.io",
+        "domain": "privex.io",
+        "info": "https://privex.io",
+        "jurisdiction": "Belize? (Sweden)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Hosting provider; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://riot.privex.io/",
+        "software": "Synapse",
+        "version": "1.51.0"
     },
     {
         "name": "pub.solar",
@@ -1144,7 +1189,7 @@
         "domain": "techsaviours.org",
         "info": "https://techsaviours.org",
         "jurisdiction": "Germany",
-        "tos": "https://techsaviours.org/terms-of-use.html",
+        "tos": "https://techsaviours.org/terms-and-conditions.html",
         "privacy": "https://techsaviours.org/privacy-policy.html",
         "open": true,
         "remarks": "General host",
@@ -1167,7 +1212,7 @@
         "reg_method": "SSO",
         "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.0"
     },
     {
         "name": "the-apothecary.club",
@@ -1272,7 +1317,7 @@
         "reg_method": "Form",
         "reg_link": "https://vern.cc/register.php",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.0"
     },
     {
         "name": "virto.community",
