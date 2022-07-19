@@ -252,7 +252,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.cezeri.tech/",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.0"
     },
     {
         "name": "chagai.website",
@@ -297,7 +297,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.0"
     },
     {
         "name": "chrrreeeeesss.com",
@@ -432,7 +432,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.0"
     },
     {
         "name": "egora.org",
@@ -462,7 +462,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.0"
     },
     {
         "name": "erfurt.chat",
@@ -522,7 +522,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.0"
     },
     {
         "name": "freiburg.social",
@@ -1347,7 +1347,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.0"
     },
     {
         "name": "zinz.dev",
