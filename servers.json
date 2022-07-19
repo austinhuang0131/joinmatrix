@@ -132,7 +132,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.bachgau.social/",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.0"
     },
     {
         "name": "badstuebner.biz",
@@ -402,7 +402,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.das-labor.org/",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.0"
     },
     {
         "name": "data.haus",
@@ -1377,7 +1377,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.0"
     },
     {
         "name": "pikaviestin.fi",
