@@ -1380,21 +1380,6 @@
         "version": "1.62.0"
     },
     {
-        "name": "deuxfleurs.fr",
-        "domain": "deuxfleurs.fr",
-        "info": "https://deuxfleurs.fr",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": false,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://deuxfleurs.fr/",
-        "software": "Synapse",
-        "version": "1.61.1"
-    },
-    {
         "name": "hingst.net",
         "domain": "hingst.net",
         "info": "https://hingst.net",
