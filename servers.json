@@ -960,21 +960,6 @@
         "version": "1.62.0"
     },
     {
-        "name": "privex.io",
-        "domain": "privex.io",
-        "info": "https://privex.io",
-        "jurisdiction": "Belize? (Sweden)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Hosting provider; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://riot.privex.io/",
-        "software": "Synapse",
-        "version": "1.51.0"
-    },
-    {
         "name": "pub.solar",
         "domain": "pub.solar",
         "info": "https://pub.solar",
@@ -1378,6 +1363,21 @@
         "reg_link": "https://aletheia.moe/registration/",
         "software": "Synapse",
         "version": "1.62.0"
+    },
+    {
+        "name": "deuxfleurs.fr",
+        "domain": "deuxfleurs.fr",
+        "info": "https://deuxfleurs.fr",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": false,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://deuxfleurs.fr/",
+        "software": "Synapse",
+        "version": "1.61.1"
     },
     {
         "name": "hingst.net",
