@@ -90,21 +90,6 @@
         "version": "1.62.0"
     },
     {
-        "name": "aria-net.org",
-        "domain": "aria-net.org",
-        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
-        "jurisdiction": "Italy?",
-        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://el.aria-net.org/",
-        "software": "Synapse",
-        "version": "1.62.0.arianet.1"
-    },
-    {
         "name": "asozial.org",
         "domain": "asozial.org",
         "info": "https://asozial.org",
@@ -297,7 +282,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
-        "version": "1.63.0"
+        "version": "1.63.1"
     },
     {
         "name": "chrrreeeeesss.com",
@@ -432,7 +417,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.63.0"
+        "version": "1.63.1"
     },
     {
         "name": "egora.org",
@@ -462,7 +447,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.63.0"
+        "version": "1.63.1"
     },
     {
         "name": "exarius.org",
@@ -507,7 +492,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
-        "version": "1.63.0"
+        "version": "1.63.1"
     },
     {
         "name": "freiburg.social",
@@ -780,21 +765,6 @@
         "version": "1.61.1"
     },
     {
-        "name": "mandragot.org",
-        "domain": "mandragot.org",
-        "info": "https://www.mandragot.org/page/matrix/",
-        "jurisdiction": "France?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.57.0"
-    },
-    {
         "name": "matrix.im",
         "domain": "matrix.im",
         "info": "https://matrix.im",
@@ -957,7 +927,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.1"
     },
     {
         "name": "prometheus.systems",
@@ -1062,7 +1032,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.63.0"
+        "version": "1.63.1"
     },
     {
         "name": "scyldings.com",
@@ -1137,7 +1107,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.1"
     },
     {
         "name": "tchncs.de",
@@ -1152,7 +1122,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.1"
     },
     {
         "name": "techsaviours.org",
@@ -1317,7 +1287,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.63.0"
+        "version": "1.63.1"
     },
     {
         "name": "zinz.dev",
