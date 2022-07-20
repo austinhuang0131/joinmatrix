@@ -882,7 +882,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nltrix.net/",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.0"
     },
     {
         "name": "oblak.be",
@@ -1437,7 +1437,7 @@
         "reg_method": "Contact",
         "reg_link": "https://hyteck.de/about/",
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.63.0"
     },
     {
         "name": "libreon.fr",
