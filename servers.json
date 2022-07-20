@@ -57,7 +57,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.0"
     },
     {
         "name": "archoslinux.cz",
@@ -72,7 +72,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.0"
     },
     {
         "name": "arcticfoxes.net",
@@ -342,7 +342,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.0"
     },
     {
         "name": "community.rs",
