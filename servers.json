@@ -102,7 +102,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://el.aria-net.org/",
         "software": "Synapse",
-        "version": "1.62.0.arianet.1"
+        "version": "1.63.1.arianet.1"
     },
     {
         "name": "asozial.org",
