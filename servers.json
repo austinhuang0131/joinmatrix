@@ -57,7 +57,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.63.0"
+        "version": "1.63.1"
     },
     {
         "name": "archoslinux.cz",
@@ -765,6 +765,21 @@
         "version": "1.61.1"
     },
     {
+        "name": "mandragot.org",
+        "domain": "mandragot.org",
+        "info": "https://www.mandragot.org/page/matrix/",
+        "jurisdiction": "France?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.57.0"
+    },
+    {
         "name": "matrix.im",
         "domain": "matrix.im",
         "info": "https://matrix.im",
@@ -822,7 +837,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://mtrx.nz/",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.1"
     },
     {
         "name": "nitro.chat",
