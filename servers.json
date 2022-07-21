@@ -27,7 +27,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://matrix.activism.international/",
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.63.1"
     },
     {
         "name": "agdersam.no",
@@ -312,7 +312,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
-        "version": "1.63.0"
+        "version": "1.63.1"
     },
     {
         "name": "club1.fr",
@@ -342,7 +342,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.63.0"
+        "version": "1.63.1"
     },
     {
         "name": "community.rs",
@@ -1002,7 +1002,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.1"
     },
     {
         "name": "qoto.org",
@@ -1107,7 +1107,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.sibnsk.net",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.1"
     },
     {
         "name": "socialnetwork24.com",
