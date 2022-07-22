@@ -135,21 +135,6 @@
         "version": "1.63.0"
     },
     {
-        "name": "badstuebner.biz",
-        "domain": "badstuebner.biz",
-        "info": "https://badstuebner.biz",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://badstuebner.biz/impressum.php",
-        "open": true,
-        "remarks": "In German; personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.badstuebner.biz/",
-        "software": "Synapse",
-        "version": "1.63.1"
-    },
-    {
         "name": "bancino.net",
         "domain": "bancino.net",
         "info": "https://bancino.net",
@@ -537,7 +522,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://webchat.freitrix.de/#/register",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.1"
     },
     {
         "name": "fulda.social",
