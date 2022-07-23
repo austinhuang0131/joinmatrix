@@ -45,21 +45,6 @@
         "version": "1.61.1"
     },
     {
-        "name": "anonymousland.org",
-        "domain": "anonymousland.org",
-        "info": "https://www.anonymousland.org/services#matrix",
-        "jurisdiction": "Sweden",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.63.1"
-    },
-    {
         "name": "archoslinux.cz",
         "domain": "archoslinux.cz",
         "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
@@ -296,21 +281,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
-        "software": "Synapse",
-        "version": "1.63.1"
-    },
-    {
-        "name": "chrrreeeeesss.com",
-        "domain": "chrrreeeeesss.com",
-        "info": "https://chrrreeeeesss.com",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
         "version": "1.63.1"
     },
@@ -1287,7 +1257,7 @@
         "reg_method": "Form",
         "reg_link": "https://vern.cc/register.php",
         "software": "Synapse",
-        "version": "1.63.0"
+        "version": "1.63.1"
     },
     {
         "name": "virto.community",
