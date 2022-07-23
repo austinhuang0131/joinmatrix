@@ -135,6 +135,21 @@
         "version": "1.63.0"
     },
     {
+        "name": "badstuebner.biz",
+        "domain": "badstuebner.biz",
+        "info": "https://badstuebner.biz",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://badstuebner.biz/impressum.php",
+        "open": true,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.badstuebner.biz/",
+        "software": "Synapse",
+        "version": "1.63.1"
+    },
+    {
         "name": "bancino.net",
         "domain": "bancino.net",
         "info": "https://bancino.net",
@@ -583,21 +598,6 @@
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
         "version": "1.62.0"
-    },
-    {
-        "name": "glasgow.social",
-        "domain": "glasgow.social",
-        "info": "https://opensource.glasgow.social/matrix",
-        "jurisdiction": "UK",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional tech collective",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.glasgow.social/",
-        "software": "Synapse",
-        "version": "1.61.1"
     },
     {
         "name": "grin.hu",
@@ -1198,6 +1198,21 @@
         "reg_link": "https://chat.tomesh.net/",
         "software": "Synapse",
         "version": "1.63.1"
+    },
+    {
+        "name": "trygve.me",
+        "domain": "trygve.me",
+        "info": "https://trygve.me/matrix_info/",
+        "jurisdiction": "Norway",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In Norwegian; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.trygve.me/",
+        "software": "Synapse",
+        "version": "1.62.0"
     },
     {
         "name": "ungleich.ch",
