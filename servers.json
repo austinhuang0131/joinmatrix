@@ -252,7 +252,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.cezeri.tech/",
         "software": "Synapse",
-        "version": "1.63.0"
+        "version": "1.63.1"
     },
     {
         "name": "chagai.website",
@@ -522,7 +522,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.freiburg.social/",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.1"
     },
     {
         "name": "freitrix.de",
@@ -598,6 +598,21 @@
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
         "version": "1.62.0"
+    },
+    {
+        "name": "glasgow.social",
+        "domain": "glasgow.social",
+        "info": "https://opensource.glasgow.social/matrix",
+        "jurisdiction": "UK",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional tech collective",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.glasgow.social/",
+        "software": "Synapse",
+        "version": "1.61.1"
     },
     {
         "name": "grin.hu",
