@@ -45,21 +45,6 @@
         "version": "1.61.1"
     },
     {
-        "name": "anonymousland.org",
-        "domain": "anonymousland.org",
-        "info": "https://www.anonymousland.org/services#matrix",
-        "jurisdiction": "Sweden",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.63.1"
-    },
-    {
         "name": "archoslinux.cz",
         "domain": "archoslinux.cz",
         "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
@@ -193,6 +178,21 @@
         "reg_link": "https://element.schaeferit.de/",
         "software": "Synapse",
         "version": "1.63.1"
+    },
+    {
+        "name": "byzero.dev",
+        "domain": "byzero.dev",
+        "info": "https://hosting.byzero.dev/",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.byzero.dev/",
+        "software": "Synapse",
+        "version": "1.62.0"
     },
     {
         "name": "cat.casa",
