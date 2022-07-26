@@ -195,21 +195,6 @@
         "version": "1.63.1"
     },
     {
-        "name": "byzero.dev",
-        "domain": "byzero.dev",
-        "info": "https://hosting.byzero.dev/",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.byzero.dev/",
-        "software": "Synapse",
-        "version": "1.62.0"
-    },
-    {
         "name": "cat.casa",
         "domain": "cat.casa",
         "info": "https://cat.casa/",
