@@ -552,7 +552,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.gemeinsam.jetzt/",
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.63.1"
     },
     {
         "name": "ggc-project.de",
@@ -1065,6 +1065,21 @@
         "version": "1.62.0"
     },
     {
+        "name": "sibnsk.net",
+        "domain": "sibnsk.net",
+        "info": "https://lugnsk.org/page/blog/matrix",
+        "jurisdiction": "Russia",
+        "tos": "https://matrix.sibnsk.net/_matrix/consent",
+        "privacy": "https://matrix.sibnsk.net/_matrix/consent",
+        "open": true,
+        "remarks": "In Russian",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.sibnsk.net",
+        "software": "Synapse",
+        "version": "1.63.1"
+    },
+    {
         "name": "socialnetwork24.com",
         "domain": "socialnetwork24.com",
         "info": "https://blog.unixweb.de/telegram-abgeschaltet-alternative-matrix/",
@@ -1185,6 +1200,21 @@
         "version": "1.63.1"
     },
     {
+        "name": "ungleich.ch",
+        "domain": "ungleich.ch",
+        "info": "https://ungleich.ch/u/projects/open-chat/",
+        "jurisdiction": "Switzerland",
+        "tos": null,
+        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
+        "open": true,
+        "remarks": "Hosting provider",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://account.ungleich.ch/",
+        "software": "Synapse",
+        "version": "1.63.1"
+    },
+    {
         "name": "unredacted.org",
         "domain": "unredacted.org",
         "info": "https://unredacted.org/services/matrix/",
@@ -1213,21 +1243,6 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.50.2"
-    },
-    {
-        "name": "vern.cc",
-        "domain": "vern.cc",
-        "info": "https://vern.cc/",
-        "jurisdiction": "US/India? (US/Canada)",
-        "tos": "https://vern.cc/rules",
-        "privacy": "https://vern.cc/privpol",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://vern.cc/register.php",
-        "software": "Synapse",
-        "version": "1.63.1"
     },
     {
         "name": "virto.community",
