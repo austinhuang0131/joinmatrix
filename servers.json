@@ -510,21 +510,6 @@
         "version": "1.63.1"
     },
     {
-        "name": "fulda.social",
-        "domain": "fulda.social",
-        "info": "https://dasnetzundich.de/2021/08/14/willkommen-in-der-matrix/",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.fulda.social/",
-        "software": "Synapse",
-        "version": "1.62.0"
-    },
-    {
         "name": "g24.at",
         "domain": "g24.at",
         "info": "https://g24.at",
@@ -1066,7 +1051,7 @@
     },
     {
         "name": "sibnsk.net",
-        "domain": "sibnsk.net",
+        "domain": "matrix.sibnsk.net",
         "info": "https://lugnsk.org/page/blog/matrix",
         "jurisdiction": "Russia",
         "tos": "https://matrix.sibnsk.net/_matrix/consent",
@@ -1228,6 +1213,21 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.50.2"
+    },
+    {
+        "name": "vern.cc",
+        "domain": "vern.cc",
+        "info": "https://vern.cc/",
+        "jurisdiction": "US/India? (US/Canada)",
+        "tos": "https://vern.cc/rules",
+        "privacy": "https://vern.cc/privpol",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://vern.cc/register.php",
+        "software": "Synapse",
+        "version": "1.63.1"
     },
     {
         "name": "virto.community",
