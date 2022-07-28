@@ -103,6 +103,8 @@ You can set up a Security Key with the following steps:
 2. "Generate a Security Key" is enough.
 3. Save the generated security key in a safe place (like in a password manager).
 
+A graphic tutorial is available [here](https://www.ubuntubuzz.com/2021/01/element-made-easy-setup-security-phrase-and-key.html).
+
 <div class="flash flash-warn">
   It is <b>strongly recommended</b> to do this step to prevent accidentally losing all of your encrypted messages.
 </div>
