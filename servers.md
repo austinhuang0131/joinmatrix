@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
 ## List of Public Matrix Homeservers
 
-This is a list of public Matrix homeservers as compiled by the author of this guide. Support for this list is provided at [`#public_servers:tchncs.de`](https://matrix.to/#/#public_servers:tchncs.de). Remember:
+This is a list of public Matrix homeservers as compiled by the author of this guide. Remember:
 
 * For long-term usage, choose a homeserver that you trust, [is properly federated](https://federationtester.matrix.org/), has a high version number, has an environment suitable to your use, and is designed to last.
 * Any homeserver you choose gets to access all the unencrypted data about your account!
