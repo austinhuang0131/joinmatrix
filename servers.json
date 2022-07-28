@@ -960,21 +960,6 @@
         "version": "1.62.0"
     },
     {
-        "name": "privex.io",
-        "domain": "privex.io",
-        "info": "https://privex.io",
-        "jurisdiction": "Belize? (Sweden)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Hosting provider; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://riot.privex.io/",
-        "software": "Synapse",
-        "version": "1.51.0"
-    },
-    {
         "name": "pub.solar",
         "domain": "pub.solar",
         "info": "https://pub.solar",
@@ -988,21 +973,6 @@
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
         "version": "1.63.1"
-    },
-    {
-        "name": "qoto.org",
-        "domain": "matrix.qoto.org",
-        "info": "https://qoto.org/about/more",
-        "jurisdiction": "US?",
-        "tos": "https://qoto.org/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.qoto.org/",
-        "software": "Synapse",
-        "version": "1.45.1"
     },
     {
         "name": "radiowarnerd.org",
