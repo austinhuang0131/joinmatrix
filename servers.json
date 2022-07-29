@@ -240,6 +240,21 @@
         "version": "1.63.1"
     },
     {
+        "name": "chagai.website",
+        "domain": "chagai.website",
+        "info": "https://chagai.website",
+        "jurisdiction": "Switzerland",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.chagai.website/",
+        "software": "Synapse",
+        "version": "1.59.1"
+    },
+    {
         "name": "chatcloud.net",
         "domain": "chatcloud.net",
         "info": "https://chatcloud.net",
@@ -491,21 +506,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.freiburg.social/",
-        "software": "Synapse",
-        "version": "1.63.1"
-    },
-    {
-        "name": "freitrix.de",
-        "domain": "freitrix.de",
-        "info": "https://freitrix.de",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://freifunk-suedholstein.de/datenschutz/",
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://webchat.freitrix.de/#/register",
         "software": "Synapse",
         "version": "1.63.1"
     },
@@ -975,6 +975,21 @@
         "version": "1.63.1"
     },
     {
+        "name": "qoto.org",
+        "domain": "matrix.qoto.org",
+        "info": "https://qoto.org/about/more",
+        "jurisdiction": "US?",
+        "tos": "https://qoto.org/about/more",
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.qoto.org/",
+        "software": "Synapse",
+        "version": "1.45.1"
+    },
+    {
         "name": "radiowarnerd.org",
         "domain": "radiowarnerd.org",
         "info": "https://dokuwiki.radiowarnerd.org/matrixaccountcreation",
@@ -1185,21 +1200,6 @@
         "version": "1.63.1"
     },
     {
-        "name": "ungleich.ch",
-        "domain": "ungleich.ch",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
-        "software": "Synapse",
-        "version": "1.63.1"
-    },
-    {
         "name": "unredacted.org",
         "domain": "unredacted.org",
         "info": "https://unredacted.org/services/matrix/",
@@ -1332,7 +1332,7 @@
         "reg_method": "SSO",
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.1"
     },
     {
         "name": "aletheia.moe",
