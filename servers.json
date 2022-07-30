@@ -210,6 +210,21 @@
         "version": "1.60.0"
     },
     {
+        "name": "catgirl.cloud",
+        "domain": "catgirl.cloud",
+        "info": "https://catgirl.cloud",
+        "jurisdiction": "Germany",
+        "tos": "https://catgirl.cloud/#rules",
+        "privacy": "https://catgirl.cloud/#privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.catgirl.cloud/",
+        "software": "Synapse",
+        "version": "1.63.1"
+    },
+    {
         "name": "cezeri.tech",
         "domain": "cezeri.tech",
         "info": "https://cezeri.tech",
@@ -328,21 +343,6 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.62.0"
-    },
-    {
-        "name": "converser.eu",
-        "domain": "converser.eu",
-        "info": "https://converser.eu",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.61.0"
     },
     {
         "name": "crossbach.de",
@@ -897,7 +897,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pcriot.org/",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.63.1"
     },
     {
         "name": "pragma-messenger.ch",
@@ -1213,21 +1213,6 @@
         "reg_link": "https://element.unredacted.org/",
         "software": "Synapse",
         "version": "1.63.1"
-    },
-    {
-        "name": "utwente.io",
-        "domain": "utwente.io",
-        "info": "https://syscom.utwente.io/info/matrix/homeserver/",
-        "jurisdiction": "Netherlands",
-        "tos": "https://syscom.utwente.io/info/matrix/homeserver/#rules",
-        "privacy": "https://syscom.utwente.io/info/privacy/matrix/",
-        "open": true,
-        "remarks": "Regional; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.utwente.io/",
-        "software": "Synapse",
-        "version": "1.50.2"
     },
     {
         "name": "vern.cc",
