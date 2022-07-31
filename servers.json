@@ -1215,6 +1215,21 @@
         "version": "1.63.1"
     },
     {
+        "name": "utwente.io",
+        "domain": "utwente.io",
+        "info": "https://syscom.utwente.io/info/matrix/homeserver/",
+        "jurisdiction": "Netherlands",
+        "tos": "https://syscom.utwente.io/info/matrix/homeserver/#rules",
+        "privacy": "https://syscom.utwente.io/info/privacy/matrix/",
+        "open": true,
+        "remarks": "Regional; student-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.utwente.io/",
+        "software": "Synapse",
+        "version": "1.63.1"
+    },
+    {
         "name": "vern.cc",
         "domain": "vern.cc",
         "info": "https://vern.cc/",
