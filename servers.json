@@ -105,21 +105,6 @@
         "version": "0.8.9+b5c55faf"
     },
     {
-        "name": "bachgau.social",
-        "domain": "bachgau.social",
-        "info": "https://www.bachgau.social/unsere-dienste/matrix/",
-        "jurisdiction": "Germany",
-        "tos": "https://mastodon.bachgau.social/about/more",
-        "privacy": "https://www.bachgau.social/datenschutzerklaerung/",
-        "open": true,
-        "remarks": "In German; regional",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.bachgau.social/",
-        "software": "Synapse",
-        "version": "1.63.1"
-    },
-    {
         "name": "badstuebner.biz",
         "domain": "badstuebner.biz",
         "info": "https://badstuebner.biz",
@@ -345,21 +330,6 @@
         "version": "1.62.0"
     },
     {
-        "name": "converser.eu",
-        "domain": "converser.eu",
-        "info": "https://converser.eu",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.61.0"
-    },
-    {
         "name": "crossbach.de",
         "domain": "crossbach.de",
         "info": "https://crossbach.de",
@@ -510,6 +480,21 @@
         "version": "1.63.1"
     },
     {
+        "name": "freitrix.de",
+        "domain": "freitrix.de",
+        "info": "https://freitrix.de",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://freifunk-suedholstein.de/datenschutz/",
+        "open": true,
+        "remarks": "In German",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://webchat.freitrix.de/#/register",
+        "software": "Synapse",
+        "version": "1.63.1"
+    },
+    {
         "name": "fulda.social",
         "domain": "fulda.social",
         "info": "https://dasnetzundich.de/2021/08/14/willkommen-in-der-matrix/",
@@ -568,21 +553,6 @@
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
         "version": "1.62.0"
-    },
-    {
-        "name": "glasgow.social",
-        "domain": "glasgow.social",
-        "info": "https://opensource.glasgow.social/matrix",
-        "jurisdiction": "UK",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional tech collective",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.glasgow.social/",
-        "software": "Synapse",
-        "version": "1.61.1"
     },
     {
         "name": "grin.hu",
@@ -1106,21 +1076,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
-        "software": "Synapse",
-        "version": "1.63.1"
-    },
-    {
-        "name": "tchncs.de",
-        "domain": "tchncs.de",
-        "info": "https://tchncs.de/matrix",
-        "jurisdiction": "Germany",
-        "tos": "https://tchncs.de/matrix/tos",
-        "privacy": "https://tchncs.de/matrix/privacy",
-        "open": true,
-        "remarks": "General host; only stores messages for a year",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
         "version": "1.63.1"
     },
