@@ -150,21 +150,6 @@
         "version": "1.63.1"
     },
     {
-        "name": "byzero.dev",
-        "domain": "byzero.dev",
-        "info": "https://hosting.byzero.dev/",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.byzero.dev/",
-        "software": "Synapse",
-        "version": "1.62.0"
-    },
-    {
         "name": "cat.casa",
         "domain": "cat.casa",
         "info": "https://cat.casa/",
@@ -447,7 +432,7 @@
         "reg_method": "SSO",
         "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.63.1"
     },
     {
         "name": "flieger.chat",
@@ -958,6 +943,21 @@
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
         "version": "1.63.1"
+    },
+    {
+        "name": "qoto.org",
+        "domain": "matrix.qoto.org",
+        "info": "https://qoto.org/about/more",
+        "jurisdiction": "US?",
+        "tos": "https://qoto.org/about/more",
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.qoto.org/",
+        "software": "Synapse",
+        "version": "1.45.1"
     },
     {
         "name": "radiowarnerd.org",
