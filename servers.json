@@ -42,7 +42,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.agdersam.no/",
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.63.1"
     },
     {
         "name": "anonymousland.org",
@@ -73,21 +73,6 @@
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
         "version": "1.63.1"
-    },
-    {
-        "name": "asozial.org",
-        "domain": "asozial.org",
-        "info": "https://asozial.org",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; left-wing",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.asozial.org/",
-        "software": "Dendrite",
-        "version": "0.8.9+b5c55faf"
     },
     {
         "name": "bachgau.social",
@@ -973,21 +958,6 @@
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
         "version": "1.63.1"
-    },
-    {
-        "name": "qoto.org",
-        "domain": "matrix.qoto.org",
-        "info": "https://qoto.org/about/more",
-        "jurisdiction": "US?",
-        "tos": "https://qoto.org/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.qoto.org/",
-        "software": "Synapse",
-        "version": "1.45.1"
     },
     {
         "name": "radiowarnerd.org",
