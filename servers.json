@@ -75,6 +75,21 @@
         "version": "1.63.1"
     },
     {
+        "name": "badstuebner.biz",
+        "domain": "badstuebner.biz",
+        "info": "https://badstuebner.biz",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://badstuebner.biz/impressum.php",
+        "open": true,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.badstuebner.biz/",
+        "software": "Synapse",
+        "version": "1.64.0"
+    },
+    {
         "name": "bancino.net",
         "domain": "bancino.net",
         "info": "https://bancino.net",
@@ -105,6 +120,21 @@
         "version": "1.63.1"
     },
     {
+        "name": "byzero.dev",
+        "domain": "byzero.dev",
+        "info": "https://hosting.byzero.dev/",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.byzero.dev/",
+        "software": "Synapse",
+        "version": "1.62.0"
+    },
+    {
         "name": "cat.casa",
         "domain": "cat.casa",
         "info": "https://cat.casa/",
@@ -132,7 +162,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.63.1"
+        "version": "1.64.0"
     },
     {
         "name": "cezeri.tech",
@@ -147,7 +177,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.cezeri.tech/",
         "software": "Synapse",
-        "version": "1.63.1"
+        "version": "1.64.0"
     },
     {
         "name": "chagai.website",
@@ -237,7 +267,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.63.1"
+        "version": "1.64.0"
     },
     {
         "name": "community.rs",
@@ -282,7 +312,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.crossbach.de/",
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.64.0"
     },
     {
         "name": "das-labor.org",
@@ -297,7 +327,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.das-labor.org/",
         "software": "Synapse",
-        "version": "1.63.1"
+        "version": "1.64.0"
     },
     {
         "name": "data.haus",
@@ -357,7 +387,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.63.1"
+        "version": "1.64.0"
     },
     {
         "name": "exarius.org",
@@ -597,7 +627,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.63.1"
+        "version": "1.64.0"
     },
     {
         "name": "librem.one",
@@ -702,7 +732,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
-        "version": "1.63.1"
+        "version": "1.64.0"
     },
     {
         "name": "monero.social",
@@ -852,7 +882,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.63.1"
+        "version": "1.64.0"
     },
     {
         "name": "prometheus.systems",
@@ -898,21 +928,6 @@
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
         "version": "1.63.1"
-    },
-    {
-        "name": "qoto.org",
-        "domain": "matrix.qoto.org",
-        "info": "https://qoto.org/about/more",
-        "jurisdiction": "US?",
-        "tos": "https://qoto.org/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.qoto.org/",
-        "software": "Synapse",
-        "version": "1.45.1"
     },
     {
         "name": "radiowarnerd.org",
@@ -1047,7 +1062,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.63.1"
+        "version": "1.64.0"
     },
     {
         "name": "techsaviours.org",
@@ -1077,7 +1092,7 @@
         "reg_method": "SSO",
         "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
-        "version": "1.63.1"
+        "version": "1.64.0"
     },
     {
         "name": "the-apothecary.club",
@@ -1092,7 +1107,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://the-apothecary.club/",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.64.0"
     },
     {
         "name": "tomesh.net",
@@ -1257,7 +1272,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.63.1"
+        "version": "1.64.0"
     },
     {
         "name": "pikaviestin.fi",
@@ -1272,7 +1287,7 @@
         "reg_method": "SSO",
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
-        "version": "1.63.1"
+        "version": "1.64.0"
     },
     {
         "name": "aletheia.moe",
