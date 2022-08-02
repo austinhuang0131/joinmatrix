@@ -75,21 +75,6 @@
         "version": "1.63.1"
     },
     {
-        "name": "bachgau.social",
-        "domain": "bachgau.social",
-        "info": "https://www.bachgau.social/unsere-dienste/matrix/",
-        "jurisdiction": "Germany",
-        "tos": "https://mastodon.bachgau.social/about/more",
-        "privacy": "https://www.bachgau.social/datenschutzerklaerung/",
-        "open": true,
-        "remarks": "In German; regional",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.bachgau.social/",
-        "software": "Synapse",
-        "version": "1.63.1"
-    },
-    {
         "name": "bancino.net",
         "domain": "bancino.net",
         "info": "https://bancino.net",
@@ -103,21 +88,6 @@
         "reg_link": "https://bancino.net/element/",
         "software": "Synapse",
         "version": "1.54.0"
-    },
-    {
-        "name": "buyvm.net",
-        "domain": "buyvm.net",
-        "info": "https://buyvm.net/beware-the-moshbear/",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Hosting provider; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.buyvm.net/element/",
-        "software": "Synapse",
-        "version": "1.63.1"
     },
     {
         "name": "bytes4u.de",
@@ -1123,6 +1093,21 @@
         "reg_link": "https://the-apothecary.club/",
         "software": "Synapse",
         "version": "1.62.0"
+    },
+    {
+        "name": "tomesh.net",
+        "domain": "matrix.tomesh.net",
+        "info": "https://tomesh.net/mesh-services/",
+        "jurisdiction": "Canada (US)",
+        "tos": "https://tomesh.net/code-of-conduct/",
+        "privacy": null,
+        "open": true,
+        "remarks": "Accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.tomesh.net/",
+        "software": "Synapse",
+        "version": "1.63.1"
     },
     {
         "name": "trygve.me",
