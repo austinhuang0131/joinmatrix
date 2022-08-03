@@ -12,7 +12,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://im.0wnz.at/element-web/",
         "software": "Synapse",
-        "version": "1.63.1"
+        "version": "1.64.0"
     },
     {
         "name": "activism.international",
@@ -103,6 +103,21 @@
         "reg_link": "https://element.badstuebner.biz/",
         "software": "Synapse",
         "version": "1.64.0"
+    },
+    {
+        "name": "bancino.net",
+        "domain": "bancino.net",
+        "info": "https://bancino.net",
+        "jurisdiction": "US",
+        "tos": "https://bancino.net/_matrix/consent",
+        "privacy": "https://bancino.net/_matrix/consent",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://bancino.net/element/",
+        "software": "Synapse",
+        "version": "1.54.0"
     },
     {
         "name": "buyvm.net",
@@ -822,7 +837,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nltrix.net/",
         "software": "Synapse",
-        "version": "1.63.1"
+        "version": "1.64.0"
     },
     {
         "name": "oblak.be",
@@ -1002,7 +1017,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.63.1"
+        "version": "1.64.0"
     },
     {
         "name": "scyldings.com",
@@ -1138,21 +1153,6 @@
         "reg_link": "https://the-apothecary.club/",
         "software": "Synapse",
         "version": "1.64.0"
-    },
-    {
-        "name": "tomesh.net",
-        "domain": "matrix.tomesh.net",
-        "info": "https://tomesh.net/mesh-services/",
-        "jurisdiction": "Canada (US)",
-        "tos": "https://tomesh.net/code-of-conduct/",
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.tomesh.net/",
-        "software": "Synapse",
-        "version": "1.63.1"
     },
     {
         "name": "trygve.me",
