@@ -432,7 +432,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.47.1"
+        "version": "1.61.1"
     },
     {
         "name": "filik.eu",
@@ -882,7 +882,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://riot.ombreport.info/",
         "software": "Synapse",
-        "version": "1.63.1"
+        "version": "1.64.0"
     },
     {
         "name": "pcriot.org",
@@ -1153,6 +1153,21 @@
         "reg_link": "https://the-apothecary.club/",
         "software": "Synapse",
         "version": "1.64.0"
+    },
+    {
+        "name": "tomesh.net",
+        "domain": "matrix.tomesh.net",
+        "info": "https://tomesh.net/mesh-services/",
+        "jurisdiction": "Canada (US)",
+        "tos": "https://tomesh.net/code-of-conduct/",
+        "privacy": null,
+        "open": true,
+        "remarks": "Accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.tomesh.net/",
+        "software": "Synapse",
+        "version": "1.63.1"
     },
     {
         "name": "trygve.me",
