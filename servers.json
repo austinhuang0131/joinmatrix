@@ -75,21 +75,6 @@
         "version": "1.64.0"
     },
     {
-        "name": "aria-net.org",
-        "domain": "aria-net.org",
-        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
-        "jurisdiction": "Italy?",
-        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://el.aria-net.org/",
-        "software": "Synapse",
-        "version": "1.63.1"
-    },
-    {
         "name": "bachgau.social",
         "domain": "bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
@@ -223,6 +208,21 @@
         "reg_link": "https://element.cezeri.tech/",
         "software": "Synapse",
         "version": "1.64.0"
+    },
+    {
+        "name": "chagai.website",
+        "domain": "chagai.website",
+        "info": "https://chagai.website",
+        "jurisdiction": "Switzerland",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.chagai.website/",
+        "software": "Synapse",
+        "version": "1.59.1"
     },
     {
         "name": "chatcloud.net",
@@ -1183,21 +1183,6 @@
         "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
         "version": "1.64.0"
-    },
-    {
-        "name": "ungleich.ch",
-        "domain": "ungleich.ch",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
-        "software": "Synapse",
-        "version": "1.63.1"
     },
     {
         "name": "unredacted.org",
