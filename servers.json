@@ -45,6 +45,21 @@
         "version": "1.63.1"
     },
     {
+        "name": "anonymousland.org",
+        "domain": "anonymousland.org",
+        "info": "https://www.anonymousland.org/services#matrix",
+        "jurisdiction": "Sweden",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.64.0"
+    },
+    {
         "name": "archoslinux.cz",
         "domain": "archoslinux.cz",
         "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
@@ -58,6 +73,21 @@
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
         "version": "1.64.0"
+    },
+    {
+        "name": "aria-net.org",
+        "domain": "aria-net.org",
+        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
+        "jurisdiction": "Italy?",
+        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://el.aria-net.org/",
+        "software": "Synapse",
+        "version": "1.63.1"
     },
     {
         "name": "bachgau.social",
@@ -193,21 +223,6 @@
         "reg_link": "https://element.cezeri.tech/",
         "software": "Synapse",
         "version": "1.64.0"
-    },
-    {
-        "name": "chagai.website",
-        "domain": "chagai.website",
-        "info": "https://chagai.website",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.chagai.website/",
-        "software": "Synapse",
-        "version": "1.59.1"
     },
     {
         "name": "chatcloud.net",
