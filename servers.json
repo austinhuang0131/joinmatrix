@@ -75,6 +75,21 @@
         "version": "1.64.0"
     },
     {
+        "name": "aria-net.org",
+        "domain": "aria-net.org",
+        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
+        "jurisdiction": "Italy?",
+        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://el.aria-net.org/",
+        "software": "Synapse",
+        "version": "1.63.1"
+    },
+    {
         "name": "bachgau.social",
         "domain": "bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
@@ -176,6 +191,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.64.0"
+    },
+    {
+        "name": "catgirl.cloud",
+        "domain": "catgirl.cloud",
+        "info": "https://catgirl.cloud",
+        "jurisdiction": "Germany",
+        "tos": "https://catgirl.cloud/#rules",
+        "privacy": "https://catgirl.cloud/#privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://registration.matrix.catgirl.cloud/",
         "software": "Synapse",
         "version": "1.64.0"
     },
