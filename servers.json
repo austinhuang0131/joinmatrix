@@ -1,20 +1,5 @@
 [
     {
-        "name": "0wnz.at",
-        "domain": "0wnz.at",
-        "info": "https://0wnz.at",
-        "jurisdiction": "Austria",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://im.0wnz.at/element-web/",
-        "software": "Synapse",
-        "version": "1.64.0"
-    },
-    {
         "name": "activism.international",
         "domain": "activism.international",
         "info": "https://activism.international",
@@ -1155,21 +1140,6 @@
         "version": "1.64.0"
     },
     {
-        "name": "tomesh.net",
-        "domain": "matrix.tomesh.net",
-        "info": "https://tomesh.net/mesh-services/",
-        "jurisdiction": "Canada (US)",
-        "tos": "https://tomesh.net/code-of-conduct/",
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.tomesh.net/",
-        "software": "Synapse",
-        "version": "1.63.1"
-    },
-    {
         "name": "trygve.me",
         "domain": "trygve.me",
         "info": "https://trygve.me/matrix_info/",
@@ -1211,21 +1181,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.unredacted.org/",
-        "software": "Synapse",
-        "version": "1.63.1"
-    },
-    {
-        "name": "utwente.io",
-        "domain": "utwente.io",
-        "info": "https://syscom.utwente.io/info/matrix/homeserver/",
-        "jurisdiction": "Netherlands",
-        "tos": "https://syscom.utwente.io/info/matrix/homeserver/#rules",
-        "privacy": "https://syscom.utwente.io/info/privacy/matrix/",
-        "open": true,
-        "remarks": "Regional; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.63.1"
     },
