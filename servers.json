@@ -45,6 +45,21 @@
         "version": "1.63.1"
     },
     {
+        "name": "anonymousland.org",
+        "domain": "anonymousland.org",
+        "info": "https://www.anonymousland.org/services#matrix",
+        "jurisdiction": "Sweden",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.64.0"
+    },
+    {
         "name": "archoslinux.cz",
         "domain": "archoslinux.cz",
         "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
@@ -58,6 +73,21 @@
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
         "version": "1.64.0"
+    },
+    {
+        "name": "aria-net.org",
+        "domain": "aria-net.org",
+        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
+        "jurisdiction": "Italy?",
+        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://el.aria-net.org/",
+        "software": "Synapse",
+        "version": "1.63.1"
     },
     {
         "name": "bachgau.social",
@@ -900,6 +930,21 @@
         "version": "1.62.0"
     },
     {
+        "name": "privex.io",
+        "domain": "privex.io",
+        "info": "https://privex.io",
+        "jurisdiction": "Belize? (Sweden)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Hosting provider; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://riot.privex.io/",
+        "software": "Synapse",
+        "version": "1.51.0"
+    },
+    {
         "name": "pub.solar",
         "domain": "pub.solar",
         "info": "https://pub.solar",
@@ -1125,6 +1170,21 @@
         "version": "1.64.0"
     },
     {
+        "name": "tomesh.net",
+        "domain": "matrix.tomesh.net",
+        "info": "https://tomesh.net/mesh-services/",
+        "jurisdiction": "Canada (US)",
+        "tos": "https://tomesh.net/code-of-conduct/",
+        "privacy": null,
+        "open": true,
+        "remarks": "Accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.tomesh.net/",
+        "software": "Synapse",
+        "version": "1.63.1"
+    },
+    {
         "name": "trygve.me",
         "domain": "trygve.me",
         "info": "https://trygve.me/matrix_info/",
@@ -1153,21 +1213,6 @@
         "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
         "version": "1.64.0"
-    },
-    {
-        "name": "unredacted.org",
-        "domain": "unredacted.org",
-        "info": "https://unredacted.org/services/matrix/",
-        "jurisdiction": "US (Romania)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.unredacted.org/",
-        "software": "Synapse",
-        "version": "1.63.1"
     },
     {
         "name": "utwente.io",
