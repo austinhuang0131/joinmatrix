@@ -45,21 +45,6 @@
         "version": "1.63.1"
     },
     {
-        "name": "anonymousland.org",
-        "domain": "anonymousland.org",
-        "info": "https://www.anonymousland.org/services#matrix",
-        "jurisdiction": "Sweden",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.64.0"
-    },
-    {
         "name": "archoslinux.cz",
         "domain": "archoslinux.cz",
         "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
@@ -330,21 +315,6 @@
         "version": "1.62.0"
     },
     {
-        "name": "converser.eu",
-        "domain": "converser.eu",
-        "info": "https://converser.eu",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.61.0"
-    },
-    {
         "name": "crossbach.de",
         "domain": "crossbach.de",
         "info": "https://crossbach.de",
@@ -552,7 +522,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.gemeinsam.jetzt/",
         "software": "Synapse",
-        "version": "1.63.1"
+        "version": "1.64.0"
     },
     {
         "name": "ggc-project.de",
@@ -1200,19 +1170,19 @@
         "version": "1.64.0"
     },
     {
-        "name": "ungleich.ch",
-        "domain": "ungleich.ch",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
+        "name": "unredacted.org",
+        "domain": "unredacted.org",
+        "info": "https://unredacted.org/services/matrix/",
+        "jurisdiction": "US (Romania)",
         "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
+        "privacy": null,
         "open": true,
-        "remarks": "Hosting provider",
+        "remarks": "General host",
         "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.unredacted.org/",
         "software": "Synapse",
-        "version": "1.64.0"
+        "version": "1.63.1"
     },
     {
         "name": "utwente.io",
