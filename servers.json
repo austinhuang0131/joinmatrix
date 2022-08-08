@@ -375,21 +375,6 @@
         "version": "1.64.0"
     },
     {
-        "name": "egora.org",
-        "domain": "matrix.egora.org",
-        "info": "https://egora.org/",
-        "jurisdiction": "Finland?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Right-wing",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.34.0"
-    },
-    {
         "name": "envs.net",
         "domain": "envs.net",
         "info": "https://matrix-help.envs.net/",
