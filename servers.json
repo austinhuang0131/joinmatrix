@@ -60,6 +60,21 @@
         "version": "1.64.0"
     },
     {
+        "name": "aria-net.org",
+        "domain": "aria-net.org",
+        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
+        "jurisdiction": "Italy?",
+        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://el.aria-net.org/",
+        "software": "Synapse",
+        "version": "1.63.1"
+    },
+    {
         "name": "bachgau.social",
         "domain": "bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
@@ -326,21 +341,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.crossbach.de/",
-        "software": "Synapse",
-        "version": "1.64.0"
-    },
-    {
-        "name": "das-labor.org",
-        "domain": "das-labor.org",
-        "info": "https://wiki.das-labor.org/w/Projekt/Matrix",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.das-labor.org/",
         "software": "Synapse",
         "version": "1.64.0"
     },
@@ -678,7 +678,7 @@
         "name": "mandragot.org",
         "domain": "mandragot.org",
         "info": "https://www.mandragot.org/page/matrix/",
-        "jurisdiction": "France?",
+        "jurisdiction": "France",
         "tos": null,
         "privacy": null,
         "open": true,
@@ -747,7 +747,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://mtrx.nz/",
         "software": "Synapse",
-        "version": "1.63.1"
+        "version": "1.64.0"
     },
     {
         "name": "nitro.chat",
@@ -867,7 +867,7 @@
         "reg_method": "SSO",
         "reg_link": "https://chat.prometheus.systems/",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.64.0"
     },
     {
         "name": "pub.solar",
@@ -1166,21 +1166,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.utwente.io/",
-        "software": "Synapse",
-        "version": "1.64.0"
-    },
-    {
-        "name": "vern.cc",
-        "domain": "vern.cc",
-        "info": "https://vern.cc/",
-        "jurisdiction": "US/India? (US/Canada)",
-        "tos": "https://vern.cc/rules",
-        "privacy": "https://vern.cc/privpol",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://vern.cc/register.php",
         "software": "Synapse",
         "version": "1.64.0"
     },
