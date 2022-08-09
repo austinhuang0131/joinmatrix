@@ -672,7 +672,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.62.0"
     },
     {
         "name": "mandragot.org",
@@ -1110,21 +1110,6 @@
         "version": "1.63.1"
     },
     {
-        "name": "trygve.me",
-        "domain": "trygve.me",
-        "info": "https://trygve.me/matrix_info/",
-        "jurisdiction": "Norway",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Norwegian; personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.trygve.me/",
-        "software": "Synapse",
-        "version": "1.64.0"
-    },
-    {
         "name": "ungleich.ch",
         "domain": "ungleich.ch",
         "info": "https://ungleich.ch/u/projects/open-chat/",
@@ -1166,6 +1151,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.utwente.io/",
+        "software": "Synapse",
+        "version": "1.64.0"
+    },
+    {
+        "name": "vern.cc",
+        "domain": "vern.cc",
+        "info": "https://vern.cc/",
+        "jurisdiction": "US/India? (US/Canada)",
+        "tos": "https://vern.cc/rules",
+        "privacy": "https://vern.cc/privpol",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://vern.cc/register.php",
         "software": "Synapse",
         "version": "1.64.0"
     },
