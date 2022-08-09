@@ -60,21 +60,6 @@
         "version": "1.64.0"
     },
     {
-        "name": "aria-net.org",
-        "domain": "aria-net.org",
-        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
-        "jurisdiction": "Italy?",
-        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://el.aria-net.org/",
-        "software": "Synapse",
-        "version": "1.64.0"
-    },
-    {
         "name": "bachgau.social",
         "domain": "bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
@@ -395,7 +380,7 @@
         "info": "https://filik.eu",
         "jurisdiction": "Czech Republic",
         "tos": null,
-        "privacy": null,
+        "privacy": "https://filik.eu/policy.html",
         "open": true,
         "remarks": "",
         "antifeature": null,
@@ -618,7 +603,7 @@
         "name": "llamarific.social",
         "domain": "llamarific.social",
         "info": "https://llamarific.social/matrix.html",
-        "jurisdiction": "US?",
+        "jurisdiction": "US",
         "tos": null,
         "privacy": null,
         "open": true,
@@ -885,21 +870,6 @@
         "version": "1.64.0"
     },
     {
-        "name": "qoto.org",
-        "domain": "matrix.qoto.org",
-        "info": "https://qoto.org/about/more",
-        "jurisdiction": "US?",
-        "tos": "https://qoto.org/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.qoto.org/",
-        "software": "Synapse",
-        "version": "1.45.1"
-    },
-    {
         "name": "radiowarnerd.org",
         "domain": "radiowarnerd.org",
         "info": "https://dokuwiki.radiowarnerd.org/matrixaccountcreation",
@@ -1138,21 +1108,6 @@
         "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
         "version": "1.64.0"
-    },
-    {
-        "name": "unredacted.org",
-        "domain": "unredacted.org",
-        "info": "https://unredacted.org/services/matrix/",
-        "jurisdiction": "US (Romania)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.unredacted.org/",
-        "software": "Synapse",
-        "version": "1.63.1"
     },
     {
         "name": "utwente.io",
