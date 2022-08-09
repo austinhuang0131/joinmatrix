@@ -60,6 +60,21 @@
         "version": "1.64.0"
     },
     {
+        "name": "aria-net.org",
+        "domain": "aria-net.org",
+        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
+        "jurisdiction": "Italy?",
+        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://el.aria-net.org/",
+        "software": "Archon",
+        "version": "1.64.0"
+    },
+    {
         "name": "bachgau.social",
         "domain": "bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
@@ -840,6 +855,21 @@
         "version": "1.64.0"
     },
     {
+        "name": "projectsegfau.lt",
+        "domain": "projectsegfau.lt",
+        "info": "https://projectsegfau.lt/instances",
+        "jurisdiction": "France/Greece",
+        "tos": "https://projectsegfau.lt/legal/tos",
+        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.projectsegfau.lt/",
+        "software": "Synapse",
+        "version": "1.64.0"
+    },
+    {
         "name": "prometheus.systems",
         "domain": "prometheus.systems",
         "info": "https://prometheus.systems",
@@ -1005,21 +1035,6 @@
         "version": "1.64.0"
     },
     {
-        "name": "tchncs.de",
-        "domain": "tchncs.de",
-        "info": "https://tchncs.de/matrix",
-        "jurisdiction": "Germany",
-        "tos": "https://tchncs.de/matrix/tos",
-        "privacy": "https://tchncs.de/matrix/privacy",
-        "open": true,
-        "remarks": "General host; only stores messages for a year",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.tchncs.de/#/register",
-        "software": "Synapse",
-        "version": "1.64.0"
-    },
-    {
         "name": "techsaviours.org",
         "domain": "techsaviours.org",
         "info": "https://techsaviours.org",
@@ -1108,6 +1123,21 @@
         "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
         "version": "1.64.0"
+    },
+    {
+        "name": "unredacted.org",
+        "domain": "unredacted.org",
+        "info": "https://unredacted.org/services/matrix/",
+        "jurisdiction": "US (Romania)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.unredacted.org/",
+        "software": "Synapse",
+        "version": "1.63.1"
     },
     {
         "name": "utwente.io",
