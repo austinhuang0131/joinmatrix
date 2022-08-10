@@ -690,21 +690,6 @@
         "version": "1.57.0"
     },
     {
-        "name": "matrix.im",
-        "domain": "matrix.im",
-        "info": "https://matrix.im",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://www.matrix.im/datenschutz.html",
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.matrix.im/",
-        "software": "Synapse",
-        "version": "1.64.0"
-    },
-    {
         "name": "monero.social",
         "domain": "monero.social",
         "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
