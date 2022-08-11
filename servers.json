@@ -627,7 +627,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.llamarific.social/",
         "software": "Synapse",
-        "version": "1.53.0"
+        "version": "1.64.0"
     },
     {
         "name": "magdeburg.jetzt",
@@ -1106,6 +1106,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.trygve.me/",
+        "software": "Synapse",
+        "version": "1.64.0"
+    },
+    {
+        "name": "ungleich.ch",
+        "domain": "ungleich.ch",
+        "info": "https://ungleich.ch/u/projects/open-chat/",
+        "jurisdiction": "Switzerland",
+        "tos": null,
+        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
+        "open": true,
+        "remarks": "Hosting provider",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
         "version": "1.64.0"
     },
