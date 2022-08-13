@@ -435,6 +435,21 @@
         "version": "1.63.1"
     },
     {
+        "name": "freitrix.de",
+        "domain": "freitrix.de",
+        "info": "https://freitrix.de",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://freifunk-suedholstein.de/datenschutz/",
+        "open": true,
+        "remarks": "In German",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://webchat.freitrix.de/#/register",
+        "software": "Synapse",
+        "version": "1.64.0"
+    },
+    {
         "name": "fulda.social",
         "domain": "fulda.social",
         "info": "https://dasnetzundich.de/2021/08/14/willkommen-in-der-matrix/",
@@ -675,21 +690,6 @@
         "version": "1.64.0"
     },
     {
-        "name": "monero.social",
-        "domain": "monero.social",
-        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
-        "jurisdiction": "US",
-        "tos": "https://www.getmonero.org/legal/",
-        "privacy": null,
-        "open": true,
-        "remarks": "18+; accessory; crypto",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.61.1"
-    },
-    {
         "name": "mstdn.social",
         "domain": "mstdn.social",
         "info": "https://mstdn.social/about/more#matrix",
@@ -821,6 +821,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
+        "software": "Synapse",
+        "version": "1.64.0"
+    },
+    {
+        "name": "projectsegfau.lt",
+        "domain": "projectsegfau.lt",
+        "info": "https://projectsegfau.lt/instances",
+        "jurisdiction": "France/Greece",
+        "tos": "https://projectsegfau.lt/legal/tos",
+        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.projectsegfau.lt/",
         "software": "Synapse",
         "version": "1.64.0"
     },
@@ -1091,21 +1106,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.trygve.me/",
-        "software": "Synapse",
-        "version": "1.64.0"
-    },
-    {
-        "name": "ungleich.ch",
-        "domain": "ungleich.ch",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
         "version": "1.64.0"
     },
