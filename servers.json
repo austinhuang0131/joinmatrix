@@ -825,21 +825,6 @@
         "version": "1.64.0"
     },
     {
-        "name": "projectsegfau.lt",
-        "domain": "projectsegfau.lt",
-        "info": "https://projectsegfau.lt/instances",
-        "jurisdiction": "France/Greece",
-        "tos": "https://projectsegfau.lt/legal/tos",
-        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.projectsegfau.lt/",
-        "software": "Synapse",
-        "version": "1.64.0"
-    },
-    {
         "name": "prometheus.systems",
         "domain": "prometheus.systems",
         "info": "https://prometheus.systems",
@@ -1016,6 +1001,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://web.synod.im/",
+        "software": "Synapse",
+        "version": "1.64.0"
+    },
+    {
+        "name": "tchncs.de",
+        "domain": "tchncs.de",
+        "info": "https://tchncs.de/matrix",
+        "jurisdiction": "Germany",
+        "tos": "https://tchncs.de/matrix/tos",
+        "privacy": "https://tchncs.de/matrix/privacy",
+        "open": true,
+        "remarks": "General host; only stores messages for a year",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
         "version": "1.64.0"
     },
