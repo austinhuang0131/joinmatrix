@@ -390,6 +390,21 @@
         "version": "1.64.0"
     },
     {
+        "name": "exarius.org",
+        "domain": "exarius.org",
+        "info": "https://exarius.org/wiki/services/exatrix/",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.61.1"
+    },
+    {
         "name": "filik.eu",
         "domain": "filik.eu",
         "info": "https://filik.eu",
@@ -508,6 +523,21 @@
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
         "version": "1.63.1"
+    },
+    {
+        "name": "glasgow.social",
+        "domain": "glasgow.social",
+        "info": "https://opensource.glasgow.social/matrix",
+        "jurisdiction": "UK",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional tech collective",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.glasgow.social/",
+        "software": "Synapse",
+        "version": "1.61.1"
     },
     {
         "name": "group.lt",
@@ -990,21 +1020,6 @@
         "version": "1.64.0"
     },
     {
-        "name": "synod.im",
-        "domain": "synod.im",
-        "info": "https://doc.librechurch.org/Wiki.jsp?page=Matrix#section-Matrix-DieMatrixInstanzSynod.im",
-        "jurisdiction": "Germany",
-        "tos": "https://synod.im/_matrix/consent?v=1.0",
-        "privacy": "https://synod.im/privacy-1.2.html",
-        "open": true,
-        "remarks": "In German; Christian",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://web.synod.im/",
-        "software": "Synapse",
-        "version": "1.64.0"
-    },
-    {
         "name": "tchncs.de",
         "domain": "tchncs.de",
         "info": "https://tchncs.de/matrix",
@@ -1123,21 +1138,6 @@
         "reg_link": "https://element.unredacted.org/",
         "software": "Synapse",
         "version": "1.63.1"
-    },
-    {
-        "name": "utwente.io",
-        "domain": "utwente.io",
-        "info": "https://syscom.utwente.io/info/matrix/homeserver/",
-        "jurisdiction": "Netherlands",
-        "tos": "https://syscom.utwente.io/info/matrix/homeserver/#rules",
-        "privacy": "https://syscom.utwente.io/info/privacy/matrix/",
-        "open": true,
-        "remarks": "Regional; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.utwente.io/",
-        "software": "Synapse",
-        "version": "1.64.0"
     },
     {
         "name": "vern.cc",
