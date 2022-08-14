@@ -510,21 +510,6 @@
         "version": "1.63.1"
     },
     {
-        "name": "glasgow.social",
-        "domain": "glasgow.social",
-        "info": "https://opensource.glasgow.social/matrix",
-        "jurisdiction": "UK",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional tech collective",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.glasgow.social/",
-        "software": "Synapse",
-        "version": "1.61.1"
-    },
-    {
         "name": "group.lt",
         "domain": "group.lt",
         "info": "https://group.lt",
@@ -1138,6 +1123,21 @@
         "reg_link": "https://element.unredacted.org/",
         "software": "Synapse",
         "version": "1.63.1"
+    },
+    {
+        "name": "utwente.io",
+        "domain": "utwente.io",
+        "info": "https://syscom.utwente.io/info/matrix/homeserver/",
+        "jurisdiction": "Netherlands",
+        "tos": "https://syscom.utwente.io/info/matrix/homeserver/#rules",
+        "privacy": "https://syscom.utwente.io/info/privacy/matrix/",
+        "open": true,
+        "remarks": "Regional; student-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.utwente.io/",
+        "software": "Synapse",
+        "version": "1.64.0"
     },
     {
         "name": "vern.cc",
