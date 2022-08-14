@@ -180,21 +180,6 @@
         "version": "1.64.0"
     },
     {
-        "name": "catgirl.cloud",
-        "domain": "catgirl.cloud",
-        "info": "https://catgirl.cloud",
-        "jurisdiction": "Germany",
-        "tos": "https://catgirl.cloud/#rules",
-        "privacy": "https://catgirl.cloud/#privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://registration.matrix.catgirl.cloud/",
-        "software": "Synapse",
-        "version": "1.64.0"
-    },
-    {
         "name": "cezeri.tech",
         "domain": "cezeri.tech",
         "info": "https://cezeri.tech",
@@ -660,21 +645,6 @@
         "version": "1.62.0"
     },
     {
-        "name": "mandragot.org",
-        "domain": "mandragot.org",
-        "info": "https://www.mandragot.org/page/matrix/",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.57.0"
-    },
-    {
         "name": "matrix.im",
         "domain": "matrix.im",
         "info": "https://matrix.im",
@@ -976,7 +946,7 @@
     },
     {
         "name": "sibnsk.net",
-        "domain": "matrix.sibnsk.net",
+        "domain": "sibnsk.net",
         "info": "https://lugnsk.org/page/blog/matrix",
         "jurisdiction": "Russia",
         "tos": "https://matrix.sibnsk.net/_matrix/consent",
@@ -1303,6 +1273,21 @@
         "reg_link": "https://hingst.net/kontakt/",
         "software": "Synapse",
         "version": "1.64.0"
+    },
+    {
+        "name": "hyteck.de",
+        "domain": "hyteck.de",
+        "info": "https://hyteck.de/services/",
+        "jurisdiction": "Germany",
+        "tos": "https://hyteck.de/services/",
+        "privacy": null,
+        "open": false,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://hyteck.de/about/",
+        "software": "Synapse",
+        "version": "1.63.0"
     },
     {
         "name": "libreon.fr",
