@@ -180,6 +180,21 @@
         "version": "1.64.0"
     },
     {
+        "name": "catgirl.cloud",
+        "domain": "catgirl.cloud",
+        "info": "https://catgirl.cloud",
+        "jurisdiction": "Germany",
+        "tos": "https://catgirl.cloud/#rules",
+        "privacy": "https://catgirl.cloud/#privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://registration.matrix.catgirl.cloud/",
+        "software": "Synapse",
+        "version": "1.64.0"
+    },
+    {
         "name": "cezeri.tech",
         "domain": "cezeri.tech",
         "info": "https://cezeri.tech",
@@ -1273,21 +1288,6 @@
         "reg_link": "https://hingst.net/kontakt/",
         "software": "Synapse",
         "version": "1.64.0"
-    },
-    {
-        "name": "hyteck.de",
-        "domain": "hyteck.de",
-        "info": "https://hyteck.de/services/",
-        "jurisdiction": "Germany",
-        "tos": "https://hyteck.de/services/",
-        "privacy": null,
-        "open": false,
-        "remarks": "In German; personal",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://hyteck.de/about/",
-        "software": "Synapse",
-        "version": "1.63.0"
     },
     {
         "name": "libreon.fr",
