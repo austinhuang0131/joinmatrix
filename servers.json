@@ -465,21 +465,6 @@
         "version": "1.64.0"
     },
     {
-        "name": "fulda.social",
-        "domain": "fulda.social",
-        "info": "https://dasnetzundich.de/2021/08/14/willkommen-in-der-matrix/",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.fulda.social/",
-        "software": "Synapse",
-        "version": "1.62.0"
-    },
-    {
         "name": "g24.at",
         "domain": "g24.at",
         "info": "https://g24.at",
@@ -1016,6 +1001,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
+        "software": "Synapse",
+        "version": "1.64.0"
+    },
+    {
+        "name": "synod.im",
+        "domain": "synod.im",
+        "info": "https://doc.librechurch.org/Wiki.jsp?page=Matrix#section-Matrix-DieMatrixInstanzSynod.im",
+        "jurisdiction": "Germany",
+        "tos": "https://synod.im/_matrix/consent?v=1.0",
+        "privacy": "https://synod.im/privacy-1.2.html",
+        "open": true,
+        "remarks": "In German; Christian",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://web.synod.im/",
         "software": "Synapse",
         "version": "1.64.0"
     },
