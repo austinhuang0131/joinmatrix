@@ -75,19 +75,19 @@
         "version": "1.64.0"
     },
     {
-        "name": "bachgau.social",
-        "domain": "bachgau.social",
-        "info": "https://www.bachgau.social/unsere-dienste/matrix/",
+        "name": "asozial.org",
+        "domain": "asozial.org",
+        "info": "https://asozial.org",
         "jurisdiction": "Germany",
-        "tos": "https://mastodon.bachgau.social/about/more",
-        "privacy": "https://www.bachgau.social/datenschutzerklaerung/",
+        "tos": null,
+        "privacy": null,
         "open": true,
-        "remarks": "In German; regional",
+        "remarks": "In German; left-wing",
         "antifeature": null,
         "reg_method": "In-house Element",
-        "reg_link": "https://element.bachgau.social/",
-        "software": "Synapse",
-        "version": "1.64.0"
+        "reg_link": "https://chat.asozial.org/",
+        "software": "Dendrite",
+        "version": "0.9.2+65b7db63"
     },
     {
         "name": "badstuebner.biz",
@@ -103,21 +103,6 @@
         "reg_link": "https://element.badstuebner.biz/",
         "software": "Synapse",
         "version": "1.64.0"
-    },
-    {
-        "name": "bancino.net",
-        "domain": "bancino.net",
-        "info": "https://bancino.net",
-        "jurisdiction": "US",
-        "tos": "https://bancino.net/_matrix/consent",
-        "privacy": "https://bancino.net/_matrix/consent",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://bancino.net/element/",
-        "software": "Synapse",
-        "version": "1.54.0"
     },
     {
         "name": "buyvm.net",
@@ -463,6 +448,21 @@
         "reg_link": "https://webchat.freitrix.de/#/register",
         "software": "Synapse",
         "version": "1.64.0"
+    },
+    {
+        "name": "fulda.social",
+        "domain": "fulda.social",
+        "info": "https://dasnetzundich.de/2021/08/14/willkommen-in-der-matrix/",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.fulda.social/",
+        "software": "Synapse",
+        "version": "1.62.0"
     },
     {
         "name": "g24.at",
@@ -870,21 +870,6 @@
         "version": "1.64.0"
     },
     {
-        "name": "qoto.org",
-        "domain": "matrix.qoto.org",
-        "info": "https://qoto.org/about/more",
-        "jurisdiction": "US?",
-        "tos": "https://qoto.org/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.qoto.org/",
-        "software": "Synapse",
-        "version": "1.45.1"
-    },
-    {
         "name": "radiowarnerd.org",
         "domain": "radiowarnerd.org",
         "info": "https://dokuwiki.radiowarnerd.org/matrixaccountcreation",
@@ -986,21 +971,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.socialnetwork24.com",
-        "software": "Synapse",
-        "version": "1.64.0"
-    },
-    {
-        "name": "studichat.de",
-        "domain": "studichat.de",
-        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
         "version": "1.64.0"
     },
