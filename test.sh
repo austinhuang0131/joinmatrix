@@ -35,9 +35,9 @@ do
                 fi
             fi
         else
-            PUBLIC="$raw"
             body=$(curl -Ls -m 10 "https://$base/_matrix/federation/v1/version" -A "https://joinmatrix.org/servers")
             client=$(curl -Ls -m 10 "https://$raw/.well-known/matrix/client" -A "https://joinmatrix.org/servers" | jq '."m.homeserver"."base_url"' | sed s/\"//g | sed "s/\/$//g")
+            PUBLIC="$client"
             reg=$(curl -Ls -m 10 -X POST -H "accept: application/json" -H "Content-Type: application/json" "$client/_matrix/client/r0/register" -A "https://joinmatrix.org/servers" -d '{}')
         fi
         name=$(echo $body | jq .server.name | sed s/\"//g)
