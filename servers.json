@@ -1,7 +1,7 @@
 [
     {
         "name": "0wnz.at",
-        "domain": "im.0wnz.at:8448",
+        "domain": "0wnz.at",
         "info": "https://0wnz.at",
         "jurisdiction": "Austria",
         "tos": null,
@@ -16,7 +16,7 @@
     },
     {
         "name": "agdersam.no",
-        "domain": "https://agdersam.no",
+        "domain": "agdersam.no",
         "info": "https://agdersam.no/",
         "jurisdiction": "Norway (Germany)",
         "tos": null,
@@ -31,7 +31,7 @@
     },
     {
         "name": "archoslinux.cz",
-        "domain": "https://matrix.archoslinux.cz:443",
+        "domain": "matrix.archoslinux.cz:443",
         "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
         "jurisdiction": "Czech Republic (Germany)",
         "tos": null,
@@ -45,8 +45,23 @@
         "version": "1.64.0"
     },
     {
+        "name": "arcticfoxes.net",
+        "domain": "matrix.arcticfoxes.net",
+        "info": "https://arcticfoxes.net",
+        "jurisdiction": "US (UK)",
+        "tos": null,
+        "privacy": "https://arcticfoxes.net/",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://app.arcticfoxes.net",
+        "software": "Synapse",
+        "version": "1.64.0"
+    },
+    {
         "name": "aria-net.org",
-        "domain": "https://aria.im",
+        "domain": "aria.im",
         "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
         "jurisdiction": "Italy?",
         "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
@@ -61,7 +76,7 @@
     },
     {
         "name": "asozial.org",
-        "domain": "https://matrix.asozial.org:8448",
+        "domain": "matrix.asozial.org:8448",
         "info": "https://asozial.org",
         "jurisdiction": "Germany",
         "tos": null,
@@ -76,7 +91,7 @@
     },
     {
         "name": "bachgau.social",
-        "domain": "https://matrix.bachgau.social",
+        "domain": "matrix.bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
         "jurisdiction": "Germany",
         "tos": "https://mastodon.bachgau.social/about/more",
@@ -91,7 +106,7 @@
     },
     {
         "name": "badstuebner.biz",
-        "domain": "https://matrix.badstuebner.biz",
+        "domain": "matrix.badstuebner.biz",
         "info": "https://badstuebner.biz",
         "jurisdiction": "Germany",
         "tos": null,
@@ -106,7 +121,7 @@
     },
     {
         "name": "bancino.net",
-        "domain": "https://bancino.net",
+        "domain": "bancino.net",
         "info": "https://bancino.net",
         "jurisdiction": "US",
         "tos": "https://bancino.net/_matrix/consent",
@@ -121,7 +136,7 @@
     },
     {
         "name": "buyvm.net",
-        "domain": "https://buyvm.chat",
+        "domain": "buyvm.chat",
         "info": "https://buyvm.net/beware-the-moshbear/",
         "jurisdiction": "US",
         "tos": null,
@@ -151,7 +166,7 @@
     },
     {
         "name": "byzero.dev",
-        "domain": "https://matrix.byzero.dev",
+        "domain": "matrix.byzero.dev",
         "info": "https://hosting.byzero.dev/",
         "jurisdiction": "Germany",
         "tos": null,
@@ -166,7 +181,7 @@
     },
     {
         "name": "cat.casa",
-        "domain": "https://matrix.cat.casa",
+        "domain": "matrix.cat.casa",
         "info": "https://cat.casa/",
         "jurisdiction": "Germany",
         "tos": "https://cat.casa/codeofconduct",
@@ -181,7 +196,7 @@
     },
     {
         "name": "catgirl.cloud",
-        "domain": "https://matrix.catgirl.cloud",
+        "domain": "matrix.catgirl.cloud",
         "info": "https://catgirl.cloud",
         "jurisdiction": "Germany",
         "tos": "https://catgirl.cloud/#rules",
@@ -196,7 +211,7 @@
     },
     {
         "name": "cezeri.tech",
-        "domain": "https://matrix.cezeri.tech",
+        "domain": "matrix.cezeri.tech",
         "info": "https://cezeri.tech",
         "jurisdiction": "Turkey (Germany)",
         "tos": "https://cezeri.tech/kosullar.html",
@@ -211,7 +226,7 @@
     },
     {
         "name": "chagai.website",
-        "domain": "https://mx.chagai.website",
+        "domain": "mx.chagai.website",
         "info": "https://chagai.website",
         "jurisdiction": "Switzerland",
         "tos": null,
@@ -226,7 +241,7 @@
     },
     {
         "name": "chatcloud.net",
-        "domain": "https://matrix.chatcloud.net",
+        "domain": "matrix.chatcloud.net",
         "info": "https://chatcloud.net",
         "jurisdiction": "Austria (Germany)",
         "tos": "https://www.chatcloud.net/terms-of-use/",
@@ -241,7 +256,7 @@
     },
     {
         "name": "chatwave.org",
-        "domain": "https://matrix.chatwave.org",
+        "domain": "matrix.chatwave.org",
         "info": "https://yatrix.org",
         "jurisdiction": "Germany",
         "tos": null,
@@ -271,7 +286,7 @@
     },
     {
         "name": "club1.fr",
-        "domain": "https://club1.fr",
+        "domain": "club1.fr",
         "info": "https://club1.fr/matrix/",
         "jurisdiction": "France",
         "tos": null,
@@ -286,7 +301,7 @@
     },
     {
         "name": "comm.cx",
-        "domain": "https://matrix-client.comm.cx",
+        "domain": "matrix-client.comm.cx",
         "info": "https://comm.cx",
         "jurisdiction": "Japan",
         "tos": null,
@@ -301,7 +316,7 @@
     },
     {
         "name": "community.rs",
-        "domain": "https://matrix.community.rs",
+        "domain": "matrix.community.rs",
         "info": "https://community.rs",
         "jurisdiction": "US",
         "tos": null,
@@ -316,7 +331,7 @@
     },
     {
         "name": "converser.eu",
-        "domain": "https://converser.eu",
+        "domain": "converser.eu",
         "info": "https://converser.eu",
         "jurisdiction": "France",
         "tos": null,
@@ -331,7 +346,7 @@
     },
     {
         "name": "crossbach.de",
-        "domain": "https://matrix.crossbach.de",
+        "domain": "matrix.crossbach.de",
         "info": "https://crossbach.de",
         "jurisdiction": "Germany",
         "tos": null,
@@ -346,7 +361,7 @@
     },
     {
         "name": "data.haus",
-        "domain": "https://matrix.data.haus",
+        "domain": "matrix.data.haus",
         "info": "https://data.haus",
         "jurisdiction": "Germany",
         "tos": null,
@@ -361,7 +376,7 @@
     },
     {
         "name": "duesen.chat",
-        "domain": "https://matrix.duesen.chat",
+        "domain": "matrix.duesen.chat",
         "info": "https://yatrix.org",
         "jurisdiction": "Germany",
         "tos": null,
@@ -376,7 +391,7 @@
     },
     {
         "name": "envs.net",
-        "domain": "https://matrix.envs.net",
+        "domain": "matrix.envs.net",
         "info": "https://matrix-help.envs.net/",
         "jurisdiction": "Germany",
         "tos": "https://envs.net/terms-of-service",
@@ -391,7 +406,7 @@
     },
     {
         "name": "exarius.org",
-        "domain": "https://exarius.org",
+        "domain": "exarius.org",
         "info": "https://exarius.org/wiki/services/exatrix/",
         "jurisdiction": "France",
         "tos": null,
@@ -421,7 +436,7 @@
     },
     {
         "name": "flieger.chat",
-        "domain": "https://matrix.flieger.chat",
+        "domain": "matrix.flieger.chat",
         "info": "https://yatrix.org",
         "jurisdiction": "Germany",
         "tos": null,
@@ -436,7 +451,7 @@
     },
     {
         "name": "freiburg.social",
-        "domain": "https://matrix.freiburg.social",
+        "domain": "matrix.freiburg.social",
         "info": "https://wir.freiburg.social/angebote/matrix/",
         "jurisdiction": "Germany",
         "tos": "https://freiburg.social/terms",
@@ -451,7 +466,7 @@
     },
     {
         "name": "freitrix.de",
-        "domain": "https://freitrix.de",
+        "domain": "freitrix.de",
         "info": "https://freitrix.de",
         "jurisdiction": "Germany",
         "tos": null,
@@ -481,7 +496,7 @@
     },
     {
         "name": "g24.at",
-        "domain": "matrix.g24.at:8448",
+        "domain": "g24.at",
         "info": "https://g24.at",
         "jurisdiction": "Austria",
         "tos": null,
@@ -496,7 +511,7 @@
     },
     {
         "name": "gemeinsam.jetzt",
-        "domain": "https://matrix.gemeinsam.jetzt",
+        "domain": "matrix.gemeinsam.jetzt",
         "info": "https://gemeinsam.jetzt/accounts/profile/",
         "jurisdiction": "Austria",
         "tos": null,
@@ -526,7 +541,7 @@
     },
     {
         "name": "glasgow.social",
-        "domain": "https://matrix.glasgow.social",
+        "domain": "matrix.glasgow.social",
         "info": "https://opensource.glasgow.social/matrix",
         "jurisdiction": "UK",
         "tos": null,
@@ -541,7 +556,7 @@
     },
     {
         "name": "group.lt",
-        "domain": "group.lt:443",
+        "domain": "group.lt",
         "info": "https://group.lt",
         "jurisdiction": "Lithuania?",
         "tos": null,
@@ -556,7 +571,7 @@
     },
     {
         "name": "hot-chilli.im",
-        "domain": "https://hot-chilli.im",
+        "domain": "hot-chilli.im",
         "info": "https://jabber.hot-chilli.net/2022/04/26/hot-chilli-matrix-server/",
         "jurisdiction": "Germany",
         "tos": null,
@@ -586,7 +601,7 @@
     },
     {
         "name": "inetd.xyz",
-        "domain": "https://inetd.xyz",
+        "domain": "inetd.xyz",
         "info": "https://inetd.xyz",
         "jurisdiction": "Netherlands",
         "tos": null,
@@ -601,7 +616,7 @@
     },
     {
         "name": "jonasled.de",
-        "domain": "https://matrix.jonasled.de",
+        "domain": "matrix.jonasled.de",
         "info": "https://jonasled.de",
         "jurisdiction": "Germany",
         "tos": null,
@@ -631,7 +646,7 @@
     },
     {
         "name": "llamarific.social",
-        "domain": "https://matrix.llamarific.social",
+        "domain": "matrix.llamarific.social",
         "info": "https://llamarific.social/matrix.html",
         "jurisdiction": "US",
         "tos": null,
@@ -646,7 +661,7 @@
     },
     {
         "name": "magdeburg.jetzt",
-        "domain": "https://chat.magdeburg.jetzt",
+        "domain": "chat.magdeburg.jetzt",
         "info": "https://magdeburg.jetzt/",
         "jurisdiction": "Germany",
         "tos": "https://softwerke.md/nutzungsbestimmungen/",
@@ -661,7 +676,7 @@
     },
     {
         "name": "mailstation.de",
-        "domain": "https://mailstation.de",
+        "domain": "mailstation.de",
         "info": "https://turing.mailstation.de/?page_id=1375",
         "jurisdiction": "Germany",
         "tos": "https://turing.mailstation.de/terms-and-conditions/",
@@ -691,7 +706,7 @@
     },
     {
         "name": "matrix.im",
-        "domain": "https://matrix.im",
+        "domain": "matrix.im",
         "info": "https://matrix.im",
         "jurisdiction": "Germany",
         "tos": null,
@@ -706,7 +721,7 @@
     },
     {
         "name": "monero.social",
-        "domain": "https://matrix.monero.social",
+        "domain": "matrix.monero.social",
         "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
         "jurisdiction": "US",
         "tos": "https://www.getmonero.org/legal/",
@@ -721,7 +736,7 @@
     },
     {
         "name": "mstdn.social",
-        "domain": "https://chat.mstdn.social",
+        "domain": "chat.mstdn.social",
         "info": "https://mstdn.social/about/more#matrix",
         "jurisdiction": "Netherlands (Germany)",
         "tos": null,
@@ -751,7 +766,7 @@
     },
     {
         "name": "nitro.chat",
-        "domain": "https://nitro.chat",
+        "domain": "nitro.chat",
         "info": "https://nitro.chat",
         "jurisdiction": "Germany",
         "tos": null,
@@ -766,7 +781,7 @@
     },
     {
         "name": "nltrix.net",
-        "domain": "https://nltrix.net",
+        "domain": "nltrix.net",
         "info": "https://nltrix.net",
         "jurisdiction": "Netherlands",
         "tos": "https://nltrix.net/#coc",
@@ -781,7 +796,7 @@
     },
     {
         "name": "oblak.be",
-        "domain": "https://matrix.oblak.be:443",
+        "domain": "matrix.oblak.be:443",
         "info": "https://oblak.be/apps/chat/",
         "jurisdiction": "Germany?",
         "tos": null,
@@ -796,7 +811,7 @@
     },
     {
         "name": "ohai.su",
-        "domain": "https://matrix.ohai.su",
+        "domain": "matrix.ohai.su",
         "info": "https://ohai.su",
         "jurisdiction": "Germany",
         "tos": null,
@@ -856,7 +871,7 @@
     },
     {
         "name": "projectsegfau.lt",
-        "domain": "https://projectsegfau.lt:8448",
+        "domain": "projectsegfau.lt:8448",
         "info": "https://projectsegfau.lt/instances",
         "jurisdiction": "France/Greece",
         "tos": "https://projectsegfau.lt/legal/tos",
@@ -871,7 +886,7 @@
     },
     {
         "name": "prometheus.systems",
-        "domain": "https://chat.prometheus.systems",
+        "domain": "chat.prometheus.systems",
         "info": "https://prometheus.systems",
         "jurisdiction": "Canada?",
         "tos": null,
@@ -886,7 +901,7 @@
     },
     {
         "name": "pub.solar",
-        "domain": "https://matrix.pub.solar",
+        "domain": "matrix.pub.solar",
         "info": "https://pub.solar",
         "jurisdiction": "Germany",
         "tos": null,
@@ -898,21 +913,6 @@
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
         "version": "1.64.0"
-    },
-    {
-        "name": "qoto.org",
-        "domain": "matrix.qoto.org",
-        "info": "https://qoto.org/about/more",
-        "jurisdiction": "US?",
-        "tos": "https://qoto.org/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.qoto.org/",
-        "software": "Synapse",
-        "version": "1.45.1"
     },
     {
         "name": "radiowarnerd.org",
@@ -946,7 +946,7 @@
     },
     {
         "name": "sameteem.com",
-        "domain": "https://matrix.sameteem.com:443",
+        "domain": "matrix.sameteem.com:443",
         "info": "https://sameteem.com",
         "jurisdiction": "US? (UK)",
         "tos": null,
@@ -961,7 +961,7 @@
     },
     {
         "name": "scyldings.com",
-        "domain": "https://matrix.scyldings.com",
+        "domain": "matrix.scyldings.com",
         "info": "https://scyldings.com/guide-joining-the-chat-server-on-scyldings-com/",
         "jurisdiction": "UK? (US)",
         "tos": null,
@@ -976,7 +976,7 @@
     },
     {
         "name": "sfunk1x.com",
-        "domain": "https://matrix.sfunk1x.com",
+        "domain": "matrix.sfunk1x.com",
         "info": "https://sfunk1x.com",
         "jurisdiction": "US",
         "tos": null,
@@ -991,7 +991,7 @@
     },
     {
         "name": "sibnsk.net",
-        "domain": "https://matrix.sibnsk.net",
+        "domain": "matrix.sibnsk.net",
         "info": "https://lugnsk.org/page/blog/matrix",
         "jurisdiction": "Russia",
         "tos": "https://matrix.sibnsk.net/_matrix/consent",
@@ -1006,7 +1006,7 @@
     },
     {
         "name": "socialnetwork24.com",
-        "domain": "socialnetwork24.com:8448",
+        "domain": "socialnetwork24.com",
         "info": "https://blog.unixweb.de/telegram-abgeschaltet-alternative-matrix/",
         "jurisdiction": "Germany",
         "tos": null,
@@ -1021,7 +1021,7 @@
     },
     {
         "name": "studichat.de",
-        "domain": "https://matrix.studichat.de",
+        "domain": "matrix.studichat.de",
         "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
         "jurisdiction": "Germany",
         "tos": null,
@@ -1036,7 +1036,7 @@
     },
     {
         "name": "synod.im",
-        "domain": "https://synod.im",
+        "domain": "synod.im",
         "info": "https://doc.librechurch.org/Wiki.jsp?page=Matrix#section-Matrix-DieMatrixInstanzSynod.im",
         "jurisdiction": "Germany",
         "tos": "https://synod.im/_matrix/consent?v=1.0",
@@ -1051,7 +1051,7 @@
     },
     {
         "name": "tchncs.de",
-        "domain": "https://matrix.tchncs.de",
+        "domain": "matrix.tchncs.de",
         "info": "https://tchncs.de/matrix",
         "jurisdiction": "Germany",
         "tos": "https://tchncs.de/matrix/tos",
@@ -1066,7 +1066,7 @@
     },
     {
         "name": "techsaviours.org",
-        "domain": "https://matrix.techsaviours.org",
+        "domain": "matrix.techsaviours.org",
         "info": "https://techsaviours.org",
         "jurisdiction": "Germany",
         "tos": "https://techsaviours.org/terms-and-conditions.html",
@@ -1081,7 +1081,7 @@
     },
     {
         "name": "tedomum.net",
-        "domain": "https://matrix.tedomum.net",
+        "domain": "matrix.tedomum.net",
         "info": "https://tedomum.net/service/matrix/",
         "jurisdiction": "France",
         "tos": "https://tedomum.net/page/cgu/#",
@@ -1096,7 +1096,7 @@
     },
     {
         "name": "the-apothecary.club",
-        "domain": "https://the-apothecary.club",
+        "domain": "the-apothecary.club",
         "info": "https://the-apothecary.club",
         "jurisdiction": "Germany?",
         "tos": "https://the-apothecary.club/rules/",
@@ -1126,7 +1126,7 @@
     },
     {
         "name": "trygve.me",
-        "domain": "https://trygve.me",
+        "domain": "trygve.me",
         "info": "https://trygve.me/matrix_info/",
         "jurisdiction": "Norway",
         "tos": null,
@@ -1141,7 +1141,7 @@
     },
     {
         "name": "ungleich.ch",
-        "domain": "https://ungleich.matrix.ungleich.cloud",
+        "domain": "ungleich.matrix.ungleich.cloud",
         "info": "https://ungleich.ch/u/projects/open-chat/",
         "jurisdiction": "Switzerland",
         "tos": null,
@@ -1156,7 +1156,7 @@
     },
     {
         "name": "unredacted.org",
-        "domain": "https://matrix.unredacted.org",
+        "domain": "matrix.unredacted.org",
         "info": "https://unredacted.org/services/matrix/",
         "jurisdiction": "US (Romania)",
         "tos": null,
@@ -1171,7 +1171,7 @@
     },
     {
         "name": "utwente.io",
-        "domain": "matrix.snt.utwente.nl:8448",
+        "domain": "utwente.io",
         "info": "https://syscom.utwente.io/info/matrix/homeserver/",
         "jurisdiction": "Netherlands",
         "tos": "https://syscom.utwente.io/info/matrix/homeserver/#rules",
@@ -1186,7 +1186,7 @@
     },
     {
         "name": "vern.cc",
-        "domain": "https://mtrx.vern.cc",
+        "domain": "mtrx.vern.cc",
         "info": "https://vern.cc/",
         "jurisdiction": "US/India? (US/Canada)",
         "tos": "https://vern.cc/rules",
@@ -1201,7 +1201,7 @@
     },
     {
         "name": "virto.community",
-        "domain": "https://matrix.virto.community",
+        "domain": "matrix.virto.community",
         "info": "https://virto.network/",
         "jurisdiction": "? (Germany)",
         "tos": null,
@@ -1216,7 +1216,7 @@
     },
     {
         "name": "yatrix.org",
-        "domain": "https://matrix.yatrix.org",
+        "domain": "matrix.yatrix.org",
         "info": "https://yatrix.org",
         "jurisdiction": "Germany",
         "tos": null,
@@ -1246,7 +1246,7 @@
     },
     {
         "name": "asra.gr",
-        "domain": "https://asra.gr",
+        "domain": "asra.gr",
         "info": "https://asra.gr",
         "jurisdiction": "Austria? (Germany)",
         "tos": "https://wiki.asra.gr/en:start#rules",
@@ -1261,7 +1261,7 @@
     },
     {
         "name": "fachschaften.org",
-        "domain": "https://matrix.fachschaften.org",
+        "domain": "matrix.fachschaften.org",
         "info": "https://fachschaften.org",
         "jurisdiction": "Germany",
         "tos": "https://fsinfo.cs.tu-dortmund.de/studis/coc",
@@ -1276,7 +1276,7 @@
     },
     {
         "name": "pikaviestin.fi",
-        "domain": "https://matrix.pikaviestin.fi",
+        "domain": "matrix.pikaviestin.fi",
         "info": "https://pikaviestin.fi",
         "jurisdiction": "Finland",
         "tos": null,
@@ -1291,7 +1291,7 @@
     },
     {
         "name": "aletheia.moe",
-        "domain": "https://im.aletheia.moe",
+        "domain": "im.aletheia.moe",
         "info": "https://aletheia.moe",
         "jurisdiction": "? (Iceland)",
         "tos": "https://aletheia.moe/tos/",
@@ -1306,7 +1306,7 @@
     },
     {
         "name": "deuxfleurs.fr",
-        "domain": "https://im.deuxfleurs.fr",
+        "domain": "im.deuxfleurs.fr",
         "info": "https://deuxfleurs.fr",
         "jurisdiction": "France",
         "tos": null,
@@ -1321,7 +1321,7 @@
     },
     {
         "name": "hingst.net",
-        "domain": "https://matrix.hingst.net",
+        "domain": "matrix.hingst.net",
         "info": "https://hingst.net",
         "jurisdiction": "Sweden",
         "tos": "https://www.hovkluster.se/matrix/villkor_hingst.html",
@@ -1336,7 +1336,7 @@
     },
     {
         "name": "hyteck.de",
-        "domain": "https://synapse.hyteck.de",
+        "domain": "synapse.hyteck.de",
         "info": "https://hyteck.de/services/",
         "jurisdiction": "Germany",
         "tos": "https://hyteck.de/services/",
@@ -1351,7 +1351,7 @@
     },
     {
         "name": "libreon.fr",
-        "domain": "https://matrix.libreon.fr",
+        "domain": "matrix.libreon.fr",
         "info": "https://libreon.fr",
         "jurisdiction": "France",
         "tos": "https://libreon.fr/cgu",
@@ -1366,7 +1366,7 @@
     },
     {
         "name": "fsfe.org",
-        "domain": "https://matrix.fsfe.org",
+        "domain": "matrix.fsfe.org",
         "info": "https://fsfe.org/news/2022/news-20220202-01.html",
         "jurisdiction": "Germany",
         "tos": "https://fsfe.org/about/codeofconduct",
@@ -1381,7 +1381,7 @@
     },
     {
         "name": "hadoly.fr",
-        "domain": "https://matrix.hadoly.fr",
+        "domain": "matrix.hadoly.fr",
         "info": "https://hadoly.fr",
         "jurisdiction": "France",
         "tos": "https://hadoly.fr/cgu.html",
@@ -1396,7 +1396,7 @@
     },
     {
         "name": "sans-nuage.fr",
-        "domain": "https://matrix.sans-nuage.fr",
+        "domain": "matrix.sans-nuage.fr",
         "info": "https://sans-nuage.fr",
         "jurisdiction": "France",
         "tos": null,
