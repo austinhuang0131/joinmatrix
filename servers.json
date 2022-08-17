@@ -15,6 +15,21 @@
         "version": "1.64.0"
     },
     {
+        "name": "activism.international",
+        "domain": "activism.international",
+        "info": "https://activism.international",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://activism.international/privacy/cloud/",
+        "open": true,
+        "remarks": "Left-wing; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.activism.international/",
+        "software": "Synapse",
+        "version": "1.65.0"
+    },
+    {
         "name": "agdersam.no",
         "domain": "agdersam.no",
         "info": "https://agdersam.no/",
@@ -72,21 +87,6 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.arcticfoxes.net",
         "software": "Synapse",
-        "version": "1.64.0"
-    },
-    {
-        "name": "aria-net.org",
-        "domain": "aria.im",
-        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
-        "jurisdiction": "Italy?",
-        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://el.aria-net.org/",
-        "software": "Archon",
         "version": "1.64.0"
     },
     {
@@ -237,7 +237,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.cezeri.tech/",
         "software": "Synapse",
-        "version": "1.64.0"
+        "version": "1.65.0"
     },
     {
         "name": "chagai.website",
@@ -705,21 +705,6 @@
         "version": "1.62.0"
     },
     {
-        "name": "mandragot.org",
-        "domain": "mandragot.org",
-        "info": "https://www.mandragot.org/page/matrix/",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.57.0"
-    },
-    {
         "name": "matrix.im",
         "domain": "matrix.im",
         "info": "https://matrix.im",
@@ -807,7 +792,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nltrix.net/",
         "software": "Synapse",
-        "version": "1.64.0"
+        "version": "1.65.0"
     },
     {
         "name": "oblak.be",
