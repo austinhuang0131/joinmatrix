@@ -102,7 +102,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://el.aria-net.org/",
         "software": "Archon",
-        "version": "1.64.0"
+        "version": "1.65.0"
     },
     {
         "name": "asozial.org",
@@ -747,7 +747,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
-        "version": "1.64.0"
+        "version": "1.65.0"
     },
     {
         "name": "monero.social",
@@ -1077,7 +1077,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://web.synod.im/",
         "software": "Synapse",
-        "version": "1.64.0"
+        "version": "1.65.0"
     },
     {
         "name": "tchncs.de",
@@ -1107,7 +1107,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
-        "version": "1.63.1"
+        "version": "1.64.0"
     },
     {
         "name": "tedomum.net",
@@ -1362,7 +1362,7 @@
         "reg_method": "Contact",
         "reg_link": "https://hingst.net/kontakt/",
         "software": "Synapse",
-        "version": "1.64.0"
+        "version": "1.65.0"
     },
     {
         "name": "hyteck.de",
