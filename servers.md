@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
     if (c[i].textContent == "Error!!")
       c[i].classList.add("red");
     else if (c[i].textContent.indexOf("Dendrite") == -1)
-      c[i].classList.add((parseFloat(c[i].textContent.substring(2)) >= 61.1) ? "green" : "orange");
+      c[i].classList.add((parseFloat(c[i].textContent.match(/\d+\.\d+\.\d/)[0].substring(2)) >= 61.1) ? "green" : "orange");
   })
 })
 </script>
