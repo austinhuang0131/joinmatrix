@@ -117,7 +117,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.bachgau.social/",
         "software": "Synapse",
-        "version": "1.64.0"
+        "version": "1.65.0"
     },
     {
         "name": "badstuebner.biz",
@@ -133,6 +133,21 @@
         "reg_link": "https://element.badstuebner.biz/",
         "software": "Synapse",
         "version": "1.64.0"
+    },
+    {
+        "name": "bancino.net",
+        "domain": "bancino.net",
+        "info": "https://bancino.net",
+        "jurisdiction": "US",
+        "tos": "https://bancino.net/_matrix/consent",
+        "privacy": "https://bancino.net/_matrix/consent",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://bancino.net/element/",
+        "software": "Synapse",
+        "version": "1.54.0"
     },
     {
         "name": "buyvm.net",
@@ -178,21 +193,6 @@
         "reg_link": "https://element.byzero.dev/",
         "software": "Synapse",
         "version": "1.62.0"
-    },
-    {
-        "name": "cat.casa",
-        "domain": "matrix.cat.casa",
-        "info": "https://cat.casa/",
-        "jurisdiction": "Germany",
-        "tos": "https://cat.casa/codeofconduct",
-        "privacy": "https://cat.casa/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.cat.casa/",
-        "software": "Synapse",
-        "version": "1.64.0"
     },
     {
         "name": "catgirl.cloud",
@@ -297,7 +297,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.64.0"
+        "version": "1.65.0"
     },
     {
         "name": "comm.cx",
@@ -328,21 +328,6 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.62.0"
-    },
-    {
-        "name": "converser.eu",
-        "domain": "converser.eu",
-        "info": "https://converser.eu",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.63.0"
     },
     {
         "name": "crossbach.de",
@@ -387,7 +372,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.64.0"
+        "version": "1.65.0"
     },
     {
         "name": "envs.net",
@@ -447,7 +432,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
-        "version": "1.64.0"
+        "version": "1.65.0"
     },
     {
         "name": "freiburg.social",
@@ -1197,7 +1182,7 @@
         "reg_method": "Form",
         "reg_link": "https://vern.cc/register.php",
         "software": "Synapse",
-        "version": "1.64.0"
+        "version": "1.65.0"
     },
     {
         "name": "virto.community",
