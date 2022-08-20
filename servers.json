@@ -286,7 +286,7 @@
     },
     {
         "name": "chatcloud.net",
-        "domain": "matrix.chatcloud.net",
+        "domain": "chatcloud.net",
         "info": "https://chatcloud.net",
         "jurisdiction": "Austria (Germany)",
         "tos": "https://www.chatcloud.net/terms-of-use/",
@@ -1140,6 +1140,21 @@
         "version": "1.65.0"
     },
     {
+        "name": "the-apothecary.club",
+        "domain": "the-apothecary.club",
+        "info": "https://the-apothecary.club",
+        "jurisdiction": "Germany?",
+        "tos": "https://the-apothecary.club/rules/",
+        "privacy": null,
+        "open": true,
+        "remarks": "Left-wing",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://the-apothecary.club/",
+        "software": "Synapse",
+        "version": "1.64.0"
+    },
+    {
         "name": "tomesh.net",
         "domain": "matrix.tomesh.net",
         "info": "https://tomesh.net/mesh-services/",
@@ -1212,7 +1227,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
-        "version": "1.64.0"
+        "version": "1.65.0"
     },
     {
         "name": "vern.cc",
