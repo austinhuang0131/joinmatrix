@@ -15,6 +15,21 @@
         "version": "1.64.0"
     },
     {
+        "name": "activism.international",
+        "domain": "activism.international",
+        "info": "https://activism.international",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://activism.international/privacy/cloud/",
+        "open": true,
+        "remarks": "Left-wing; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.activism.international/",
+        "software": "Synapse",
+        "version": "1.65.0"
+    },
+    {
         "name": "agdersam.no",
         "domain": "agdersam.no",
         "info": "https://agdersam.no/",
@@ -342,7 +357,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.64.0"
+        "version": "1.65.0"
     },
     {
         "name": "community.rs",
@@ -643,21 +658,6 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.65.0"
-    },
-    {
-        "name": "librem.one",
-        "domain": "chat.librem.one",
-        "info": "https://librem.one",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": "https://librem.one/policy/",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://librem.one",
-        "software": "Synapse",
-        "version": "1.38.1"
     },
     {
         "name": "llamarific.social",
@@ -1138,21 +1138,6 @@
         "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
         "version": "1.65.0"
-    },
-    {
-        "name": "the-apothecary.club",
-        "domain": "the-apothecary.club",
-        "info": "https://the-apothecary.club",
-        "jurisdiction": "Germany?",
-        "tos": "https://the-apothecary.club/rules/",
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://the-apothecary.club/",
-        "software": "Synapse",
-        "version": "1.64.0"
     },
     {
         "name": "tomesh.net",
