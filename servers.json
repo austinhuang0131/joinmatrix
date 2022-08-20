@@ -15,21 +15,6 @@
         "version": "1.64.0"
     },
     {
-        "name": "activism.international",
-        "domain": "activism.international",
-        "info": "https://activism.international",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://activism.international/privacy/cloud/",
-        "open": true,
-        "remarks": "Left-wing; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.activism.international/",
-        "software": "Synapse",
-        "version": "1.65.0"
-    },
-    {
         "name": "agdersam.no",
         "domain": "agdersam.no",
         "info": "https://agdersam.no/",
@@ -1095,6 +1080,21 @@
         "version": "1.65.0"
     },
     {
+        "name": "synod.im",
+        "domain": "synod.im",
+        "info": "https://doc.librechurch.org/Wiki.jsp?page=Matrix#section-Matrix-DieMatrixInstanzSynod.im",
+        "jurisdiction": "Germany",
+        "tos": "https://synod.im/_matrix/consent?v=1.0",
+        "privacy": "https://synod.im/privacy-1.2.html",
+        "open": true,
+        "remarks": "In German; Christian",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://web.synod.im/",
+        "software": "Synapse",
+        "version": "1.65.0"
+    },
+    {
         "name": "tchncs.de",
         "domain": "matrix.tchncs.de",
         "info": "https://tchncs.de/matrix",
@@ -1181,21 +1181,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.trygve.me/",
-        "software": "Synapse",
-        "version": "1.64.0"
-    },
-    {
-        "name": "ungleich.ch",
-        "domain": "ungleich.matrix.ungleich.cloud",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
         "version": "1.64.0"
     },
