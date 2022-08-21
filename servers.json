@@ -15,21 +15,6 @@
         "version": "1.64.0"
     },
     {
-        "name": "activism.international",
-        "domain": "activism.international",
-        "info": "https://activism.international",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://activism.international/privacy/cloud/",
-        "open": true,
-        "remarks": "Left-wing; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.activism.international/",
-        "software": "Synapse",
-        "version": "1.65.0"
-    },
-    {
         "name": "agdersam.no",
         "domain": "agdersam.no",
         "info": "https://agdersam.no/",
@@ -286,7 +271,7 @@
     },
     {
         "name": "chatcloud.net",
-        "domain": "chatcloud.net",
+        "domain": "matrix.chatcloud.net",
         "info": "https://chatcloud.net",
         "jurisdiction": "Austria (Germany)",
         "tos": "https://www.chatcloud.net/terms-of-use/",
@@ -523,6 +508,21 @@
         "reg_link": "https://webchat.freitrix.de/#/register",
         "software": "Synapse",
         "version": "1.64.0"
+    },
+    {
+        "name": "fulda.social",
+        "domain": "fulda.social",
+        "info": "https://dasnetzundich.de/2021/08/14/willkommen-in-der-matrix/",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.fulda.social/",
+        "software": "Synapse",
+        "version": "1.65.0"
     },
     {
         "name": "g24.at",
