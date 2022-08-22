@@ -417,7 +417,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.data.haus/",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.65.0"
     },
     {
         "name": "duesen.chat",
