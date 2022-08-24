@@ -60,21 +60,6 @@
         "version": "1.65.0"
     },
     {
-        "name": "archoslinux.cz",
-        "domain": "matrix.archoslinux.cz:443",
-        "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
-        "jurisdiction": "Czech Republic (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Czech; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.archoslinux.cz/",
-        "software": "Synapse",
-        "version": "1.65.0"
-    },
-    {
         "name": "arcticfoxes.net",
         "domain": "matrix.arcticfoxes.net",
         "info": "https://arcticfoxes.net",
@@ -690,21 +675,6 @@
         "version": "1.38.1"
     },
     {
-        "name": "llamarific.social",
-        "domain": "matrix.llamarific.social",
-        "info": "https://llamarific.social/matrix.html",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.llamarific.social/",
-        "software": "Synapse",
-        "version": "1.64.0"
-    },
-    {
         "name": "magdeburg.jetzt",
         "domain": "chat.magdeburg.jetzt",
         "info": "https://magdeburg.jetzt/",
@@ -975,6 +945,21 @@
         "version": "1.64.0"
     },
     {
+        "name": "qoto.org",
+        "domain": "matrix.qoto.org",
+        "info": "https://qoto.org/about/more",
+        "jurisdiction": "US?",
+        "tos": "https://qoto.org/about/more",
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.qoto.org/",
+        "software": "Synapse",
+        "version": "1.45.1"
+    },
+    {
         "name": "radiowarnerd.org",
         "domain": "radiowarnerd.org",
         "info": "https://dokuwiki.radiowarnerd.org/matrixaccountcreation",
@@ -1091,21 +1076,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
-        "software": "Synapse",
-        "version": "1.65.0"
-    },
-    {
-        "name": "synod.im",
-        "domain": "synod.im",
-        "info": "https://doc.librechurch.org/Wiki.jsp?page=Matrix#section-Matrix-DieMatrixInstanzSynod.im",
-        "jurisdiction": "Germany",
-        "tos": "https://synod.im/_matrix/consent?v=1.0",
-        "privacy": "https://synod.im/privacy-1.2.html",
-        "open": true,
-        "remarks": "In German; Christian",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://web.synod.im/",
         "software": "Synapse",
         "version": "1.65.0"
     },
@@ -1333,21 +1303,6 @@
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
         "version": "1.64.0"
-    },
-    {
-        "name": "deuxfleurs.fr",
-        "domain": "im.deuxfleurs.fr",
-        "info": "https://deuxfleurs.fr",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": false,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://deuxfleurs.fr/",
-        "software": "Synapse",
-        "version": "1.61.1"
     },
     {
         "name": "hingst.net",
