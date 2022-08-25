@@ -75,21 +75,6 @@
         "version": "1.65.0"
     },
     {
-        "name": "aria-net.org",
-        "domain": "aria.im",
-        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
-        "jurisdiction": "Italy?",
-        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://el.aria-net.org/",
-        "software": "Archon",
-        "version": "1.65.0"
-    },
-    {
         "name": "arrayinamatrix.xyz",
         "domain": "matrix.arrayinamatrix.xyz",
         "info": "https://arrayinamatrix.xyz/index/apps/matrix/",
@@ -148,21 +133,6 @@
         "reg_link": "https://element.badstuebner.biz/",
         "software": "Synapse",
         "version": "1.64.0"
-    },
-    {
-        "name": "bancino.net",
-        "domain": "bancino.net",
-        "info": "https://bancino.net",
-        "jurisdiction": "US",
-        "tos": "https://bancino.net/_matrix/consent",
-        "privacy": "https://bancino.net/_matrix/consent",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://bancino.net/element/",
-        "software": "Synapse",
-        "version": "1.54.0"
     },
     {
         "name": "buyvm.net",
@@ -420,21 +390,6 @@
         "version": "1.65.0"
     },
     {
-        "name": "envs.net",
-        "domain": "matrix.envs.net",
-        "info": "https://matrix-help.envs.net/",
-        "jurisdiction": "Germany",
-        "tos": "https://envs.net/terms-of-service",
-        "privacy": "https://envs.net/privacy-policy/",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.envs.net/",
-        "software": "Synapse",
-        "version": "1.65.0"
-    },
-    {
         "name": "exarius.org",
         "domain": "exarius.org",
         "info": "https://exarius.org/wiki/services/exatrix/",
@@ -570,6 +525,21 @@
         "version": "1.63.1"
     },
     {
+        "name": "glasgow.social",
+        "domain": "matrix.glasgow.social",
+        "info": "https://opensource.glasgow.social/matrix",
+        "jurisdiction": "UK",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional tech collective",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.glasgow.social/",
+        "software": "Synapse",
+        "version": "1.61.1"
+    },
+    {
         "name": "group.lt",
         "domain": "group.lt",
         "info": "https://group.lt",
@@ -628,6 +598,21 @@
         "reg_link": "https://element.inetd.xyz/",
         "software": "Synapse",
         "version": "1.61.0"
+    },
+    {
+        "name": "jonasled.de",
+        "domain": "matrix.jonasled.de",
+        "info": "https://jonasled.de",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.65.0"
     },
     {
         "name": "librem.one",
@@ -1021,7 +1006,7 @@
     },
     {
         "name": "sibnsk.net",
-        "domain": "sibnsk.net",
+        "domain": "matrix.sibnsk.net",
         "info": "https://lugnsk.org/page/blog/matrix",
         "jurisdiction": "Russia",
         "tos": "https://matrix.sibnsk.net/_matrix/consent",
@@ -1106,6 +1091,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.techsaviours.org/",
+        "software": "Synapse",
+        "version": "1.65.0"
+    },
+    {
+        "name": "tedomum.net",
+        "domain": "matrix.tedomum.net",
+        "info": "https://tedomum.net/service/matrix/",
+        "jurisdiction": "France",
+        "tos": "https://tedomum.net/page/cgu/#",
+        "privacy": "https://tedomum.net/page/cgu/",
+        "open": true,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
         "version": "1.65.0"
     },
