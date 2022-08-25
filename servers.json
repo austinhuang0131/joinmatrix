@@ -570,21 +570,6 @@
         "version": "1.63.1"
     },
     {
-        "name": "glasgow.social",
-        "domain": "matrix.glasgow.social",
-        "info": "https://opensource.glasgow.social/matrix",
-        "jurisdiction": "UK",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional tech collective",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.glasgow.social/",
-        "software": "Synapse",
-        "version": "1.61.1"
-    },
-    {
         "name": "group.lt",
         "domain": "group.lt",
         "info": "https://group.lt",
@@ -645,21 +630,6 @@
         "version": "1.61.0"
     },
     {
-        "name": "jonasled.de",
-        "domain": "matrix.jonasled.de",
-        "info": "https://jonasled.de",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; personal",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.65.0"
-    },
-    {
         "name": "librem.one",
         "domain": "chat.librem.one",
         "info": "https://librem.one",
@@ -673,6 +643,21 @@
         "reg_link": "https://librem.one",
         "software": "Synapse",
         "version": "1.38.1"
+    },
+    {
+        "name": "llamarific.social",
+        "domain": "matrix.llamarific.social",
+        "info": "https://llamarific.social/matrix.html",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.llamarific.social/",
+        "software": "Synapse",
+        "version": "1.64.0"
     },
     {
         "name": "magdeburg.jetzt",
@@ -1036,7 +1021,7 @@
     },
     {
         "name": "sibnsk.net",
-        "domain": "matrix.sibnsk.net",
+        "domain": "sibnsk.net",
         "info": "https://lugnsk.org/page/blog/matrix",
         "jurisdiction": "Russia",
         "tos": "https://matrix.sibnsk.net/_matrix/consent",
@@ -1080,6 +1065,21 @@
         "version": "1.65.0"
     },
     {
+        "name": "synod.im",
+        "domain": "synod.im",
+        "info": "https://doc.librechurch.org/Wiki.jsp?page=Matrix#section-Matrix-DieMatrixInstanzSynod.im",
+        "jurisdiction": "Germany",
+        "tos": "https://synod.im/_matrix/consent?v=1.0",
+        "privacy": "https://synod.im/privacy-1.2.html",
+        "open": true,
+        "remarks": "In German; Christian",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://web.synod.im/",
+        "software": "Synapse",
+        "version": "1.65.0"
+    },
+    {
         "name": "tchncs.de",
         "domain": "matrix.tchncs.de",
         "info": "https://tchncs.de/matrix",
@@ -1106,21 +1106,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.techsaviours.org/",
-        "software": "Synapse",
-        "version": "1.65.0"
-    },
-    {
-        "name": "tedomum.net",
-        "domain": "matrix.tedomum.net",
-        "info": "https://tedomum.net/service/matrix/",
-        "jurisdiction": "France",
-        "tos": "https://tedomum.net/page/cgu/#",
-        "privacy": "https://tedomum.net/page/cgu/",
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
         "version": "1.65.0"
     },
@@ -1303,6 +1288,21 @@
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
         "version": "1.64.0"
+    },
+    {
+        "name": "deuxfleurs.fr",
+        "domain": "im.deuxfleurs.fr",
+        "info": "https://deuxfleurs.fr",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": false,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://deuxfleurs.fr/",
+        "software": "Synapse",
+        "version": "1.65.0"
     },
     {
         "name": "hingst.net",
