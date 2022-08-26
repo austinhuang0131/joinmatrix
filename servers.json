@@ -885,6 +885,21 @@
         "version": "1.65.0"
     },
     {
+        "name": "pcriot.org",
+        "domain": "pcriot.org",
+        "info": "https://pcriot.org",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.pcriot.org/",
+        "software": "Synapse",
+        "version": "1.65.0"
+    },
+    {
         "name": "pragma-messenger.ch",
         "domain": "pragma-messenger.ch",
         "info": "https://pragma-solution.com/de/Produkte/messenger/",
@@ -958,21 +973,6 @@
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
         "version": "1.64.0"
-    },
-    {
-        "name": "qoto.org",
-        "domain": "matrix.qoto.org",
-        "info": "https://qoto.org/about/more",
-        "jurisdiction": "US?",
-        "tos": "https://qoto.org/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.qoto.org/",
-        "software": "Synapse",
-        "version": "1.45.1"
     },
     {
         "name": "radiowarnerd.org",
@@ -1196,21 +1196,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.trygve.me/",
-        "software": "Synapse",
-        "version": "1.64.0"
-    },
-    {
-        "name": "ungleich.ch",
-        "domain": "ungleich.matrix.ungleich.cloud",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
         "version": "1.64.0"
     },
