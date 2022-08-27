@@ -45,6 +45,21 @@
         "version": "1.63.1"
     },
     {
+        "name": "anonymousland.org",
+        "domain": "anonymousland.org",
+        "info": "https://www.anonymousland.org/services#matrix",
+        "jurisdiction": "Sweden",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.65.0"
+    },
+    {
         "name": "archoslinux.cz",
         "domain": "matrix.archoslinux.cz:443",
         "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
@@ -312,7 +327,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
-        "version": "1.63.1"
+        "version": "1.65.0"
     },
     {
         "name": "club1.fr",
@@ -943,36 +958,6 @@
         "reg_link": "https://riot.privex.io/",
         "software": "Synapse",
         "version": "1.65.0"
-    },
-    {
-        "name": "pub.solar",
-        "domain": "matrix.pub.solar",
-        "info": "https://pub.solar",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://pub.solar/privacy.html",
-        "open": true,
-        "remarks": "Tech collective",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.pub.solar/",
-        "software": "Synapse",
-        "version": "1.64.0"
-    },
-    {
-        "name": "qoto.org",
-        "domain": "matrix.qoto.org",
-        "info": "https://qoto.org/about/more",
-        "jurisdiction": "US?",
-        "tos": "https://qoto.org/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.qoto.org/",
-        "software": "Synapse",
-        "version": "1.45.1"
     },
     {
         "name": "radiowarnerd.org",
