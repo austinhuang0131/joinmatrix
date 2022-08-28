@@ -582,7 +582,7 @@
         "reg_method": "Form",
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
-        "version": "1.63.1"
+        "version": "1.65.0"
     },
     {
         "name": "glasgow.social",
@@ -915,6 +915,21 @@
         "version": "1.65.0"
     },
     {
+        "name": "projectsegfau.lt",
+        "domain": "projectsegfau.lt:8448",
+        "info": "https://projectsegfau.lt/instances",
+        "jurisdiction": "France/Greece",
+        "tos": "https://projectsegfau.lt/legal/tos",
+        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.projectsegfau.lt/",
+        "software": "Synapse",
+        "version": "1.65.0"
+    },
+    {
         "name": "prometheus.systems",
         "domain": "chat.prometheus.systems",
         "info": "https://prometheus.systems",
@@ -1002,7 +1017,7 @@
         "reg_method": "Form",
         "reg_link": "https://riotchat.de/register/form.php",
         "software": "Synapse",
-        "version": "1.63.1"
+        "version": "1.65.0"
     },
     {
         "name": "sameteem.com",
