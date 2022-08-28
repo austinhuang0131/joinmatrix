@@ -840,6 +840,21 @@
         "version": "1.65.0"
     },
     {
+        "name": "oblak.be",
+        "domain": "matrix.oblak.be:443",
+        "info": "https://oblak.be/apps/chat/",
+        "jurisdiction": "Germany?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.oblak.be/",
+        "software": "Synapse",
+        "version": "1.49.0"
+    },
+    {
         "name": "ohai.su",
         "domain": "matrix.ohai.su",
         "info": "https://ohai.su",
@@ -896,21 +911,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
-        "software": "Synapse",
-        "version": "1.65.0"
-    },
-    {
-        "name": "projectsegfau.lt",
-        "domain": "projectsegfau.lt:8448",
-        "info": "https://projectsegfau.lt/instances",
-        "jurisdiction": "France/Greece",
-        "tos": "https://projectsegfau.lt/legal/tos",
-        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.projectsegfau.lt/",
         "software": "Synapse",
         "version": "1.65.0"
     },
