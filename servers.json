@@ -132,7 +132,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.asozial.org/",
         "software": "Dendrite",
-        "version": "0.9.4+9dc57122"
+        "version": "0.9.5+ed79e862"
     },
     {
         "name": "bachgau.social",
