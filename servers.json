@@ -135,21 +135,6 @@
         "version": "0.9.5+a3eb4e5e"
     },
     {
-        "name": "bachgau.social",
-        "domain": "matrix.bachgau.social",
-        "info": "https://www.bachgau.social/unsere-dienste/matrix/",
-        "jurisdiction": "Germany",
-        "tos": "https://mastodon.bachgau.social/about/more",
-        "privacy": "https://www.bachgau.social/datenschutzerklaerung/",
-        "open": true,
-        "remarks": "In German; regional",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.bachgau.social/",
-        "software": "Synapse",
-        "version": "1.65.0"
-    },
-    {
         "name": "badstuebner.biz",
         "domain": "matrix.badstuebner.biz",
         "info": "https://badstuebner.biz",
@@ -495,21 +480,6 @@
         "version": "1.65.0"
     },
     {
-        "name": "freiburg.social",
-        "domain": "matrix.freiburg.social",
-        "info": "https://wir.freiburg.social/angebote/matrix/",
-        "jurisdiction": "Germany",
-        "tos": "https://freiburg.social/terms",
-        "privacy": "https://wir.freiburg.social/datenschutz-matrix/",
-        "open": true,
-        "remarks": "In German; regional tech collective",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.freiburg.social/",
-        "software": "Synapse",
-        "version": "1.65.0"
-    },
-    {
         "name": "freitrix.de",
         "domain": "freitrix.de",
         "info": "https://freitrix.de",
@@ -748,21 +718,6 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.57.0"
-    },
-    {
-        "name": "matrix.im",
-        "domain": "matrix.im",
-        "info": "https://matrix.im",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://www.matrix.im/datenschutz.html",
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.matrix.im/",
-        "software": "Synapse",
-        "version": "1.65.0"
     },
     {
         "name": "monero.social",
@@ -1016,6 +971,21 @@
         "antifeature": null,
         "reg_method": "Form",
         "reg_link": "https://riotchat.de/register/form.php",
+        "software": "Synapse",
+        "version": "1.65.0"
+    },
+    {
+        "name": "sameteem.com",
+        "domain": "matrix.sameteem.com:443",
+        "info": "https://sameteem.com",
+        "jurisdiction": "US? (UK)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Accessory",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.65.0"
     },
