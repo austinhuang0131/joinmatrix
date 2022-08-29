@@ -132,7 +132,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.asozial.org/",
         "software": "Dendrite",
-        "version": "0.9.5+ed79e862"
+        "version": "0.9.5+a3eb4e5e"
     },
     {
         "name": "bachgau.social",
@@ -660,21 +660,6 @@
         "version": "1.61.0"
     },
     {
-        "name": "jonasled.de",
-        "domain": "matrix.jonasled.de",
-        "info": "https://jonasled.de",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; personal",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.65.0"
-    },
-    {
         "name": "librem.one",
         "domain": "chat.librem.one",
         "info": "https://librem.one",
@@ -911,6 +896,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
+        "software": "Synapse",
+        "version": "1.65.0"
+    },
+    {
+        "name": "projectsegfau.lt",
+        "domain": "projectsegfau.lt:8448",
+        "info": "https://projectsegfau.lt/instances",
+        "jurisdiction": "France/Greece",
+        "tos": "https://projectsegfau.lt/legal/tos",
+        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.projectsegfau.lt/",
         "software": "Synapse",
         "version": "1.65.0"
     },
@@ -1196,6 +1196,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.trygve.me/",
+        "software": "Synapse",
+        "version": "1.64.0"
+    },
+    {
+        "name": "ungleich.ch",
+        "domain": "ungleich.matrix.ungleich.cloud",
+        "info": "https://ungleich.ch/u/projects/open-chat/",
+        "jurisdiction": "Switzerland",
+        "tos": null,
+        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
+        "open": true,
+        "remarks": "Hosting provider",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
         "version": "1.64.0"
     },
