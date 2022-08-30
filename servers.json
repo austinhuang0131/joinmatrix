@@ -597,7 +597,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.hot-chilli.im/",
         "software": "Synapse",
-        "version": "1.63.1"
+        "version": "1.65.0"
     },
     {
         "name": "houtworm.im",
@@ -735,21 +735,6 @@
         "version": "1.65.0"
     },
     {
-        "name": "monero.social",
-        "domain": "matrix.monero.social",
-        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
-        "jurisdiction": "US",
-        "tos": "https://www.getmonero.org/legal/",
-        "privacy": null,
-        "open": true,
-        "remarks": "18+; accessory; crypto",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.61.1"
-    },
-    {
         "name": "mstdn.social",
         "domain": "chat.mstdn.social",
         "info": "https://mstdn.social/about/more#matrix",
@@ -868,6 +853,21 @@
         "reg_link": "https://chat.pcriot.org/",
         "software": "Synapse",
         "version": "1.65.0"
+    },
+    {
+        "name": "plus.st",
+        "domain": "plus.st",
+        "info": "https://plus.st/",
+        "jurisdiction": "US?",
+        "tos": "https://plus.st/tospp.html",
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.plus.st/",
+        "software": "Synapse",
+        "version": "1.61.1"
     },
     {
         "name": "pragma-messenger.ch",
@@ -1318,21 +1318,6 @@
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
         "version": "1.64.0"
-    },
-    {
-        "name": "deuxfleurs.fr",
-        "domain": "im.deuxfleurs.fr",
-        "info": "https://deuxfleurs.fr",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": false,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://deuxfleurs.fr/",
-        "software": "Synapse",
-        "version": "1.65.0"
     },
     {
         "name": "hingst.net",
