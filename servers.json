@@ -540,6 +540,21 @@
         "version": "1.65.0"
     },
     {
+        "name": "gemeinsam.jetzt",
+        "domain": "matrix.gemeinsam.jetzt",
+        "info": "https://gemeinsam.jetzt/accounts/profile/",
+        "jurisdiction": "Austria",
+        "tos": null,
+        "privacy": "https://matrix.gemeinsam.jetzt/_matrix/consent?v=1.0",
+        "open": true,
+        "remarks": "In German; left-wing",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.gemeinsam.jetzt/",
+        "software": "Synapse",
+        "version": "1.64.0"
+    },
+    {
         "name": "ggc-project.de",
         "domain": "ggc-project.de",
         "info": "https://www.ggc-project.de/en/index.html",
@@ -943,6 +958,21 @@
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
         "version": "1.65.0"
+    },
+    {
+        "name": "qoto.org",
+        "domain": "matrix.qoto.org",
+        "info": "https://qoto.org/about/more",
+        "jurisdiction": "US?",
+        "tos": "https://qoto.org/about/more",
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.qoto.org/",
+        "software": "Synapse",
+        "version": "1.45.1"
     },
     {
         "name": "radiowarnerd.org",
