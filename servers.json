@@ -165,6 +165,21 @@
         "version": "1.54.0"
     },
     {
+        "name": "breeze.town",
+        "domain": "breeze.town",
+        "info": "https://breeze.town",
+        "jurisdiction": "Germany?",
+        "tos": "https://breeze.town/about/more",
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.breeze.town/",
+        "software": "Synapse",
+        "version": "1.59.0"
+    },
+    {
         "name": "buyvm.net",
         "domain": "buyvm.chat",
         "info": "https://buyvm.net/beware-the-moshbear/",
@@ -735,6 +750,21 @@
         "version": "1.65.0"
     },
     {
+        "name": "monero.social",
+        "domain": "matrix.monero.social",
+        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
+        "jurisdiction": "US",
+        "tos": "https://www.getmonero.org/legal/",
+        "privacy": null,
+        "open": true,
+        "remarks": "18+; accessory; crypto",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.61.1"
+    },
+    {
         "name": "mstdn.social",
         "domain": "chat.mstdn.social",
         "info": "https://mstdn.social/about/more#matrix",
@@ -943,21 +973,6 @@
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
         "version": "1.65.0"
-    },
-    {
-        "name": "qoto.org",
-        "domain": "matrix.qoto.org",
-        "info": "https://qoto.org/about/more",
-        "jurisdiction": "US?",
-        "tos": "https://qoto.org/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.qoto.org/",
-        "software": "Synapse",
-        "version": "1.45.1"
     },
     {
         "name": "radiowarnerd.org",
