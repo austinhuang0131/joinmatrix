@@ -15,21 +15,6 @@
         "version": "1.65.0"
     },
     {
-        "name": "activism.international",
-        "domain": "activism.international",
-        "info": "https://activism.international",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://activism.international/privacy/cloud/",
-        "open": true,
-        "remarks": "Left-wing; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.activism.international/",
-        "software": "Synapse",
-        "version": "1.65.0"
-    },
-    {
         "name": "agdersam.no",
         "domain": "agdersam.no",
         "info": "https://agdersam.no/",
@@ -43,21 +28,6 @@
         "reg_link": "https://element.agdersam.no/",
         "software": "Synapse",
         "version": "1.63.1"
-    },
-    {
-        "name": "anonymousland.org",
-        "domain": "anonymousland.org",
-        "info": "https://www.anonymousland.org/services#matrix",
-        "jurisdiction": "Sweden",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.65.0"
     },
     {
         "name": "archoslinux.cz",
@@ -1378,6 +1348,21 @@
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
         "version": "1.64.0"
+    },
+    {
+        "name": "deuxfleurs.fr",
+        "domain": "im.deuxfleurs.fr",
+        "info": "https://deuxfleurs.fr",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": false,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://deuxfleurs.fr/",
+        "software": "Synapse",
+        "version": "1.65.0"
     },
     {
         "name": "hingst.net",
