@@ -30,21 +30,6 @@
         "version": "1.63.1"
     },
     {
-        "name": "anonymousland.org",
-        "domain": "anonymousland.org",
-        "info": "https://www.anonymousland.org/services#matrix",
-        "jurisdiction": "Sweden",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.65.0"
-    },
-    {
         "name": "archoslinux.cz",
         "domain": "matrix.archoslinux.cz:443",
         "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
@@ -87,7 +72,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://el.aria-net.org/",
         "software": "Archon",
-        "version": "1.65.0"
+        "version": "1.66.0"
     },
     {
         "name": "arrayinamatrix.xyz",
@@ -252,7 +237,7 @@
         "reg_method": "Form",
         "reg_link": "https://registration.matrix.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.65.0"
+        "version": "1.66.0"
     },
     {
         "name": "cezeri.tech",
@@ -447,7 +432,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.65.0"
+        "version": "1.66.0"
     },
     {
         "name": "exarius.org",
@@ -672,7 +657,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.65.0"
+        "version": "1.66.0"
     },
     {
         "name": "librem.one",
@@ -837,7 +822,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nltrix.net/",
         "software": "Synapse",
-        "version": "1.65.0"
+        "version": "1.66.0"
     },
     {
         "name": "oblak.be",
@@ -882,7 +867,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://riot.ombreport.info/",
         "software": "Synapse",
-        "version": "1.65.0"
+        "version": "1.66.0"
     },
     {
         "name": "pcriot.org",
@@ -942,7 +927,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.projectsegfau.lt/",
         "software": "Synapse",
-        "version": "1.65.0"
+        "version": "1.66.0"
     },
     {
         "name": "prometheus.systems",
@@ -1182,7 +1167,7 @@
         "reg_method": "SSO",
         "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
-        "version": "1.65.0"
+        "version": "1.66.0"
     },
     {
         "name": "the-apothecary.club",
