@@ -57,7 +57,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.arcticfoxes.net",
         "software": "Synapse",
-        "version": "1.65.0"
+        "version": "1.66.0"
     },
     {
         "name": "aria-net.org",
@@ -268,6 +268,21 @@
         "reg_link": "https://element.chagai.website/",
         "software": "Synapse",
         "version": "1.59.1"
+    },
+    {
+        "name": "chatcloud.net",
+        "domain": "matrix.chatcloud.net",
+        "info": "https://chatcloud.net",
+        "jurisdiction": "Austria (Germany)",
+        "tos": "https://www.chatcloud.net/terms-of-use/",
+        "privacy": "https://www.chatcloud.net/privacy/",
+        "open": true,
+        "remarks": "Relationship-oriented?",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://talk.chatcloud.net/",
+        "software": "Synapse",
+        "version": "1.66.0"
     },
     {
         "name": "chatwave.org",
@@ -958,6 +973,21 @@
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
         "version": "1.65.0"
+    },
+    {
+        "name": "qoto.org",
+        "domain": "matrix.qoto.org",
+        "info": "https://qoto.org/about/more",
+        "jurisdiction": "US?",
+        "tos": "https://qoto.org/about/more",
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.qoto.org/",
+        "software": "Synapse",
+        "version": "1.45.1"
     },
     {
         "name": "radiowarnerd.org",
