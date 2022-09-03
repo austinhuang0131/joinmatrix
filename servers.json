@@ -168,7 +168,7 @@
         "name": "breeze.town",
         "domain": "breeze.town",
         "info": "https://breeze.town",
-        "jurisdiction": "Germany?",
+        "jurisdiction": "Germany",
         "tos": "https://breeze.town/about/more",
         "privacy": null,
         "open": true,
@@ -177,7 +177,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.breeze.town/",
         "software": "Synapse",
-        "version": "1.59.0"
+        "version": "1.65.0"
     },
     {
         "name": "buyvm.net",
