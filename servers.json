@@ -807,7 +807,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://mtrx.nz/",
         "software": "Synapse",
-        "version": "1.64.0"
+        "version": "1.66.0"
     },
     {
         "name": "nitro.chat",
@@ -990,21 +990,6 @@
         "version": "1.65.0"
     },
     {
-        "name": "qoto.org",
-        "domain": "matrix.qoto.org",
-        "info": "https://qoto.org/about/more",
-        "jurisdiction": "US?",
-        "tos": "https://qoto.org/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.qoto.org/",
-        "software": "Synapse",
-        "version": "1.45.1"
-    },
-    {
         "name": "radiowarnerd.org",
         "domain": "radiowarnerd.org",
         "info": "https://dokuwiki.radiowarnerd.org/matrixaccountcreation",
@@ -1062,7 +1047,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.scyldings.com/",
         "software": "Synapse",
-        "version": "1.64.0"
+        "version": "1.66.0"
     },
     {
         "name": "sfunk1x.com",
@@ -1287,7 +1272,7 @@
         "reg_method": "Form",
         "reg_link": "https://vern.cc/register.php",
         "software": "Synapse",
-        "version": "1.65.0"
+        "version": "1.66.0"
     },
     {
         "name": "virto.community",
