@@ -285,21 +285,6 @@
         "version": "1.59.1"
     },
     {
-        "name": "chatcloud.net",
-        "domain": "matrix.chatcloud.net",
-        "info": "https://chatcloud.net",
-        "jurisdiction": "Austria (Germany)",
-        "tos": "https://www.chatcloud.net/terms-of-use/",
-        "privacy": "https://www.chatcloud.net/privacy/",
-        "open": true,
-        "remarks": "Relationship-oriented?",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://talk.chatcloud.net/",
-        "software": "Synapse",
-        "version": "1.66.0"
-    },
-    {
         "name": "chatwave.org",
         "domain": "matrix.chatwave.org",
         "info": "https://yatrix.org",
@@ -477,7 +462,7 @@
         "reg_method": "SSO",
         "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
         "software": "Synapse",
-        "version": "1.65.0"
+        "version": "1.66.0"
     },
     {
         "name": "flieger.chat",
@@ -762,7 +747,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
-        "version": "1.65.0"
+        "version": "1.66.0"
     },
     {
         "name": "monero.social",
@@ -987,7 +972,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
-        "version": "1.65.0"
+        "version": "1.66.0"
     },
     {
         "name": "qoto.org",
@@ -1167,7 +1152,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
-        "version": "1.65.0"
+        "version": "1.66.0"
     },
     {
         "name": "tedomum.net",
@@ -1185,6 +1170,21 @@
         "version": "1.66.0"
     },
     {
+        "name": "the-apothecary.club",
+        "domain": "the-apothecary.club",
+        "info": "https://the-apothecary.club",
+        "jurisdiction": "Germany?",
+        "tos": "https://the-apothecary.club/rules/",
+        "privacy": null,
+        "open": true,
+        "remarks": "Left-wing",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://the-apothecary.club/",
+        "software": "Synapse",
+        "version": "1.64.0"
+    },
+    {
         "name": "tomesh.net",
         "domain": "matrix.tomesh.net",
         "info": "https://tomesh.net/mesh-services/",
@@ -1198,21 +1198,6 @@
         "reg_link": "https://chat.tomesh.net/",
         "software": "Synapse",
         "version": "1.63.1"
-    },
-    {
-        "name": "trygve.me",
-        "domain": "trygve.me",
-        "info": "https://trygve.me/matrix_info/",
-        "jurisdiction": "Norway",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Norwegian; personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.trygve.me/",
-        "software": "Synapse",
-        "version": "1.64.0"
     },
     {
         "name": "unredacted.org",
@@ -1392,7 +1377,7 @@
         "reg_method": "Contact",
         "reg_link": "https://hyteck.de/about/",
         "software": "Synapse",
-        "version": "1.64.0"
+        "version": "1.66.0"
     },
     {
         "name": "libreon.fr",
