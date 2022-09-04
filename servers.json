@@ -897,7 +897,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pcriot.org/",
         "software": "Synapse",
-        "version": "1.65.0"
+        "version": "1.66.0"
     },
     {
         "name": "plus.st",
@@ -1185,21 +1185,6 @@
         "version": "1.66.0"
     },
     {
-        "name": "the-apothecary.club",
-        "domain": "the-apothecary.club",
-        "info": "https://the-apothecary.club",
-        "jurisdiction": "Germany?",
-        "tos": "https://the-apothecary.club/rules/",
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://the-apothecary.club/",
-        "software": "Synapse",
-        "version": "1.64.0"
-    },
-    {
         "name": "tomesh.net",
         "domain": "matrix.tomesh.net",
         "info": "https://tomesh.net/mesh-services/",
@@ -1215,17 +1200,17 @@
         "version": "1.63.1"
     },
     {
-        "name": "ungleich.ch",
-        "domain": "ungleich.matrix.ungleich.cloud",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
+        "name": "trygve.me",
+        "domain": "trygve.me",
+        "info": "https://trygve.me/matrix_info/",
+        "jurisdiction": "Norway",
         "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
+        "privacy": null,
         "open": true,
-        "remarks": "Hosting provider",
+        "remarks": "In Norwegian; personal",
         "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
         "version": "1.64.0"
     },
