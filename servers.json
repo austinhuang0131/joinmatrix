@@ -120,21 +120,6 @@
         "version": "0.9.6+350a5e53"
     },
     {
-        "name": "bachgau.social",
-        "domain": "matrix.bachgau.social",
-        "info": "https://www.bachgau.social/unsere-dienste/matrix/",
-        "jurisdiction": "Germany",
-        "tos": "https://mastodon.bachgau.social/about/more",
-        "privacy": "https://www.bachgau.social/datenschutzerklaerung/",
-        "open": true,
-        "remarks": "In German; regional",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.bachgau.social/",
-        "software": "Synapse",
-        "version": "1.66.0"
-    },
-    {
         "name": "badstuebner.biz",
         "domain": "matrix.badstuebner.biz",
         "info": "https://badstuebner.biz",
@@ -1407,7 +1392,7 @@
         "reg_method": "Contact",
         "reg_link": "https://hingst.net/kontakt/",
         "software": "Synapse",
-        "version": "1.65.0"
+        "version": "1.66.0"
     },
     {
         "name": "hyteck.de",
