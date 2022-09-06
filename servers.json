@@ -60,6 +60,21 @@
         "version": "1.66.0"
     },
     {
+        "name": "arcticfoxes.net",
+        "domain": "matrix.arcticfoxes.net",
+        "info": "https://arcticfoxes.net",
+        "jurisdiction": "US (UK)",
+        "tos": null,
+        "privacy": "https://arcticfoxes.net/",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://app.arcticfoxes.net",
+        "software": "Synapse",
+        "version": "1.66.0"
+    },
+    {
         "name": "aria-net.org",
         "domain": "aria.im",
         "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
@@ -658,6 +673,21 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.66.0"
+    },
+    {
+        "name": "librem.one",
+        "domain": "chat.librem.one",
+        "info": "https://librem.one",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": "https://librem.one/policy/",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://librem.one",
+        "software": "Synapse",
+        "version": "1.38.1"
     },
     {
         "name": "llamarific.social",
