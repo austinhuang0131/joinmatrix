@@ -375,6 +375,21 @@
         "version": "1.62.0"
     },
     {
+        "name": "converser.eu",
+        "domain": "converser.eu",
+        "info": "https://converser.eu",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In French",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.63.0"
+    },
+    {
         "name": "crossbach.de",
         "domain": "matrix.crossbach.de",
         "info": "https://crossbach.de",
@@ -451,7 +466,7 @@
     },
     {
         "name": "filik.eu",
-        "domain": "filik.eu",
+        "domain": "chat.filik.eu:443",
         "info": "https://filik.eu",
         "jurisdiction": "Czech Republic",
         "tos": null,
@@ -1140,21 +1155,6 @@
         "version": "1.66.0"
     },
     {
-        "name": "techsaviours.org",
-        "domain": "matrix.techsaviours.org",
-        "info": "https://techsaviours.org",
-        "jurisdiction": "Germany",
-        "tos": "https://techsaviours.org/terms-and-conditions.html",
-        "privacy": "https://techsaviours.org/privacy-policy.html",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.techsaviours.org/",
-        "software": "Synapse",
-        "version": "1.66.0"
-    },
-    {
         "name": "tedomum.net",
         "domain": "matrix.tedomum.net",
         "info": "https://tedomum.net/service/matrix/",
@@ -1182,7 +1182,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://the-apothecary.club/",
         "software": "Synapse",
-        "version": "1.64.0"
+        "version": "1.66.0"
     },
     {
         "name": "tomesh.net",
@@ -1198,21 +1198,6 @@
         "reg_link": "https://chat.tomesh.net/",
         "software": "Synapse",
         "version": "1.63.1"
-    },
-    {
-        "name": "trygve.me",
-        "domain": "trygve.me",
-        "info": "https://trygve.me/matrix_info/",
-        "jurisdiction": "Norway",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Norwegian; personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.trygve.me/",
-        "software": "Synapse",
-        "version": "1.64.0"
     },
     {
         "name": "ungleich.ch",
