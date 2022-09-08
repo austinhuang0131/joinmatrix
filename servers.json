@@ -630,21 +630,6 @@
         "version": "1.65.0"
     },
     {
-        "name": "houtworm.im",
-        "domain": "houtworm.im",
-        "info": "https://houtworm.im",
-        "jurisdiction": "Netherlands",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://houtworm.im/",
-        "software": "Synapse",
-        "version": "1.66.0"
-    },
-    {
         "name": "inetd.xyz",
         "domain": "inetd.xyz",
         "info": "https://inetd.xyz",
@@ -1151,6 +1136,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
+        "software": "Synapse",
+        "version": "1.66.0"
+    },
+    {
+        "name": "techsaviours.org",
+        "domain": "matrix.techsaviours.org",
+        "info": "https://techsaviours.org",
+        "jurisdiction": "Germany",
+        "tos": "https://techsaviours.org/terms-and-conditions.html",
+        "privacy": "https://techsaviours.org/privacy-policy.html",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
         "version": "1.66.0"
     },
