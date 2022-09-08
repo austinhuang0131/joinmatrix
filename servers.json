@@ -210,21 +210,6 @@
         "version": "1.65.0"
     },
     {
-        "name": "byzero.dev",
-        "domain": "matrix.byzero.dev",
-        "info": "https://hosting.byzero.dev/",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.byzero.dev/",
-        "software": "Synapse",
-        "version": "1.62.0"
-    },
-    {
         "name": "cat.casa",
         "domain": "matrix.cat.casa",
         "info": "https://cat.casa/",
@@ -582,7 +567,7 @@
         "reg_method": "Form",
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
-        "version": "1.65.0"
+        "version": "1.66.0"
     },
     {
         "name": "glasgow.social",
@@ -1032,7 +1017,7 @@
         "reg_method": "Form",
         "reg_link": "https://riotchat.de/register/form.php",
         "software": "Synapse",
-        "version": "1.65.0"
+        "version": "1.66.0"
     },
     {
         "name": "sameteem.com",
