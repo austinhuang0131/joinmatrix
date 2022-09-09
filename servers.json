@@ -45,21 +45,6 @@
         "version": "1.66.0"
     },
     {
-        "name": "archoslinux.cz",
-        "domain": "matrix.archoslinux.cz:443",
-        "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
-        "jurisdiction": "Czech Republic (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Czech; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.archoslinux.cz/",
-        "software": "Synapse",
-        "version": "1.66.0"
-    },
-    {
         "name": "arcticfoxes.net",
         "domain": "matrix.arcticfoxes.net",
         "info": "https://arcticfoxes.net",
@@ -208,21 +193,6 @@
         "reg_link": "https://element.schaeferit.de/",
         "software": "Synapse",
         "version": "1.65.0"
-    },
-    {
-        "name": "byzero.dev",
-        "domain": "matrix.byzero.dev",
-        "info": "https://hosting.byzero.dev/",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.byzero.dev/",
-        "software": "Synapse",
-        "version": "1.62.0"
     },
     {
         "name": "cat.casa",
@@ -1318,21 +1288,6 @@
         "reg_link": "https://element.asra.gr/",
         "software": "Synapse",
         "version": "420"
-    },
-    {
-        "name": "fachschaften.org",
-        "domain": "matrix.fachschaften.org",
-        "info": "https://fachschaften.org",
-        "jurisdiction": "Germany",
-        "tos": "https://fsinfo.cs.tu-dortmund.de/studis/coc",
-        "privacy": "https://md.fachschaften.org/_hmxfyc-SZi-fLjyyT2kvw",
-        "open": false,
-        "remarks": "In German; student-oriented; requires a German university email address",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.fachschaften.org/",
-        "software": "Synapse",
-        "version": "1.66.0"
     },
     {
         "name": "pikaviestin.fi",
