@@ -824,6 +824,21 @@
         "software": "Synapse",
         "version": "1.66.0"
     },
+        {
+        "name": "nope.chat",
+        "domain": "nope.chat",
+        "info": "https://nope.chat",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.nope.chat/",
+        "software": "Synapse",
+        "version": "1.66.0"
+    },
     {
         "name": "oblak.be",
         "domain": "matrix.oblak.be:443",
