@@ -105,6 +105,21 @@
         "version": "0.9.6+350a5e53"
     },
     {
+        "name": "bachgau.social",
+        "domain": "matrix.bachgau.social",
+        "info": "https://www.bachgau.social/unsere-dienste/matrix/",
+        "jurisdiction": "Germany",
+        "tos": "https://mastodon.bachgau.social/about/more",
+        "privacy": "https://www.bachgau.social/datenschutzerklaerung/",
+        "open": true,
+        "remarks": "In German; regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.bachgau.social/",
+        "software": "Synapse",
+        "version": "1.66.0"
+    },
+    {
         "name": "badstuebner.biz",
         "domain": "matrix.badstuebner.biz",
         "info": "https://badstuebner.biz",
@@ -973,6 +988,21 @@
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
         "version": "1.66.0"
+    },
+    {
+        "name": "qoto.org",
+        "domain": "matrix.qoto.org",
+        "info": "https://qoto.org/about/more",
+        "jurisdiction": "US?",
+        "tos": "https://qoto.org/about/more",
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.qoto.org/",
+        "software": "Synapse",
+        "version": "1.45.1"
     },
     {
         "name": "radiowarnerd.org",
