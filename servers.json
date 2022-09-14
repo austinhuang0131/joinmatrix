@@ -30,6 +30,21 @@
         "version": "1.67.0"
     },
     {
+        "name": "arcticfoxes.net",
+        "domain": "matrix.arcticfoxes.net",
+        "info": "https://arcticfoxes.net",
+        "jurisdiction": "US (UK)",
+        "tos": null,
+        "privacy": "https://arcticfoxes.net/",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://app.arcticfoxes.net",
+        "software": "Synapse",
+        "version": "1.66.0"
+    },
+    {
         "name": "arrayinamatrix.xyz",
         "domain": "matrix.arrayinamatrix.xyz",
         "info": "https://arrayinamatrix.xyz/index/apps/matrix/",
@@ -237,7 +252,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://talk.chatcloud.net/",
         "software": "Synapse",
-        "version": "1.66.0"
+        "version": "1.67.0"
     },
     {
         "name": "chatwave.org",
@@ -417,7 +432,7 @@
         "reg_method": "SSO",
         "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
         "software": "Synapse",
-        "version": "1.66.0"
+        "version": "1.67.0"
     },
     {
         "name": "flieger.chat",
@@ -1212,7 +1227,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
-        "version": "1.66.0"
+        "version": "1.67.0"
     },
     {
         "name": "vern.cc",
