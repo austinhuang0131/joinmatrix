@@ -12,7 +12,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://im.0wnz.at/element-web/",
         "software": "Synapse",
-        "version": "1.66.0"
+        "version": "1.67.0"
     },
     {
         "name": "activism.international",
@@ -1167,7 +1167,7 @@
         "reg_method": "SSO",
         "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
-        "version": "1.66.0"
+        "version": "1.67.0"
     },
     {
         "name": "the-apothecary.club",
@@ -1331,21 +1331,6 @@
         "antifeature": null,
         "reg_method": "SSO",
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
-        "software": "Synapse",
-        "version": "1.66.0"
-    },
-    {
-        "name": "aletheia.moe",
-        "domain": "im.aletheia.moe",
-        "info": "https://aletheia.moe",
-        "jurisdiction": "? (Iceland)",
-        "tos": "https://aletheia.moe/tos/",
-        "privacy": "https://aletheia.moe/tos/",
-        "open": false,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://aletheia.moe/registration/",
         "software": "Synapse",
         "version": "1.66.0"
     },
