@@ -1350,21 +1350,6 @@
         "version": "1.66.0"
     },
     {
-        "name": "aletheia.moe",
-        "domain": "im.aletheia.moe",
-        "info": "https://aletheia.moe",
-        "jurisdiction": "? (Iceland)",
-        "tos": "https://aletheia.moe/tos/",
-        "privacy": "https://aletheia.moe/tos/",
-        "open": false,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://aletheia.moe/registration/",
-        "software": "Synapse",
-        "version": "1.66.0"
-    },
-    {
         "name": "deuxfleurs.fr",
         "domain": "im.deuxfleurs.fr",
         "info": "https://deuxfleurs.fr",
