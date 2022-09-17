@@ -30,6 +30,21 @@
         "version": "1.67.0"
     },
     {
+        "name": "archoslinux.cz",
+        "domain": "matrix.archoslinux.cz:443",
+        "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
+        "jurisdiction": "Czech Republic (Germany)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In Czech; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.archoslinux.cz/",
+        "software": "Synapse",
+        "version": "1.67.0"
+    },
+    {
         "name": "arcticfoxes.net",
         "domain": "matrix.arcticfoxes.net",
         "info": "https://arcticfoxes.net",
@@ -72,7 +87,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.arrayinamatrix.xyz/",
         "software": "Synapse",
-        "version": "1.66.0"
+        "version": "1.67.0"
     },
     {
         "name": "asozial.org",
@@ -193,6 +208,21 @@
         "reg_link": "https://element.byzero.dev/",
         "software": "Synapse",
         "version": "1.62.0"
+    },
+    {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/codeofconduct",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.67.0"
     },
     {
         "name": "catgirl.cloud",
@@ -582,7 +612,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.hot-chilli.im/",
         "software": "Synapse",
-        "version": "1.65.0"
+        "version": "1.67.0"
     },
     {
         "name": "houtworm.im",
