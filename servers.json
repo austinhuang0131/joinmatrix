@@ -192,7 +192,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.schaeferit.de/",
         "software": "Synapse",
-        "version": "1.66.0"
+        "version": "1.67.0"
     },
     {
         "name": "byzero.dev",
@@ -930,21 +930,6 @@
         "version": "1.67.0"
     },
     {
-        "name": "projectsegfau.lt",
-        "domain": "projectsegfau.lt:8448",
-        "info": "https://projectsegfau.lt/instances",
-        "jurisdiction": "France/Greece",
-        "tos": "https://projectsegfau.lt/legal/tos",
-        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.projectsegfau.lt/",
-        "software": "Synapse",
-        "version": "1.67.0"
-    },
-    {
         "name": "prometheus.systems",
         "domain": "chat.prometheus.systems",
         "info": "https://prometheus.systems",
@@ -987,7 +972,22 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
-        "version": "1.66.0"
+        "version": "1.67.0"
+    },
+    {
+        "name": "qoto.org",
+        "domain": "matrix.qoto.org",
+        "info": "https://qoto.org/about/more",
+        "jurisdiction": "US?",
+        "tos": "https://qoto.org/about/more",
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.qoto.org/",
+        "software": "Synapse",
+        "version": "1.45.1"
     },
     {
         "name": "radiowarnerd.org",
@@ -1200,6 +1200,21 @@
         "version": "1.63.1"
     },
     {
+        "name": "trygve.me",
+        "domain": "trygve.me",
+        "info": "https://trygve.me/matrix_info/",
+        "jurisdiction": "Norway",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In Norwegian; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.trygve.me/",
+        "software": "Synapse",
+        "version": "1.64.0"
+    },
+    {
         "name": "ungleich.ch",
         "domain": "ungleich.matrix.ungleich.cloud",
         "info": "https://ungleich.ch/u/projects/open-chat/",
@@ -1332,7 +1347,7 @@
         "reg_method": "SSO",
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
-        "version": "1.66.0"
+        "version": "1.67.0"
     },
     {
         "name": "aletheia.moe",
@@ -1378,6 +1393,21 @@
         "reg_link": "https://hingst.net/kontakt/",
         "software": "Synapse",
         "version": "1.66.0"
+    },
+    {
+        "name": "hyteck.de",
+        "domain": "synapse.hyteck.de",
+        "info": "https://hyteck.de/services/",
+        "jurisdiction": "Germany",
+        "tos": "https://hyteck.de/services/",
+        "privacy": null,
+        "open": false,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://hyteck.de/about/",
+        "software": "Synapse",
+        "version": "1.67.0"
     },
     {
         "name": "libreon.fr",
