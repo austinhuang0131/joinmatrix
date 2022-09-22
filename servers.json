@@ -57,7 +57,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.arcticfoxes.net",
         "software": "Synapse",
-        "version": "1.66.0"
+        "version": "1.67.0"
     },
     {
         "name": "aria-net.org",
@@ -132,22 +132,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.badstuebner.biz/",
         "software": "Synapse",
-        "version": "1.66.0"
-    },
-    {
-        "name": "bancino.net",
-        "domain": "bancino.net",
-        "info": "https://bancino.net",
-        "jurisdiction": "US",
-        "tos": "https://bancino.net/_matrix/consent",
-        "privacy": "https://bancino.net/_matrix/consent",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://bancino.net/element/",
-        "software": "Synapse",
-        "version": "1.54.0"
+        "version": "1.67.0"
     },
     {
         "name": "breeze.town",
@@ -192,7 +177,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.schaeferit.de/",
         "software": "Synapse",
-        "version": "1.66.0"
+        "version": "1.67.0"
     },
     {
         "name": "byzero.dev",
@@ -327,7 +312,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.66.0"
+        "version": "1.67.0"
     },
     {
         "name": "comm.cx",
@@ -492,7 +477,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.freiburg.social/",
         "software": "Synapse",
-        "version": "1.66.0"
+        "version": "1.67.0"
     },
     {
         "name": "freitrix.de",
@@ -552,7 +537,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.gemeinsam.jetzt/",
         "software": "Synapse",
-        "version": "1.64.0"
+        "version": "1.67.0"
     },
     {
         "name": "ggc-project.de",
@@ -747,7 +732,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
-        "version": "1.66.0"
+        "version": "1.67.0"
     },
     {
         "name": "monero.social",
@@ -912,7 +897,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.67.0"
     },
     {
         "name": "pragma-messenger.ch",
@@ -987,7 +972,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
-        "version": "1.66.0"
+        "version": "1.67.0"
     },
     {
         "name": "qoto.org",
@@ -1215,21 +1200,6 @@
         "version": "1.63.1"
     },
     {
-        "name": "ungleich.ch",
-        "domain": "ungleich.matrix.ungleich.cloud",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
-        "software": "Synapse",
-        "version": "1.64.0"
-    },
-    {
         "name": "unredacted.org",
         "domain": "matrix.unredacted.org",
         "info": "https://unredacted.org/services/matrix/",
@@ -1347,7 +1317,7 @@
         "reg_method": "SSO",
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
-        "version": "1.66.0"
+        "version": "1.67.0"
     },
     {
         "name": "aletheia.moe",
