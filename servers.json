@@ -105,21 +105,6 @@
         "version": "1.67.0"
     },
     {
-        "name": "arrayinamatrix.xyz",
-        "domain": "matrix.arrayinamatrix.xyz",
-        "info": "https://arrayinamatrix.xyz/index/apps/matrix/",
-        "jurisdiction": "Canada",
-        "tos": "https://arrayinamatrix.xyz/index/apps/matrix/#rules",
-        "privacy": "https://arrayinamatrix.xyz/index/apps/privacy/#matrix",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.arrayinamatrix.xyz/",
-        "software": "Synapse",
-        "version": "1.67.0"
-    },
-    {
         "name": "asozial.org",
         "domain": "matrix.asozial.org:8448",
         "info": "https://asozial.org",
@@ -583,6 +568,21 @@
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
         "version": "1.66.0"
+    },
+    {
+        "name": "glasgow.social",
+        "domain": "matrix.glasgow.social",
+        "info": "https://opensource.glasgow.social/matrix",
+        "jurisdiction": "UK",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional tech collective",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.glasgow.social/",
+        "software": "Synapse",
+        "version": "1.61.1"
     },
     {
         "name": "group.lt",
