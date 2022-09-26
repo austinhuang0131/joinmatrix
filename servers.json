@@ -45,6 +45,21 @@
         "version": "1.67.0"
     },
     {
+        "name": "anonymousland.org",
+        "domain": "anonymousland.org",
+        "info": "https://www.anonymousland.org/services#matrix",
+        "jurisdiction": "Iceland?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.anonymousland.org/",
+        "software": "Synapse",
+        "version": "1.67.0"
+    },
+    {
         "name": "archoslinux.cz",
         "domain": "matrix.archoslinux.cz:443",
         "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
@@ -64,7 +79,7 @@
         "domain": "matrix.arcticfoxes.net",
         "info": "https://arcticfoxes.net",
         "jurisdiction": "US (UK)",
-        "tos": null,
+        "tos": "https://arcticfoxes.net/",
         "privacy": "https://arcticfoxes.net/",
         "open": true,
         "remarks": "Personal",
@@ -167,7 +182,7 @@
     {
         "name": "breeze.town",
         "domain": "breeze.town",
-        "info": "https://breeze.town",
+        "info": "https://breeze.town/@breeze/108776240056543549",
         "jurisdiction": "Germany",
         "tos": "https://breeze.town/about/more",
         "privacy": null,
@@ -319,7 +334,7 @@
         "domain": "club1.fr",
         "info": "https://club1.fr/matrix/",
         "jurisdiction": "France",
-        "tos": null,
+        "tos": "https://club1.fr/docs/fr/cgu.html",
         "privacy": null,
         "open": true,
         "remarks": "In French; tech collective",
@@ -570,21 +585,6 @@
         "version": "1.66.0"
     },
     {
-        "name": "glasgow.social",
-        "domain": "matrix.glasgow.social",
-        "info": "https://opensource.glasgow.social/matrix",
-        "jurisdiction": "UK",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional tech collective",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.glasgow.social/",
-        "software": "Synapse",
-        "version": "1.61.1"
-    },
-    {
         "name": "group.lt",
         "domain": "group.lt",
         "info": "https://group.lt",
@@ -650,7 +650,7 @@
         "info": "https://jonasled.de",
         "jurisdiction": "Germany",
         "tos": null,
-        "privacy": null,
+        "privacy": "https://jonasled.de/datenschutzerklaerung.html",
         "open": true,
         "remarks": "In German; personal",
         "antifeature": null,
@@ -860,7 +860,7 @@
         "info": "https://ohai.su",
         "jurisdiction": "Germany",
         "tos": null,
-        "privacy": null,
+        "privacy": "https://fnordserver.eu/en/privacy-policy",
         "open": true,
         "remarks": "General host",
         "antifeature": null,
@@ -1048,6 +1048,21 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.67.0"
+    },
+    {
+        "name": "scyldings.com",
+        "domain": "matrix.scyldings.com",
+        "info": "https://scyldings.com/guide-joining-the-chat-server-on-scyldings-com/",
+        "jurisdiction": "UK? (US)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Accessory, right-wing",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.scyldings.com/",
+        "software": "Synapse",
+        "version": "1.66.0"
     },
     {
         "name": "sfunk1x.com",
@@ -1407,7 +1422,7 @@
         "reg_method": "Membership",
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
-        "version": "1.65.0"
+        "version": "1.67.0"
     },
     {
         "name": "hadoly.fr",
