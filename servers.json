@@ -45,21 +45,6 @@
         "version": "1.67.0"
     },
     {
-        "name": "anonymousland.org",
-        "domain": "anonymousland.org",
-        "info": "https://www.anonymousland.org/services#matrix",
-        "jurisdiction": "Iceland?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.anonymousland.org/",
-        "software": "Synapse",
-        "version": "1.67.0"
-    },
-    {
         "name": "archoslinux.cz",
         "domain": "matrix.archoslinux.cz:443",
         "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
@@ -102,7 +87,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://el.aria-net.org/",
         "software": "Archon",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "arrayinamatrix.xyz",
@@ -162,7 +147,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.badstuebner.biz/",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "bancino.net",
@@ -252,7 +237,7 @@
         "reg_method": "Form",
         "reg_link": "https://registration.matrix.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "cezeri.tech",
@@ -312,7 +297,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "chrrreeeeesss.com",
@@ -432,7 +417,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "envs.net",
@@ -447,7 +432,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "exarius.org",
@@ -492,7 +477,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "freiburg.social",
@@ -507,7 +492,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.freiburg.social/",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "freitrix.de",
@@ -567,7 +552,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.gemeinsam.jetzt/",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "ggc-project.de",
@@ -672,7 +657,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "librem.one",
@@ -837,7 +822,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nltrix.net/",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "nope.chat",
@@ -852,7 +837,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "oblak.be",
@@ -942,7 +927,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "projectsegfau.lt",
@@ -1167,7 +1152,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "techsaviours.org",
@@ -1197,7 +1182,7 @@
         "reg_method": "SSO",
         "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "the-apothecary.club",
@@ -1302,7 +1287,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "asra.gr",
@@ -1332,7 +1317,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "pikaviestin.fi",
