@@ -15,6 +15,21 @@
         "version": "1.67.0"
     },
     {
+        "name": "activism.international",
+        "domain": "activism.international",
+        "info": "https://activism.international",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://activism.international/privacy/cloud/",
+        "open": true,
+        "remarks": "Left-wing; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.activism.international/",
+        "software": "Synapse",
+        "version": "1.68.0"
+    },
+    {
         "name": "agdersam.no",
         "domain": "agdersam.no",
         "info": "https://agdersam.no/",
@@ -132,7 +147,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.bachgau.social/",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "badstuebner.biz",
@@ -387,7 +402,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.crossbach.de/",
         "software": "Synapse",
-        "version": "1.65.0"
+        "version": "1.68.0"
     },
     {
         "name": "data.haus",
@@ -1077,7 +1092,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.sfunk1x.com/",
         "software": "Synapse",
-        "version": "1.65.0"
+        "version": "1.68.0"
     },
     {
         "name": "sibnsk.net",
@@ -1363,21 +1378,6 @@
         "reg_link": "https://deuxfleurs.fr/",
         "software": "Synapse",
         "version": "1.65.0"
-    },
-    {
-        "name": "hingst.net",
-        "domain": "matrix.hingst.net",
-        "info": "https://hingst.net",
-        "jurisdiction": "Sweden",
-        "tos": "https://www.hovkluster.se/matrix/villkor_hingst.html",
-        "privacy": "https://www.hovkluster.se/matrix/integritet_hingst.html",
-        "open": false,
-        "remarks": "In Swedish",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://hingst.net/kontakt/",
-        "software": "Synapse",
-        "version": "1.67.0"
     },
     {
         "name": "hyteck.de",
