@@ -117,7 +117,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.arrayinamatrix.xyz/",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "asozial.org",
@@ -957,7 +957,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.projectsegfau.lt/",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "prometheus.systems",
@@ -1047,7 +1047,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "scyldings.com",
@@ -1212,7 +1212,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tomesh.net/",
         "software": "Synapse",
-        "version": "1.63.1"
+        "version": "1.68.0"
     },
     {
         "name": "unredacted.org",
