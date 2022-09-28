@@ -15,21 +15,6 @@
         "version": "1.67.0"
     },
     {
-        "name": "activism.international",
-        "domain": "activism.international",
-        "info": "https://activism.international",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://activism.international/privacy/cloud/",
-        "open": true,
-        "remarks": "Left-wing; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.activism.international/",
-        "software": "Synapse",
-        "version": "1.67.0"
-    },
-    {
         "name": "agdersam.no",
         "domain": "agdersam.no",
         "info": "https://agdersam.no/",
@@ -285,6 +270,21 @@
         "version": "1.59.1"
     },
     {
+        "name": "chatcloud.net",
+        "domain": "matrix.chatcloud.net",
+        "info": "https://chatcloud.net",
+        "jurisdiction": "Austria (Germany)",
+        "tos": "https://www.chatcloud.net/terms-of-use/",
+        "privacy": "https://www.chatcloud.net/privacy/",
+        "open": true,
+        "remarks": "Relationship-oriented?",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://talk.chatcloud.net/",
+        "software": "Synapse",
+        "version": "1.67.0"
+    },
+    {
         "name": "chatwave.org",
         "domain": "matrix.chatwave.org",
         "info": "https://yatrix.org",
@@ -327,7 +327,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "comm.cx",
@@ -987,7 +987,22 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
+    },
+    {
+        "name": "qoto.org",
+        "domain": "matrix.qoto.org",
+        "info": "https://qoto.org/about/more",
+        "jurisdiction": "US?",
+        "tos": "https://qoto.org/about/more",
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.qoto.org/",
+        "software": "Synapse",
+        "version": "1.68.0"
     },
     {
         "name": "radiowarnerd.org",
@@ -1377,7 +1392,7 @@
         "reg_method": "Contact",
         "reg_link": "https://hyteck.de/about/",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "libreon.fr",
