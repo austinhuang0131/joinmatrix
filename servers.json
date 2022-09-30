@@ -420,21 +420,6 @@
         "version": "1.67.0"
     },
     {
-        "name": "duesen.chat",
-        "domain": "matrix.duesen.chat",
-        "info": "https://yatrix.org",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://yatrix.org/",
-        "open": true,
-        "remarks": "In German; operated by yatrix.org",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.duesen.chat/",
-        "software": "Synapse",
-        "version": "1.68.0"
-    },
-    {
         "name": "envs.net",
         "domain": "matrix.envs.net",
         "info": "https://matrix-help.envs.net/",
@@ -522,7 +507,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://webchat.freitrix.de/#/register",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "fulda.social",
@@ -762,7 +747,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "monero.social",
