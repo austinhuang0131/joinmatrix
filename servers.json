@@ -822,7 +822,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "nltrix.net",
