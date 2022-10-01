@@ -120,21 +120,6 @@
         "version": "1.68.0"
     },
     {
-        "name": "asozial.org",
-        "domain": "matrix.asozial.org:8448",
-        "info": "https://asozial.org",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; left-wing",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.asozial.org/",
-        "software": "Dendrite",
-        "version": "0.9.6+350a5e53"
-    },
-    {
         "name": "bachgau.social",
         "domain": "matrix.bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
@@ -357,7 +342,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "community.rs",
@@ -418,6 +403,21 @@
         "reg_link": "https://chat.data.haus/",
         "software": "Synapse",
         "version": "1.67.0"
+    },
+    {
+        "name": "duesen.chat",
+        "domain": "matrix.duesen.chat",
+        "info": "https://yatrix.org",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://yatrix.org/",
+        "open": true,
+        "remarks": "In German; operated by yatrix.org",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.duesen.chat/",
+        "software": "Synapse",
+        "version": "1.68.0"
     },
     {
         "name": "envs.net",
@@ -792,7 +792,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://mtrx.nz/",
         "software": "Synapse",
-        "version": "1.66.0"
+        "version": "1.68.0"
     },
     {
         "name": "nitro.chat",
@@ -1078,21 +1078,6 @@
         "reg_link": "https://element.sfunk1x.com/",
         "software": "Synapse",
         "version": "1.68.0"
-    },
-    {
-        "name": "sibnsk.net",
-        "domain": "matrix.sibnsk.net",
-        "info": "https://lugnsk.org/page/blog/matrix",
-        "jurisdiction": "Russia",
-        "tos": "https://matrix.sibnsk.net/_matrix/consent",
-        "privacy": "https://matrix.sibnsk.net/_matrix/consent",
-        "open": true,
-        "remarks": "In Russian",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.sibnsk.net",
-        "software": "Synapse",
-        "version": "1.67.0"
     },
     {
         "name": "socialnetwork24.com",
