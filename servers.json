@@ -12,7 +12,22 @@
         "reg_method": "In-house Element",
         "reg_link": "https://im.0wnz.at/element-web/",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
+    },
+    {
+        "name": "activism.international",
+        "domain": "activism.international",
+        "info": "https://activism.international",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://activism.international/privacy/cloud/",
+        "open": true,
+        "remarks": "Left-wing; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.activism.international/",
+        "software": "Synapse",
+        "version": "1.68.0"
     },
     {
         "name": "agdersam.no",
@@ -1050,21 +1065,6 @@
         "version": "1.68.0"
     },
     {
-        "name": "sfunk1x.com",
-        "domain": "matrix.sfunk1x.com",
-        "info": "https://sfunk1x.com",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.sfunk1x.com/",
-        "software": "Synapse",
-        "version": "1.68.0"
-    },
-    {
         "name": "sibnsk.net",
         "domain": "matrix.sibnsk.net",
         "info": "https://lugnsk.org/page/blog/matrix",
@@ -1408,6 +1408,21 @@
         "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
         "software": "Synapse",
         "version": "1.62.0"
+    },
+    {
+        "name": "hingst.net",
+        "domain": "matrix.hingst.net",
+        "info": "https://hingst.net",
+        "jurisdiction": "Sweden",
+        "tos": "https://hingst.net/terms/",
+        "privacy": "https://hingst.net/privacy/",
+        "open": false,
+        "remarks": "General host; advocacy",
+        "antifeature": null,
+        "reg_method": "Membership",
+        "reg_link": "https://hingst.net/",
+        "software": "Synapse",
+        "version": "1.68.0"
     },
     {
         "name": "sans-nuage.fr",
