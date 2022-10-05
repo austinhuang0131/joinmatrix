@@ -240,6 +240,21 @@
         "version": "1.67.0"
     },
     {
+        "name": "catgirl.cloud",
+        "domain": "matrix.catgirl.cloud",
+        "info": "https://catgirl.cloud",
+        "jurisdiction": "Germany",
+        "tos": "https://catgirl.cloud/#rules",
+        "privacy": "https://catgirl.cloud/#privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://registration.matrix.catgirl.cloud/",
+        "software": "Synapse",
+        "version": "1.68.0"
+    },
+    {
         "name": "cezeri.tech",
         "domain": "matrix.cezeri.tech",
         "info": "https://cezeri.tech",
@@ -975,6 +990,21 @@
         "version": "1.65.0"
     },
     {
+        "name": "pub.solar",
+        "domain": "matrix.pub.solar",
+        "info": "https://pub.solar",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://pub.solar/privacy.html",
+        "open": true,
+        "remarks": "Tech collective",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.pub.solar/",
+        "software": "Synapse",
+        "version": "1.68.0"
+    },
+    {
         "name": "qoto.org",
         "domain": "matrix.qoto.org",
         "info": "https://qoto.org/about/more",
@@ -1092,7 +1122,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://web.synod.im/",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "tchncs.de",
