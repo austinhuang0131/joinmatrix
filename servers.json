@@ -586,7 +586,7 @@
     },
     {
         "name": "glasgow.social",
-        "domain": "glasgow.social",
+        "domain": "matrix.glasgow.social",
         "info": "https://opensource.glasgow.social/matrix",
         "jurisdiction": "UK",
         "tos": null,
@@ -1438,6 +1438,21 @@
         "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
         "software": "Synapse",
         "version": "1.62.0"
+    },
+    {
+        "name": "hingst.net",
+        "domain": "matrix.hingst.net",
+        "info": "https://hingst.net",
+        "jurisdiction": "Sweden",
+        "tos": "https://hingst.net/terms/",
+        "privacy": "https://hingst.net/privacy/",
+        "open": false,
+        "remarks": "General host; advocacy",
+        "antifeature": null,
+        "reg_method": "Membership",
+        "reg_link": "https://hingst.net/",
+        "software": "Synapse",
+        "version": "1.68.0"
     },
     {
         "name": "sans-nuage.fr",
