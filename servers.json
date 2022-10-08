@@ -120,21 +120,6 @@
         "version": "1.68.0"
     },
     {
-        "name": "asozial.org",
-        "domain": "matrix.asozial.org:8448",
-        "info": "https://asozial.org",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; left-wing",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.asozial.org/",
-        "software": "Dendrite",
-        "version": "0.10.1+d4710217"
-    },
-    {
         "name": "bachgau.social",
         "domain": "matrix.bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
@@ -373,21 +358,6 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.68.0"
-    },
-    {
-        "name": "converser.eu",
-        "domain": "converser.eu",
-        "info": "https://converser.eu",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.66.0"
     },
     {
         "name": "crossbach.de",
@@ -1438,6 +1408,21 @@
         "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
         "software": "Synapse",
         "version": "1.62.0"
+    },
+    {
+        "name": "hingst.net",
+        "domain": "matrix.hingst.net",
+        "info": "https://hingst.net",
+        "jurisdiction": "Sweden",
+        "tos": "https://hingst.net/terms/",
+        "privacy": "https://hingst.net/privacy/",
+        "open": false,
+        "remarks": "General host; advocacy",
+        "antifeature": null,
+        "reg_method": "Membership",
+        "reg_link": "https://hingst.net/",
+        "software": "Synapse",
+        "version": "1.68.0"
     },
     {
         "name": "sans-nuage.fr",
