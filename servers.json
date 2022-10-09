@@ -586,7 +586,7 @@
     },
     {
         "name": "glasgow.social",
-        "domain": "glasgow.social",
+        "domain": "matrix.glasgow.social",
         "info": "https://opensource.glasgow.social/matrix",
         "jurisdiction": "UK",
         "tos": null,
@@ -1257,7 +1257,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "vern.cc",
@@ -1347,7 +1347,7 @@
         "reg_method": "SSO",
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "aletheia.moe",
