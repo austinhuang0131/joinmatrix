@@ -14,6 +14,9 @@ jobs:
     name: Check all sites
     steps:
       - uses: actions/checkout@v2
+      - name: test hashi
+        id: hashi
+        run: curl -Ls -m 10 https://hashi.sbs/.well-known/matrix/server -A https://joinmatrix.org/servers
       - name: Run Shell Script
         id: shell_script_run
         run: bash -x ./test.sh
