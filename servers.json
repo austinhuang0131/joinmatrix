@@ -1080,21 +1080,6 @@
         "version": "1.67.0"
     },
     {
-        "name": "socialnetwork24.com",
-        "domain": "socialnetwork24.com",
-        "info": "https://blog.unixweb.de/telegram-abgeschaltet-alternative-matrix/",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.socialnetwork24.com",
-        "software": "Synapse",
-        "version": "1.64.0"
-    },
-    {
         "name": "studichat.de",
         "domain": "matrix.studichat.de",
         "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
