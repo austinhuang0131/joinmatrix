@@ -1065,6 +1065,21 @@
         "version": "1.67.0"
     },
     {
+        "name": "socialnetwork24.com",
+        "domain": "socialnetwork24.com",
+        "info": "https://blog.unixweb.de/telegram-abgeschaltet-alternative-matrix/",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.socialnetwork24.com",
+        "software": "Synapse",
+        "version": "1.64.0"
+    },
+    {
         "name": "studichat.de",
         "domain": "matrix.studichat.de",
         "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
@@ -1152,7 +1167,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://the-apothecary.club/",
         "software": "Synapse",
-        "version": "1.66.0"
+        "version": "1.68.0"
     },
     {
         "name": "tomesh.net",
@@ -1423,6 +1438,21 @@
         "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
         "software": "Synapse",
         "version": "1.62.0"
+    },
+    {
+        "name": "hingst.net",
+        "domain": "matrix.hingst.net",
+        "info": "https://hingst.net",
+        "jurisdiction": "Sweden",
+        "tos": "https://www.hovkluster.se/matrix/villkor_hingst.html",
+        "privacy": "https://www.hovkluster.se/matrix/integritet_hingst.html",
+        "open": false,
+        "remarks": "Advocacy",
+        "antifeature": null,
+        "reg_method": "Membership",
+        "reg_link": "https://hingst.net/#prices",
+        "software": "Synapse",
+        "version": "1.68.0"
     },
     {
         "name": "sans-nuage.fr",
