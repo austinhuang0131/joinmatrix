@@ -150,21 +150,6 @@
         "version": "1.68.0"
     },
     {
-        "name": "badstuebner.biz",
-        "domain": "matrix.badstuebner.biz",
-        "info": "https://badstuebner.biz",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://badstuebner.biz/impressum.php",
-        "open": true,
-        "remarks": "In German; personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.badstuebner.biz/",
-        "software": "Synapse",
-        "version": "1.68.0"
-    },
-    {
         "name": "bancino.net",
         "domain": "bancino.net",
         "info": "https://bancino.net",
@@ -928,21 +913,6 @@
         "reg_link": "https://chat.pcriot.org/",
         "software": "Synapse",
         "version": "1.66.0"
-    },
-    {
-        "name": "plus.st",
-        "domain": "plus.st",
-        "info": "https://plus.st/",
-        "jurisdiction": "US?",
-        "tos": "https://plus.st/tospp.html",
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.plus.st/",
-        "software": "Synapse",
-        "version": "1.67.0"
     },
     {
         "name": "pragma-messenger.ch",
