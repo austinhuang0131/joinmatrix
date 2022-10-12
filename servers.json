@@ -15,21 +15,6 @@
         "version": "1.68.0"
     },
     {
-        "name": "activism.international",
-        "domain": "activism.international",
-        "info": "https://activism.international",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://activism.international/privacy/cloud/",
-        "open": true,
-        "remarks": "Left-wing; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.activism.international/",
-        "software": "Synapse",
-        "version": "1.68.0"
-    },
-    {
         "name": "agdersam.no",
         "domain": "agdersam.no",
         "info": "https://agdersam.no/",
@@ -585,21 +570,6 @@
         "version": "1.67.0"
     },
     {
-        "name": "glasgow.social",
-        "domain": "matrix.glasgow.social",
-        "info": "https://opensource.glasgow.social/matrix",
-        "jurisdiction": "UK",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional tech collective",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.glasgow.social/",
-        "software": "Synapse",
-        "version": "1.61.1"
-    },
-    {
         "name": "group.lt",
         "domain": "group.lt",
         "info": "https://group.lt",
@@ -1121,6 +1091,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
+        "software": "Synapse",
+        "version": "1.68.0"
+    },
+    {
+        "name": "techsaviours.org",
+        "domain": "matrix.techsaviours.org",
+        "info": "https://techsaviours.org",
+        "jurisdiction": "Germany",
+        "tos": "https://techsaviours.org/terms-and-conditions.html",
+        "privacy": "https://techsaviours.org/privacy-policy.html",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
         "version": "1.68.0"
     },
