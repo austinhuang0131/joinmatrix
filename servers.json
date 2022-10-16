@@ -15,21 +15,6 @@
         "version": "1.68.0"
     },
     {
-        "name": "activism.international",
-        "domain": "activism.international",
-        "info": "https://activism.international",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://activism.international/privacy/cloud/",
-        "open": true,
-        "remarks": "Left-wing; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.activism.international/",
-        "software": "Synapse",
-        "version": "1.68.0"
-    },
-    {
         "name": "agdersam.no",
         "domain": "agdersam.no",
         "info": "https://agdersam.no/",
@@ -510,6 +495,21 @@
         "version": "1.68.0"
     },
     {
+        "name": "foss.wtf",
+        "domain": "matrix.foss.wtf",
+        "info": "https://foss.wtf/#matrix",
+        "jurisdiction": "Germany",
+        "tos": "https://foss.wtf/#matrix-tos",
+        "privacy": "https://foss.wtf/#privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.foss.wtf/",
+        "software": "Synapse",
+        "version": "1.68.0"
+    },
+    {
         "name": "freiburg.social",
         "domain": "matrix.freiburg.social",
         "info": "https://wir.freiburg.social/angebote/matrix/",
@@ -945,21 +945,6 @@
         "version": "1.66.0"
     },
     {
-        "name": "plus.st",
-        "domain": "plus.st",
-        "info": "https://plus.st/",
-        "jurisdiction": "US?",
-        "tos": "https://plus.st/tospp.html",
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.plus.st/",
-        "software": "Synapse",
-        "version": "1.67.0"
-    },
-    {
         "name": "pragma-messenger.ch",
         "domain": "pragma-messenger.ch",
         "info": "https://pragma-solution.com/de/Produkte/messenger/",
@@ -1107,7 +1092,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.sibnsk.net",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.68.0"
     },
     {
         "name": "socialnetwork24.com",
