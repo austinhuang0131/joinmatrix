@@ -60,21 +60,6 @@
         "version": "1.68.0"
     },
     {
-        "name": "arcticfoxes.net",
-        "domain": "matrix.arcticfoxes.net",
-        "info": "https://arcticfoxes.net",
-        "jurisdiction": "US (UK)",
-        "tos": "https://arcticfoxes.net/",
-        "privacy": "https://arcticfoxes.net/",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://app.arcticfoxes.net",
-        "software": "Synapse",
-        "version": "1.68.0"
-    },
-    {
         "name": "aria-net.org",
         "domain": "aria.im",
         "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
@@ -960,21 +945,6 @@
         "version": "1.68.0"
     },
     {
-        "name": "projectsegfau.lt",
-        "domain": "projectsegfau.lt:8448",
-        "info": "https://projectsegfau.lt/instances",
-        "jurisdiction": "France/Greece",
-        "tos": "https://projectsegfau.lt/legal/tos",
-        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.projectsegfau.lt/",
-        "software": "Synapse",
-        "version": "1.68.0"
-    },
-    {
         "name": "privex.io",
         "domain": "privex.io",
         "info": "https://privex.io",
@@ -1121,6 +1091,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
+        "software": "Synapse",
+        "version": "1.68.0"
+    },
+    {
+        "name": "synod.im",
+        "domain": "synod.im",
+        "info": "https://doc.librechurch.org/Wiki.jsp?page=Matrix#section-Matrix-DieMatrixInstanzSynod.im",
+        "jurisdiction": "Germany",
+        "tos": "https://synod.im/_matrix/consent?v=1.0",
+        "privacy": "https://synod.im/privacy-1.2.html",
+        "open": true,
+        "remarks": "In German; Christian",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://web.synod.im/",
         "software": "Synapse",
         "version": "1.68.0"
     },
