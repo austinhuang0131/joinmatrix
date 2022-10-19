@@ -135,21 +135,6 @@
         "version": "1.69.0"
     },
     {
-        "name": "bancino.net",
-        "domain": "bancino.net",
-        "info": "https://bancino.net",
-        "jurisdiction": "US",
-        "tos": "https://bancino.net/_matrix/consent",
-        "privacy": "https://bancino.net/_matrix/consent",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://bancino.net/element/",
-        "software": "Synapse",
-        "version": "1.54.0"
-    },
-    {
         "name": "breeze.town",
         "domain": "breeze.town",
         "info": "https://breeze.town/@breeze/108776240056543549",
@@ -567,7 +552,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.gemeinsam.jetzt/",
         "software": "Synapse",
-        "version": "1.68.0"
+        "version": "1.69.0"
     },
     {
         "name": "ggc-project.de",
@@ -586,7 +571,7 @@
     },
     {
         "name": "glasgow.social",
-        "domain": "matrix.glasgow.social",
+        "domain": "glasgow.social",
         "info": "https://opensource.glasgow.social/matrix",
         "jurisdiction": "UK",
         "tos": null,
