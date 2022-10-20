@@ -180,21 +180,6 @@
         "version": "1.69.0"
     },
     {
-        "name": "byzero.dev",
-        "domain": "matrix.byzero.dev",
-        "info": "https://hosting.byzero.dev/",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.byzero.dev/",
-        "software": "Synapse",
-        "version": "1.62.0"
-    },
-    {
         "name": "cat.casa",
         "domain": "matrix.cat.casa",
         "info": "https://cat.casa/",
@@ -570,6 +555,21 @@
         "version": "1.67.0"
     },
     {
+        "name": "glasgow.social",
+        "domain": "matrix.glasgow.social",
+        "info": "https://opensource.glasgow.social/matrix",
+        "jurisdiction": "UK",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional tech collective",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.glasgow.social/",
+        "software": "Synapse",
+        "version": "1.61.1"
+    },
+    {
         "name": "group.lt",
         "domain": "group.lt",
         "info": "https://group.lt",
@@ -765,21 +765,6 @@
         "version": "1.66.0"
     },
     {
-        "name": "mstdn.social",
-        "domain": "chat.mstdn.social",
-        "info": "https://mstdn.social/about/more#matrix",
-        "jurisdiction": "Netherlands (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.mstdn.social/",
-        "software": "Synapse",
-        "version": "1.66.0"
-    },
-    {
         "name": "mtrx.nz",
         "domain": "mtrx.nz",
         "info": "https://mtrx.nz",
@@ -903,7 +888,7 @@
         "name": "plus.st",
         "domain": "null",
         "info": "https://plus.st/",
-        "jurisdiction": "US?",
+        "jurisdiction": "US",
         "tos": "https://plus.st/tos.html",
         "privacy": null,
         "open": true,
@@ -1018,21 +1003,6 @@
         "reg_link": "https://riotchat.de/register/form.php",
         "software": "Synapse",
         "version": "1.67.0"
-    },
-    {
-        "name": "scyldings.com",
-        "domain": "matrix.scyldings.com",
-        "info": "https://scyldings.com/guide-joining-the-chat-server-on-scyldings-com/",
-        "jurisdiction": "UK? (US)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory, right-wing",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.scyldings.com/",
-        "software": "Synapse",
-        "version": "1.68.0"
     },
     {
         "name": "sfunk1x.com",
