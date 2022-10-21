@@ -312,7 +312,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.69.0"
     },
     {
         "name": "club1.fr",
@@ -541,7 +541,7 @@
     },
     {
         "name": "g24.at",
-        "domain": "matrix.g24.at",
+        "domain": "g24.at",
         "info": "https://g24.at",
         "jurisdiction": "Austria",
         "tos": null,
@@ -583,6 +583,21 @@
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
         "version": "1.67.0"
+    },
+    {
+        "name": "glasgow.social",
+        "domain": "matrix.glasgow.social",
+        "info": "https://opensource.glasgow.social/matrix",
+        "jurisdiction": "UK",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional tech collective",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.glasgow.social/",
+        "software": "Synapse",
+        "version": "1.61.1"
     },
     {
         "name": "group.lt",
