@@ -1095,6 +1095,21 @@
         "version": "1.69.0"
     },
     {
+        "name": "synod.im",
+        "domain": "synod.im",
+        "info": "https://doc.librechurch.org/Wiki.jsp?page=Matrix#section-Matrix-DieMatrixInstanzSynod.im",
+        "jurisdiction": "Germany",
+        "tos": "https://synod.im/_matrix/consent?v=1.0",
+        "privacy": "https://synod.im/privacy-1.2.html",
+        "open": true,
+        "remarks": "In German; Christian",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://web.synod.im/",
+        "software": "Synapse",
+        "version": "1.69.0"
+    },
+    {
         "name": "tchncs.de",
         "domain": "matrix.tchncs.de",
         "info": "https://tchncs.de/matrix",
