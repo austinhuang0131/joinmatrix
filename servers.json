@@ -522,7 +522,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://webchat.freitrix.de/#/register",
         "software": "Synapse",
-        "version": "1.68.0"
+        "version": "1.69.0"
     },
     {
         "name": "fulda.social",
