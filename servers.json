@@ -462,7 +462,7 @@
         "reg_method": "SSO",
         "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.69.0"
     },
     {
         "name": "flieger.chat",
@@ -673,6 +673,21 @@
         "reg_link": "https://element.inetd.xyz/",
         "software": "Synapse",
         "version": "1.68.0"
+    },
+    {
+        "name": "jonasled.de",
+        "domain": "matrix.jonasled.de",
+        "info": "https://jonasled.de",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://jonasled.de/datenschutzerklaerung.html",
+        "open": true,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.jonasled.de/",
+        "software": "Synapse",
+        "version": "1.69.0"
     },
     {
         "name": "librem.one",
