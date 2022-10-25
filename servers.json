@@ -432,7 +432,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.0rc2"
     },
     {
         "name": "exarius.org",
