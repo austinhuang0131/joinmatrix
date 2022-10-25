@@ -507,7 +507,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.freiburg.social/",
         "software": "Synapse",
-        "version": "1.68.0"
+        "version": "1.69.0"
     },
     {
         "name": "freitrix.de",
@@ -642,7 +642,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://houtworm.im/",
         "software": "Synapse",
-        "version": "1.68.0"
+        "version": "1.69.0"
     },
     {
         "name": "inetd.xyz",
@@ -658,6 +658,21 @@
         "reg_link": "https://element.inetd.xyz/",
         "software": "Synapse",
         "version": "1.68.0"
+    },
+    {
+        "name": "jonasled.de",
+        "domain": "matrix.jonasled.de",
+        "info": "https://jonasled.de",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://jonasled.de/datenschutzerklaerung.html",
+        "open": true,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.jonasled.de/",
+        "software": "Synapse",
+        "version": "1.69.0"
     },
     {
         "name": "librem.one",
