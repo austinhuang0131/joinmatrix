@@ -57,7 +57,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.0"
     },
     {
         "name": "arcticfoxes.net",
@@ -72,21 +72,6 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.arcticfoxes.net",
         "software": "Synapse",
-        "version": "1.69.0"
-    },
-    {
-        "name": "aria-net.org",
-        "domain": "aria.im",
-        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
-        "jurisdiction": "Italy?",
-        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://el.aria-net.org/",
-        "software": "Archon",
         "version": "1.69.0"
     },
     {
@@ -507,7 +492,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.foss.wtf/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.0"
     },
     {
         "name": "freiburg.social",
@@ -541,7 +526,7 @@
     },
     {
         "name": "g24.at",
-        "domain": "g24.at",
+        "domain": "matrix.g24.at",
         "info": "https://g24.at",
         "jurisdiction": "Austria",
         "tos": null,
