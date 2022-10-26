@@ -237,7 +237,7 @@
         "reg_method": "Form",
         "reg_link": "https://registration.matrix.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.0"
     },
     {
         "name": "cezeri.tech",
@@ -585,6 +585,21 @@
         "version": "1.69.0"
     },
     {
+        "name": "glasgow.social",
+        "domain": "matrix.glasgow.social",
+        "info": "https://opensource.glasgow.social/matrix",
+        "jurisdiction": "UK",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional tech collective",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.glasgow.social/",
+        "software": "Synapse",
+        "version": "1.61.1"
+    },
+    {
         "name": "group.lt",
         "domain": "group.lt",
         "info": "https://group.lt",
@@ -597,7 +612,7 @@
         "reg_method": "In-house Cinny",
         "reg_link": "https://chat.group.lt/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.0"
     },
     {
         "name": "hashi.sbs",
@@ -672,7 +687,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.jonasled.de/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.0"
     },
     {
         "name": "librem.one",
@@ -837,7 +852,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.0"
     },
     {
         "name": "oblak.be",
@@ -927,7 +942,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.0"
     },
     {
         "name": "projectsegfau.lt",
@@ -1107,7 +1122,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.0"
     },
     {
         "name": "tedomum.net",
@@ -1122,7 +1137,7 @@
         "reg_method": "SSO",
         "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.0"
     },
     {
         "name": "the-apothecary.club",
