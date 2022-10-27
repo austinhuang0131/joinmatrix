@@ -12,7 +12,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://im.0wnz.at/element-web/",
         "software": "Synapse",
-        "version": "1.68.0"
+        "version": "1.69.0"
     },
     {
         "name": "agdersam.no",
@@ -1303,6 +1303,21 @@
         "reg_link": "https://element.asra.gr/",
         "software": "Synapse",
         "version": "420*69"
+    },
+    {
+        "name": "fachschaften.org",
+        "domain": "matrix.fachschaften.org",
+        "info": "https://fachschaften.org",
+        "jurisdiction": "Germany",
+        "tos": "https://fsinfo.cs.tu-dortmund.de/studis/coc",
+        "privacy": "https://md.fachschaften.org/_hmxfyc-SZi-fLjyyT2kvw",
+        "open": false,
+        "remarks": "In German; student-oriented; requires a German university email address",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://account.fachschaften.org/",
+        "software": "Synapse",
+        "version": "1.69.0"
     },
     {
         "name": "pikaviestin.fi",
