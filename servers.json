@@ -357,7 +357,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.0"
     },
     {
         "name": "community.rs",
@@ -1437,7 +1437,7 @@
         "reg_method": "Membership",
         "reg_link": "https://hingst.net/#prices",
         "software": "Synapse",
-        "version": "1.68.0"
+        "version": "1.69.0"
     },
     {
         "name": "sans-nuage.fr",
