@@ -75,6 +75,21 @@
         "version": "1.69.0"
     },
     {
+        "name": "aria-net.org",
+        "domain": "aria.im",
+        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
+        "jurisdiction": "Italy?",
+        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://el.aria-net.org/",
+        "software": "Archon",
+        "version": "1.69.0"
+    },
+    {
         "name": "asozial.org",
         "domain": "matrix.asozial.org:8448",
         "info": "https://asozial.org",
@@ -526,7 +541,7 @@
     },
     {
         "name": "g24.at",
-        "domain": "matrix.g24.at",
+        "domain": "g24.at",
         "info": "https://g24.at",
         "jurisdiction": "Austria",
         "tos": null,
@@ -942,7 +957,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.projectsegfau.lt/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.0"
     },
     {
         "name": "privex.io",
@@ -1288,21 +1303,6 @@
         "reg_link": "https://element.asra.gr/",
         "software": "Synapse",
         "version": "420*69"
-    },
-    {
-        "name": "fachschaften.org",
-        "domain": "matrix.fachschaften.org",
-        "info": "https://fachschaften.org",
-        "jurisdiction": "Germany",
-        "tos": "https://fsinfo.cs.tu-dortmund.de/studis/coc",
-        "privacy": "https://md.fachschaften.org/_hmxfyc-SZi-fLjyyT2kvw",
-        "open": false,
-        "remarks": "In German; student-oriented; requires a German university email address",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.fachschaften.org/",
-        "software": "Synapse",
-        "version": "1.69.0"
     },
     {
         "name": "pikaviestin.fi",
