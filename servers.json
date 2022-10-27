@@ -297,7 +297,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatinamatrix.xyz/",
         "software": "Dendrite",
-        "version": "0.10.3"
+        "version": "0.10.4"
     },
     {
         "name": "chatwave.org",
@@ -536,6 +536,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://webchat.freitrix.de/#/register",
+        "software": "Synapse",
+        "version": "1.69.0"
+    },
+    {
+        "name": "fulda.social",
+        "domain": "fulda.social",
+        "info": "https://dasnetzundich.de/2021/08/14/willkommen-in-der-matrix/",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.fulda.social/",
         "software": "Synapse",
         "version": "1.69.0"
     },
@@ -808,6 +823,21 @@
         "reg_link": "https://mtrx.nz/",
         "software": "Synapse",
         "version": "1.69.0"
+    },
+    {
+        "name": "nibbana.jp",
+        "domain": "nibbana.jp",
+        "info": "https://minohdon.jp/@toneji/108741278436401857",
+        "jurisdiction": "Japan",
+        "tos": "https://view.matrix.org/room/!yQqzXdUclhZuVJqDKy:nibbana.jp/",
+        "privacy": null,
+        "open": true,
+        "remarks": "Oriented towards Japanese culture",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.nibbana.jp/",
+        "software": "Synapse",
+        "version": "1.70.0"
     },
     {
         "name": "nitro.chat",
