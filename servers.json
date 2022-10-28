@@ -222,7 +222,7 @@
         "reg_method": "Form",
         "reg_link": "https://registration.matrix.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.70.0"
+        "version": "1.70.1"
     },
     {
         "name": "cezeri.tech",
@@ -268,21 +268,6 @@
         "reg_link": "https://talk.chatcloud.net/",
         "software": "Synapse",
         "version": "1.69.0"
-    },
-    {
-        "name": "chatinamatrix.xyz",
-        "domain": "matrix.chatinamatrix.xyz",
-        "info": "https://arrayinamatrix.xyz/index/apps/matrix/",
-        "jurisdiction": "Canada",
-        "tos": "https://arrayinamatrix.xyz/index/apps/matrix/#rules",
-        "privacy": "https://arrayinamatrix.xyz/index/apps/privacy/#matrix",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.chatinamatrix.xyz/",
-        "software": "Dendrite",
-        "version": "0.10.4"
     },
     {
         "name": "chatwave.org",
@@ -612,7 +597,7 @@
         "reg_method": "In-house Cinny",
         "reg_link": "https://chat.group.lt/",
         "software": "Synapse",
-        "version": "1.70.0"
+        "version": "1.70.1"
     },
     {
         "name": "hashi.sbs",
@@ -687,7 +672,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.jonasled.de/",
         "software": "Synapse",
-        "version": "1.70.0"
+        "version": "1.70.1"
     },
     {
         "name": "librem.one",
@@ -1152,7 +1137,7 @@
         "reg_method": "SSO",
         "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
-        "version": "1.70.0"
+        "version": "1.70.1"
     },
     {
         "name": "the-apothecary.club",
@@ -1245,21 +1230,6 @@
         "version": "1.68.0"
     },
     {
-        "name": "vern.cc",
-        "domain": "mtrx.vern.cc",
-        "info": "https://vern.cc/",
-        "jurisdiction": "US/India? (US/Canada)",
-        "tos": "https://vern.cc/rules",
-        "privacy": "https://vern.cc/privpol",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://vern.cc/register.php",
-        "software": "Synapse",
-        "version": "1.69.0"
-    },
-    {
         "name": "virto.community",
         "domain": "matrix.virto.community",
         "info": "https://virto.network/",
@@ -1348,21 +1318,6 @@
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
         "version": "1.69.0"
-    },
-    {
-        "name": "aletheia.moe",
-        "domain": "im.aletheia.moe",
-        "info": "https://aletheia.moe",
-        "jurisdiction": "? (Iceland)",
-        "tos": "https://aletheia.moe/tos/",
-        "privacy": "https://aletheia.moe/tos/",
-        "open": false,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://aletheia.moe/registration/",
-        "software": "Synapse",
-        "version": "1.66.0"
     },
     {
         "name": "deuxfleurs.fr",
