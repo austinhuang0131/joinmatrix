@@ -237,7 +237,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.cezeri.tech/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.1"
     },
     {
         "name": "chagai.website",
@@ -270,6 +270,21 @@
         "version": "1.69.0"
     },
     {
+        "name": "chatinamatrix.xyz",
+        "domain": "matrix.chatinamatrix.xyz",
+        "info": "https://arrayinamatrix.xyz/index/apps/matrix/",
+        "jurisdiction": "Canada",
+        "tos": "https://arrayinamatrix.xyz/index/apps/matrix/#rules",
+        "privacy": "https://arrayinamatrix.xyz/index/apps/privacy/#matrix",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.chatinamatrix.xyz/",
+        "software": "Dendrite",
+        "version": "0.10.4"
+    },
+    {
         "name": "chatwave.org",
         "domain": "matrix.chatwave.org",
         "info": "https://yatrix.org",
@@ -282,7 +297,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.1"
     },
     {
         "name": "chrrreeeeesss.com",
@@ -312,7 +327,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://riot.club1.fr/",
         "software": "Synapse",
-        "version": "1.68.0"
+        "version": "1.70.1"
     },
     {
         "name": "comm.cx",
@@ -402,7 +417,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.1"
     },
     {
         "name": "envs.net",
@@ -417,7 +432,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.70.0rc2"
+        "version": "1.70.1"
     },
     {
         "name": "exarius.org",
@@ -462,7 +477,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.1"
     },
     {
         "name": "foss.wtf",
@@ -477,7 +492,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.foss.wtf/",
         "software": "Synapse",
-        "version": "1.70.0"
+        "version": "1.70.1"
     },
     {
         "name": "freiburg.social",
@@ -506,21 +521,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://webchat.freitrix.de/#/register",
-        "software": "Synapse",
-        "version": "1.69.0"
-    },
-    {
-        "name": "fulda.social",
-        "domain": "fulda.social",
-        "info": "https://dasnetzundich.de/2021/08/14/willkommen-in-der-matrix/",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.fulda.social/",
         "software": "Synapse",
         "version": "1.69.0"
     },
@@ -822,7 +822,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.1"
     },
     {
         "name": "nltrix.net",
@@ -852,7 +852,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
-        "version": "1.70.0"
+        "version": "1.70.1"
     },
     {
         "name": "oblak.be",
@@ -942,7 +942,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.70.0"
+        "version": "1.70.1"
     },
     {
         "name": "projectsegfau.lt",
@@ -1107,7 +1107,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://web.synod.im/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.1"
     },
     {
         "name": "tchncs.de",
@@ -1122,7 +1122,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.70.0"
+        "version": "1.70.1"
     },
     {
         "name": "tedomum.net",
@@ -1230,6 +1230,21 @@
         "version": "1.68.0"
     },
     {
+        "name": "vern.cc",
+        "domain": "mtrx.vern.cc",
+        "info": "https://vern.cc/",
+        "jurisdiction": "US/India? (US/Canada)",
+        "tos": "https://vern.cc/rules",
+        "privacy": "https://vern.cc/privpol",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://vern.cc/register.php",
+        "software": "Synapse",
+        "version": "1.69.0"
+    },
+    {
         "name": "virto.community",
         "domain": "matrix.virto.community",
         "info": "https://virto.network/",
@@ -1272,7 +1287,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.1"
     },
     {
         "name": "asra.gr",
@@ -1318,6 +1333,21 @@
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
         "version": "1.69.0"
+    },
+    {
+        "name": "aletheia.moe",
+        "domain": "im.aletheia.moe",
+        "info": "https://aletheia.moe",
+        "jurisdiction": "? (Iceland)",
+        "tos": "https://aletheia.moe/tos/",
+        "privacy": "https://aletheia.moe/tos/",
+        "open": false,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://aletheia.moe/registration/",
+        "software": "Synapse",
+        "version": "1.66.0"
     },
     {
         "name": "deuxfleurs.fr",
