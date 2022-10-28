@@ -195,21 +195,6 @@
         "version": "1.69.0"
     },
     {
-        "name": "byzero.dev",
-        "domain": "matrix.byzero.dev",
-        "info": "https://hosting.byzero.dev/",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.byzero.dev/",
-        "software": "Synapse",
-        "version": "1.62.0"
-    },
-    {
         "name": "cat.casa",
         "domain": "matrix.cat.casa",
         "info": "https://cat.casa/",
@@ -282,7 +267,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://talk.chatcloud.net/",
         "software": "Synapse",
-        "version": "1.67.0"
+        "version": "1.69.0"
     },
     {
         "name": "chatinamatrix.xyz",
@@ -536,6 +521,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://webchat.freitrix.de/#/register",
+        "software": "Synapse",
+        "version": "1.69.0"
+    },
+    {
+        "name": "fulda.social",
+        "domain": "fulda.social",
+        "info": "https://dasnetzundich.de/2021/08/14/willkommen-in-der-matrix/",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.fulda.social/",
         "software": "Synapse",
         "version": "1.69.0"
     },
@@ -1377,7 +1377,7 @@
         "reg_method": "Contact",
         "reg_link": "https://deuxfleurs.fr/",
         "software": "Synapse",
-        "version": "1.65.0"
+        "version": "1.70.0"
     },
     {
         "name": "hyteck.de",
