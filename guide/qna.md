@@ -21,7 +21,7 @@ The following guides contain configurations that are specific to a homeserver, b
 
 This guide is written by [Austin Huang](https://austinhuang.me) with the help of many people, whose feedback is greatly appreciated.
 
-The `joinmatrix.org` domain is owned by [Jonah Aragon](https://www.jonaharagon.com/) on behalf of [Privacy Guides](https://www.privacyguides.org/), whose contribution is also greatly appreciated.
+The `joinmatrix.org` domain is donated by [Jonah Aragon](https://www.jonaharagon.com/), whose contribution is also greatly appreciated.
 
 All contents of this guide are licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). Please link back to this website.
 
@@ -47,7 +47,7 @@ You can translate this guide to your own language. However, to be endorsed by th
 3. You are under no obligation to use any specific theme or any static site generator at all - All I ask is please make sure the translations form a standalone website that is good-looking.
 4. You are responsible for hosting that allows a custom subdomain (GitHub/GitLab/Gitea pages is fine).
 
-After you've done that, please contact [`#public_servers:tchncs.de`](https://matrix.to/#/#public_servers:tchncs.de) to get your CNAME (language code `.joinmatrix.org`).
+After you've done that, please [create an issue](https://github.com/austinhuang0131/joinmatrix/issues) to get your CNAME (language code `.joinmatrix.org`).
 
 ## Questions about Matrix
 
