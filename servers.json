@@ -132,7 +132,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.badstuebner.biz/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.1"
     },
     {
         "name": "bancino.net",
@@ -342,7 +342,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.70.0"
+        "version": "1.70.1"
     },
     {
         "name": "community.rs",
@@ -628,6 +628,21 @@
         "reg_link": "https://hashi.sbs",
         "software": "Synapse",
         "version": "1.70.1"
+    },
+    {
+        "name": "hot-chilli.im",
+        "domain": "hot-chilli.im",
+        "info": "https://jabber.hot-chilli.net/2022/04/26/hot-chilli-matrix-server/",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.hot-chilli.im/",
+        "software": "Synapse",
+        "version": "1.69.0"
     },
     {
         "name": "houtworm.im",
@@ -1317,7 +1332,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.1"
     },
     {
         "name": "pikaviestin.fi",
