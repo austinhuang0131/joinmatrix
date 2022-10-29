@@ -612,22 +612,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://hashi.sbs",
         "software": "Synapse",
-        "version": "1.69.0"
-    },
-    {
-        "name": "hot-chilli.im",
-        "domain": "hot-chilli.im",
-        "info": "https://jabber.hot-chilli.net/2022/04/26/hot-chilli-matrix-server/",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.hot-chilli.im/",
-        "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.1"
     },
     {
         "name": "houtworm.im",
@@ -957,7 +942,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.projectsegfau.lt/",
         "software": "Synapse",
-        "version": "1.70.0"
+        "version": "1.70.1"
     },
     {
         "name": "privex.io",
@@ -1333,21 +1318,6 @@
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
         "version": "1.69.0"
-    },
-    {
-        "name": "aletheia.moe",
-        "domain": "im.aletheia.moe",
-        "info": "https://aletheia.moe",
-        "jurisdiction": "? (Iceland)",
-        "tos": "https://aletheia.moe/tos/",
-        "privacy": "https://aletheia.moe/tos/",
-        "open": false,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://aletheia.moe/registration/",
-        "software": "Synapse",
-        "version": "1.66.0"
     },
     {
         "name": "deuxfleurs.fr",
