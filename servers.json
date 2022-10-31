@@ -42,7 +42,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.anonymousland.org/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.1"
     },
     {
         "name": "archoslinux.cz",
@@ -176,6 +176,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.schaeferit.de/",
+        "software": "Synapse",
+        "version": "1.70.1"
+    },
+    {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/codeofconduct",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
         "software": "Synapse",
         "version": "1.70.1"
     },
@@ -930,19 +945,19 @@
         "version": "1.70.1"
     },
     {
-        "name": "privex.io",
-        "domain": "privex.io",
-        "info": "https://privex.io",
-        "jurisdiction": "Belize? (Sweden)",
-        "tos": null,
-        "privacy": null,
+        "name": "projectsegfau.lt",
+        "domain": "projectsegfau.lt:8448",
+        "info": "https://projectsegfau.lt/instances",
+        "jurisdiction": "France/Greece",
+        "tos": "https://projectsegfau.lt/legal/tos",
+        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
         "open": true,
-        "remarks": "Hosting provider; accessory",
+        "remarks": "General host",
         "antifeature": null,
         "reg_method": "In-house Element",
-        "reg_link": "https://riot.privex.io/",
+        "reg_link": "https://chat.projectsegfau.lt/",
         "software": "Synapse",
-        "version": "1.65.0"
+        "version": "1.70.1"
     },
     {
         "name": "pub.solar",
