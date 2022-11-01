@@ -267,7 +267,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatinamatrix.xyz/",
         "software": "Dendrite",
-        "version": "0.10.4"
+        "version": "0.10.5"
     },
     {
         "name": "chatwave.org",
@@ -747,7 +747,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.68.0"
+        "version": "1.70.1"
     },
     {
         "name": "matrix.im",
