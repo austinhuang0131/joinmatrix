@@ -405,6 +405,21 @@
         "version": "1.70.1"
     },
     {
+        "name": "envs.net",
+        "domain": "matrix.envs.net",
+        "info": "https://matrix-help.envs.net/",
+        "jurisdiction": "Germany",
+        "tos": "https://envs.net/terms-of-service",
+        "privacy": "https://envs.net/privacy-policy/",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.envs.net/",
+        "software": "Synapse",
+        "version": "1.70.1"
+    },
+    {
         "name": "exarius.org",
         "domain": "exarius.org",
         "info": "https://exarius.org/wiki/services/exatrix/",
