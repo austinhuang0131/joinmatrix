@@ -432,7 +432,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.71.0rc1"
     },
     {
         "name": "exarius.org",
@@ -1107,7 +1107,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.1"
     },
     {
         "name": "synod.im",
@@ -1242,7 +1242,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
-        "version": "1.68.0"
+        "version": "1.70.1"
     },
     {
         "name": "vern.cc",
