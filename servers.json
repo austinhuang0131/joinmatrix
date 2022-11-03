@@ -552,7 +552,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.gemeinsam.jetzt/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.1"
     },
     {
         "name": "ggc-project.de",
@@ -1407,7 +1407,7 @@
         "reg_method": "Membership",
         "reg_link": "https://hingst.net/#prices",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.1"
     },
     {
         "name": "sans-nuage.fr",
