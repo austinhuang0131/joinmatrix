@@ -320,7 +320,7 @@
         "info": "https://club1.fr/matrix/",
         "jurisdiction": "France",
         "tos": "https://club1.fr/docs/fr/cgu.html",
-        "privacy": null,
+        "privacy": "https://club1.fr/docs/fr/info/politique-de-vie-privee.html",
         "open": true,
         "remarks": "In French; tech collective",
         "antifeature": null,
@@ -586,7 +586,7 @@
     },
     {
         "name": "glasgow.social",
-        "domain": "matrix.glasgow.social",
+        "domain": "glasgow.social",
         "info": "https://opensource.glasgow.social/matrix",
         "jurisdiction": "UK",
         "tos": null,
