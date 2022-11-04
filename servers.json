@@ -1125,6 +1125,21 @@
         "version": "1.70.1"
     },
     {
+        "name": "techsaviours.org",
+        "domain": "matrix.techsaviours.org",
+        "info": "https://techsaviours.org",
+        "jurisdiction": "Germany",
+        "tos": "https://techsaviours.org/terms-and-conditions.html",
+        "privacy": "https://techsaviours.org/privacy-policy.html",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.techsaviours.org/",
+        "software": "Synapse",
+        "version": "1.69.0"
+    },
+    {
         "name": "tedomum.net",
         "domain": "matrix.tedomum.net",
         "info": "https://tedomum.net/service/matrix/",
@@ -1183,6 +1198,21 @@
         "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
         "version": "1.69.0"
+    },
+    {
+        "name": "ungleich.ch",
+        "domain": "ungleich.matrix.ungleich.cloud",
+        "info": "https://ungleich.ch/u/projects/open-chat/",
+        "jurisdiction": "Switzerland",
+        "tos": null,
+        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
+        "open": true,
+        "remarks": "Hosting provider",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://account.ungleich.ch/",
+        "software": "Synapse",
+        "version": "1.70.1"
     },
     {
         "name": "unredacted.org",
