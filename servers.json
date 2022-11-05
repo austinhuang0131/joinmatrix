@@ -270,21 +270,6 @@
         "version": "1.69.0"
     },
     {
-        "name": "chatinamatrix.xyz",
-        "domain": "matrix.chatinamatrix.xyz",
-        "info": "https://arrayinamatrix.xyz/index/apps/matrix/",
-        "jurisdiction": "Canada",
-        "tos": "https://arrayinamatrix.xyz/index/apps/matrix/#rules",
-        "privacy": "https://arrayinamatrix.xyz/index/apps/privacy/#matrix",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.chatinamatrix.xyz/",
-        "software": "Dendrite",
-        "version": "0.10.6"
-    },
-    {
         "name": "chatwave.org",
         "domain": "matrix.chatwave.org",
         "info": "https://yatrix.org",
@@ -583,21 +568,6 @@
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
         "version": "1.69.0"
-    },
-    {
-        "name": "glasgow.social",
-        "domain": "matrix.glasgow.social",
-        "info": "https://opensource.glasgow.social/matrix",
-        "jurisdiction": "UK",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional tech collective",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.glasgow.social/",
-        "software": "Synapse",
-        "version": "1.61.1"
     },
     {
         "name": "group.lt",
