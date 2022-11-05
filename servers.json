@@ -1350,6 +1350,21 @@
         "version": "1.69.0"
     },
     {
+        "name": "deuxfleurs.fr",
+        "domain": "im.deuxfleurs.fr",
+        "info": "https://deuxfleurs.fr",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": false,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://deuxfleurs.fr/",
+        "software": "Synapse",
+        "version": "1.70.0"
+    },
+    {
         "name": "hyteck.de",
         "domain": "synapse.hyteck.de",
         "info": "https://hyteck.de/services/",
@@ -1392,7 +1407,7 @@
         "reg_method": "Membership",
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
-        "version": "1.68.0"
+        "version": "1.70.1"
     },
     {
         "name": "hadoly.fr",
