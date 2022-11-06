@@ -462,7 +462,7 @@
         "reg_method": "SSO",
         "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.1"
     },
     {
         "name": "flieger.chat",
@@ -657,7 +657,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://houtworm.im/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.1"
     },
     {
         "name": "inetd.xyz",
@@ -733,6 +733,21 @@
         "reg_link": "https://account.magdeburg.jetzt/",
         "software": "Synapse",
         "version": "1.60.0"
+    },
+    {
+        "name": "mailstation.de",
+        "domain": "mailstation.de",
+        "info": "https://turing.mailstation.de/?page_id=1375",
+        "jurisdiction": "Germany",
+        "tos": "https://turing.mailstation.de/terms-and-conditions/",
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.mailstation.de/",
+        "software": "Synapse",
+        "version": "1.66.0"
     },
     {
         "name": "mandragot.org",
