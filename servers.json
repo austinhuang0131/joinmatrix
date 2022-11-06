@@ -585,6 +585,21 @@
         "version": "1.69.0"
     },
     {
+        "name": "glasgow.social",
+        "domain": "matrix.glasgow.social",
+        "info": "https://opensource.glasgow.social/matrix",
+        "jurisdiction": "UK",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional tech collective",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.glasgow.social/",
+        "software": "Synapse",
+        "version": "1.61.1"
+    },
+    {
         "name": "group.lt",
         "domain": "group.lt",
         "info": "https://group.lt",
@@ -718,21 +733,6 @@
         "reg_link": "https://account.magdeburg.jetzt/",
         "software": "Synapse",
         "version": "1.60.0"
-    },
-    {
-        "name": "mailstation.de",
-        "domain": "mailstation.de",
-        "info": "https://turing.mailstation.de/?page_id=1375",
-        "jurisdiction": "Germany",
-        "tos": "https://turing.mailstation.de/terms-and-conditions/",
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.mailstation.de/",
-        "software": "Synapse",
-        "version": "1.66.0"
     },
     {
         "name": "mandragot.org",
@@ -1423,6 +1423,21 @@
         "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
         "software": "Synapse",
         "version": "1.62.0"
+    },
+    {
+        "name": "hingst.net",
+        "domain": "matrix.hingst.net",
+        "info": "https://hingst.net",
+        "jurisdiction": "Sweden",
+        "tos": "https://www.hovkluster.se/matrix/villkor_hingst.html",
+        "privacy": "https://www.hovkluster.se/matrix/integritet_hingst.html",
+        "open": false,
+        "remarks": "Advocacy",
+        "antifeature": null,
+        "reg_method": "Membership",
+        "reg_link": "https://hingst.net/#prices",
+        "software": "Synapse",
+        "version": "1.70.1"
     },
     {
         "name": "sans-nuage.fr",
