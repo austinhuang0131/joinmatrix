@@ -1,20 +1,5 @@
 [
     {
-        "name": "0wnz.at",
-        "domain": "0wnz.at",
-        "info": "https://0wnz.at",
-        "jurisdiction": "Austria",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://im.0wnz.at/element-web/",
-        "software": "Synapse",
-        "version": "1.69.0"
-    },
-    {
         "name": "agdersam.no",
         "domain": "agdersam.no",
         "info": "https://agdersam.no/",
@@ -268,6 +253,21 @@
         "reg_link": "https://talk.chatcloud.net/",
         "software": "Synapse",
         "version": "1.69.0"
+    },
+    {
+        "name": "chatinamatrix.xyz",
+        "domain": "matrix.chatinamatrix.xyz",
+        "info": "https://arrayinamatrix.xyz/index/apps/matrix/",
+        "jurisdiction": "Canada",
+        "tos": "https://arrayinamatrix.xyz/index/apps/matrix/#rules",
+        "privacy": "https://arrayinamatrix.xyz/index/apps/privacy/#matrix",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.chatinamatrix.xyz/",
+        "software": "Dendrite",
+        "version": "0.10.7"
     },
     {
         "name": "chatwave.org",
