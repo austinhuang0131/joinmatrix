@@ -30,6 +30,21 @@
         "version": "1.69.0"
     },
     {
+        "name": "anonymousland.org",
+        "domain": "anonymousland.org",
+        "info": "https://www.anonymousland.org/services#matrix",
+        "jurisdiction": "Iceland?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.anonymousland.org/",
+        "software": "Synapse",
+        "version": "1.70.1"
+    },
+    {
         "name": "archoslinux.cz",
         "domain": "matrix.archoslinux.cz:443",
         "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
@@ -42,7 +57,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.71.0"
     },
     {
         "name": "arcticfoxes.net",
@@ -373,21 +388,6 @@
         "reg_link": "https://chat.data.haus/",
         "software": "Synapse",
         "version": "1.67.0"
-    },
-    {
-        "name": "duesen.chat",
-        "domain": "matrix.duesen.chat",
-        "info": "https://yatrix.org",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://yatrix.org/impressum/",
-        "open": true,
-        "remarks": "In German; operated by yatrix.org",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.duesen.chat/",
-        "software": "Synapse",
-        "version": "1.70.1"
     },
     {
         "name": "envs.net",
@@ -1320,6 +1320,21 @@
         "version": "1.70.1"
     },
     {
+        "name": "hingst.net",
+        "domain": "matrix.hingst.net",
+        "info": "https://hingst.net",
+        "jurisdiction": "Sweden",
+        "tos": "https://hingst.net/terms/",
+        "privacy": "https://hingst.net/privacy/",
+        "open": false,
+        "remarks": "Requires a registration token; freemium",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.hingst.net/",
+        "software": "Synapse",
+        "version": "1.70.1"
+    },
+    {
         "name": "pikaviestin.fi",
         "domain": "matrix.pikaviestin.fi",
         "info": "https://pikaviestin.fi",
@@ -1408,21 +1423,6 @@
         "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
         "software": "Synapse",
         "version": "1.62.0"
-    },
-    {
-        "name": "hingst.net",
-        "domain": "matrix.hingst.net",
-        "info": "https://hingst.net",
-        "jurisdiction": "Sweden",
-        "tos": "https://www.hovkluster.se/matrix/villkor_hingst.html",
-        "privacy": "https://www.hovkluster.se/matrix/integritet_hingst.html",
-        "open": false,
-        "remarks": "Advocacy",
-        "antifeature": null,
-        "reg_method": "Membership",
-        "reg_link": "https://hingst.net/#prices",
-        "software": "Synapse",
-        "version": "1.70.1"
     },
     {
         "name": "sans-nuage.fr",
