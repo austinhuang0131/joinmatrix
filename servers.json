@@ -30,21 +30,6 @@
         "version": "1.69.0"
     },
     {
-        "name": "anonymousland.org",
-        "domain": "anonymousland.org",
-        "info": "https://www.anonymousland.org/services#matrix",
-        "jurisdiction": "Iceland?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.anonymousland.org/",
-        "software": "Synapse",
-        "version": "1.70.1"
-    },
-    {
         "name": "archoslinux.cz",
         "domain": "matrix.archoslinux.cz:443",
         "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
@@ -72,6 +57,21 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.arcticfoxes.net",
         "software": "Synapse",
+        "version": "1.70.1"
+    },
+    {
+        "name": "aria-net.org",
+        "domain": "aria.im",
+        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
+        "jurisdiction": "Italy?",
+        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://el.aria-net.org/",
+        "software": "Archon",
         "version": "1.70.1"
     },
     {
@@ -207,7 +207,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.cezeri.tech/",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.71.0"
     },
     {
         "name": "chagai.website",
@@ -462,7 +462,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.foss.wtf/",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.71.0"
     },
     {
         "name": "freiburg.social",
@@ -612,7 +612,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.hot-chilli.im/",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.71.0"
     },
     {
         "name": "houtworm.im",
@@ -822,7 +822,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nltrix.net/",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.71.0"
     },
     {
         "name": "nope.chat",
@@ -882,7 +882,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://riot.ombreport.info/",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.71.0"
     },
     {
         "name": "pcriot.org",
@@ -927,7 +927,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.71.0"
     },
     {
         "name": "projectsegfau.lt",
@@ -1152,7 +1152,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://the-apothecary.club/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.71.0"
     },
     {
         "name": "tomesh.net",
