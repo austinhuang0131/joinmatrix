@@ -612,7 +612,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://hashi.sbs",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.71.0"
     },
     {
         "name": "hot-chilli.im",
@@ -673,21 +673,6 @@
         "reg_link": "https://chat.jonasled.de/",
         "software": "Synapse",
         "version": "1.71.0"
-    },
-    {
-        "name": "librem.one",
-        "domain": "chat.librem.one",
-        "info": "https://librem.one",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": "https://librem.one/policy/",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://librem.one",
-        "software": "Synapse",
-        "version": "1.38.1"
     },
     {
         "name": "llamarific.social",
@@ -762,7 +747,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.71.0"
     },
     {
         "name": "monero.social",
@@ -822,7 +807,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.71.0"
     },
     {
         "name": "nltrix.net",
