@@ -1107,7 +1107,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://web.synod.im/",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.71.0"
     },
     {
         "name": "tchncs.de",
@@ -1245,21 +1245,6 @@
         "version": "1.70.1"
     },
     {
-        "name": "vern.cc",
-        "domain": "mtrx.vern.cc",
-        "info": "https://vern.cc/",
-        "jurisdiction": "US/India? (US/Canada)",
-        "tos": "https://vern.cc/rules",
-        "privacy": "https://vern.cc/privpol",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://vern.cc/register.php",
-        "software": "Synapse",
-        "version": "1.70.1"
-    },
-    {
         "name": "virto.community",
         "domain": "matrix.virto.community",
         "info": "https://virto.network/",
@@ -1288,6 +1273,21 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.69.0"
+    },
+    {
+        "name": "yatrix.org",
+        "domain": "matrix.yatrix.org",
+        "info": "https://yatrix.org",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://yatrix.org/impressum/",
+        "open": true,
+        "remarks": "In German",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.yatrix.org/",
+        "software": "Synapse",
+        "version": "1.70.1"
     },
     {
         "name": "asra.gr",
@@ -1347,7 +1347,7 @@
         "reg_method": "SSO",
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.71.0"
     },
     {
         "name": "deuxfleurs.fr",
