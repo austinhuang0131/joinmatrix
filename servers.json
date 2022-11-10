@@ -1290,21 +1290,6 @@
         "version": "1.69.0"
     },
     {
-        "name": "yatrix.org",
-        "domain": "matrix.yatrix.org",
-        "info": "https://yatrix.org",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://yatrix.org/impressum/",
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.yatrix.org/",
-        "software": "Synapse",
-        "version": "1.70.1"
-    },
-    {
         "name": "asra.gr",
         "domain": "asra.gr",
         "info": "https://asra.gr",
