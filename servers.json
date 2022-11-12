@@ -102,7 +102,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.bachgau.social/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.71.0"
     },
     {
         "name": "badstuebner.biz",
@@ -176,6 +176,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.schaeferit.de/",
+        "software": "Synapse",
+        "version": "1.70.1"
+    },
+    {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/codeofconduct",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
         "software": "Synapse",
         "version": "1.70.1"
     },
@@ -1407,7 +1422,7 @@
         "reg_method": "Membership",
         "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
         "software": "Synapse",
-        "version": "1.62.0"
+        "version": "1.71.0"
     },
     {
         "name": "sans-nuage.fr",
