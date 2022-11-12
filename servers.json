@@ -12,7 +12,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://im.0wnz.at/element-web/",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.71.0"
     },
     {
         "name": "agdersam.no",
@@ -72,6 +72,21 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.arcticfoxes.net",
         "software": "Synapse",
+        "version": "1.70.1"
+    },
+    {
+        "name": "aria-net.org",
+        "domain": "aria.im",
+        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
+        "jurisdiction": "Italy?",
+        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://el.aria-net.org/",
+        "software": "Archon",
         "version": "1.70.1"
     },
     {
@@ -1032,7 +1047,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.sibnsk.net",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.71.0"
     },
     {
         "name": "socialnetwork24.com",
