@@ -75,21 +75,6 @@
         "version": "1.71.0"
     },
     {
-        "name": "aria-net.org",
-        "domain": "aria.im",
-        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
-        "jurisdiction": "Italy?",
-        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://el.aria-net.org/",
-        "software": "Archon",
-        "version": "1.70.1"
-    },
-    {
         "name": "asozial.org",
         "domain": "matrix.asozial.org:8448",
         "info": "https://asozial.org",
@@ -836,21 +821,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
-        "software": "Synapse",
-        "version": "1.71.0"
-    },
-    {
-        "name": "nltrix.net",
-        "domain": "nltrix.net",
-        "info": "https://nltrix.net",
-        "jurisdiction": "Netherlands",
-        "tos": "https://nltrix.net/#coc",
-        "privacy": "https://www.bit.nl/nl/over-bit/voorwaarden-en-policies",
-        "open": true,
-        "remarks": "In Dutch; only stores messages for 1 year",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.nltrix.net/",
         "software": "Synapse",
         "version": "1.71.0"
     },
