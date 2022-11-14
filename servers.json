@@ -90,6 +90,21 @@
         "version": "1.70.1"
     },
     {
+        "name": "asozial.org",
+        "domain": "matrix.asozial.org:8448",
+        "info": "https://asozial.org",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; left-wing",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.asozial.org/",
+        "software": "Dendrite",
+        "version": "0.10.7+7c73b131"
+    },
+    {
         "name": "bachgau.social",
         "domain": "matrix.bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
@@ -1200,6 +1215,21 @@
         "version": "1.71.0"
     },
     {
+        "name": "ungleich.ch",
+        "domain": "ungleich.matrix.ungleich.cloud",
+        "info": "https://ungleich.ch/u/projects/open-chat/",
+        "jurisdiction": "Switzerland",
+        "tos": null,
+        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
+        "open": true,
+        "remarks": "Hosting provider",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://account.ungleich.ch/",
+        "software": "Synapse",
+        "version": "1.70.1"
+    },
+    {
         "name": "unredacted.org",
         "domain": "matrix.unredacted.org",
         "info": "https://unredacted.org/services/matrix/",
@@ -1226,21 +1256,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.utwente.io/",
-        "software": "Synapse",
-        "version": "1.70.1"
-    },
-    {
-        "name": "vern.cc",
-        "domain": "mtrx.vern.cc",
-        "info": "https://vern.cc/",
-        "jurisdiction": "US/India? (US/Canada)",
-        "tos": "https://vern.cc/rules",
-        "privacy": "https://vern.cc/privpol",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://vern.cc/register.php",
         "software": "Synapse",
         "version": "1.70.1"
     },
