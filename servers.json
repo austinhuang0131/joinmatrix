@@ -192,7 +192,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.schaeferit.de/",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.71.0"
     },
     {
         "name": "cat.casa",
@@ -328,21 +328,6 @@
         "reg_link": "https://riot.club1.fr/",
         "software": "Synapse",
         "version": "1.70.1"
-    },
-    {
-        "name": "comm.cx",
-        "domain": "matrix-client.comm.cx",
-        "info": "https://comm.cx",
-        "jurisdiction": "Japan",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Uses Cloudflare",
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.71.0"
     },
     {
         "name": "community.rs",
@@ -673,21 +658,6 @@
         "reg_link": "https://chat.jonasled.de/",
         "software": "Synapse",
         "version": "1.71.0"
-    },
-    {
-        "name": "librem.one",
-        "domain": "chat.librem.one",
-        "info": "https://librem.one",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": "https://librem.one/policy/",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://librem.one",
-        "software": "Synapse",
-        "version": "1.38.1"
     },
     {
         "name": "llamarific.social",
@@ -1091,21 +1061,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://web.synod.im/",
-        "software": "Synapse",
-        "version": "1.71.0"
-    },
-    {
-        "name": "tchncs.de",
-        "domain": "matrix.tchncs.de",
-        "info": "https://tchncs.de/matrix",
-        "jurisdiction": "Germany",
-        "tos": "https://tchncs.de/matrix/tos",
-        "privacy": "https://tchncs.de/matrix/privacy",
-        "open": true,
-        "remarks": "General host; only stores messages for a year",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
         "version": "1.71.0"
     },
