@@ -330,6 +330,21 @@
         "version": "1.70.1"
     },
     {
+        "name": "comm.cx",
+        "domain": "matrix-client.comm.cx",
+        "info": "https://comm.cx",
+        "jurisdiction": "Japan",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": "Uses Cloudflare",
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.71.0"
+    },
+    {
         "name": "community.rs",
         "domain": "matrix.community.rs",
         "info": "https://community.rs",
@@ -510,6 +525,21 @@
         "version": "1.71.0"
     },
     {
+        "name": "fulda.social",
+        "domain": "fulda.social",
+        "info": "https://dasnetzundich.de/2021/08/14/willkommen-in-der-matrix/",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.fulda.social/",
+        "software": "Synapse",
+        "version": "1.71.0"
+    },
+    {
         "name": "g24.at",
         "domain": "g24.at",
         "info": "https://g24.at",
@@ -658,6 +688,21 @@
         "reg_link": "https://chat.jonasled.de/",
         "software": "Synapse",
         "version": "1.71.0"
+    },
+    {
+        "name": "librem.one",
+        "domain": "chat.librem.one",
+        "info": "https://librem.one",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": "https://librem.one/policy/",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://librem.one",
+        "software": "Synapse",
+        "version": "1.38.1"
     },
     {
         "name": "llamarific.social",
@@ -915,21 +960,6 @@
         "version": "1.71.0"
     },
     {
-        "name": "privex.io",
-        "domain": "privex.io",
-        "info": "https://privex.io",
-        "jurisdiction": "Belize? (Sweden)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Hosting provider; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://riot.privex.io/",
-        "software": "Synapse",
-        "version": "1.65.0"
-    },
-    {
         "name": "pub.solar",
         "domain": "matrix.pub.solar",
         "info": "https://pub.solar",
@@ -1061,6 +1091,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://web.synod.im/",
+        "software": "Synapse",
+        "version": "1.71.0"
+    },
+    {
+        "name": "tchncs.de",
+        "domain": "matrix.tchncs.de",
+        "info": "https://tchncs.de/matrix",
+        "jurisdiction": "Germany",
+        "tos": "https://tchncs.de/matrix/tos",
+        "privacy": "https://tchncs.de/matrix/privacy",
+        "open": true,
+        "remarks": "General host; only stores messages for a year",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
         "version": "1.71.0"
     },
