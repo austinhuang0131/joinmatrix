@@ -1320,21 +1320,6 @@
         "version": "420*69"
     },
     {
-        "name": "fachschaften.org",
-        "domain": "matrix.fachschaften.org",
-        "info": "https://fachschaften.org",
-        "jurisdiction": "Germany",
-        "tos": "https://fsinfo.cs.tu-dortmund.de/studis/coc",
-        "privacy": "https://md.fachschaften.org/_hmxfyc-SZi-fLjyyT2kvw",
-        "open": false,
-        "remarks": "In German; student-oriented; requires a German university email address",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.fachschaften.org/",
-        "software": "Synapse",
-        "version": "1.71.0"
-    },
-    {
         "name": "hingst.net",
         "domain": "matrix.hingst.net",
         "info": "https://hingst.net",
@@ -1378,21 +1363,6 @@
         "reg_link": "https://deuxfleurs.fr/",
         "software": "Synapse",
         "version": "1.70.0"
-    },
-    {
-        "name": "hyteck.de",
-        "domain": "synapse.hyteck.de",
-        "info": "https://hyteck.de/services/",
-        "jurisdiction": "Germany",
-        "tos": "https://hyteck.de/services/",
-        "privacy": null,
-        "open": false,
-        "remarks": "In German; personal",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://hyteck.de/about/",
-        "software": "Synapse",
-        "version": "1.70.1"
     },
     {
         "name": "libreon.fr",
