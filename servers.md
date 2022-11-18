@@ -39,6 +39,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
 This is a list of public Matrix homeservers as compiled by the author of this guide. Remember:
 
+* **Please do not register on multiple homeservers.** Abusing the limited resources that those servers offer will only discourage others from running new public homeservers. If you're testing one's performance, please do so *one at a time*, and clean up (delete the account) if you choose not to use that homeserver.
 * For long-term usage, choose a homeserver that you trust, [is properly federated](https://federationtester.matrix.org/), has a high version number, has an environment suitable to your use, and is designed to last.
 * Any homeserver you choose gets to access all the unencrypted data about your account!
 * **It bears reminding** that all participants of public discourse should foster a respectful environment, and that homeserver operators should discourage disruptive behaviour. As such, this list excludes homeservers that are known to harbour bad actors. Refer to [Criteria](#criteria).
