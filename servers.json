@@ -180,21 +180,6 @@
         "version": "1.69.0"
     },
     {
-        "name": "bytes4u.de",
-        "domain": "matrix.bytes4u.de",
-        "info": "https://bytes4u.de",
-        "jurisdiction": "Germany",
-        "tos": "https://www.bytes4u.de/rules.html",
-        "privacy": "https://www.bytes4u.de/matrix.html",
-        "open": true,
-        "remarks": "In German; personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.schaeferit.de/",
-        "software": "Synapse",
-        "version": "1.71.0"
-    },
-    {
         "name": "cat.casa",
         "domain": "matrix.cat.casa",
         "info": "https://cat.casa/",
@@ -328,21 +313,6 @@
         "reg_link": "https://riot.club1.fr/",
         "software": "Synapse",
         "version": "1.70.1"
-    },
-    {
-        "name": "comm.cx",
-        "domain": "matrix-client.comm.cx",
-        "info": "https://comm.cx",
-        "jurisdiction": "Japan",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Uses Cloudflare",
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.71.0"
     },
     {
         "name": "community.rs",
@@ -688,6 +658,21 @@
         "reg_link": "https://chat.jonasled.de/",
         "software": "Synapse",
         "version": "1.71.0"
+    },
+    {
+        "name": "librem.one",
+        "domain": "chat.librem.one",
+        "info": "https://librem.one",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": "https://librem.one/policy/",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://librem.one",
+        "software": "Synapse",
+        "version": "1.38.1"
     },
     {
         "name": "llamarific.social",
