@@ -315,6 +315,21 @@
         "version": "1.70.1"
     },
     {
+        "name": "comm.cx",
+        "domain": "matrix-client.comm.cx",
+        "info": "https://comm.cx",
+        "jurisdiction": "Japan",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": "Uses Cloudflare",
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.71.0"
+    },
+    {
         "name": "community.rs",
         "domain": "matrix.community.rs",
         "info": "https://community.rs",
@@ -660,21 +675,6 @@
         "version": "1.71.0"
     },
     {
-        "name": "librem.one",
-        "domain": "chat.librem.one",
-        "info": "https://librem.one",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": "https://librem.one/policy/",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://librem.one",
-        "software": "Synapse",
-        "version": "1.38.1"
-    },
-    {
         "name": "llamarific.social",
         "domain": "matrix.llamarific.social",
         "info": "https://llamarific.social/matrix.html",
@@ -688,21 +688,6 @@
         "reg_link": "https://element.llamarific.social/",
         "software": "Synapse",
         "version": "1.64.0"
-    },
-    {
-        "name": "magdeburg.jetzt",
-        "domain": "chat.magdeburg.jetzt",
-        "info": "https://magdeburg.jetzt/",
-        "jurisdiction": "Germany",
-        "tos": "https://softwerke.md/nutzungsbestimmungen/",
-        "privacy": "https://softwerke.md/datenschutz/",
-        "open": true,
-        "remarks": "In German; regional tech collective",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.magdeburg.jetzt/",
-        "software": "Synapse",
-        "version": "1.60.0"
     },
     {
         "name": "mailstation.de",
@@ -1309,10 +1294,10 @@
         "domain": "matrix.hingst.net",
         "info": "https://hingst.net",
         "jurisdiction": "Sweden",
-        "tos": "https://hingst.net/terms/",
-        "privacy": "https://hingst.net/privacy/",
+        "tos": "https://www.hovkluster.se/matrix/villkor_hingst.html",
+        "privacy": "https://www.hovkluster.se/matrix/integritet_hingst.html",
         "open": false,
-        "remarks": "Requires a registration token; freemium",
+        "remarks": "Requires a public registration token (see homepage); freemium",
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.hingst.net/",
@@ -1331,6 +1316,21 @@
         "antifeature": null,
         "reg_method": "SSO",
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
+        "software": "Synapse",
+        "version": "1.71.0"
+    },
+    {
+        "name": "bytes4u.de",
+        "domain": "matrix.bytes4u.de",
+        "info": "https://bytes4u.de",
+        "jurisdiction": "Germany",
+        "tos": "https://www.bytes4u.de/rules.html",
+        "privacy": "https://www.bytes4u.de/index.php?action=impressum",
+        "open": false,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://www.bytes4u.de/index.php?action=register",
         "software": "Synapse",
         "version": "1.71.0"
     },
