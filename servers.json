@@ -342,7 +342,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.70.1"
     },
     {
         "name": "crossbach.de",
@@ -930,6 +930,21 @@
         "version": "1.71.0"
     },
     {
+        "name": "privex.io",
+        "domain": "privex.io",
+        "info": "https://privex.io",
+        "jurisdiction": "Belize? (Sweden)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Hosting provider; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://riot.privex.io/",
+        "software": "Synapse",
+        "version": "1.65.0"
+    },
+    {
         "name": "pub.solar",
         "domain": "matrix.pub.solar",
         "info": "https://pub.solar",
@@ -1212,7 +1227,7 @@
         "reg_method": "Form",
         "reg_link": "https://vern.cc/register.php",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.72.0rc1"
     },
     {
         "name": "virto.community",
