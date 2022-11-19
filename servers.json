@@ -15,6 +15,21 @@
         "version": "1.71.0"
     },
     {
+        "name": "agdersam.no",
+        "domain": "agdersam.no",
+        "info": "https://agdersam.no/",
+        "jurisdiction": "Norway (Germany)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.agdersam.no/",
+        "software": "Synapse",
+        "version": "1.71.0"
+    },
+    {
         "name": "anonymousland.org",
         "domain": "anonymousland.org",
         "info": "https://www.anonymousland.org/services#matrix",
@@ -795,6 +810,21 @@
         "version": "1.71.0"
     },
     {
+        "name": "nope.chat",
+        "domain": "nope.chat",
+        "info": "https://nope.chat",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.nope.chat",
+        "software": "Synapse",
+        "version": "1.71.0"
+    },
+    {
         "name": "oblak.be",
         "domain": "matrix.oblak.be:443",
         "info": "https://oblak.be/apps/chat/",
@@ -898,21 +928,6 @@
         "reg_link": "https://chat.projectsegfau.lt/",
         "software": "Synapse",
         "version": "1.71.0"
-    },
-    {
-        "name": "privex.io",
-        "domain": "privex.io",
-        "info": "https://privex.io",
-        "jurisdiction": "Belize? (Sweden)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Hosting provider; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://riot.privex.io/",
-        "software": "Synapse",
-        "version": "1.65.0"
     },
     {
         "name": "pub.solar",
