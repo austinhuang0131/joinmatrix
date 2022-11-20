@@ -642,7 +642,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://houtworm.im/",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.71.0"
     },
     {
         "name": "inetd.xyz",
@@ -732,7 +732,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
-        "version": "1.66.0"
+        "version": "1.70.1"
     },
     {
         "name": "mandragot.org",
@@ -1062,7 +1062,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.71.0"
     },
     {
         "name": "studichat.de",
