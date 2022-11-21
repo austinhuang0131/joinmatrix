@@ -90,21 +90,6 @@
         "version": "1.70.1"
     },
     {
-        "name": "asozial.org",
-        "domain": "matrix.asozial.org:8448",
-        "info": "https://asozial.org",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; left-wing",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.asozial.org/",
-        "software": "Dendrite",
-        "version": "0.10.7+7c73b131"
-    },
-    {
         "name": "bachgau.social",
         "domain": "matrix.bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
@@ -1153,21 +1138,6 @@
         "reg_link": "https://the-apothecary.club/",
         "software": "Synapse",
         "version": "1.71.0"
-    },
-    {
-        "name": "tomesh.net",
-        "domain": "matrix.tomesh.net",
-        "info": "https://tomesh.net/mesh-services/",
-        "jurisdiction": "Canada (US)",
-        "tos": "https://tomesh.net/code-of-conduct/",
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.tomesh.net/",
-        "software": "Synapse",
-        "version": "1.70.1"
     },
     {
         "name": "trygve.me",
