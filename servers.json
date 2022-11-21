@@ -180,21 +180,6 @@
         "version": "1.70.1"
     },
     {
-        "name": "catgirl.cloud",
-        "domain": "matrix.catgirl.cloud",
-        "info": "https://catgirl.cloud",
-        "jurisdiction": "Germany",
-        "tos": "https://catgirl.cloud/#rules",
-        "privacy": "https://catgirl.cloud/#privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://registration.matrix.catgirl.cloud/",
-        "software": "Synapse",
-        "version": "1.71.0"
-    },
-    {
         "name": "cezeri.tech",
         "domain": "matrix.cezeri.tech",
         "info": "https://cezeri.tech",
