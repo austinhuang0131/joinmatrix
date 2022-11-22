@@ -177,7 +177,7 @@
         "reg_method": "Form",
         "reg_link": "https://registration.matrix.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.71.0"
+        "version": "1.72.0"
     },
     {
         "name": "cezeri.tech",
@@ -372,22 +372,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.71.0"
-    },
-    {
-        "name": "exarius.org",
-        "domain": "exarius.org",
-        "info": "https://exarius.org/wiki/services/exatrix/",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.61.1"
+        "version": "1.72.0"
     },
     {
         "name": "filik.eu",
@@ -627,7 +612,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.jonasled.de/",
         "software": "Synapse",
-        "version": "1.71.0"
+        "version": "1.72.0"
     },
     {
         "name": "librem.one",
@@ -777,7 +762,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
-        "version": "1.71.0"
+        "version": "1.72.0"
     },
     {
         "name": "nope.chat",
@@ -792,7 +777,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
-        "version": "1.71.0"
+        "version": "1.72.0"
     },
     {
         "name": "oblak.be",
@@ -837,7 +822,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://riot.ombreport.info/",
         "software": "Synapse",
-        "version": "1.71.0"
+        "version": "1.72.0"
     },
     {
         "name": "pcriot.org",
@@ -853,6 +838,21 @@
         "reg_link": "https://chat.pcriot.org/",
         "software": "Synapse",
         "version": "1.66.0"
+    },
+    {
+        "name": "plus.st",
+        "domain": "null",
+        "info": "https://plus.st/",
+        "jurisdiction": "US",
+        "tos": "https://plus.st/tos.html",
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.plus.st/",
+        "software": "Synapse",
+        "version": "1.68.0"
     },
     {
         "name": "pragma-messenger.ch",
@@ -912,7 +912,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
-        "version": "1.71.0"
+        "version": "1.72.0"
     },
     {
         "name": "qoto.org",
@@ -1077,7 +1077,7 @@
         "reg_method": "SSO",
         "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.72.0"
     },
     {
         "name": "the-apothecary.club",
@@ -1303,6 +1303,21 @@
         "reg_link": "https://www.bytes4u.de/index.php?action=register",
         "software": "Synapse",
         "version": "1.71.0"
+    },
+    {
+        "name": "deuxfleurs.fr",
+        "domain": "im.deuxfleurs.fr",
+        "info": "https://deuxfleurs.fr",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": false,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://deuxfleurs.fr/",
+        "software": "Synapse",
+        "version": "1.70.0"
     },
     {
         "name": "hyteck.de",
