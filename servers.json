@@ -1,5 +1,20 @@
 [
     {
+        "name": "0wnz.at",
+        "domain": "0wnz.at",
+        "info": "https://0wnz.at",
+        "jurisdiction": "Austria",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://im.0wnz.at/element-web/",
+        "software": "Synapse",
+        "version": "1.72.0"
+    },
+    {
         "name": "agdersam.no",
         "domain": "agdersam.no",
         "info": "https://agdersam.no/",
@@ -252,7 +267,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
-        "version": "1.71.0"
+        "version": "1.72.0"
     },
     {
         "name": "chrrreeeeesss.com",
@@ -417,7 +432,7 @@
         "reg_method": "SSO",
         "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.71.0"
     },
     {
         "name": "flieger.chat",
@@ -1242,7 +1257,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.71.0"
+        "version": "1.72.0"
     },
     {
         "name": "asra.gr",
