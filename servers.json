@@ -450,6 +450,21 @@
         "version": "1.72.0"
     },
     {
+        "name": "foss.wtf",
+        "domain": "matrix.foss.wtf",
+        "info": "https://foss.wtf/#matrix",
+        "jurisdiction": "Germany",
+        "tos": "https://foss.wtf/#matrix-tos",
+        "privacy": "https://foss.wtf/#privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.foss.wtf/",
+        "software": "Synapse",
+        "version": "1.72.0"
+    },
+    {
         "name": "freiburg.social",
         "domain": "matrix.freiburg.social",
         "info": "https://wir.freiburg.social/angebote/matrix/",
@@ -476,21 +491,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://webchat.freitrix.de/#/register",
-        "software": "Synapse",
-        "version": "1.71.0"
-    },
-    {
-        "name": "fulda.social",
-        "domain": "fulda.social",
-        "info": "https://dasnetzundich.de/2021/08/14/willkommen-in-der-matrix/",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.fulda.social/",
         "software": "Synapse",
         "version": "1.71.0"
     },
@@ -1258,21 +1258,6 @@
         "reg_link": "https://element.asra.gr/",
         "software": "Synapse",
         "version": "420*69"
-    },
-    {
-        "name": "fachschaften.org",
-        "domain": "matrix.fachschaften.org",
-        "info": "https://fachschaften.org",
-        "jurisdiction": "Germany",
-        "tos": "https://fsinfo.cs.tu-dortmund.de/studis/coc",
-        "privacy": "https://md.fachschaften.org/_hmxfyc-SZi-fLjyyT2kvw",
-        "open": false,
-        "remarks": "In German; student-oriented; requires a German university email address",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.fachschaften.org/",
-        "software": "Synapse",
-        "version": "1.72.0"
     },
     {
         "name": "hingst.net",
