@@ -327,7 +327,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
-        "version": "1.71.0"
+        "version": "1.72.0"
     },
     {
         "name": "converser.eu",
@@ -446,21 +446,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
-        "software": "Synapse",
-        "version": "1.72.0"
-    },
-    {
-        "name": "foss.wtf",
-        "domain": "matrix.foss.wtf",
-        "info": "https://foss.wtf/#matrix",
-        "jurisdiction": "Germany",
-        "tos": "https://foss.wtf/#matrix-tos",
-        "privacy": "https://foss.wtf/#privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.foss.wtf/",
         "software": "Synapse",
         "version": "1.72.0"
     },
@@ -1198,6 +1183,21 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.70.1"
+    },
+    {
+        "name": "vern.cc",
+        "domain": "mtrx.vern.cc",
+        "info": "https://vern.cc/",
+        "jurisdiction": "US/India? (US/Canada)",
+        "tos": "https://vern.cc/rules",
+        "privacy": "https://vern.cc/privpol",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://vern.cc/register.php",
+        "software": "Synapse",
+        "version": "1.72.0rc1"
     },
     {
         "name": "virto.community",
