@@ -1200,21 +1200,6 @@
         "version": "1.70.1"
     },
     {
-        "name": "vern.cc",
-        "domain": "mtrx.vern.cc",
-        "info": "https://vern.cc/",
-        "jurisdiction": "US/India? (US/Canada)",
-        "tos": "https://vern.cc/rules",
-        "privacy": "https://vern.cc/privpol",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://vern.cc/register.php",
-        "software": "Synapse",
-        "version": "1.72.0rc1"
-    },
-    {
         "name": "virto.community",
         "domain": "matrix.virto.community",
         "info": "https://virto.network/",
