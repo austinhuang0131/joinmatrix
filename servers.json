@@ -585,21 +585,6 @@
         "version": "1.71.0"
     },
     {
-        "name": "hashi.sbs",
-        "domain": "chatserver.hashi.sbs",
-        "info": "https://hashi.sbs",
-        "jurisdiction": "? (Germany)",
-        "tos": "https://hashi.icu/@MomentQYC/pages/tos",
-        "privacy": null,
-        "open": true,
-        "remarks": "In Chinese",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://hashi.sbs",
-        "software": "Synapse",
-        "version": "1.72.0"
-    },
-    {
         "name": "hot-chilli.im",
         "domain": "hot-chilli.im",
         "info": "https://jabber.hot-chilli.net/2022/04/26/hot-chilli-matrix-server/",
@@ -898,6 +883,36 @@
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
         "version": "1.72.0"
+    },
+    {
+        "name": "projectsegfau.lt",
+        "domain": "projectsegfau.lt:8448",
+        "info": "https://projectsegfau.lt/instances",
+        "jurisdiction": "France/Greece",
+        "tos": "https://projectsegfau.lt/legal/tos",
+        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.projectsegfau.lt/",
+        "software": "Synapse",
+        "version": "1.72.0"
+    },
+    {
+        "name": "privex.io",
+        "domain": "privex.io",
+        "info": "https://privex.io",
+        "jurisdiction": "Belize? (Sweden)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Hosting provider; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://riot.privex.io/",
+        "software": "Synapse",
+        "version": "1.65.0"
     },
     {
         "name": "pub.solar",
