@@ -117,7 +117,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.badstuebner.biz/",
         "software": "Synapse",
-        "version": "1.71.0"
+        "version": "1.72.0"
     },
     {
         "name": "bancino.net",
@@ -957,7 +957,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.qoto.org/",
         "software": "Synapse",
-        "version": "1.71.0"
+        "version": "1.72.0"
     },
     {
         "name": "radiowarnerd.org",
