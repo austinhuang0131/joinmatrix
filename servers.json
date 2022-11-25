@@ -511,7 +511,7 @@
     },
     {
         "name": "g24.at",
-        "domain": "g24.at",
+        "domain": "matrix.g24.at",
         "info": "https://g24.at",
         "jurisdiction": "Austria",
         "tos": null,
@@ -885,6 +885,21 @@
         "version": "1.66.0"
     },
     {
+        "name": "plus.st",
+        "domain": "null",
+        "info": "https://plus.st/",
+        "jurisdiction": "US",
+        "tos": "https://plus.st/tos.html",
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.plus.st/",
+        "software": "Synapse",
+        "version": "1.72.0"
+    },
+    {
         "name": "pragma-messenger.ch",
         "domain": "pragma-messenger.ch",
         "info": "https://pragma-solution.com/de/Produkte/messenger/",
@@ -1002,7 +1017,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.sfunk1x.com/",
         "software": "Synapse",
-        "version": "1.68.0"
+        "version": "1.72.0"
     },
     {
         "name": "sibnsk.net",
