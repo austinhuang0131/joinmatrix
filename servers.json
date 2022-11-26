@@ -225,21 +225,6 @@
         "version": "1.59.1"
     },
     {
-        "name": "chatcloud.net",
-        "domain": "matrix.chatcloud.net",
-        "info": "https://chatcloud.net",
-        "jurisdiction": "Austria (Germany)",
-        "tos": "https://www.chatcloud.net/terms-of-use/",
-        "privacy": "https://www.chatcloud.net/privacy/",
-        "open": true,
-        "remarks": "Relationship-oriented?",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://talk.chatcloud.net/",
-        "software": "Synapse",
-        "version": "1.71.0"
-    },
-    {
         "name": "chatinamatrix.xyz",
         "domain": "matrix.chatinamatrix.xyz",
         "info": "https://arrayinamatrix.xyz/index/apps/matrix/",
