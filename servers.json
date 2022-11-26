@@ -87,7 +87,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://el.aria-net.org/",
         "software": "Archon",
-        "version": "1.71.0"
+        "version": "1.72.0"
     },
     {
         "name": "bachgau.social",
@@ -495,21 +495,6 @@
         "version": "1.71.0"
     },
     {
-        "name": "fulda.social",
-        "domain": "fulda.social",
-        "info": "https://dasnetzundich.de/2021/08/14/willkommen-in-der-matrix/",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.fulda.social/",
-        "software": "Synapse",
-        "version": "1.71.0"
-    },
-    {
         "name": "g24.at",
         "domain": "g24.at",
         "info": "https://g24.at",
@@ -717,7 +702,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.72.0"
     },
     {
         "name": "mandragot.org",
@@ -928,6 +913,21 @@
         "reg_link": "https://chat.projectsegfau.lt/",
         "software": "Synapse",
         "version": "1.72.0"
+    },
+    {
+        "name": "privex.io",
+        "domain": "privex.io",
+        "info": "https://privex.io",
+        "jurisdiction": "Belize? (Sweden)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Hosting provider; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://riot.privex.io/",
+        "software": "Synapse",
+        "version": "1.65.0"
     },
     {
         "name": "pub.solar",
@@ -1197,7 +1197,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.72.0"
     },
     {
         "name": "vern.cc",
@@ -1212,7 +1212,7 @@
         "reg_method": "Form",
         "reg_link": "https://vern.cc/register.php",
         "software": "Synapse",
-        "version": "1.72.0rc1"
+        "version": "1.72.0"
     },
     {
         "name": "virto.community",
