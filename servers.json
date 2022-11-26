@@ -477,7 +477,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.freiburg.social/",
         "software": "Synapse",
-        "version": "1.71.0"
+        "version": "1.72.0"
     },
     {
         "name": "freitrix.de",
@@ -511,7 +511,7 @@
     },
     {
         "name": "g24.at",
-        "domain": "matrix.g24.at",
+        "domain": "g24.at",
         "info": "https://g24.at",
         "jurisdiction": "Austria",
         "tos": null,
