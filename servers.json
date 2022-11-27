@@ -165,21 +165,6 @@
         "version": "1.69.0"
     },
     {
-        "name": "cat.casa",
-        "domain": "matrix.cat.casa",
-        "info": "https://cat.casa/",
-        "jurisdiction": "Germany",
-        "tos": "https://cat.casa/codeofconduct",
-        "privacy": "https://cat.casa/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.cat.casa/",
-        "software": "Synapse",
-        "version": "1.70.1"
-    },
-    {
         "name": "catgirl.cloud",
         "domain": "matrix.catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -223,6 +208,21 @@
         "reg_link": "https://element.chagai.website/",
         "software": "Synapse",
         "version": "1.59.1"
+    },
+    {
+        "name": "chatcloud.net",
+        "domain": "matrix.chatcloud.net",
+        "info": "https://chatcloud.net",
+        "jurisdiction": "Austria (Germany)",
+        "tos": "https://www.chatcloud.net/terms-of-use/",
+        "privacy": "https://www.chatcloud.net/privacy/",
+        "open": true,
+        "remarks": "Relationship-oriented?",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://talk.chatcloud.net/",
+        "software": "Synapse",
+        "version": "1.71.0"
     },
     {
         "name": "chatinamatrix.xyz",
@@ -1181,21 +1181,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.utwente.io/",
-        "software": "Synapse",
-        "version": "1.72.0"
-    },
-    {
-        "name": "vern.cc",
-        "domain": "mtrx.vern.cc",
-        "info": "https://vern.cc/",
-        "jurisdiction": "US/India? (US/Canada)",
-        "tos": "https://vern.cc/rules",
-        "privacy": "https://vern.cc/privpol",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://vern.cc/register.php",
         "software": "Synapse",
         "version": "1.72.0"
     },
