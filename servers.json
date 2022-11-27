@@ -297,7 +297,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://riot.club1.fr/",
         "software": "Synapse",
-        "version": "1.71.0"
+        "version": "1.72.0"
     },
     {
         "name": "comm.cx",
