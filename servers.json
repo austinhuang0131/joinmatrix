@@ -1,20 +1,5 @@
 [
     {
-        "name": "0wnz.at",
-        "domain": "0wnz.at",
-        "info": "https://0wnz.at",
-        "jurisdiction": "Austria",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://im.0wnz.at/element-web/",
-        "software": "Synapse",
-        "version": "1.72.0"
-    },
-    {
         "name": "agdersam.no",
         "domain": "agdersam.no",
         "info": "https://agdersam.no/",
@@ -1050,6 +1035,21 @@
         "version": "1.71.0"
     },
     {
+        "name": "studichat.de",
+        "domain": "matrix.studichat.de",
+        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; student-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.studichat.de/",
+        "software": "Synapse",
+        "version": "1.72.0"
+    },
+    {
         "name": "synod.im",
         "domain": "synod.im",
         "info": "https://doc.librechurch.org/Wiki.jsp?page=Matrix#section-Matrix-DieMatrixInstanzSynod.im",
@@ -1061,21 +1061,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://web.synod.im/",
-        "software": "Synapse",
-        "version": "1.72.0"
-    },
-    {
-        "name": "tchncs.de",
-        "domain": "matrix.tchncs.de",
-        "info": "https://tchncs.de/matrix",
-        "jurisdiction": "Germany",
-        "tos": "https://tchncs.de/matrix/tos",
-        "privacy": "https://tchncs.de/matrix/privacy",
-        "open": true,
-        "remarks": "General host; only stores messages for a year",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
         "version": "1.72.0"
     },
