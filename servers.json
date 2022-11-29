@@ -240,6 +240,21 @@
         "version": "1.59.1"
     },
     {
+        "name": "chatcloud.net",
+        "domain": "matrix.chatcloud.net",
+        "info": "https://chatcloud.net",
+        "jurisdiction": "Austria (Germany)",
+        "tos": "https://www.chatcloud.net/terms-of-use/",
+        "privacy": "https://www.chatcloud.net/privacy/",
+        "open": true,
+        "remarks": "Relationship-oriented?",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://talk.chatcloud.net/",
+        "software": "Synapse",
+        "version": "1.71.0"
+    },
+    {
         "name": "chatinamatrix.xyz",
         "domain": "matrix.chatinamatrix.xyz",
         "info": "https://arrayinamatrix.xyz/index/apps/matrix/",
@@ -300,6 +315,21 @@
         "version": "1.72.0"
     },
     {
+        "name": "comm.cx",
+        "domain": "matrix-client.comm.cx",
+        "info": "https://comm.cx",
+        "jurisdiction": "Japan",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": "Uses Cloudflare",
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.71.0"
+    },
+    {
         "name": "community.rs",
         "domain": "matrix.community.rs",
         "info": "https://community.rs",
@@ -342,7 +372,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.crossbach.de/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.72.0"
     },
     {
         "name": "data.haus",
@@ -915,6 +945,21 @@
         "version": "1.72.0"
     },
     {
+        "name": "privex.io",
+        "domain": "privex.io",
+        "info": "https://privex.io",
+        "jurisdiction": "Belize? (Sweden)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Hosting provider; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://riot.privex.io/",
+        "software": "Synapse",
+        "version": "1.65.0"
+    },
+    {
         "name": "pub.solar",
         "domain": "matrix.pub.solar",
         "info": "https://pub.solar",
@@ -1018,21 +1063,6 @@
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
         "version": "1.71.0"
-    },
-    {
-        "name": "studichat.de",
-        "domain": "studichat.de",
-        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.studichat.de/",
-        "software": "Synapse",
-        "version": "1.72.0"
     },
     {
         "name": "synod.im",
