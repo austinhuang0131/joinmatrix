@@ -135,6 +135,21 @@
         "version": "1.72.0"
     },
     {
+        "name": "bancino.net",
+        "domain": "bancino.net",
+        "info": "https://bancino.net",
+        "jurisdiction": "US",
+        "tos": "https://bancino.net/_matrix/consent",
+        "privacy": "https://bancino.net/_matrix/consent",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://bancino.net/element/",
+        "software": "Synapse",
+        "version": "1.67.0"
+    },
+    {
         "name": "breeze.town",
         "domain": "breeze.town",
         "info": "https://breeze.town/@breeze/108776240056543549",
@@ -225,21 +240,6 @@
         "version": "1.59.1"
     },
     {
-        "name": "chatcloud.net",
-        "domain": "matrix.chatcloud.net",
-        "info": "https://chatcloud.net",
-        "jurisdiction": "Austria (Germany)",
-        "tos": "https://www.chatcloud.net/terms-of-use/",
-        "privacy": "https://www.chatcloud.net/privacy/",
-        "open": true,
-        "remarks": "Relationship-oriented?",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://talk.chatcloud.net/",
-        "software": "Synapse",
-        "version": "1.71.0"
-    },
-    {
         "name": "chatinamatrix.xyz",
         "domain": "matrix.chatinamatrix.xyz",
         "info": "https://arrayinamatrix.xyz/index/apps/matrix/",
@@ -298,21 +298,6 @@
         "reg_link": "https://riot.club1.fr/",
         "software": "Synapse",
         "version": "1.72.0"
-    },
-    {
-        "name": "comm.cx",
-        "domain": "matrix-client.comm.cx",
-        "info": "https://comm.cx",
-        "jurisdiction": "Japan",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Uses Cloudflare",
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.71.0"
     },
     {
         "name": "community.rs",
@@ -402,7 +387,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.72.0"
+        "version": "1.73.0rc1"
     },
     {
         "name": "exarius.org",
@@ -930,21 +915,6 @@
         "version": "1.72.0"
     },
     {
-        "name": "privex.io",
-        "domain": "privex.io",
-        "info": "https://privex.io",
-        "jurisdiction": "Belize? (Sweden)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Hosting provider; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://riot.privex.io/",
-        "software": "Synapse",
-        "version": "1.65.0"
-    },
-    {
         "name": "pub.solar",
         "domain": "matrix.pub.solar",
         "info": "https://pub.solar",
@@ -1051,7 +1021,7 @@
     },
     {
         "name": "studichat.de",
-        "domain": "matrix.studichat.de",
+        "domain": "studichat.de",
         "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
         "jurisdiction": "Germany",
         "tos": null,
@@ -1407,7 +1377,7 @@
         "reg_method": "Membership",
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.72.0"
     },
     {
         "name": "hadoly.fr",
