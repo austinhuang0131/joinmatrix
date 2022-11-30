@@ -30,6 +30,21 @@
         "version": "1.71.0"
     },
     {
+        "name": "anonymousland.org",
+        "domain": "anonymousland.org",
+        "info": "https://www.anonymousland.org/services#matrix",
+        "jurisdiction": "Iceland?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.anonymousland.org/",
+        "software": "Synapse",
+        "version": "1.72.0"
+    },
+    {
         "name": "archoslinux.cz",
         "domain": "matrix.archoslinux.cz:443",
         "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
@@ -57,6 +72,21 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.arcticfoxes.net",
         "software": "Synapse",
+        "version": "1.72.0"
+    },
+    {
+        "name": "aria-net.org",
+        "domain": "aria.im",
+        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
+        "jurisdiction": "Italy?",
+        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://el.aria-net.org/",
+        "software": "Archon",
         "version": "1.72.0"
     },
     {
@@ -208,21 +238,6 @@
         "reg_link": "https://element.chagai.website/",
         "software": "Synapse",
         "version": "1.59.1"
-    },
-    {
-        "name": "chatcloud.net",
-        "domain": "matrix.chatcloud.net",
-        "info": "https://chatcloud.net",
-        "jurisdiction": "Austria (Germany)",
-        "tos": "https://www.chatcloud.net/terms-of-use/",
-        "privacy": "https://www.chatcloud.net/privacy/",
-        "open": true,
-        "remarks": "Relationship-oriented?",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://talk.chatcloud.net/",
-        "software": "Synapse",
-        "version": "1.71.0"
     },
     {
         "name": "chatinamatrix.xyz",
