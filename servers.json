@@ -1320,21 +1320,6 @@
         "version": "1.72.0"
     },
     {
-        "name": "hingst.net",
-        "domain": "matrix.hingst.net",
-        "info": "https://hingst.net",
-        "jurisdiction": "Sweden",
-        "tos": "https://www.hovkluster.se/matrix/villkor_hingst.html",
-        "privacy": "https://www.hovkluster.se/matrix/integritet_hingst.html",
-        "open": false,
-        "remarks": "Requires a public registration token (see homepage); freemium",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.hingst.net/",
-        "software": "Synapse",
-        "version": "1.70.1"
-    },
-    {
         "name": "pikaviestin.fi",
         "domain": "matrix.pikaviestin.fi",
         "info": "https://pikaviestin.fi",
@@ -1346,6 +1331,21 @@
         "antifeature": null,
         "reg_method": "SSO",
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
+        "software": "Synapse",
+        "version": "1.72.0"
+    },
+    {
+        "name": "rimfaxe.net",
+        "domain": "matrix.rimfaxe.net",
+        "info": "https://rimfaxe.net",
+        "jurisdiction": "Sweden",
+        "tos": "https://rimfaxe.net/terms/",
+        "privacy": "https://rimfaxe.net/privacy/",
+        "open": false,
+        "remarks": "In Swedish; requires a public registration token (see homepage); freemium",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.rimfaxe.net/",
         "software": "Synapse",
         "version": "1.72.0"
     },
