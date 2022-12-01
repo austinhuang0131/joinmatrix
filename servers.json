@@ -192,7 +192,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.cat.casa/",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.72.0"
     },
     {
         "name": "catgirl.cloud",
@@ -402,7 +402,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.73.0rc1"
+        "version": "1.73.0rc2"
     },
     {
         "name": "exarius.org",
