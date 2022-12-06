@@ -165,6 +165,21 @@
         "version": "1.69.0"
     },
     {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/codeofconduct",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.72.0"
+    },
+    {
         "name": "catgirl.cloud",
         "domain": "matrix.catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -283,21 +298,6 @@
         "reg_link": "https://riot.club1.fr/",
         "software": "Synapse",
         "version": "1.72.0"
-    },
-    {
-        "name": "comm.cx",
-        "domain": "matrix-client.comm.cx",
-        "info": "https://comm.cx",
-        "jurisdiction": "Japan",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Uses Cloudflare",
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.71.0"
     },
     {
         "name": "community.rs",
@@ -1020,6 +1020,21 @@
         "version": "1.71.0"
     },
     {
+        "name": "studichat.de",
+        "domain": "matrix.studichat.de",
+        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; student-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.studichat.de/",
+        "software": "Synapse",
+        "version": "1.72.0"
+    },
+    {
         "name": "synod.im",
         "domain": "synod.im",
         "info": "https://doc.librechurch.org/Wiki.jsp?page=Matrix#section-Matrix-DieMatrixInstanzSynod.im",
@@ -1332,7 +1347,7 @@
         "reg_method": "Contact",
         "reg_link": "https://hyteck.de/about/",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.72.0"
     },
     {
         "name": "libreon.fr",
