@@ -192,7 +192,7 @@
         "reg_method": "Form",
         "reg_link": "https://registration.matrix.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.72.0"
+        "version": "1.73.0"
     },
     {
         "name": "cezeri.tech",
@@ -372,7 +372,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.72.0"
+        "version": "1.73.0"
     },
     {
         "name": "envs.net",
@@ -387,7 +387,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.73.0rc2"
+        "version": "1.73.0"
     },
     {
         "name": "exarius.org",
@@ -627,7 +627,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.jonasled.de/",
         "software": "Synapse",
-        "version": "1.72.0"
+        "version": "1.73.0"
     },
     {
         "name": "librem.one",
@@ -792,7 +792,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
-        "version": "1.72.0"
+        "version": "1.73.0"
     },
     {
         "name": "oblak.be",
@@ -837,7 +837,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://riot.ombreport.info/",
         "software": "Synapse",
-        "version": "1.72.0"
+        "version": "1.73.0"
     },
     {
         "name": "pcriot.org",
@@ -1107,7 +1107,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://the-apothecary.club/",
         "software": "Synapse",
-        "version": "1.71.0"
+        "version": "1.73.0"
     },
     {
         "name": "tomesh.net",
@@ -1242,7 +1242,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.72.0"
+        "version": "1.73.0"
     },
     {
         "name": "asra.gr",
@@ -1272,7 +1272,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.72.0"
+        "version": "1.73.0"
     },
     {
         "name": "pikaviestin.fi",
