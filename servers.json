@@ -285,21 +285,6 @@
         "version": "1.72.0"
     },
     {
-        "name": "club1.fr",
-        "domain": "club1.fr",
-        "info": "https://club1.fr/matrix/",
-        "jurisdiction": "France",
-        "tos": "https://club1.fr/docs/fr/cgu.html",
-        "privacy": "https://club1.fr/docs/fr/info/politique-de-vie-privee.html",
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://riot.club1.fr/",
-        "software": "Synapse",
-        "version": "1.72.0"
-    },
-    {
         "name": "community.rs",
         "domain": "matrix.community.rs",
         "info": "https://community.rs",
@@ -567,7 +552,7 @@
         "reg_method": "In-house Cinny",
         "reg_link": "https://chat.group.lt/",
         "software": "Synapse",
-        "version": "1.71.0"
+        "version": "1.73.0"
     },
     {
         "name": "hashi.sbs",
