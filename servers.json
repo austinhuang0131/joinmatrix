@@ -31,7 +31,7 @@
     },
     {
         "name": "anonymousland.org",
-        "domain": "matrix.anonymousland.org",
+        "domain": "anonymousland.org",
         "info": "https://www.anonymousland.org/services#matrix",
         "jurisdiction": "Iceland?",
         "tos": null,
@@ -42,7 +42,22 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.anonymousland.org/",
         "software": "Synapse",
-        "version": "1.72.0"
+        "version": "1.73.0"
+    },
+    {
+        "name": "archoslinux.cz",
+        "domain": "matrix.archoslinux.cz:443",
+        "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
+        "jurisdiction": "Czech Republic (Germany)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In Czech; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.archoslinux.cz/",
+        "software": "Synapse",
+        "version": "1.73.0"
     },
     {
         "name": "arcticfoxes.net",
@@ -897,7 +912,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.72.0"
+        "version": "1.73.0"
     },
     {
         "name": "projectsegfau.lt",
@@ -915,6 +930,21 @@
         "version": "1.73.0"
     },
     {
+        "name": "privex.io",
+        "domain": "privex.io",
+        "info": "https://privex.io",
+        "jurisdiction": "Belize? (Sweden)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Hosting provider; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://riot.privex.io/",
+        "software": "Synapse",
+        "version": "1.65.0"
+    },
+    {
         "name": "pub.solar",
         "domain": "matrix.pub.solar",
         "info": "https://pub.solar",
@@ -927,7 +957,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pub.solar/",
         "software": "Synapse",
-        "version": "1.72.0"
+        "version": "1.73.0"
     },
     {
         "name": "radiowarnerd.org",
@@ -1321,7 +1351,7 @@
     },
     {
         "name": "deuxfleurs.fr",
-        "domain": "deuxfleurs.fr",
+        "domain": "im.deuxfleurs.fr",
         "info": "https://deuxfleurs.fr",
         "jurisdiction": "France",
         "tos": null,
