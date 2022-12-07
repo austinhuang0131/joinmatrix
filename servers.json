@@ -30,19 +30,19 @@
         "version": "1.71.0"
     },
     {
-        "name": "archoslinux.cz",
-        "domain": "matrix.archoslinux.cz:443",
-        "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
-        "jurisdiction": "Czech Republic (Germany)",
+        "name": "anonymousland.org",
+        "domain": "matrix.anonymousland.org",
+        "info": "https://www.anonymousland.org/services#matrix",
+        "jurisdiction": "Iceland?",
         "tos": null,
         "privacy": null,
         "open": true,
-        "remarks": "In Czech; accessory",
+        "remarks": "",
         "antifeature": null,
         "reg_method": "In-house Element",
-        "reg_link": "https://element.archoslinux.cz/",
+        "reg_link": "https://element.anonymousland.org/",
         "software": "Synapse",
-        "version": "1.73.0"
+        "version": "1.72.0"
     },
     {
         "name": "arcticfoxes.net",
@@ -281,6 +281,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chrrreeeeesss.com/element",
+        "software": "Synapse",
+        "version": "1.72.0"
+    },
+    {
+        "name": "club1.fr",
+        "domain": "club1.fr",
+        "info": "https://club1.fr/matrix/",
+        "jurisdiction": "France",
+        "tos": "https://club1.fr/docs/fr/cgu.html",
+        "privacy": "https://club1.fr/docs/fr/info/politique-de-vie-privee.html",
+        "open": true,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://riot.club1.fr/",
         "software": "Synapse",
         "version": "1.72.0"
     },
@@ -900,47 +915,17 @@
         "version": "1.73.0"
     },
     {
-        "name": "privex.io",
-        "domain": "privex.io",
-        "info": "https://privex.io",
-        "jurisdiction": "Belize? (Sweden)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Hosting provider; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://riot.privex.io/",
-        "software": "Synapse",
-        "version": "1.65.0"
-    },
-    {
         "name": "pub.solar",
         "domain": "matrix.pub.solar",
         "info": "https://pub.solar",
         "jurisdiction": "Germany",
         "tos": null,
-        "privacy": "https://pub.solar/privacy.html",
+        "privacy": "https://pub.solar/privacy",
         "open": true,
         "remarks": "Tech collective",
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pub.solar/",
-        "software": "Synapse",
-        "version": "1.72.0"
-    },
-    {
-        "name": "qoto.org",
-        "domain": "matrix.qoto.org",
-        "info": "https://qoto.org/about/more",
-        "jurisdiction": "US?",
-        "tos": "https://qoto.org/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.qoto.org/",
         "software": "Synapse",
         "version": "1.72.0"
     },
@@ -1062,7 +1047,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.72.0"
+        "version": "1.73.0"
     },
     {
         "name": "techsaviours.org",
@@ -1215,6 +1200,21 @@
         "version": "1.68.0"
     },
     {
+        "name": "worlio.com",
+        "domain": "worlio.com",
+        "info": "https://worlio.com/servers#matrix",
+        "jurisdiction": "",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.worlio.com/",
+        "software": "Conduit",
+        "version": "0.4.0"
+    },
+    {
         "name": "xmr.se",
         "domain": "xmr.se",
         "info": "https://xmr.se",
@@ -1321,7 +1321,7 @@
     },
     {
         "name": "deuxfleurs.fr",
-        "domain": "im.deuxfleurs.fr",
+        "domain": "deuxfleurs.fr",
         "info": "https://deuxfleurs.fr",
         "jurisdiction": "France",
         "tos": null,
