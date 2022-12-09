@@ -180,21 +180,6 @@
         "version": "1.69.0"
     },
     {
-        "name": "cat.casa",
-        "domain": "matrix.cat.casa",
-        "info": "https://cat.casa/",
-        "jurisdiction": "Germany",
-        "tos": "https://cat.casa/codeofconduct",
-        "privacy": "https://cat.casa/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.cat.casa/",
-        "software": "Synapse",
-        "version": "1.72.0"
-    },
-    {
         "name": "catgirl.cloud",
         "domain": "matrix.catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -566,21 +551,6 @@
         "antifeature": null,
         "reg_method": "Form",
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
-        "software": "Synapse",
-        "version": "1.70.1"
-    },
-    {
-        "name": "glasgow.social",
-        "domain": "matrix.glasgow.social",
-        "info": "https://opensource.glasgow.social/matrix",
-        "jurisdiction": "UK",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional tech collective",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.glasgow.social/",
         "software": "Synapse",
         "version": "1.70.1"
     },
