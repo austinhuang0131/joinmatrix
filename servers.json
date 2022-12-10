@@ -195,6 +195,21 @@
         "version": "1.72.0"
     },
     {
+        "name": "catgirl.cloud",
+        "domain": "matrix.catgirl.cloud",
+        "info": "https://catgirl.cloud",
+        "jurisdiction": "Germany",
+        "tos": "https://catgirl.cloud/#rules",
+        "privacy": "https://catgirl.cloud/#privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://registration.matrix.catgirl.cloud/",
+        "software": "Synapse",
+        "version": "1.73.0"
+    },
+    {
         "name": "cezeri.tech",
         "domain": "matrix.cezeri.tech",
         "info": "https://cezeri.tech",
@@ -298,6 +313,21 @@
         "reg_link": "https://riot.club1.fr/",
         "software": "Synapse",
         "version": "1.72.0"
+    },
+    {
+        "name": "comm.cx",
+        "domain": "matrix-client.comm.cx",
+        "info": "https://comm.cx",
+        "jurisdiction": "Japan",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": "Uses Cloudflare",
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.73.0"
     },
     {
         "name": "community.rs",
