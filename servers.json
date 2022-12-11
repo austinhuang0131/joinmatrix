@@ -177,7 +177,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.buyvm.net/element/",
         "software": "Synapse",
-        "version": "1.69.0"
+        "version": "1.73.0"
     },
     {
         "name": "cat.casa",
@@ -342,7 +342,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
-        "version": "1.72.0"
+        "version": "1.73.0"
     },
     {
         "name": "converser.eu",
