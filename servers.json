@@ -555,21 +555,6 @@
         "version": "1.70.1"
     },
     {
-        "name": "glasgow.social",
-        "domain": "matrix.glasgow.social",
-        "info": "https://opensource.glasgow.social/matrix",
-        "jurisdiction": "UK",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional tech collective",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.glasgow.social/",
-        "software": "Synapse",
-        "version": "1.70.1"
-    },
-    {
         "name": "group.lt",
         "domain": "group.lt",
         "info": "https://group.lt",
