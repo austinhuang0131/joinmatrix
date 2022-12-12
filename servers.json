@@ -1230,21 +1230,6 @@
         "version": "1.68.0"
     },
     {
-        "name": "worlio.com",
-        "domain": "worlio.com",
-        "info": "https://worlio.com/servers#matrix",
-        "jurisdiction": "",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.worlio.com/",
-        "software": "Conduit",
-        "version": "0.4.0"
-    },
-    {
         "name": "xmr.se",
         "domain": "xmr.se",
         "info": "https://xmr.se",
