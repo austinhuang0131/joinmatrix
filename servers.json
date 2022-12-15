@@ -45,21 +45,6 @@
         "version": "1.73.0"
     },
     {
-        "name": "arcticfoxes.net",
-        "domain": "matrix.arcticfoxes.net",
-        "info": "https://arcticfoxes.net",
-        "jurisdiction": "US (UK)",
-        "tos": "https://arcticfoxes.net/",
-        "privacy": "https://arcticfoxes.net/",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.arcticfoxes.net",
-        "software": "Synapse",
-        "version": "1.73.0"
-    },
-    {
         "name": "aria-net.org",
         "domain": "aria.im",
         "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
