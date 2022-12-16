@@ -237,7 +237,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://talk.chatcloud.net/",
         "software": "Synapse",
-        "version": "1.71.0"
+        "version": "1.73.0"
     },
     {
         "name": "chatinamatrix.xyz",
@@ -735,21 +735,6 @@
         "version": "1.73.0"
     },
     {
-        "name": "monero.social",
-        "domain": "matrix.monero.social",
-        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
-        "jurisdiction": "US",
-        "tos": "https://www.getmonero.org/legal/",
-        "privacy": null,
-        "open": true,
-        "remarks": "18+; accessory; crypto",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.66.0"
-    },
-    {
         "name": "mtrx.nz",
         "domain": "mtrx.nz",
         "info": "https://mtrx.nz",
@@ -1138,6 +1123,21 @@
         "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
         "version": "1.72.0"
+    },
+    {
+        "name": "ungleich.ch",
+        "domain": "ungleich.matrix.ungleich.cloud",
+        "info": "https://ungleich.ch/u/projects/open-chat/",
+        "jurisdiction": "Switzerland",
+        "tos": null,
+        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
+        "open": true,
+        "remarks": "Hosting provider",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://account.ungleich.ch/",
+        "software": "Synapse",
+        "version": "1.70.1"
     },
     {
         "name": "unredacted.org",
