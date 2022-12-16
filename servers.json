@@ -60,6 +60,21 @@
         "version": "1.73.0"
     },
     {
+        "name": "aria-net.org",
+        "domain": "aria.im",
+        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
+        "jurisdiction": "Italy?",
+        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://el.aria-net.org/",
+        "software": "Archon",
+        "version": "1.74.0rc1"
+    },
+    {
         "name": "asozial.org",
         "domain": "matrix.asozial.org:8448",
         "info": "https://asozial.org",
@@ -1095,6 +1110,21 @@
         "version": "1.70.1"
     },
     {
+        "name": "trygve.me",
+        "domain": "trygve.me",
+        "info": "https://trygve.me/matrix_info/",
+        "jurisdiction": "Norway",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In Norwegian; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.trygve.me/",
+        "software": "Synapse",
+        "version": "1.72.0"
+    },
+    {
         "name": "unredacted.org",
         "domain": "matrix.unredacted.org",
         "info": "https://unredacted.org/services/matrix/",
@@ -1317,7 +1347,7 @@
         "reg_method": "Membership",
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
-        "version": "1.72.0"
+        "version": "1.73.0"
     },
     {
         "name": "hadoly.fr",
