@@ -72,7 +72,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://el.aria-net.org/",
         "software": "Archon",
-        "version": "1.74.0rc1"
+        "version": "1.73.0"
     },
     {
         "name": "asozial.org",
@@ -403,21 +403,6 @@
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
         "version": "1.74.0rc1"
-    },
-    {
-        "name": "exarius.org",
-        "domain": "exarius.org",
-        "info": "https://exarius.org/wiki/services/exatrix/",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.61.1"
     },
     {
         "name": "filik.eu",
