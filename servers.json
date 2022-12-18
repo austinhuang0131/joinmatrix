@@ -240,6 +240,21 @@
         "version": "1.73.0"
     },
     {
+        "name": "chatinamatrix.xyz",
+        "domain": "matrix.chatinamatrix.xyz",
+        "info": "https://arrayinamatrix.xyz/index/apps/matrix/",
+        "jurisdiction": "Canada",
+        "tos": "https://arrayinamatrix.xyz/index/apps/matrix/#rules",
+        "privacy": "https://arrayinamatrix.xyz/index/apps/privacy/#matrix",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.chatinamatrix.xyz/",
+        "software": "Dendrite",
+        "version": "0.10.8+ed497aa"
+    },
+    {
         "name": "chatwave.org",
         "domain": "matrix.chatwave.org",
         "info": "https://yatrix.org",
@@ -281,21 +296,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://riot.club1.fr/",
-        "software": "Synapse",
-        "version": "1.73.0"
-    },
-    {
-        "name": "comm.cx",
-        "domain": "matrix-client.comm.cx",
-        "info": "https://comm.cx",
-        "jurisdiction": "Japan",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Uses Cloudflare",
-        "reg_method": null,
-        "reg_link": null,
         "software": "Synapse",
         "version": "1.73.0"
     },
@@ -526,7 +526,7 @@
     },
     {
         "name": "glasgow.social",
-        "domain": "matrix.glasgow.social",
+        "domain": "glasgow.social",
         "info": "https://opensource.glasgow.social/matrix",
         "jurisdiction": "UK",
         "tos": null,
@@ -883,6 +883,21 @@
         "reg_link": "https://chat.projectsegfau.lt/",
         "software": "Synapse",
         "version": "1.73.0"
+    },
+    {
+        "name": "privex.io",
+        "domain": "privex.io",
+        "info": "https://privex.io",
+        "jurisdiction": "Belize? (Sweden)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Hosting provider; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://riot.privex.io/",
+        "software": "Synapse",
+        "version": "1.65.0"
     },
     {
         "name": "pub.solar",
