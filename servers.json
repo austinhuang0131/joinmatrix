@@ -15,6 +15,21 @@
         "version": "1.72.0"
     },
     {
+        "name": "agdersam.no",
+        "domain": "agdersam.no",
+        "info": "https://agdersam.no/",
+        "jurisdiction": "Norway (Germany)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.agdersam.no/",
+        "software": "Synapse",
+        "version": "1.73.0"
+    },
+    {
         "name": "anonymousland.org",
         "domain": "anonymousland.org",
         "info": "https://www.anonymousland.org/services#matrix",
@@ -61,7 +76,7 @@
     },
     {
         "name": "aria-net.org",
-        "domain": "aria.im",
+        "domain": "aria-net.org",
         "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
         "jurisdiction": "Italy?",
         "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
@@ -526,7 +541,7 @@
     },
     {
         "name": "glasgow.social",
-        "domain": "glasgow.social",
+        "domain": "matrix.glasgow.social",
         "info": "https://opensource.glasgow.social/matrix",
         "jurisdiction": "UK",
         "tos": null,
@@ -792,7 +807,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.oblak.be/",
         "software": "Synapse",
-        "version": "1.55.0"
+        "version": "1.59.0"
     },
     {
         "name": "ohai.su",
@@ -1108,6 +1123,21 @@
         "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
         "version": "1.72.0"
+    },
+    {
+        "name": "ungleich.ch",
+        "domain": "ungleich.matrix.ungleich.cloud",
+        "info": "https://ungleich.ch/u/projects/open-chat/",
+        "jurisdiction": "Switzerland",
+        "tos": null,
+        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
+        "open": true,
+        "remarks": "Hosting provider",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://account.ungleich.ch/",
+        "software": "Synapse",
+        "version": "1.70.1"
     },
     {
         "name": "unredacted.org",
