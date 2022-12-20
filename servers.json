@@ -192,7 +192,7 @@
         "reg_method": "Form",
         "reg_link": "https://registration.matrix.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.73.0"
+        "version": "1.74.0"
     },
     {
         "name": "cezeri.tech",
@@ -266,6 +266,21 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
+        "software": "Synapse",
+        "version": "1.73.0"
+    },
+    {
+        "name": "chrrreeeeesss.com",
+        "domain": "chrrreeeeesss.com",
+        "info": "https://chrrreeeeesss.com",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
         "version": "1.73.0"
     },
@@ -600,21 +615,6 @@
         "version": "1.72.0"
     },
     {
-        "name": "houtworm.im",
-        "domain": "houtworm.im",
-        "info": "https://houtworm.im",
-        "jurisdiction": "Netherlands",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://houtworm.im/",
-        "software": "Synapse",
-        "version": "1.73.0"
-    },
-    {
         "name": "inetd.xyz",
         "domain": "inetd.xyz",
         "info": "https://inetd.xyz",
@@ -807,7 +807,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
-        "version": "1.73.0"
+        "version": "1.74.0"
     },
     {
         "name": "oblak.be",
@@ -1062,7 +1062,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.73.0"
     },
     {
         "name": "tedomum.net",
@@ -1123,6 +1123,21 @@
         "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
         "version": "1.72.0"
+    },
+    {
+        "name": "ungleich.ch",
+        "domain": "ungleich.matrix.ungleich.cloud",
+        "info": "https://ungleich.ch/u/projects/open-chat/",
+        "jurisdiction": "Switzerland",
+        "tos": null,
+        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
+        "open": true,
+        "remarks": "Hosting provider",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://account.ungleich.ch/",
+        "software": "Synapse",
+        "version": "1.70.1"
     },
     {
         "name": "unredacted.org",
