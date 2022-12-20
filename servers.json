@@ -270,21 +270,6 @@
         "version": "1.73.0"
     },
     {
-        "name": "chrrreeeeesss.com",
-        "domain": "chrrreeeeesss.com",
-        "info": "https://chrrreeeeesss.com",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chrrreeeeesss.com/element",
-        "software": "Synapse",
-        "version": "1.73.0"
-    },
-    {
         "name": "club1.fr",
         "domain": "club1.fr",
         "info": "https://club1.fr/matrix/",
@@ -402,7 +387,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.74.0rc1"
+        "version": "1.74.0"
     },
     {
         "name": "exarius.org",
@@ -555,6 +540,21 @@
         "version": "1.70.1"
     },
     {
+        "name": "grin.hu",
+        "domain": "matrix.grin.hu",
+        "info": "https://matrix.grin.hu/",
+        "jurisdiction": "Hungary",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://riot.grin.hu/",
+        "software": "Synapse",
+        "version": "1.71.0"
+    },
+    {
         "name": "group.lt",
         "domain": "group.lt",
         "info": "https://group.lt",
@@ -598,6 +598,21 @@
         "reg_link": "https://element.hot-chilli.im/",
         "software": "Synapse",
         "version": "1.72.0"
+    },
+    {
+        "name": "houtworm.im",
+        "domain": "houtworm.im",
+        "info": "https://houtworm.im",
+        "jurisdiction": "Netherlands",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://houtworm.im/",
+        "software": "Synapse",
+        "version": "1.73.0"
     },
     {
         "name": "inetd.xyz",
@@ -1032,7 +1047,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.73.0"
+        "version": "1.74.0"
     },
     {
         "name": "techsaviours.org",
@@ -1108,21 +1123,6 @@
         "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
         "version": "1.72.0"
-    },
-    {
-        "name": "ungleich.ch",
-        "domain": "ungleich.matrix.ungleich.cloud",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
-        "software": "Synapse",
-        "version": "1.70.1"
     },
     {
         "name": "unredacted.org",
