@@ -372,7 +372,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.data.haus/",
         "software": "Synapse",
-        "version": "1.70.1"
+        "version": "1.73.0"
     },
     {
         "name": "duesen.chat",
@@ -462,7 +462,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.foss.wtf/",
         "software": "Synapse",
-        "version": "1.73.0"
+        "version": "1.74.0"
     },
     {
         "name": "freiburg.social",
@@ -540,21 +540,6 @@
         "version": "1.70.1"
     },
     {
-        "name": "glasgow.social",
-        "domain": "matrix.glasgow.social",
-        "info": "https://opensource.glasgow.social/matrix",
-        "jurisdiction": "UK",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional tech collective",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.glasgow.social/",
-        "software": "Synapse",
-        "version": "1.70.1"
-    },
-    {
         "name": "grin.hu",
         "domain": "matrix.grin.hu",
         "info": "https://matrix.grin.hu/",
@@ -597,7 +582,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://hashi.sbs",
         "software": "Synapse",
-        "version": "1.73.0"
+        "version": "1.74.0"
     },
     {
         "name": "hot-chilli.im",
@@ -612,7 +597,22 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.hot-chilli.im/",
         "software": "Synapse",
-        "version": "1.72.0"
+        "version": "1.74.0"
+    },
+    {
+        "name": "houtworm.im",
+        "domain": "houtworm.im",
+        "info": "https://houtworm.im",
+        "jurisdiction": "Netherlands",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://houtworm.im/",
+        "software": "Synapse",
+        "version": "1.73.0"
     },
     {
         "name": "inetd.xyz",
@@ -732,7 +732,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
-        "version": "1.73.0"
+        "version": "1.74.0"
     },
     {
         "name": "monero.social",
@@ -912,7 +912,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.projectsegfau.lt/",
         "software": "Synapse",
-        "version": "1.73.0"
+        "version": "1.74.0"
     },
     {
         "name": "pub.solar",
@@ -1077,7 +1077,7 @@
         "reg_method": "SSO",
         "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
-        "version": "1.73.0"
+        "version": "1.74.0"
     },
     {
         "name": "the-apothecary.club",
@@ -1287,7 +1287,7 @@
         "reg_method": "Contact",
         "reg_link": "https://www.bytes4u.de/index.php?action=register",
         "software": "Synapse",
-        "version": "1.73.0"
+        "version": "1.74.0"
     },
     {
         "name": "deuxfleurs.fr",
