@@ -57,7 +57,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
-        "version": "1.73.0"
+        "version": "1.74.0"
     },
     {
         "name": "arcticfoxes.net",
@@ -267,7 +267,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
-        "version": "1.73.0"
+        "version": "1.74.0"
     },
     {
         "name": "chrrreeeeesss.com",
@@ -387,7 +387,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.73.0"
+        "version": "1.74.0"
     },
     {
         "name": "envs.net",
@@ -447,7 +447,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
-        "version": "1.73.0"
+        "version": "1.74.0"
     },
     {
         "name": "foss.wtf",
@@ -1092,7 +1092,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://the-apothecary.club/",
         "software": "Synapse",
-        "version": "1.73.0"
+        "version": "1.74.0"
     },
     {
         "name": "tomesh.net",
@@ -1123,21 +1123,6 @@
         "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
         "version": "1.72.0"
-    },
-    {
-        "name": "ungleich.ch",
-        "domain": "ungleich.matrix.ungleich.cloud",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
-        "software": "Synapse",
-        "version": "1.70.1"
     },
     {
         "name": "unredacted.org",
@@ -1227,7 +1212,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.73.0"
+        "version": "1.74.0"
     },
     {
         "name": "asra.gr",
