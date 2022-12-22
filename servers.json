@@ -507,7 +507,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://g24.at",
         "software": "Synapse",
-        "version": "1.73.0"
+        "version": "1.74.0"
     },
     {
         "name": "gemeinsam.jetzt",
@@ -657,7 +657,7 @@
         "reg_method": "SSO",
         "reg_link": "https://librem.one",
         "software": "Synapse",
-        "version": "1.47.1"
+        "version": "1.64.0"
     },
     {
         "name": "llamarific.social",
@@ -792,7 +792,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
-        "version": "1.73.0"
+        "version": "1.74.0"
     },
     {
         "name": "nope.chat",
@@ -1032,7 +1032,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://web.synod.im/",
         "software": "Synapse",
-        "version": "1.73.0"
+        "version": "1.74.0"
     },
     {
         "name": "tchncs.de",
@@ -1125,6 +1125,21 @@
         "version": "1.72.0"
     },
     {
+        "name": "ungleich.ch",
+        "domain": "ungleich.matrix.ungleich.cloud",
+        "info": "https://ungleich.ch/u/projects/open-chat/",
+        "jurisdiction": "Switzerland",
+        "tos": null,
+        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
+        "open": true,
+        "remarks": "Hosting provider",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://account.ungleich.ch/",
+        "software": "Synapse",
+        "version": "1.70.1"
+    },
+    {
         "name": "unredacted.org",
         "domain": "matrix.unredacted.org",
         "info": "https://unredacted.org/services/matrix/",
@@ -1215,21 +1230,6 @@
         "version": "1.74.0"
     },
     {
-        "name": "asra.gr",
-        "domain": "asra.gr",
-        "info": "https://asra.gr",
-        "jurisdiction": "Austria? (Germany)",
-        "tos": "https://wiki.asra.gr/en:start#rules",
-        "privacy": null,
-        "open": false,
-        "remarks": "18+; registration geo-blocked outside Germany, Austria, Switzerland and Ukraine",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.asra.gr/",
-        "software": "Synapse",
-        "version": "420*69"
-    },
-    {
         "name": "fachschaften.org",
         "domain": "matrix.fachschaften.org",
         "info": "https://fachschaften.org",
@@ -1242,7 +1242,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.73.0"
+        "version": "1.74.0"
     },
     {
         "name": "pikaviestin.fi",
@@ -1257,7 +1257,7 @@
         "reg_method": "SSO",
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
-        "version": "1.72.0"
+        "version": "1.74.0"
     },
     {
         "name": "rimfaxe.net",
