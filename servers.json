@@ -87,7 +87,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://el.aria-net.org/",
         "software": "Archon",
-        "version": "1.73.0"
+        "version": "1.74.0"
     },
     {
         "name": "asozial.org",
@@ -645,21 +645,6 @@
         "version": "1.73.0"
     },
     {
-        "name": "jonasled.de",
-        "domain": "matrix.jonasled.de",
-        "info": "https://jonasled.de",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://jonasled.de/datenschutzerklaerung.html",
-        "open": true,
-        "remarks": "In German; personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.jonasled.de/",
-        "software": "Synapse",
-        "version": "1.74.0"
-    },
-    {
         "name": "librem.one",
         "domain": "chat.librem.one",
         "info": "https://librem.one",
@@ -897,7 +882,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
-        "version": "1.72.0"
+        "version": "1.73.0"
     },
     {
         "name": "pragma-messenger.ch",
