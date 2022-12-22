@@ -117,7 +117,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.bachgau.social/",
         "software": "Synapse",
-        "version": "1.73.0"
+        "version": "1.74.0"
     },
     {
         "name": "badstuebner.biz",
@@ -238,21 +238,6 @@
         "reg_link": "https://talk.chatcloud.net/",
         "software": "Synapse",
         "version": "1.73.0"
-    },
-    {
-        "name": "chatinamatrix.xyz",
-        "domain": "matrix.chatinamatrix.xyz",
-        "info": "https://arrayinamatrix.xyz/index/apps/matrix/",
-        "jurisdiction": "Canada",
-        "tos": "https://arrayinamatrix.xyz/index/apps/matrix/#rules",
-        "privacy": "https://arrayinamatrix.xyz/index/apps/privacy/#matrix",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.chatinamatrix.xyz/",
-        "software": "Dendrite",
-        "version": "0.10.8+ed497aa"
     },
     {
         "name": "chatwave.org",
@@ -657,7 +642,7 @@
         "reg_method": "SSO",
         "reg_link": "https://librem.one",
         "software": "Synapse",
-        "version": "1.64.0"
+        "version": "1.66.0"
     },
     {
         "name": "llamarific.social",
@@ -897,7 +882,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.73.0"
+        "version": "1.74.0"
     },
     {
         "name": "projectsegfau.lt",
@@ -1230,6 +1215,21 @@
         "version": "1.74.0"
     },
     {
+        "name": "asra.gr",
+        "domain": "asra.gr",
+        "info": "https://asra.gr",
+        "jurisdiction": "Austria? (Germany)",
+        "tos": "https://wiki.asra.gr/en:start#rules",
+        "privacy": null,
+        "open": false,
+        "remarks": "18+; registration geo-blocked outside Germany, Austria, Switzerland and Ukraine",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.asra.gr/",
+        "software": "Synapse",
+        "version": "420*69"
+    },
+    {
         "name": "fachschaften.org",
         "domain": "matrix.fachschaften.org",
         "info": "https://fachschaften.org",
@@ -1336,7 +1336,7 @@
     },
     {
         "name": "fsfe.org",
-        "domain": "matrix.fsfe.org",
+        "domain": "fsfe.org",
         "info": "https://fsfe.org/news/2022/news-20220202-01.html",
         "jurisdiction": "Germany",
         "tos": "https://fsfe.org/about/codeofconduct",
