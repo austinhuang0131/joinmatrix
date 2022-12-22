@@ -657,7 +657,7 @@
         "reg_method": "SSO",
         "reg_link": "https://librem.one",
         "software": "Synapse",
-        "version": "1.39.0"
+        "version": "1.47.1"
     },
     {
         "name": "llamarific.social",
