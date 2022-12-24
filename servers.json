@@ -885,21 +885,6 @@
         "version": "1.74.0"
     },
     {
-        "name": "projectsegfau.lt",
-        "domain": "matrix.projectsegfau.lt:443",
-        "info": "https://projectsegfau.lt/instances",
-        "jurisdiction": "France/Luxembourg",
-        "tos": "https://projectsegfau.lt/legal/tos",
-        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.projectsegfau.lt/",
-        "software": "Synapse",
-        "version": "1.74.0"
-    },
-    {
         "name": "pub.solar",
         "domain": "matrix.pub.solar",
         "info": "https://pub.solar",
@@ -1108,21 +1093,6 @@
         "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
         "version": "1.72.0"
-    },
-    {
-        "name": "ungleich.ch",
-        "domain": "ungleich.matrix.ungleich.cloud",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
-        "software": "Synapse",
-        "version": "1.70.1"
     },
     {
         "name": "unredacted.org",
