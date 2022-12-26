@@ -576,22 +576,6 @@
         "recaptcha": false
     },
     {
-        "name": "glasgow.social",
-        "domain": "matrix.glasgow.social",
-        "info": "https://opensource.glasgow.social/matrix",
-        "jurisdiction": "UK",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional tech collective",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.glasgow.social/",
-        "software": "Synapse",
-        "version": "1.70.1",
-        "recaptcha": true
-    },
-    {
         "name": "grin.hu",
         "domain": "matrix.grin.hu",
         "info": "https://matrix.grin.hu/",
@@ -797,6 +781,22 @@
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
         "version": "1.74.0",
+        "recaptcha": false
+    },
+    {
+        "name": "monero.social",
+        "domain": "matrix.monero.social",
+        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
+        "jurisdiction": "US",
+        "tos": "https://www.getmonero.org/legal/",
+        "privacy": null,
+        "open": true,
+        "remarks": "18+; accessory; crypto",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.66.0",
         "recaptcha": false
     },
     {
@@ -1197,6 +1197,22 @@
         "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
         "version": "1.74.0",
+        "recaptcha": false
+    },
+    {
+        "name": "ungleich.ch",
+        "domain": "ungleich.matrix.ungleich.cloud",
+        "info": "https://ungleich.ch/u/projects/open-chat/",
+        "jurisdiction": "Switzerland",
+        "tos": null,
+        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
+        "open": true,
+        "remarks": "Hosting provider",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://account.ungleich.ch/",
+        "software": "Synapse",
+        "version": "1.70.1",
         "recaptcha": false
     },
     {
