@@ -46,6 +46,7 @@ do
         name=$(echo $body | jq .server.name | sed s/\"//g)
         version=$(echo $body | jq .server.version | sed s/\"//g)
         closed=$(echo $reg | jq .errcode)
+        recaptcha=$(echo $reg | jq .params."m.login.recaptcha")
         if [[ $Line =~ \[(SSO|Form)\] ]] || [[ $Check -eq 0 ]]; then
             closed="null"
         fi
@@ -91,7 +92,12 @@ do
                     fi
                 done < <(echo "$Line")
                 echo "        \"software\": \"$name\"," >> servers.json
-                echo "        \"version\": \"$version\"" >> servers.json
+                echo "        \"version\": \"$version\"," >> servers.json
+                if [[ "$recaptcha" != "null" ]]; then
+                    echo "        \"recaptcha\": true" >> servers.json
+                else
+                    echo "        \"recaptcha\": false" >> servers.json
+                fi
                 echo "    }," >> servers.json
                 if [[ "$name" == "Synapse" ]]; then
                     echo "$Line $version |" >> _includes/matrix_prod.md
