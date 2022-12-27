@@ -64,6 +64,22 @@
         "recaptcha": true
     },
     {
+        "name": "arcticfoxes.net",
+        "domain": "matrix.arcticfoxes.net",
+        "info": "https://arcticfoxes.net",
+        "jurisdiction": "US (UK)",
+        "tos": "https://arcticfoxes.net/",
+        "privacy": "https://arcticfoxes.net/",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.arcticfoxes.net",
+        "software": "Synapse",
+        "version": "1.74.0",
+        "recaptcha": false
+    },
+    {
         "name": "aria-net.org",
         "domain": "aria.im",
         "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
@@ -238,6 +254,22 @@
         "software": "Synapse",
         "version": "1.73.0",
         "recaptcha": true
+    },
+    {
+        "name": "chatinamatrix.xyz",
+        "domain": "matrix.chatinamatrix.xyz",
+        "info": "https://arrayinamatrix.xyz/index/apps/matrix/",
+        "jurisdiction": "Canada",
+        "tos": "https://arrayinamatrix.xyz/index/apps/matrix/#rules",
+        "privacy": "https://arrayinamatrix.xyz/index/apps/privacy/#matrix",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.chatinamatrix.xyz/",
+        "software": "Dendrite",
+        "version": "0.10.8+ed497aa",
+        "recaptcha": false
     },
     {
         "name": "chatwave.org",
@@ -608,6 +640,22 @@
         "recaptcha": true
     },
     {
+        "name": "hot-chilli.im",
+        "domain": "hot-chilli.im",
+        "info": "https://jabber.hot-chilli.net/2022/04/26/hot-chilli-matrix-server/",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.hot-chilli.im/",
+        "software": "Synapse",
+        "version": "1.74.0",
+        "recaptcha": false
+    },
+    {
         "name": "houtworm.im",
         "domain": "houtworm.im",
         "info": "https://houtworm.im",
@@ -637,6 +685,22 @@
         "reg_link": "https://element.inetd.xyz/",
         "software": "Synapse",
         "version": "1.73.0",
+        "recaptcha": false
+    },
+    {
+        "name": "jonasled.de",
+        "domain": "matrix.jonasled.de",
+        "info": "https://jonasled.de",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://jonasled.de/datenschutzerklaerung.html",
+        "open": true,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.jonasled.de/",
+        "software": "Synapse",
+        "version": "1.74.0",
         "recaptcha": false
     },
     {
@@ -1020,7 +1084,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
-        "version": "1.71.0",
+        "version": "1.74.0",
         "recaptcha": false
     },
     {
