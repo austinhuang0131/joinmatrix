@@ -16,22 +16,6 @@
         "recaptcha": true
     },
     {
-        "name": "agdersam.no",
-        "domain": "agdersam.no",
-        "info": "https://agdersam.no/",
-        "jurisdiction": "Norway (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.agdersam.no/",
-        "software": "Synapse",
-        "version": "1.73.0",
-        "recaptcha": false
-    },
-    {
         "name": "anonymousland.org",
         "domain": "anonymousland.org",
         "info": "https://www.anonymousland.org/services#matrix",
@@ -577,7 +561,7 @@
     },
     {
         "name": "glasgow.social",
-        "domain": "matrix.glasgow.social",
+        "domain": "glasgow.social",
         "info": "https://opensource.glasgow.social/matrix",
         "jurisdiction": "UK",
         "tos": null,
@@ -589,7 +573,7 @@
         "reg_link": "https://matrix.glasgow.social/",
         "software": "Synapse",
         "version": "1.70.1",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "grin.hu",
@@ -749,22 +733,6 @@
         "reg_link": "https://account.magdeburg.jetzt/",
         "software": "Synapse",
         "version": "1.72.0",
-        "recaptcha": false
-    },
-    {
-        "name": "mailstation.de",
-        "domain": "mailstation.de",
-        "info": "https://turing.mailstation.de/?page_id=1375",
-        "jurisdiction": "Germany",
-        "tos": "https://turing.mailstation.de/terms-and-conditions/",
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.mailstation.de/",
-        "software": "Synapse",
-        "version": "1.74.0",
         "recaptcha": false
     },
     {
@@ -1213,22 +1181,6 @@
         "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
-    },
-    {
-        "name": "ungleich.ch",
-        "domain": "ungleich.matrix.ungleich.cloud",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
-        "software": "Synapse",
-        "version": "1.70.1",
         "recaptcha": false
     },
     {
