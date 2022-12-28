@@ -589,7 +589,7 @@
         "reg_link": "https://matrix.glasgow.social/",
         "software": "Synapse",
         "version": "1.70.1",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "grin.hu",
