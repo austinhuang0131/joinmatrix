@@ -16,6 +16,22 @@
         "recaptcha": true
     },
     {
+        "name": "agdersam.no",
+        "domain": "agdersam.no",
+        "info": "https://agdersam.no/",
+        "jurisdiction": "Norway (Germany)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.agdersam.no/",
+        "software": "Synapse",
+        "version": "1.73.0",
+        "recaptcha": false
+    },
+    {
         "name": "anonymousland.org",
         "domain": "anonymousland.org",
         "info": "https://www.anonymousland.org/services#matrix",
@@ -78,22 +94,6 @@
         "software": "Archon",
         "version": "1.74.0",
         "recaptcha": false
-    },
-    {
-        "name": "asozial.org",
-        "domain": "matrix.asozial.org:8448",
-        "info": "https://asozial.org",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; left-wing",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.asozial.org/",
-        "software": "Dendrite",
-        "version": "0.10.8+79222440.mailbox",
-        "recaptcha": true
     },
     {
         "name": "bachgau.social",
@@ -174,6 +174,22 @@
         "software": "Synapse",
         "version": "1.73.0",
         "recaptcha": false
+    },
+    {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/codeofconduct",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.74.0",
+        "recaptcha": true
     },
     {
         "name": "catgirl.cloud",
@@ -269,7 +285,7 @@
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "chrrreeeeesss.com",
@@ -561,7 +577,7 @@
     },
     {
         "name": "glasgow.social",
-        "domain": "glasgow.social",
+        "domain": "matrix.glasgow.social",
         "info": "https://opensource.glasgow.social/matrix",
         "jurisdiction": "UK",
         "tos": null,
@@ -733,6 +749,22 @@
         "reg_link": "https://account.magdeburg.jetzt/",
         "software": "Synapse",
         "version": "1.72.0",
+        "recaptcha": false
+    },
+    {
+        "name": "mailstation.de",
+        "domain": "mailstation.de",
+        "info": "https://turing.mailstation.de/?page_id=1375",
+        "jurisdiction": "Germany",
+        "tos": "https://turing.mailstation.de/terms-and-conditions/",
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.mailstation.de/",
+        "software": "Synapse",
+        "version": "1.74.0",
         "recaptcha": false
     },
     {
