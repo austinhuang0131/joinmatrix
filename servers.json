@@ -108,7 +108,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.asozial.org/",
         "software": "Dendrite",
-        "version": "0.10.8+79222440.mailbox",
+        "version": "0.10.8+18cc81fb.mailbox",
         "recaptcha": true
     },
     {
@@ -270,6 +270,22 @@
         "software": "Synapse",
         "version": "1.73.0",
         "recaptcha": true
+    },
+    {
+        "name": "chatinamatrix.xyz",
+        "domain": "matrix.chatinamatrix.xyz",
+        "info": "https://arrayinamatrix.xyz/index/apps/matrix/",
+        "jurisdiction": "Canada",
+        "tos": "https://arrayinamatrix.xyz/index/apps/matrix/#rules",
+        "privacy": "https://arrayinamatrix.xyz/index/apps/privacy/#matrix",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.chatinamatrix.xyz/",
+        "software": "Dendrite",
+        "version": "0.10.8+ed497aa",
+        "recaptcha": false
     },
     {
         "name": "chatwave.org",
@@ -589,7 +605,7 @@
         "reg_link": "https://matrix.glasgow.social/",
         "software": "Synapse",
         "version": "1.70.1",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "grin.hu",
@@ -1213,22 +1229,6 @@
         "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
-    },
-    {
-        "name": "ungleich.ch",
-        "domain": "ungleich.matrix.ungleich.cloud",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
-        "software": "Synapse",
-        "version": "1.70.1",
         "recaptcha": false
     },
     {
