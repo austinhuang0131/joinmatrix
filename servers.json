@@ -224,22 +224,6 @@
         "recaptcha": false
     },
     {
-        "name": "cezeri.tech",
-        "domain": "matrix.cezeri.tech",
-        "info": "https://cezeri.tech",
-        "jurisdiction": "Turkey (Germany)",
-        "tos": "https://cezeri.tech/kosullar.html",
-        "privacy": "https://cezeri.tech/gizlilik.html",
-        "open": true,
-        "remarks": "In Turkish; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.cezeri.tech/",
-        "software": "Synapse",
-        "version": "1.73.0",
-        "recaptcha": false
-    },
-    {
         "name": "chagai.website",
         "domain": "mx.chagai.website",
         "info": "https://chagai.website",
