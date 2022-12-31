@@ -365,7 +365,7 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.70.1",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "crossbach.de",
@@ -397,7 +397,7 @@
         "reg_link": "https://chat.data.haus/",
         "software": "Synapse",
         "version": "1.73.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "duesen.chat",
