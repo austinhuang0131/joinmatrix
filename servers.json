@@ -33,7 +33,7 @@
     },
     {
         "name": "anonymousland.org",
-        "domain": "matrix.anonymousland.org",
+        "domain": "matrix.anonymousland.org:443",
         "info": "https://www.anonymousland.org/services#matrix",
         "jurisdiction": "Iceland?",
         "tos": null,
@@ -45,7 +45,7 @@
         "reg_link": "https://element.anonymousland.org/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "archoslinux.cz",
@@ -365,7 +365,7 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.70.1",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "crossbach.de",
@@ -397,7 +397,7 @@
         "reg_link": "https://chat.data.haus/",
         "software": "Synapse",
         "version": "1.73.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "duesen.chat",
@@ -1452,7 +1452,7 @@
         "reg_method": "Membership",
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
-        "version": "1.73.0",
+        "version": "1.74.0",
         "recaptcha": false
     },
     {
