@@ -16,6 +16,22 @@
         "recaptcha": true
     },
     {
+        "name": "agdersam.no",
+        "domain": "agdersam.no",
+        "info": "https://agdersam.no/",
+        "jurisdiction": "Norway (Germany)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.agdersam.no/",
+        "software": "Synapse",
+        "version": "1.73.0",
+        "recaptcha": false
+    },
+    {
         "name": "anonymousland.org",
         "domain": "matrix.anonymousland.org:443",
         "info": "https://www.anonymousland.org/services#matrix",
