@@ -16,22 +16,6 @@
         "recaptcha": true
     },
     {
-        "name": "agdersam.no",
-        "domain": "agdersam.no",
-        "info": "https://agdersam.no/",
-        "jurisdiction": "Norway (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.agdersam.no/",
-        "software": "Synapse",
-        "version": "1.73.0",
-        "recaptcha": false
-    },
-    {
         "name": "anonymousland.org",
         "domain": "matrix.anonymousland.org:443",
         "info": "https://www.anonymousland.org/services#matrix",
@@ -190,22 +174,6 @@
         "software": "Synapse",
         "version": "1.73.0",
         "recaptcha": false
-    },
-    {
-        "name": "cat.casa",
-        "domain": "matrix.cat.casa",
-        "info": "https://cat.casa/",
-        "jurisdiction": "Germany",
-        "tos": "https://cat.casa/codeofconduct",
-        "privacy": "https://cat.casa/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.cat.casa/",
-        "software": "Synapse",
-        "version": "1.74.0",
-        "recaptcha": true
     },
     {
         "name": "catgirl.cloud",
