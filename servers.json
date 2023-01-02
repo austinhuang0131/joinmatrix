@@ -380,7 +380,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.crossbach.de/",
         "software": "Synapse",
-        "version": "1.72.0",
+        "version": "1.74.0",
         "recaptcha": false
     },
     {
@@ -605,7 +605,7 @@
         "reg_link": "https://matrix.glasgow.social/",
         "software": "Synapse",
         "version": "1.70.1",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "grin.hu",
@@ -733,7 +733,7 @@
         "reg_link": "https://librem.one",
         "software": "Synapse",
         "version": "1.66.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "llamarific.social",
@@ -813,22 +813,6 @@
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
-    },
-    {
-        "name": "monero.social",
-        "domain": "matrix.monero.social",
-        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
-        "jurisdiction": "US",
-        "tos": "https://www.getmonero.org/legal/",
-        "privacy": null,
-        "open": true,
-        "remarks": "18+; accessory; crypto",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.66.0",
         "recaptcha": false
     },
     {
@@ -1232,22 +1216,6 @@
         "recaptcha": false
     },
     {
-        "name": "ungleich.ch",
-        "domain": "ungleich.matrix.ungleich.cloud",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
-        "software": "Synapse",
-        "version": "1.70.1",
-        "recaptcha": false
-    },
-    {
         "name": "unredacted.org",
         "domain": "matrix.unredacted.org",
         "info": "https://unredacted.org/services/matrix/",
@@ -1404,7 +1372,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.rimfaxe.net/",
         "software": "Synapse",
-        "version": "1.73.0",
+        "version": "1.74.0",
         "recaptcha": true
     },
     {
