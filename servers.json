@@ -33,7 +33,7 @@
     },
     {
         "name": "anonymousland.org",
-        "domain": "matrix.anonymousland.org:443",
+        "domain": "matrix.anonymousland.org",
         "info": "https://www.anonymousland.org/services#matrix",
         "jurisdiction": "Iceland?",
         "tos": null,
@@ -45,7 +45,7 @@
         "reg_link": "https://element.anonymousland.org/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "archoslinux.cz",
@@ -605,7 +605,7 @@
         "reg_link": "https://matrix.glasgow.social/",
         "software": "Synapse",
         "version": "1.70.1",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "grin.hu",
@@ -733,7 +733,7 @@
         "reg_link": "https://librem.one",
         "software": "Synapse",
         "version": "1.66.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "llamarific.social",
@@ -1229,6 +1229,22 @@
         "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
         "version": "1.74.0",
+        "recaptcha": false
+    },
+    {
+        "name": "ungleich.ch",
+        "domain": "ungleich.matrix.ungleich.cloud",
+        "info": "https://ungleich.ch/u/projects/open-chat/",
+        "jurisdiction": "Switzerland",
+        "tos": null,
+        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
+        "open": true,
+        "remarks": "Hosting provider",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://account.ungleich.ch/",
+        "software": "Synapse",
+        "version": "1.70.1",
         "recaptcha": false
     },
     {
