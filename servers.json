@@ -320,17 +320,17 @@
         "recaptcha": false
     },
     {
-        "name": "comm.cx",
-        "domain": "matrix-client.comm.cx",
-        "info": "https://comm.cx",
-        "jurisdiction": "Japan",
+        "name": "community.rs",
+        "domain": "matrix.community.rs",
+        "info": "https://community.rs",
+        "jurisdiction": "US",
         "tos": null,
         "privacy": null,
         "open": true,
-        "remarks": "",
+        "remarks": "Rust-oriented",
         "antifeature": "Uses Cloudflare",
-        "reg_method": null,
-        "reg_link": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.74.0",
         "recaptcha": false
@@ -529,7 +529,7 @@
     },
     {
         "name": "g24.at",
-        "domain": "g24.at",
+        "domain": "matrix.g24.at",
         "info": "https://g24.at",
         "jurisdiction": "Austria",
         "tos": null,
@@ -541,7 +541,7 @@
         "reg_link": "https://g24.at",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "gemeinsam.jetzt",
@@ -797,22 +797,6 @@
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
-    },
-    {
-        "name": "monero.social",
-        "domain": "matrix.monero.social",
-        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
-        "jurisdiction": "US",
-        "tos": "https://www.getmonero.org/legal/",
-        "privacy": null,
-        "open": true,
-        "remarks": "18+; accessory; crypto",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.66.0",
         "recaptcha": false
     },
     {
