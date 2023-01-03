@@ -592,6 +592,22 @@
         "recaptcha": false
     },
     {
+        "name": "glasgow.social",
+        "domain": "matrix.glasgow.social",
+        "info": "https://opensource.glasgow.social/matrix",
+        "jurisdiction": "UK",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional tech collective",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.glasgow.social/",
+        "software": "Synapse",
+        "version": "1.70.1",
+        "recaptcha": false
+    },
+    {
         "name": "grin.hu",
         "domain": "matrix.grin.hu",
         "info": "https://matrix.grin.hu/",
@@ -1246,6 +1262,22 @@
         "software": "Synapse",
         "version": "1.72.0",
         "recaptcha": true
+    },
+    {
+        "name": "vern.cc",
+        "domain": "mtrx.vern.cc",
+        "info": "https://vern.cc/",
+        "jurisdiction": "US/India? (US/Canada)",
+        "tos": "https://vern.cc/rules",
+        "privacy": "https://vern.cc/privpol",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://vern.cc/register.php",
+        "software": "Synapse",
+        "version": "1.74.0",
+        "recaptcha": false
     },
     {
         "name": "virto.community",
