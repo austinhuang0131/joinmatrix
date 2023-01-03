@@ -336,22 +336,6 @@
         "recaptcha": false
     },
     {
-        "name": "community.rs",
-        "domain": "matrix.community.rs",
-        "info": "https://community.rs",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Rust-oriented",
-        "antifeature": "Uses Cloudflare",
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.community.rs/",
-        "software": "Synapse",
-        "version": "1.74.0",
-        "recaptcha": false
-    },
-    {
         "name": "converser.eu",
         "domain": "converser.eu",
         "info": "https://converser.eu",
