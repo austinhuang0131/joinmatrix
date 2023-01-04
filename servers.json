@@ -144,6 +144,22 @@
         "recaptcha": false
     },
     {
+        "name": "bancino.net",
+        "domain": "bancino.net",
+        "info": "https://bancino.net",
+        "jurisdiction": "US",
+        "tos": "https://bancino.net/_matrix/consent",
+        "privacy": "https://bancino.net/_matrix/consent",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://bancino.net/element/",
+        "software": "Synapse",
+        "version": "1.67.0",
+        "recaptcha": false
+    },
+    {
         "name": "breeze.town",
         "domain": "breeze.town",
         "info": "https://breeze.town/@breeze/108776240056543549",
@@ -299,6 +315,22 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://riot.club1.fr/",
+        "software": "Synapse",
+        "version": "1.74.0",
+        "recaptcha": false
+    },
+    {
+        "name": "comm.cx",
+        "domain": "matrix-client.comm.cx",
+        "info": "https://comm.cx",
+        "jurisdiction": "Japan",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": "Uses Cloudflare",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.74.0",
         "recaptcha": false
@@ -561,7 +593,7 @@
     },
     {
         "name": "glasgow.social",
-        "domain": "glasgow.social",
+        "domain": "matrix.glasgow.social",
         "info": "https://opensource.glasgow.social/matrix",
         "jurisdiction": "UK",
         "tos": null,
@@ -1036,7 +1068,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.sfunk1x.com/",
         "software": "Synapse",
-        "version": "1.72.0",
+        "version": "1.74.0",
         "recaptcha": false
     },
     {
