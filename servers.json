@@ -1244,7 +1244,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
-        "version": "1.70.1",
+        "version": "1.74.0",
         "recaptcha": false
     },
     {
