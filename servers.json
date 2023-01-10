@@ -577,7 +577,7 @@
     },
     {
         "name": "glasgow.social",
-        "domain": "matrix.glasgow.social",
+        "domain": "glasgow.social",
         "info": "https://opensource.glasgow.social/matrix",
         "jurisdiction": "UK",
         "tos": null,
