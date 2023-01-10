@@ -813,7 +813,7 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.66.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "mtrx.nz",
