@@ -348,7 +348,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.70.1",
+        "version": "1.73.0",
         "recaptcha": false
     },
     {
@@ -813,7 +813,7 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.66.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "mtrx.nz",
@@ -1501,6 +1501,22 @@
         "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
         "software": "Synapse",
         "version": "1.71.0",
+        "recaptcha": false
+    },
+    {
+        "name": "sans-nuage.fr",
+        "domain": "matrix.sans-nuage.fr",
+        "info": "https://sans-nuage.fr",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": false,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "Membership",
+        "reg_link": "https://adherents.arn-fai.net/members/register/",
+        "software": "Synapse",
+        "version": "1.59.0",
         "recaptcha": false
     }
 ]
