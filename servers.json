@@ -883,8 +883,8 @@
         "name": "norge.chat",
         "domain": "matrix.norge.chat",
         "info": "https://norge.chat",
-        "jurisdiction": "Norway (Germany)",
-        "tos": null,
+        "jurisdiction": "Norway (Finland)",
+        "tos": https://norge.chat/regler.html,
         "privacy": "https://norge.chat/personvern.html",
         "open": true,
         "remarks": "In Norwegian; general host",
@@ -893,7 +893,7 @@
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "oblak.be",
