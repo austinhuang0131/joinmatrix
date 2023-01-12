@@ -256,6 +256,22 @@
         "recaptcha": true
     },
     {
+        "name": "chatinamatrix.xyz",
+        "domain": "matrix.chatinamatrix.xyz",
+        "info": "https://arrayinamatrix.xyz/index/apps/matrix/",
+        "jurisdiction": "Canada",
+        "tos": "https://arrayinamatrix.xyz/index/apps/matrix/#rules",
+        "privacy": "https://arrayinamatrix.xyz/index/apps/privacy/#matrix",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.chatinamatrix.xyz/",
+        "software": "Dendrite",
+        "version": "0.10.8+ed497aa",
+        "recaptcha": false
+    },
+    {
         "name": "chatwave.org",
         "domain": "matrix.chatwave.org",
         "info": "https://yatrix.org",
@@ -622,6 +638,22 @@
         "software": "Synapse",
         "version": "1.73.0",
         "recaptcha": false
+    },
+    {
+        "name": "hashi.sbs",
+        "domain": "chatserver.hashi.sbs",
+        "info": "https://hashi.sbs",
+        "jurisdiction": "? (Germany)",
+        "tos": "https://hashi.icu/@MomentQYC/pages/tos",
+        "privacy": null,
+        "open": true,
+        "remarks": "In Chinese",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://hashi.sbs",
+        "software": "Synapse",
+        "version": "1.74.0",
+        "recaptcha": true
     },
     {
         "name": "hot-chilli.im",
@@ -1500,7 +1532,7 @@
         "reg_method": "Membership",
         "reg_link": "https://adherents.arn-fai.net/members/register/",
         "software": "Synapse",
-        "version": "1.59.0",
+        "version": "1.74.0",
         "recaptcha": false
     }
 ]
