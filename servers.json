@@ -28,7 +28,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.agdersam.no/",
         "software": "Synapse",
-        "version": "1.73.0",
+        "version": "1.74.0",
         "recaptcha": false
     },
     {
@@ -593,7 +593,7 @@
     },
     {
         "name": "glasgow.social",
-        "domain": "glasgow.social",
+        "domain": "matrix.glasgow.social",
         "info": "https://opensource.glasgow.social/matrix",
         "jurisdiction": "UK",
         "tos": null,
@@ -605,7 +605,7 @@
         "reg_link": "https://matrix.glasgow.social/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "grin.hu",
