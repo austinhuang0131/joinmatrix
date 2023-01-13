@@ -144,6 +144,22 @@
         "recaptcha": false
     },
     {
+        "name": "bancino.net",
+        "domain": "bancino.net",
+        "info": "https://bancino.net",
+        "jurisdiction": "US",
+        "tos": "https://bancino.net/_matrix/consent",
+        "privacy": "https://bancino.net/_matrix/consent",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://bancino.net/element/",
+        "software": "Synapse",
+        "version": "1.67.0",
+        "recaptcha": false
+    },
+    {
         "name": "breeze.town",
         "domain": "breeze.town",
         "info": "https://breeze.town/@breeze/108776240056543549",
@@ -413,6 +429,22 @@
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
         "version": "1.74.0",
+        "recaptcha": false
+    },
+    {
+        "name": "exarius.org",
+        "domain": "exarius.org",
+        "info": "https://exarius.org/wiki/services/exatrix/",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.71.0",
         "recaptcha": false
     },
     {
@@ -781,22 +813,6 @@
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
-    },
-    {
-        "name": "monero.social",
-        "domain": "matrix.monero.social",
-        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
-        "jurisdiction": "US",
-        "tos": "https://www.getmonero.org/legal/",
-        "privacy": null,
-        "open": true,
-        "remarks": "18+; accessory; crypto",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.66.0",
         "recaptcha": false
     },
     {
@@ -1229,7 +1245,7 @@
         "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "unredacted.org",
