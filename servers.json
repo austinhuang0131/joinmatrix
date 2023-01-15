@@ -605,7 +605,7 @@
         "reg_link": "https://matrix.glasgow.social/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "grin.hu",
@@ -813,22 +813,6 @@
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
-    },
-    {
-        "name": "monero.social",
-        "domain": "matrix.monero.social",
-        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
-        "jurisdiction": "US",
-        "tos": "https://www.getmonero.org/legal/",
-        "privacy": null,
-        "open": true,
-        "remarks": "18+; accessory; crypto",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.66.0",
         "recaptcha": false
     },
     {
