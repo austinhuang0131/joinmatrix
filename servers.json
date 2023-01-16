@@ -16,6 +16,22 @@
         "recaptcha": true
     },
     {
+        "name": "agdersam.no",
+        "domain": "agdersam.no",
+        "info": "https://agdersam.no/",
+        "jurisdiction": "Norway (Germany)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.agdersam.no/",
+        "software": "Synapse",
+        "version": "1.74.0",
+        "recaptcha": false
+    },
+    {
         "name": "anonymousland.org",
         "domain": "matrix.anonymousland.org",
         "info": "https://www.anonymousland.org/services#matrix",
@@ -416,6 +432,22 @@
         "recaptcha": false
     },
     {
+        "name": "exarius.org",
+        "domain": "exarius.org",
+        "info": "https://exarius.org/wiki/services/exatrix/",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.71.0",
+        "recaptcha": false
+    },
+    {
         "name": "filik.eu",
         "domain": "chat.filik.eu:443",
         "info": "https://filik.eu",
@@ -573,7 +605,7 @@
         "reg_link": "https://matrix.glasgow.social/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "grin.hu",
@@ -990,22 +1022,6 @@
         "software": "Synapse",
         "version": "1.74.0",
         "recaptcha": false
-    },
-    {
-        "name": "projectsegfau.lt",
-        "domain": "matrix.projectsegfau.lt:443",
-        "info": "https://projectsegfau.lt/instances",
-        "jurisdiction": "France/Luxembourg",
-        "tos": "https://projectsegfau.lt/legal/tos",
-        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.projectsegfau.lt/",
-        "software": "Synapse",
-        "version": "1.74.0",
-        "recaptcha": true
     },
     {
         "name": "radiowarnerd.org",
