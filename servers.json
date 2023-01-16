@@ -108,7 +108,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.asozial.org/",
         "software": "Dendrite",
-        "version": "0.10.8+18cc81fb.mailbox",
+        "version": "0.10.8+16eb9e4e.mailbox",
         "recaptcha": true
     },
     {
@@ -254,22 +254,6 @@
         "software": "Synapse",
         "version": "1.73.0",
         "recaptcha": true
-    },
-    {
-        "name": "chatinamatrix.xyz",
-        "domain": "matrix.chatinamatrix.xyz",
-        "info": "https://arrayinamatrix.xyz/index/apps/matrix/",
-        "jurisdiction": "Canada",
-        "tos": "https://arrayinamatrix.xyz/index/apps/matrix/#rules",
-        "privacy": "https://arrayinamatrix.xyz/index/apps/privacy/#matrix",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.chatinamatrix.xyz/",
-        "software": "Dendrite",
-        "version": "0.10.8+ed497aa",
-        "recaptcha": false
     },
     {
         "name": "chatwave.org",
@@ -432,22 +416,6 @@
         "recaptcha": false
     },
     {
-        "name": "exarius.org",
-        "domain": "exarius.org",
-        "info": "https://exarius.org/wiki/services/exatrix/",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.71.0",
-        "recaptcha": false
-    },
-    {
         "name": "filik.eu",
         "domain": "chat.filik.eu:443",
         "info": "https://filik.eu",
@@ -605,7 +573,7 @@
         "reg_link": "https://matrix.glasgow.social/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "grin.hu",
@@ -813,6 +781,22 @@
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
         "version": "1.74.0",
+        "recaptcha": false
+    },
+    {
+        "name": "monero.social",
+        "domain": "matrix.monero.social",
+        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
+        "jurisdiction": "US",
+        "tos": "https://www.getmonero.org/legal/",
+        "privacy": null,
+        "open": true,
+        "remarks": "18+; accessory; crypto",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.66.0",
         "recaptcha": false
     },
     {
