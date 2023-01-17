@@ -899,8 +899,8 @@
         "name": "norge.chat",
         "domain": "matrix.norge.chat",
         "info": "https://norge.chat",
-        "jurisdiction": "Norway (Germany)",
-        "tos": null,
+        "jurisdiction": "Norway (Finland)",
+        "tos": "https://norge.chat/regler.html",
         "privacy": "https://norge.chat/personvern.html",
         "open": true,
         "remarks": "In Norwegian; general host",
@@ -1020,7 +1020,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -1196,7 +1196,7 @@
         "reg_method": "SSO",
         "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.75.0",
         "recaptcha": false
     },
     {
