@@ -13,7 +13,7 @@
         "reg_link": "https://im.0wnz.at/element-web/",
         "software": "Synapse",
         "version": "1.72.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "agdersam.no",
@@ -61,7 +61,7 @@
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
         "version": "1.75.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "arcticfoxes.net",
@@ -109,7 +109,7 @@
         "reg_link": "https://chat.asozial.org/",
         "software": "Dendrite",
         "version": "0.10.8+16eb9e4e.mailbox",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "bachgau.social",
@@ -144,22 +144,6 @@
         "recaptcha": false
     },
     {
-        "name": "bancino.net",
-        "domain": "bancino.net",
-        "info": "https://bancino.net",
-        "jurisdiction": "US",
-        "tos": "https://bancino.net/_matrix/consent",
-        "privacy": "https://bancino.net/_matrix/consent",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://bancino.net/element/",
-        "software": "Synapse",
-        "version": "1.67.0",
-        "recaptcha": false
-    },
-    {
         "name": "breeze.town",
         "domain": "breeze.town",
         "info": "https://breeze.town/@breeze/108776240056543549",
@@ -173,22 +157,6 @@
         "reg_link": "https://chat.breeze.town/",
         "software": "Synapse",
         "version": "1.69.0",
-        "recaptcha": false
-    },
-    {
-        "name": "buyvm.net",
-        "domain": "buyvm.chat",
-        "info": "https://buyvm.net/beware-the-moshbear/",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Hosting provider; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.buyvm.net/element/",
-        "software": "Synapse",
-        "version": "1.74.0",
         "recaptcha": false
     },
     {
@@ -237,7 +205,7 @@
         "reg_link": "https://talk.chatcloud.net/",
         "software": "Synapse",
         "version": "1.73.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "chatwave.org",
@@ -365,7 +333,7 @@
         "reg_link": "https://chat.data.haus/",
         "software": "Synapse",
         "version": "1.73.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "duesen.chat",
@@ -429,7 +397,7 @@
         "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "flieger.chat",
@@ -589,7 +557,7 @@
         "reg_link": "https://riot.grin.hu/",
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "group.lt",
@@ -621,7 +589,7 @@
         "reg_link": "https://hashi.sbs",
         "software": "Synapse",
         "version": "1.75.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "hot-chilli.im",
@@ -909,7 +877,7 @@
         "reg_link": "https://chat.oblak.be/",
         "software": "Synapse",
         "version": "1.59.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "ohai.su",
@@ -1373,7 +1341,7 @@
         "reg_link": "https://element.hingst.net/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "pikaviestin.fi",
