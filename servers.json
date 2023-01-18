@@ -76,6 +76,22 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.arcticfoxes.net",
         "software": "Synapse",
+        "version": "1.75.0",
+        "recaptcha": false
+    },
+    {
+        "name": "aria-net.org",
+        "domain": "aria.im",
+        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
+        "jurisdiction": "Italy?",
+        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://el.aria-net.org/",
+        "software": "Archon",
         "version": "1.74.0",
         "recaptcha": false
     },
@@ -577,7 +593,7 @@
     },
     {
         "name": "glasgow.social",
-        "domain": "glasgow.social",
+        "domain": "matrix.glasgow.social",
         "info": "https://opensource.glasgow.social/matrix",
         "jurisdiction": "UK",
         "tos": null,
@@ -606,6 +622,22 @@
         "software": "Synapse",
         "version": "1.71.0",
         "recaptcha": true
+    },
+    {
+        "name": "group.lt",
+        "domain": "group.lt",
+        "info": "https://group.lt",
+        "jurisdiction": "Lithuania?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": "Uses Cloudflare",
+        "reg_method": "In-house Cinny",
+        "reg_link": "https://chat.group.lt/",
+        "software": "Synapse",
+        "version": "1.73.0",
+        "recaptcha": false
     },
     {
         "name": "hashi.sbs",
@@ -684,7 +716,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.jonasled.de/",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -800,22 +832,6 @@
         "recaptcha": false
     },
     {
-        "name": "monero.social",
-        "domain": "matrix.monero.social",
-        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
-        "jurisdiction": "US",
-        "tos": "https://www.getmonero.org/legal/",
-        "privacy": null,
-        "open": true,
-        "remarks": "18+; accessory; crypto",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.66.0",
-        "recaptcha": false
-    },
-    {
         "name": "mtrx.nz",
         "domain": "mtrx.nz",
         "info": "https://mtrx.nz",
@@ -844,7 +860,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nibbana.jp/",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -860,7 +876,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -892,7 +908,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -1165,22 +1181,6 @@
         "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
-    },
-    {
-        "name": "tedomum.net",
-        "domain": "matrix.tedomum.net",
-        "info": "https://tedomum.net/service/matrix/",
-        "jurisdiction": "France",
-        "tos": "https://tedomum.net/page/cgu/#",
-        "privacy": "https://tedomum.net/page/cgu/",
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://tedomum.net/documentation/general/account/",
-        "software": "Synapse",
-        "version": "1.75.0",
         "recaptcha": false
     },
     {
