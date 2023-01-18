@@ -192,22 +192,6 @@
         "recaptcha": false
     },
     {
-        "name": "cat.casa",
-        "domain": "matrix.cat.casa",
-        "info": "https://cat.casa/",
-        "jurisdiction": "Germany",
-        "tos": "https://cat.casa/codeofconduct",
-        "privacy": "https://cat.casa/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.cat.casa/",
-        "software": "Synapse",
-        "version": "1.74.0",
-        "recaptcha": true
-    },
-    {
         "name": "catgirl.cloud",
         "domain": "matrix.catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -254,22 +238,6 @@
         "software": "Synapse",
         "version": "1.73.0",
         "recaptcha": true
-    },
-    {
-        "name": "chatinamatrix.xyz",
-        "domain": "matrix.chatinamatrix.xyz",
-        "info": "https://arrayinamatrix.xyz/index/apps/matrix/",
-        "jurisdiction": "Canada",
-        "tos": "https://arrayinamatrix.xyz/index/apps/matrix/#rules",
-        "privacy": "https://arrayinamatrix.xyz/index/apps/privacy/#matrix",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.chatinamatrix.xyz/",
-        "software": "Dendrite",
-        "version": "0.10.8+ed497aa",
-        "recaptcha": false
     },
     {
         "name": "chatwave.org",
@@ -832,6 +800,22 @@
         "recaptcha": false
     },
     {
+        "name": "monero.social",
+        "domain": "matrix.monero.social",
+        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
+        "jurisdiction": "US",
+        "tos": "https://www.getmonero.org/legal/",
+        "privacy": null,
+        "open": true,
+        "remarks": "18+; accessory; crypto",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.66.0",
+        "recaptcha": false
+    },
+    {
         "name": "mtrx.nz",
         "domain": "mtrx.nz",
         "info": "https://mtrx.nz",
@@ -1024,22 +1008,6 @@
         "recaptcha": false
     },
     {
-        "name": "projectsegfau.lt",
-        "domain": "matrix.projectsegfau.lt:443",
-        "info": "https://projectsegfau.lt/instances",
-        "jurisdiction": "France/Luxembourg",
-        "tos": "https://projectsegfau.lt/legal/tos",
-        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.projectsegfau.lt/",
-        "software": "Synapse",
-        "version": "1.74.0",
-        "recaptcha": true
-    },
-    {
         "name": "radiowarnerd.org",
         "domain": "radiowarnerd.org",
         "info": "https://dokuwiki.radiowarnerd.org/matrixaccountcreation",
@@ -1148,7 +1116,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://web.synod.im/",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -1181,6 +1149,22 @@
         "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
         "version": "1.74.0",
+        "recaptcha": false
+    },
+    {
+        "name": "tedomum.net",
+        "domain": "matrix.tedomum.net",
+        "info": "https://tedomum.net/service/matrix/",
+        "jurisdiction": "France",
+        "tos": "https://tedomum.net/page/cgu/#",
+        "privacy": "https://tedomum.net/page/cgu/",
+        "open": true,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://tedomum.net/documentation/general/account/",
+        "software": "Synapse",
+        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -1376,6 +1360,22 @@
         "recaptcha": false
     },
     {
+        "name": "hingst.net",
+        "domain": "matrix.rimfaxe.net",
+        "info": "https://hingst.net",
+        "jurisdiction": "Sweden",
+        "tos": "https://www.hovkluster.se/matrix/villkor_hingst.html",
+        "privacy": "https://www.hovkluster.se/matrix/integritet_hingst.html",
+        "open": false,
+        "remarks": "Requires a public registration token (see homepage); freemium",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.hingst.net/",
+        "software": "Synapse",
+        "version": "1.74.0",
+        "recaptcha": true
+    },
+    {
         "name": "pikaviestin.fi",
         "domain": "matrix.pikaviestin.fi",
         "info": "https://pikaviestin.fi",
@@ -1390,22 +1390,6 @@
         "software": "Synapse",
         "version": "1.74.0",
         "recaptcha": false
-    },
-    {
-        "name": "rimfaxe.net",
-        "domain": "matrix.rimfaxe.net",
-        "info": "https://rimfaxe.net",
-        "jurisdiction": "Sweden",
-        "tos": "https://rimfaxe.net/terms/",
-        "privacy": "https://rimfaxe.net/privacy/",
-        "open": false,
-        "remarks": "In Swedish; requires a public registration token (see homepage); freemium",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.rimfaxe.net/",
-        "software": "Synapse",
-        "version": "1.74.0",
-        "recaptcha": true
     },
     {
         "name": "bytes4u.de",
@@ -1469,6 +1453,22 @@
         "reg_link": "https://libreon.fr/account",
         "software": "Synapse",
         "version": "1.71.0",
+        "recaptcha": false
+    },
+    {
+        "name": "data.coop",
+        "domain": "matrix.data.coop",
+        "info": "https://data.coop",
+        "jurisdiction": "Denmark",
+        "tos": "https://git.data.coop/data.coop/dokumenter/src/branch/master/Acceptable%20Usage%20Policy.md",
+        "privacy": null,
+        "open": false,
+        "remarks": "In Danish; tech collective",
+        "antifeature": null,
+        "reg_method": "Membership",
+        "reg_link": "https://data.coop/medlem/",
+        "software": "Synapse",
+        "version": "1.63.1",
         "recaptcha": false
     },
     {
