@@ -80,22 +80,6 @@
         "recaptcha": false
     },
     {
-        "name": "aria-net.org",
-        "domain": "aria.im",
-        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
-        "jurisdiction": "Italy?",
-        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://el.aria-net.org/",
-        "software": "Archon",
-        "version": "1.74.0",
-        "recaptcha": false
-    },
-    {
         "name": "asozial.org",
         "domain": "matrix.asozial.org:8448",
         "info": "https://asozial.org",
@@ -144,6 +128,22 @@
         "recaptcha": false
     },
     {
+        "name": "bancino.net",
+        "domain": "bancino.net",
+        "info": "https://bancino.net",
+        "jurisdiction": "US",
+        "tos": "https://bancino.net/_matrix/consent",
+        "privacy": "https://bancino.net/_matrix/consent",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://bancino.net/element/",
+        "software": "Synapse",
+        "version": "1.67.0",
+        "recaptcha": false
+    },
+    {
         "name": "breeze.town",
         "domain": "breeze.town",
         "info": "https://breeze.town/@breeze/108776240056543549",
@@ -174,6 +174,22 @@
         "software": "Synapse",
         "version": "1.74.0",
         "recaptcha": false
+    },
+    {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/codeofconduct",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.74.0",
+        "recaptcha": true
     },
     {
         "name": "catgirl.cloud",
@@ -460,7 +476,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.foss.wtf/",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -561,7 +577,7 @@
     },
     {
         "name": "glasgow.social",
-        "domain": "matrix.glasgow.social",
+        "domain": "glasgow.social",
         "info": "https://opensource.glasgow.social/matrix",
         "jurisdiction": "UK",
         "tos": null,
@@ -590,22 +606,6 @@
         "software": "Synapse",
         "version": "1.71.0",
         "recaptcha": true
-    },
-    {
-        "name": "group.lt",
-        "domain": "group.lt",
-        "info": "https://group.lt",
-        "jurisdiction": "Lithuania?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Uses Cloudflare",
-        "reg_method": "In-house Cinny",
-        "reg_link": "https://chat.group.lt/",
-        "software": "Synapse",
-        "version": "1.73.0",
-        "recaptcha": false
     },
     {
         "name": "hashi.sbs",
@@ -1452,7 +1452,7 @@
         "reg_method": "Contact",
         "reg_link": "https://hyteck.de/about/",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.75.0",
         "recaptcha": false
     },
     {
