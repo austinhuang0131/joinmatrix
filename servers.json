@@ -33,7 +33,7 @@
     },
     {
         "name": "anonymousland.org",
-        "domain": "matrix.anonymousland.org",
+        "domain": "matrix.anonymousland.org:443",
         "info": "https://www.anonymousland.org/services#matrix",
         "jurisdiction": "Iceland?",
         "tos": null,
@@ -96,6 +96,22 @@
         "recaptcha": false
     },
     {
+        "name": "asozial.org",
+        "domain": "matrix.asozial.org:8448",
+        "info": "https://asozial.org",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; left-wing",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.asozial.org/",
+        "software": "Dendrite",
+        "version": "0.10.8+16eb9e4e.mailbox",
+        "recaptcha": false
+    },
+    {
         "name": "bachgau.social",
         "domain": "matrix.bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
@@ -155,22 +171,6 @@
         "antifeature": "Residential",
         "reg_method": "In-house Element",
         "reg_link": "https://chat.cat.casa/",
-        "software": "Synapse",
-        "version": "1.75.0",
-        "recaptcha": false
-    },
-    {
-        "name": "catgirl.cloud",
-        "domain": "matrix.catgirl.cloud",
-        "info": "https://catgirl.cloud",
-        "jurisdiction": "Germany",
-        "tos": "https://catgirl.cloud/#rules",
-        "privacy": "https://catgirl.cloud/#privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://registration.matrix.catgirl.cloud/",
         "software": "Synapse",
         "version": "1.75.0",
         "recaptcha": false
@@ -544,22 +544,6 @@
         "recaptcha": false
     },
     {
-        "name": "glasgow.social",
-        "domain": "matrix.glasgow.social",
-        "info": "https://opensource.glasgow.social/matrix",
-        "jurisdiction": "UK",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional tech collective",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.glasgow.social/",
-        "software": "Synapse",
-        "version": "1.74.0",
-        "recaptcha": false
-    },
-    {
         "name": "grin.hu",
         "domain": "matrix.grin.hu",
         "info": "https://matrix.grin.hu/",
@@ -765,7 +749,7 @@
         "reg_link": "https://element.marmottel.com",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "matrix.im",
