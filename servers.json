@@ -32,22 +32,6 @@
         "recaptcha": false
     },
     {
-        "name": "anonymousland.org",
-        "domain": "matrix.anonymousland.org:443",
-        "info": "https://www.anonymousland.org/services#matrix",
-        "jurisdiction": "Iceland?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.anonymousland.org/",
-        "software": "Synapse",
-        "version": "1.75.0",
-        "recaptcha": false
-    },
-    {
         "name": "archoslinux.cz",
         "domain": "matrix.archoslinux.cz:443",
         "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
@@ -77,6 +61,22 @@
         "reg_link": "https://el.aria-net.org/",
         "software": "Archon",
         "version": "1.74.0",
+        "recaptcha": false
+    },
+    {
+        "name": "asozial.org",
+        "domain": "matrix.asozial.org:8448",
+        "info": "https://asozial.org",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; left-wing",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.asozial.org/",
+        "software": "Dendrite",
+        "version": "0.10.8+16eb9e4e.mailbox",
         "recaptcha": false
     },
     {
@@ -141,7 +141,7 @@
         "reg_link": "https://chat.cat.casa/",
         "software": "Synapse",
         "version": "1.75.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "catgirl.cloud",
@@ -301,7 +301,7 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.73.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "crossbach.de",
@@ -765,6 +765,22 @@
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
         "version": "1.75.0",
+        "recaptcha": false
+    },
+    {
+        "name": "monero.social",
+        "domain": "matrix.monero.social",
+        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
+        "jurisdiction": "US",
+        "tos": "https://www.getmonero.org/legal/",
+        "privacy": null,
+        "open": true,
+        "remarks": "18+; accessory; crypto",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.66.0",
         "recaptcha": false
     },
     {
