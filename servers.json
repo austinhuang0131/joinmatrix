@@ -32,6 +32,22 @@
         "recaptcha": false
     },
     {
+        "name": "anonymousland.org",
+        "domain": "matrix.anonymousland.org:443",
+        "info": "https://www.anonymousland.org/services#matrix",
+        "jurisdiction": "Iceland?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.anonymousland.org/",
+        "software": "Synapse",
+        "version": "1.75.0",
+        "recaptcha": false
+    },
+    {
         "name": "archoslinux.cz",
         "domain": "matrix.archoslinux.cz:443",
         "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
@@ -989,6 +1005,22 @@
         "reg_link": "https://chat.projectsegfau.lt/",
         "software": "Synapse",
         "version": "1.74.0",
+        "recaptcha": false
+    },
+    {
+        "name": "pub.solar",
+        "domain": "matrix.pub.solar",
+        "info": "https://pub.solar",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://pub.solar/privacy",
+        "open": true,
+        "remarks": "Tech collective",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
+        "software": "Synapse",
+        "version": "1.75.0",
         "recaptcha": false
     },
     {
