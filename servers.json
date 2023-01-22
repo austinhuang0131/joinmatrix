@@ -28,7 +28,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.4d2.org",
         "software": "Synapse",
-        "version": "1.72.0",
+        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -1069,22 +1069,6 @@
         "reg_link": "https://element.radiowarnerd.org/",
         "software": "Synapse",
         "version": "1.68.0",
-        "recaptcha": false
-    },
-    {
-        "name": "riotchat.de",
-        "domain": "riotchat.de",
-        "info": "https://riotchat.de/legal/help.html",
-        "jurisdiction": "Germany",
-        "tos": "https://riotchat.de/legal/terms.html",
-        "privacy": "https://riotchat.de/legal/privacy.html",
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://riotchat.de/register/form.php",
-        "software": "Synapse",
-        "version": "1.74.0",
         "recaptcha": false
     },
     {
