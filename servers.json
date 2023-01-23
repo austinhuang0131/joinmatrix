@@ -108,7 +108,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.asozial.org/",
         "software": "Dendrite",
-        "version": "0.10.8+16eb9e4e.mailbox",
+        "version": "0.11.0+9d52bed9.mailbox",
         "recaptcha": false
     },
     {
@@ -577,7 +577,7 @@
     },
     {
         "name": "glasgow.social",
-        "domain": "glasgow.social",
+        "domain": "matrix.glasgow.social",
         "info": "https://opensource.glasgow.social/matrix",
         "jurisdiction": "UK",
         "tos": null,
@@ -993,7 +993,7 @@
     },
     {
         "name": "plus.st",
-        "domain": "null",
+        "domain": "matrix.plus.st",
         "info": "https://plus.st/",
         "jurisdiction": "US",
         "tos": "https://plus.st/terms.html",
@@ -1004,8 +1004,8 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
-        "version": "1.74.0",
-        "recaptcha": true
+        "version": "1.75.0 (b=develop,22cc93afe)",
+        "recaptcha": false
     },
     {
         "name": "pragma-messenger.ch",
@@ -1280,22 +1280,6 @@
         "recaptcha": false
     },
     {
-        "name": "unredacted.org",
-        "domain": "matrix.unredacted.org",
-        "info": "https://unredacted.org/services/matrix/",
-        "jurisdiction": "US (Romania)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.unredacted.org/",
-        "software": "Synapse",
-        "version": "1.75.0",
-        "recaptcha": false
-    },
-    {
         "name": "utwente.io",
         "domain": "utwente.io",
         "info": "https://syscom.utwente.io/info/matrix/homeserver/",
@@ -1373,7 +1357,7 @@
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
         "version": "1.75.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "asra.gr",
