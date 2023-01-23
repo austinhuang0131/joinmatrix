@@ -332,7 +332,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -1004,7 +1004,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
-        "version": "1.75.0 (b=develop,22cc93afe)",
+        "version": "1.75.0 (b=HEAD,22cc93afe)",
         "recaptcha": false
     },
     {
@@ -1280,6 +1280,22 @@
         "recaptcha": false
     },
     {
+        "name": "unredacted.org",
+        "domain": "matrix.unredacted.org",
+        "info": "https://unredacted.org/services/matrix/",
+        "jurisdiction": "US (Romania)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.unredacted.org/",
+        "software": "Synapse",
+        "version": "1.75.0",
+        "recaptcha": false
+    },
+    {
         "name": "utwente.io",
         "domain": "utwente.io",
         "info": "https://syscom.utwente.io/info/matrix/homeserver/",
@@ -1357,7 +1373,7 @@
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
         "version": "1.75.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "asra.gr",
