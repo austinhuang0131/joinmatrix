@@ -64,22 +64,6 @@
         "recaptcha": false
     },
     {
-        "name": "archoslinux.cz",
-        "domain": "matrix.archoslinux.cz:443",
-        "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
-        "jurisdiction": "Czech Republic (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Czech; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.archoslinux.cz/",
-        "software": "Synapse",
-        "version": "1.75.0",
-        "recaptcha": false
-    },
-    {
         "name": "aria-net.org",
         "domain": "aria.im",
         "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
@@ -801,7 +785,7 @@
     },
     {
         "name": "marmottel.com",
-        "domain": "marmottel.com",
+        "domain": "matrix.marmottel.com",
         "info": "https://www.marmottel.com",
         "jurisdiction": "Canada",
         "tos": "https://www.marmottel.com/rulage.html",
@@ -829,22 +813,6 @@
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
         "version": "1.75.0",
-        "recaptcha": false
-    },
-    {
-        "name": "monero.social",
-        "domain": "matrix.monero.social",
-        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
-        "jurisdiction": "US",
-        "tos": "https://www.getmonero.org/legal/",
-        "privacy": null,
-        "open": true,
-        "remarks": "18+; accessory; crypto",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.66.0",
         "recaptcha": false
     },
     {
@@ -1040,6 +1008,22 @@
         "recaptcha": false
     },
     {
+        "name": "projectsegfau.lt",
+        "domain": "matrix.projectsegfau.lt:443",
+        "info": "https://projectsegfau.lt/instances",
+        "jurisdiction": "France/Luxembourg",
+        "tos": "https://projectsegfau.lt/legal/tos",
+        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.projectsegfau.lt/",
+        "software": "Synapse",
+        "version": "1.74.0",
+        "recaptcha": false
+    },
+    {
         "name": "pub.solar",
         "domain": "matrix.pub.solar",
         "info": "https://pub.solar",
@@ -1137,7 +1121,7 @@
     },
     {
         "name": "studichat.de",
-        "domain": "studichat.de",
+        "domain": "matrix.studichat.de",
         "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
         "jurisdiction": "Germany",
         "tos": null,
@@ -1149,7 +1133,7 @@
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
         "version": "1.72.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "synod.im",
