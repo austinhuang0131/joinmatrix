@@ -560,22 +560,6 @@
         "recaptcha": false
     },
     {
-        "name": "ggc-project.de",
-        "domain": "ggc-project.de",
-        "info": "https://www.ggc-project.de/en/index.html",
-        "jurisdiction": "Germany",
-        "tos": "https://www.ggc-project.de/en/terms.html",
-        "privacy": "https://www.ggc-project.de/datenschutz.html",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
-        "software": "Synapse",
-        "version": "1.74.0",
-        "recaptcha": false
-    },
-    {
         "name": "glasgow.social",
         "domain": "matrix.glasgow.social",
         "info": "https://opensource.glasgow.social/matrix",
@@ -811,6 +795,22 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.matrix.im/",
+        "software": "Synapse",
+        "version": "1.75.0",
+        "recaptcha": false
+    },
+    {
+        "name": "monero.social",
+        "domain": "matrix.monero.social",
+        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
+        "jurisdiction": "US",
+        "tos": "https://www.getmonero.org/legal/",
+        "privacy": null,
+        "open": true,
+        "remarks": "18+; accessory; crypto",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.75.0",
         "recaptcha": false
