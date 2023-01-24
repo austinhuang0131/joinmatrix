@@ -64,6 +64,22 @@
         "recaptcha": false
     },
     {
+        "name": "archaeo.social",
+        "domain": "matrix.archaeo.social",
+        "info": "https://archaeo.social",
+        "jurisdiction": "Denmark (Germany)",
+        "tos": "https://archaeo.social/about",
+        "privacy": null,
+        "open": true,
+        "remarks": "Archaeology-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.archaeo.social/",
+        "software": "Synapse",
+        "version": "1.71.0",
+        "recaptcha": false
+    },
+    {
         "name": "aria-net.org",
         "domain": "aria.im",
         "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
@@ -157,22 +173,6 @@
         "reg_link": "https://element.bolha.chat/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
-    },
-    {
-        "name": "breeze.town",
-        "domain": "breeze.town",
-        "info": "https://breeze.town/@breeze/108776240056543549",
-        "jurisdiction": "Germany",
-        "tos": "https://breeze.town/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.breeze.town/",
-        "software": "Synapse",
-        "version": "1.69.0",
         "recaptcha": false
     },
     {
@@ -301,22 +301,6 @@
         "reg_link": "https://riot.club1.fr/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
-    },
-    {
-        "name": "comm.cx",
-        "domain": "matrix-client.comm.cx",
-        "info": "https://comm.cx",
-        "jurisdiction": "Japan",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Uses Cloudflare",
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -749,7 +733,7 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "mandragot.org",
@@ -1261,7 +1245,7 @@
         "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "unredacted.org",
