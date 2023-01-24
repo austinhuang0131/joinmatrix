@@ -176,6 +176,22 @@
         "recaptcha": false
     },
     {
+        "name": "breeze.town",
+        "domain": "breeze.town",
+        "info": "https://breeze.town/@breeze/108776240056543549",
+        "jurisdiction": "Germany",
+        "tos": "https://breeze.town/about/more",
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.breeze.town/",
+        "software": "Synapse",
+        "version": "1.69.0",
+        "recaptcha": false
+    },
+    {
         "name": "cat.casa",
         "domain": "matrix.cat.casa",
         "info": "https://cat.casa/",
@@ -189,7 +205,7 @@
         "reg_link": "https://chat.cat.casa/",
         "software": "Synapse",
         "version": "1.75.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "catgirl.cloud",
@@ -555,6 +571,22 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.gemeinsam.jetzt/",
+        "software": "Synapse",
+        "version": "1.74.0",
+        "recaptcha": false
+    },
+    {
+        "name": "ggc-project.de",
+        "domain": "ggc-project.de",
+        "info": "https://www.ggc-project.de/en/index.html",
+        "jurisdiction": "Germany",
+        "tos": "https://www.ggc-project.de/en/terms.html",
+        "privacy": "https://www.ggc-project.de/datenschutz.html",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
         "version": "1.74.0",
         "recaptcha": false
