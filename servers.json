@@ -16,6 +16,22 @@
         "recaptcha": false
     },
     {
+        "name": "4d2.org",
+        "domain": "matrix.4d2.org",
+        "info": "https://4d2.org",
+        "jurisdiction": "Moldova",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.4d2.org",
+        "software": "Synapse",
+        "version": "1.75.0",
+        "recaptcha": false
+    },
+    {
         "name": "agdersam.no",
         "domain": "agdersam.no",
         "info": "https://agdersam.no/",
@@ -51,7 +67,7 @@
         "name": "archaeo.social",
         "domain": "matrix.archaeo.social",
         "info": "https://archaeo.social",
-        "jurisdiction": "Denmark (Germany)",
+        "jurisdiction": "Switzerland (Germany)",
         "tos": "https://archaeo.social/about",
         "privacy": null,
         "open": true,
@@ -434,7 +450,7 @@
     {
         "name": "exarius.org",
         "domain": "exarius.org",
-        "info": "https://exarius.org/wiki/services/exatrix/",
+        "info": "https://exarius.org/docs/services/exatrix/",
         "jurisdiction": "France",
         "tos": null,
         "privacy": null,
@@ -501,7 +517,7 @@
         "info": "https://frei.chat",
         "jurisdiction": "Germany",
         "tos": "https://frei.chat/termsofuse/",
-        "privacy": null,
+        "privacy": "https://frei.chat/privacypolicy/",
         "open": true,
         "remarks": "",
         "antifeature": null,
@@ -1166,22 +1182,6 @@
         "software": "Synapse",
         "version": "1.74.0",
         "recaptcha": false
-    },
-    {
-        "name": "studichat.de",
-        "domain": "matrix.studichat.de",
-        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.studichat.de/",
-        "software": "Synapse",
-        "version": "1.72.0",
-        "recaptcha": true
     },
     {
         "name": "synod.im",
