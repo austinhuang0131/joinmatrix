@@ -304,6 +304,22 @@
         "recaptcha": false
     },
     {
+        "name": "chrrreeeeesss.com",
+        "domain": "chrrreeeeesss.com",
+        "info": "https://chrrreeeeesss.com",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chrrreeeeesss.com/element",
+        "software": "Synapse",
+        "version": "1.75.0",
+        "recaptcha": false
+    },
+    {
         "name": "club1.fr",
         "domain": "club1.fr",
         "info": "https://club1.fr/matrix/",
@@ -445,7 +461,7 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "filik.eu",
@@ -609,7 +625,7 @@
     },
     {
         "name": "glasgow.social",
-        "domain": "glasgow.social",
+        "domain": "matrix.glasgow.social",
         "info": "https://opensource.glasgow.social/matrix",
         "jurisdiction": "UK",
         "tos": null,
@@ -1037,7 +1053,7 @@
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
         "version": "1.75.0 (b=HEAD,22cc93afe)",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "pragma-messenger.ch",
@@ -1181,7 +1197,7 @@
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
         "version": "1.72.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "synod.im",
