@@ -652,7 +652,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://riot.grin.hu/",
         "software": "Synapse",
-        "version": "1.71.0",
+        "version": "1.74.0",
         "recaptcha": false
     },
     {
@@ -1053,7 +1053,7 @@
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
         "version": "1.75.0 (b=HEAD,22cc93afe)",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "pragma-messenger.ch",
@@ -1197,7 +1197,7 @@
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
         "version": "1.72.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "synod.im",
