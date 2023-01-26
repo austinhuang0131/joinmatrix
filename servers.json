@@ -224,6 +224,22 @@
         "recaptcha": false
     },
     {
+        "name": "catgirl.cloud",
+        "domain": "matrix.catgirl.cloud",
+        "info": "https://catgirl.cloud",
+        "jurisdiction": "Germany",
+        "tos": "https://catgirl.cloud/#rules",
+        "privacy": "https://catgirl.cloud/#privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://registration.matrix.catgirl.cloud/",
+        "software": "Synapse",
+        "version": "1.75.0",
+        "recaptcha": false
+    },
+    {
         "name": "chagai.website",
         "domain": "mx.chagai.website",
         "info": "https://chagai.website",
@@ -524,7 +540,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.freiburg.social/",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -768,22 +784,6 @@
         "recaptcha": false
     },
     {
-        "name": "magdeburg.jetzt",
-        "domain": "chat.magdeburg.jetzt",
-        "info": "https://magdeburg.jetzt/",
-        "jurisdiction": "Germany",
-        "tos": "https://softwerke.md/nutzungsbestimmungen/",
-        "privacy": "https://softwerke.md/datenschutz/",
-        "open": true,
-        "remarks": "In German; regional tech collective",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.magdeburg.jetzt/",
-        "software": "Synapse",
-        "version": "1.72.0",
-        "recaptcha": false
-    },
-    {
         "name": "mailstation.de",
         "domain": "mailstation.de",
         "info": "https://turing.mailstation.de/?page_id=1375",
@@ -832,17 +832,17 @@
         "recaptcha": false
     },
     {
-        "name": "matrix.im",
-        "domain": "matrix.im",
-        "info": "https://matrix.im",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://www.matrix.im/datenschutz.html",
+        "name": "monero.social",
+        "domain": "matrix.monero.social",
+        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
+        "jurisdiction": "US",
+        "tos": "https://www.getmonero.org/legal/",
+        "privacy": null,
         "open": true,
-        "remarks": "In German",
+        "remarks": "18+; accessory; crypto",
         "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.matrix.im/",
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.75.0",
         "recaptcha": false
@@ -1150,6 +1150,22 @@
         "software": "Synapse",
         "version": "1.74.0",
         "recaptcha": false
+    },
+    {
+        "name": "studichat.de",
+        "domain": "matrix.studichat.de",
+        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; student-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.studichat.de/",
+        "software": "Synapse",
+        "version": "1.72.0",
+        "recaptcha": true
     },
     {
         "name": "synod.im",
