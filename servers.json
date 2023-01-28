@@ -208,6 +208,22 @@
         "recaptcha": false
     },
     {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/codeofconduct",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.75.0",
+        "recaptcha": false
+    },
+    {
         "name": "catgirl.cloud",
         "domain": "matrix.catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -1083,8 +1099,8 @@
         "antifeature": null,
         "reg_method": "SSO",
         "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
-        "software": "null",
-        "version": "null",
+        "software": "Synapse",
+        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -1347,7 +1363,7 @@
         "name": "vern.cc",
         "domain": "mtrx.vern.cc",
         "info": "https://vern.cc/",
-        "jurisdiction": "US/India? (US/Canada)",
+        "jurisdiction": "US",
         "tos": "https://vern.cc/rules",
         "privacy": "https://vern.cc/privpol",
         "open": true,
