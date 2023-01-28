@@ -476,7 +476,7 @@
         "reg_method": "SSO",
         "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -653,22 +653,6 @@
         "reg_link": "https://riot.grin.hu/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
-    },
-    {
-        "name": "group.lt",
-        "domain": "group.lt",
-        "info": "https://group.lt",
-        "jurisdiction": "Lithuania?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Uses Cloudflare",
-        "reg_method": "In-house Cinny",
-        "reg_link": "https://chat.group.lt/",
-        "software": "Synapse",
-        "version": "1.73.0",
         "recaptcha": false
     },
     {
@@ -1037,22 +1021,6 @@
         "reg_link": "https://client.perthchat.org/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
-    },
-    {
-        "name": "plus.st",
-        "domain": "matrix.plus.st",
-        "info": "https://plus.st/",
-        "jurisdiction": "US",
-        "tos": "https://plus.st/terms.html",
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.plus.st/",
-        "software": "Synapse",
-        "version": "1.75.0 (b=HEAD,22cc93afe)",
         "recaptcha": false
     },
     {
