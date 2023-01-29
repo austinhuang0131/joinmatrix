@@ -48,6 +48,22 @@
         "recaptcha": false
     },
     {
+        "name": "anonymousland.org",
+        "domain": "matrix.anonymousland.org:443",
+        "info": "https://www.anonymousland.org/services#matrix",
+        "jurisdiction": "Iceland?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.anonymousland.org/",
+        "software": "Synapse",
+        "version": "1.75.0",
+        "recaptcha": false
+    },
+    {
         "name": "archaeo.social",
         "domain": "matrix.archaeo.social",
         "info": "https://archaeo.social",
@@ -113,7 +129,7 @@
     },
     {
         "name": "bachgau.social",
-        "domain": "matrix.bachgau.social",
+        "domain": "bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
         "jurisdiction": "Germany",
         "tos": "https://mastodon.bachgau.social/about",
@@ -125,7 +141,7 @@
         "reg_link": "https://element.bachgau.social/",
         "software": "Synapse",
         "version": "1.75.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "badstuebner.biz",
@@ -189,22 +205,6 @@
         "reg_link": "https://chat.breeze.town/",
         "software": "Synapse",
         "version": "1.69.0",
-        "recaptcha": false
-    },
-    {
-        "name": "cat.casa",
-        "domain": "matrix.cat.casa",
-        "info": "https://cat.casa/",
-        "jurisdiction": "Germany",
-        "tos": "https://cat.casa/codeofconduct",
-        "privacy": "https://cat.casa/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.cat.casa/",
-        "software": "Synapse",
-        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -400,6 +400,22 @@
         "recaptcha": false
     },
     {
+        "name": "dieandalusier.net",
+        "domain": "matrix.dieandalusier.net",
+        "info": "https://www.twitch.tv/dieandalusier/about",
+        "jurisdiction": "Germany/Spain",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.dieandalusier.net",
+        "software": "Synapse",
+        "version": "1.70.1",
+        "recaptcha": false
+    },
+    {
         "name": "duesen.chat",
         "domain": "matrix.duesen.chat",
         "info": "https://yatrix.org",
@@ -499,7 +515,7 @@
         "name": "frei.chat",
         "domain": "matrix.frei.chat",
         "info": "https://frei.chat",
-        "jurisdiction": "Germany",
+        "jurisdiction": "Germany (Finland)",
         "tos": "https://frei.chat/termsofuse/",
         "privacy": "https://frei.chat/privacypolicy/",
         "open": true,
@@ -781,7 +797,7 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "mandragot.org",
@@ -1149,6 +1165,22 @@
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
         "version": "1.74.0",
+        "recaptcha": false
+    },
+    {
+        "name": "studichat.de",
+        "domain": "matrix.studichat.de",
+        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; student-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.studichat.de/",
+        "software": "Synapse",
+        "version": "1.72.0",
         "recaptcha": false
     },
     {
