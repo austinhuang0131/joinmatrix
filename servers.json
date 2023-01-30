@@ -413,7 +413,7 @@
         "reg_link": "https://chat.data.haus/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "dieandalusier.net",
@@ -477,7 +477,7 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "filik.eu",
@@ -672,6 +672,22 @@
         "recaptcha": false
     },
     {
+        "name": "hashi.sbs",
+        "domain": "chatserver.hashi.sbs",
+        "info": "https://hashi.sbs",
+        "jurisdiction": "? (Germany)",
+        "tos": "https://hashi.icu/@MomentQYC/pages/tos",
+        "privacy": null,
+        "open": true,
+        "remarks": "In Chinese",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://hashi.sbs",
+        "software": "Synapse",
+        "version": "1.75.0",
+        "recaptcha": false
+    },
+    {
         "name": "hot-chilli.im",
         "domain": "hot-chilli.im",
         "info": "https://jabber.hot-chilli.net/2022/04/26/hot-chilli-matrix-server/",
@@ -843,6 +859,22 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.matrix.im/",
+        "software": "Synapse",
+        "version": "1.75.0",
+        "recaptcha": false
+    },
+    {
+        "name": "monero.social",
+        "domain": "matrix.monero.social",
+        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
+        "jurisdiction": "US",
+        "tos": "https://www.getmonero.org/legal/",
+        "privacy": null,
+        "open": true,
+        "remarks": "18+; accessory; crypto",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
         "software": "Synapse",
         "version": "1.75.0",
         "recaptcha": false
@@ -1116,7 +1148,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.sfunk1x.com/",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -1533,22 +1565,6 @@
         "reg_link": "https://data.coop/medlem/",
         "software": "Synapse",
         "version": "1.63.1",
-        "recaptcha": false
-    },
-    {
-        "name": "fsfe.org",
-        "domain": "matrix.fsfe.org",
-        "info": "https://fsfe.org/news/2022/news-20220202-01.html",
-        "jurisdiction": "Germany",
-        "tos": "https://fsfe.org/about/codeofconduct",
-        "privacy": "https://fsfe.org/about/legal/imprint.en.html#id-privacy-policy",
-        "open": false,
-        "remarks": "Accessory; advocacy",
-        "antifeature": null,
-        "reg_method": "Membership",
-        "reg_link": "https://my.fsfe.org/donate",
-        "software": "Synapse",
-        "version": "1.75.0",
         "recaptcha": false
     },
     {
