@@ -60,7 +60,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.anonymousland.org/",
         "software": "Synapse",
-        "version": "1.75.0",
+        "version": "1.76.0",
         "recaptcha": false
     },
     {
@@ -92,22 +92,6 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
-        "version": "1.75.0",
-        "recaptcha": false
-    },
-    {
-        "name": "aria-net.org",
-        "domain": "aria.im",
-        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
-        "jurisdiction": "Italy?",
-        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://el.aria-net.org/",
-        "software": "Archon",
         "version": "1.75.0",
         "recaptcha": false
     },
@@ -220,7 +204,7 @@
         "reg_method": "Form",
         "reg_link": "https://registration.matrix.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.75.0",
+        "version": "1.76.0",
         "recaptcha": false
     },
     {
@@ -300,7 +284,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
-        "version": "1.75.0",
+        "version": "1.76.0",
         "recaptcha": false
     },
     {
@@ -317,22 +301,6 @@
         "reg_link": "https://riot.club1.fr/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
-    },
-    {
-        "name": "comm.cx",
-        "domain": "matrix-client.comm.cx",
-        "info": "https://comm.cx",
-        "jurisdiction": "Japan",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Uses Cloudflare",
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -444,7 +412,23 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.76.0rc2",
+        "version": "1.76.0",
+        "recaptcha": false
+    },
+    {
+        "name": "exarius.org",
+        "domain": "exarius.org",
+        "info": "https://exarius.org/docs/services/exatrix/",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.71.0",
         "recaptcha": false
     },
     {
@@ -688,22 +672,6 @@
         "recaptcha": false
     },
     {
-        "name": "houtworm.im",
-        "domain": "houtworm.im",
-        "info": "https://houtworm.im",
-        "jurisdiction": "Netherlands",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://houtworm.im/",
-        "software": "Synapse",
-        "version": "1.75.0",
-        "recaptcha": false
-    },
-    {
         "name": "jonasled.de",
         "domain": "matrix.jonasled.de",
         "info": "https://jonasled.de",
@@ -924,7 +892,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
-        "version": "1.75.0",
+        "version": "1.76.0",
         "recaptcha": false
     },
     {
@@ -1166,6 +1134,22 @@
         "software": "Synapse",
         "version": "1.74.0",
         "recaptcha": false
+    },
+    {
+        "name": "studichat.de",
+        "domain": "matrix.studichat.de",
+        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; student-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.studichat.de/",
+        "software": "Synapse",
+        "version": "1.72.0",
+        "recaptcha": true
     },
     {
         "name": "synod.im",
