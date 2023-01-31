@@ -464,22 +464,6 @@
         "recaptcha": false
     },
     {
-        "name": "exarius.org",
-        "domain": "exarius.org",
-        "info": "https://exarius.org/docs/services/exatrix/",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.71.0",
-        "recaptcha": false
-    },
-    {
         "name": "filik.eu",
         "domain": "chat.filik.eu:443",
         "info": "https://filik.eu",
@@ -1565,6 +1549,22 @@
         "reg_link": "https://data.coop/medlem/",
         "software": "Synapse",
         "version": "1.63.1",
+        "recaptcha": false
+    },
+    {
+        "name": "fsfe.org",
+        "domain": "matrix.fsfe.org",
+        "info": "https://fsfe.org/news/2022/news-20220202-01.html",
+        "jurisdiction": "Germany",
+        "tos": "https://fsfe.org/about/codeofconduct",
+        "privacy": "https://fsfe.org/about/legal/imprint.en.html#id-privacy-policy",
+        "open": false,
+        "remarks": "Accessory; advocacy",
+        "antifeature": null,
+        "reg_method": "Membership",
+        "reg_link": "https://my.fsfe.org/donate",
+        "software": "Synapse",
+        "version": "1.75.0",
         "recaptcha": false
     },
     {
