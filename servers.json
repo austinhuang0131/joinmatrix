@@ -205,7 +205,7 @@
         "reg_link": "https://chat.cat.casa/",
         "software": "Synapse",
         "version": "1.75.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "catgirl.cloud",
@@ -924,7 +924,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
-        "version": "1.75.0",
+        "version": "1.76.0",
         "recaptcha": false
     },
     {
@@ -1088,6 +1088,22 @@
         "recaptcha": false
     },
     {
+        "name": "pub.solar",
+        "domain": "matrix.pub.solar",
+        "info": "https://pub.solar",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://pub.solar/privacy",
+        "open": true,
+        "remarks": "Tech collective",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
+        "software": "Synapse",
+        "version": "1.75.0",
+        "recaptcha": false
+    },
+    {
         "name": "radiowarnerd.org",
         "domain": "radiowarnerd.org",
         "info": "https://dokuwiki.radiowarnerd.org/matrixaccountcreation",
@@ -1164,7 +1180,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
-        "version": "1.72.0",
+        "version": "1.76.0",
         "recaptcha": false
     },
     {
@@ -1228,7 +1244,7 @@
         "reg_method": "SSO",
         "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
-        "version": "1.75.0",
+        "version": "1.76.0",
         "recaptcha": false
     },
     {
@@ -1548,7 +1564,7 @@
         "reg_method": "Membership",
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
-        "version": "1.75.0",
+        "version": "1.76.0",
         "recaptcha": false
     },
     {
