@@ -304,6 +304,22 @@
         "recaptcha": false
     },
     {
+        "name": "chrrreeeeesss.com",
+        "domain": "chrrreeeeesss.com",
+        "info": "https://chrrreeeeesss.com",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chrrreeeeesss.com/element",
+        "software": "Synapse",
+        "version": "1.76.0",
+        "recaptcha": false
+    },
+    {
         "name": "club1.fr",
         "domain": "club1.fr",
         "info": "https://club1.fr/matrix/",
@@ -813,7 +829,7 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "mandragot.org",
@@ -957,7 +973,7 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "norge.chat",
