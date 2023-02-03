@@ -112,6 +112,22 @@
         "recaptcha": false
     },
     {
+        "name": "asozial.org",
+        "domain": "matrix.asozial.org:8448",
+        "info": "https://asozial.org",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; left-wing",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.asozial.org/",
+        "software": "Dendrite",
+        "version": "0.11.0+9d52bed9.mailbox",
+        "recaptcha": false
+    },
+    {
         "name": "bachgau.social",
         "domain": "matrix.bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
@@ -189,22 +205,6 @@
         "reg_link": "https://chat.breeze.town/",
         "software": "Synapse",
         "version": "1.69.0",
-        "recaptcha": false
-    },
-    {
-        "name": "cat.casa",
-        "domain": "matrix.cat.casa",
-        "info": "https://cat.casa/",
-        "jurisdiction": "Germany",
-        "tos": "https://cat.casa/codeofconduct",
-        "privacy": "https://cat.casa/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.cat.casa/",
-        "software": "Synapse",
-        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -668,7 +668,7 @@
         "reg_method": "In-house Cinny",
         "reg_link": "https://chat.group.lt/",
         "software": "Synapse",
-        "version": "1.75.0",
+        "version": "1.76.0",
         "recaptcha": false
     },
     {
@@ -861,7 +861,7 @@
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
         "version": "1.75.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "monero.social",
@@ -907,22 +907,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.nibbana.jp/",
-        "software": "Synapse",
-        "version": "1.75.0",
-        "recaptcha": false
-    },
-    {
-        "name": "nitro.chat",
-        "domain": "nitro.chat",
-        "info": "https://nitro.chat",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://www.nitrokey.com/data-privacy-policy",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
         "version": "1.76.0",
         "recaptcha": false
@@ -1085,7 +1069,7 @@
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "projectsegfau.lt",
