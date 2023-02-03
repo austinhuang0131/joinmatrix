@@ -973,7 +973,7 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "norge.chat",
