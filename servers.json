@@ -112,22 +112,6 @@
         "recaptcha": false
     },
     {
-        "name": "asozial.org",
-        "domain": "matrix.asozial.org:8448",
-        "info": "https://asozial.org",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; left-wing",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.asozial.org/",
-        "software": "Dendrite",
-        "version": "0.11.0+9d52bed9.mailbox",
-        "recaptcha": false
-    },
-    {
         "name": "bachgau.social",
         "domain": "matrix.bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
@@ -828,7 +812,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.76.0",
         "recaptcha": false
     },
     {
@@ -1104,22 +1088,6 @@
         "recaptcha": false
     },
     {
-        "name": "pub.solar",
-        "domain": "matrix.pub.solar",
-        "info": "https://pub.solar",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://pub.solar/privacy",
-        "open": true,
-        "remarks": "Tech collective",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
-        "software": "Synapse",
-        "version": "1.75.0",
-        "recaptcha": false
-    },
-    {
         "name": "radiowarnerd.org",
         "domain": "radiowarnerd.org",
         "info": "https://dokuwiki.radiowarnerd.org/matrixaccountcreation",
@@ -1325,7 +1293,7 @@
         "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "unredacted.org",
@@ -1484,7 +1452,7 @@
         "reg_method": "SSO",
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.76.0",
         "recaptcha": false
     },
     {
