@@ -1,21 +1,5 @@
 [
     {
-        "name": "0wnz.at",
-        "domain": "0wnz.at",
-        "info": "https://0wnz.at",
-        "jurisdiction": "Austria",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://im.0wnz.at/element-web/",
-        "software": "Synapse",
-        "version": "1.75.0",
-        "recaptcha": false
-    },
-    {
         "name": "4d2.org",
         "domain": "matrix.4d2.org",
         "info": "https://4d2.org",
@@ -189,22 +173,6 @@
         "reg_link": "https://chat.breeze.town/",
         "software": "Synapse",
         "version": "1.69.0",
-        "recaptcha": false
-    },
-    {
-        "name": "cat.casa",
-        "domain": "matrix.cat.casa",
-        "info": "https://cat.casa/",
-        "jurisdiction": "Germany",
-        "tos": "https://cat.casa/codeofconduct",
-        "privacy": "https://cat.casa/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.cat.casa/",
-        "software": "Synapse",
-        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -461,7 +429,7 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "filik.eu",
@@ -652,7 +620,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.gnulinux.club/",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.76.0",
         "recaptcha": false
     },
     {
@@ -876,23 +844,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
-        "version": "1.75.0",
-        "recaptcha": false
-    },
-    {
-        "name": "monero.social",
-        "domain": "matrix.monero.social",
-        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
-        "jurisdiction": "US",
-        "tos": "https://www.getmonero.org/legal/",
-        "privacy": null,
-        "open": true,
-        "remarks": "18+; accessory; crypto",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.75.0",
+        "version": "1.76.0",
         "recaptcha": false
     },
     {
@@ -1101,7 +1053,7 @@
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "projectsegfau.lt",
@@ -1165,6 +1117,22 @@
         "reg_link": "https://riotchat.de/register/form.php",
         "software": "Synapse",
         "version": "1.74.0",
+        "recaptcha": false
+    },
+    {
+        "name": "sfunk1x.com",
+        "domain": "matrix.sfunk1x.com",
+        "info": "https://sfunk1x.com",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.sfunk1x.com/",
+        "software": "Synapse",
+        "version": "1.76.0",
         "recaptcha": false
     },
     {
