@@ -48,6 +48,22 @@
         "recaptcha": false
     },
     {
+        "name": "anonymousland.org",
+        "domain": "matrix.anonymousland.org:443",
+        "info": "https://www.anonymousland.org/services#matrix",
+        "jurisdiction": "Iceland?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.anonymousland.org/",
+        "software": "Synapse",
+        "version": "1.76.0",
+        "recaptcha": false
+    },
+    {
         "name": "archaeo.social",
         "domain": "matrix.archaeo.social",
         "info": "https://archaeo.social",
@@ -93,6 +109,22 @@
         "reg_link": "https://el.aria-net.org/",
         "software": "Archon",
         "version": "1.75.0",
+        "recaptcha": false
+    },
+    {
+        "name": "asozial.org",
+        "domain": "matrix.asozial.org:8448",
+        "info": "https://asozial.org",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; left-wing",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.asozial.org/",
+        "software": "Dendrite",
+        "version": "0.11.0+cf254ba0",
         "recaptcha": false
     },
     {
@@ -480,22 +512,6 @@
         "recaptcha": false
     },
     {
-        "name": "foss.wtf",
-        "domain": "matrix.foss.wtf",
-        "info": "https://foss.wtf/#matrix",
-        "jurisdiction": "Germany",
-        "tos": "https://foss.wtf/#matrix-tos",
-        "privacy": "https://foss.wtf/#privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.foss.wtf/",
-        "software": "Synapse",
-        "version": "1.76.0",
-        "recaptcha": false
-    },
-    {
         "name": "frei.chat",
         "domain": "matrix.frei.chat",
         "info": "https://frei.chat",
@@ -813,7 +829,7 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "mandragot.org",
@@ -861,6 +877,22 @@
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
         "version": "1.76.0",
+        "recaptcha": false
+    },
+    {
+        "name": "monero.social",
+        "domain": "matrix.monero.social",
+        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
+        "jurisdiction": "US",
+        "tos": "https://www.getmonero.org/legal/",
+        "privacy": null,
+        "open": true,
+        "remarks": "18+; accessory; crypto",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -1040,22 +1072,6 @@
         "recaptcha": false
     },
     {
-        "name": "plus.st",
-        "domain": "matrix.plus.st",
-        "info": "https://plus.st/",
-        "jurisdiction": "US",
-        "tos": "https://plus.st/terms.html",
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.plus.st/",
-        "software": "Synapse",
-        "version": "1.76.0rc2 (b=HEAD,2a51f3ec3)",
-        "recaptcha": false
-    },
-    {
         "name": "pragma-messenger.ch",
         "domain": "pragma-messenger.ch",
         "info": "https://pragma-solution.com/de/Produkte/messenger/",
@@ -1069,6 +1085,22 @@
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
         "version": "1.76.0",
+        "recaptcha": false
+    },
+    {
+        "name": "projectsegfau.lt",
+        "domain": "matrix.projectsegfau.lt:443",
+        "info": "https://projectsegfau.lt/instances",
+        "jurisdiction": "France/Luxembourg",
+        "tos": "https://projectsegfau.lt/legal/tos",
+        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.projectsegfau.lt/",
+        "software": "Synapse",
+        "version": "1.74.0",
         "recaptcha": false
     },
     {
