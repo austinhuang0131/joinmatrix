@@ -80,19 +80,19 @@
         "recaptcha": false
     },
     {
-        "name": "asozial.org",
-        "domain": "matrix.asozial.org:8448",
-        "info": "https://asozial.org",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
+        "name": "aria-net.org",
+        "domain": "aria.im",
+        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
+        "jurisdiction": "Italy?",
+        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
         "open": true,
-        "remarks": "In German; left-wing",
+        "remarks": "",
         "antifeature": null,
         "reg_method": "In-house Element",
-        "reg_link": "https://chat.asozial.org/",
-        "software": "Dendrite",
-        "version": "0.11.0+9d52bed9.mailbox",
+        "reg_link": "https://el.aria-net.org/",
+        "software": "Archon",
+        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -176,6 +176,22 @@
         "recaptcha": false
     },
     {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/codeofconduct",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.75.0",
+        "recaptcha": false
+    },
+    {
         "name": "catgirl.cloud",
         "domain": "matrix.catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -221,6 +237,22 @@
         "reg_link": "https://talk.chatcloud.net/",
         "software": "Synapse",
         "version": "1.73.0",
+        "recaptcha": false
+    },
+    {
+        "name": "chatinamatrix.xyz",
+        "domain": "matrix.chatinamatrix.xyz",
+        "info": "https://arrayinamatrix.xyz/index/apps/matrix/",
+        "jurisdiction": "Canada",
+        "tos": "https://arrayinamatrix.xyz/index/apps/matrix/#rules",
+        "privacy": "https://arrayinamatrix.xyz/index/apps/privacy/#matrix",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.chatinamatrix.xyz/",
+        "software": "Dendrite",
+        "version": "0.11.0+430932f",
         "recaptcha": false
     },
     {
@@ -796,7 +828,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.73.0",
+        "version": "1.76.0",
         "recaptcha": false
     },
     {
@@ -829,22 +861,6 @@
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": false
-    },
-    {
-        "name": "monero.social",
-        "domain": "matrix.monero.social",
-        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
-        "jurisdiction": "US",
-        "tos": "https://www.getmonero.org/legal/",
-        "privacy": null,
-        "open": true,
-        "remarks": "18+; accessory; crypto",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -1056,22 +1072,6 @@
         "recaptcha": false
     },
     {
-        "name": "projectsegfau.lt",
-        "domain": "matrix.projectsegfau.lt:443",
-        "info": "https://projectsegfau.lt/instances",
-        "jurisdiction": "France/Luxembourg",
-        "tos": "https://projectsegfau.lt/legal/tos",
-        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.projectsegfau.lt/",
-        "software": "Synapse",
-        "version": "1.74.0",
-        "recaptcha": false
-    },
-    {
         "name": "pub.solar",
         "domain": "matrix.pub.solar",
         "info": "https://pub.solar",
@@ -1243,22 +1243,6 @@
         "antifeature": null,
         "reg_method": "SSO",
         "reg_link": "https://tedomum.net/documentation/general/account/",
-        "software": "Synapse",
-        "version": "1.76.0",
-        "recaptcha": false
-    },
-    {
-        "name": "the-apothecary.club",
-        "domain": "the-apothecary.club",
-        "info": "https://the-apothecary.club",
-        "jurisdiction": "Germany?",
-        "tos": "https://the-apothecary.club/rules/",
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://the-apothecary.club/",
         "software": "Synapse",
         "version": "1.76.0",
         "recaptcha": false
