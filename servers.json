@@ -1,5 +1,21 @@
 [
     {
+        "name": "0wnz.at",
+        "domain": "0wnz.at",
+        "info": "https://0wnz.at",
+        "jurisdiction": "Austria",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://im.0wnz.at/element-web/",
+        "software": "Synapse",
+        "version": "1.75.0",
+        "recaptcha": false
+    },
+    {
         "name": "4d2.org",
         "domain": "matrix.4d2.org",
         "info": "https://4d2.org",
@@ -29,22 +45,6 @@
         "reg_link": "https://element.agdersam.no/",
         "software": "Synapse",
         "version": "1.75.0",
-        "recaptcha": false
-    },
-    {
-        "name": "anonymousland.org",
-        "domain": "matrix.anonymousland.org:443",
-        "info": "https://www.anonymousland.org/services#matrix",
-        "jurisdiction": "Iceland?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.anonymousland.org/",
-        "software": "Synapse",
-        "version": "1.76.0",
         "recaptcha": false
     },
     {
@@ -221,22 +221,6 @@
         "reg_link": "https://talk.chatcloud.net/",
         "software": "Synapse",
         "version": "1.73.0",
-        "recaptcha": false
-    },
-    {
-        "name": "chatinamatrix.xyz",
-        "domain": "matrix.chatinamatrix.xyz",
-        "info": "https://arrayinamatrix.xyz/index/apps/matrix/",
-        "jurisdiction": "Canada",
-        "tos": "https://arrayinamatrix.xyz/index/apps/matrix/#rules",
-        "privacy": "https://arrayinamatrix.xyz/index/apps/privacy/#matrix",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.chatinamatrix.xyz/",
-        "software": "Dendrite",
-        "version": "0.11.0+430932f",
         "recaptcha": false
     },
     {
@@ -848,6 +832,22 @@
         "recaptcha": false
     },
     {
+        "name": "monero.social",
+        "domain": "matrix.monero.social",
+        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
+        "jurisdiction": "US",
+        "tos": "https://www.getmonero.org/legal/",
+        "privacy": null,
+        "open": true,
+        "remarks": "18+; accessory; crypto",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.75.0",
+        "recaptcha": false
+    },
+    {
         "name": "mtrx.nz",
         "domain": "mtrx.nz",
         "info": "https://mtrx.nz",
@@ -1053,7 +1053,7 @@
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "projectsegfau.lt",
