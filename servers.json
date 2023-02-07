@@ -512,6 +512,22 @@
         "recaptcha": false
     },
     {
+        "name": "foss.wtf",
+        "domain": "matrix.foss.wtf",
+        "info": "https://foss.wtf/#matrix",
+        "jurisdiction": "Germany",
+        "tos": "https://foss.wtf/#matrix-tos",
+        "privacy": "https://foss.wtf/#privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.foss.wtf/",
+        "software": "Synapse",
+        "version": "1.76.0",
+        "recaptcha": false
+    },
+    {
         "name": "frei.chat",
         "domain": "matrix.frei.chat",
         "info": "https://frei.chat",
@@ -829,7 +845,7 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "mandragot.org",
@@ -1072,6 +1088,22 @@
         "recaptcha": false
     },
     {
+        "name": "plus.st",
+        "domain": "matrix.plus.st",
+        "info": "https://plus.st/",
+        "jurisdiction": "US",
+        "tos": "https://plus.st/terms.html",
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.plus.st/",
+        "software": "Synapse",
+        "version": "1.76.0 (b=develop,d0fed7a37)",
+        "recaptcha": false
+    },
+    {
         "name": "pragma-messenger.ch",
         "domain": "pragma-messenger.ch",
         "info": "https://pragma-solution.com/de/Produkte/messenger/",
@@ -1149,22 +1181,6 @@
         "reg_link": "https://riotchat.de/register/form.php",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
-    },
-    {
-        "name": "sfunk1x.com",
-        "domain": "matrix.sfunk1x.com",
-        "info": "https://sfunk1x.com",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.sfunk1x.com/",
-        "software": "Synapse",
-        "version": "1.76.0",
         "recaptcha": false
     },
     {
