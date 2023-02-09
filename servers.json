@@ -1168,22 +1168,6 @@
         "recaptcha": false
     },
     {
-        "name": "sfunk1x.com",
-        "domain": "matrix.sfunk1x.com",
-        "info": "https://sfunk1x.com",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.sfunk1x.com/",
-        "software": "Synapse",
-        "version": "1.76.0",
-        "recaptcha": false
-    },
-    {
         "name": "sibnsk.net",
         "domain": "matrix.sibnsk.net",
         "info": "https://lugnsk.org/page/blog/matrix",
@@ -1629,22 +1613,6 @@
         "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": false
-    },
-    {
-        "name": "sans-nuage.fr",
-        "domain": "matrix.sans-nuage.fr",
-        "info": "https://sans-nuage.fr",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": false,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "Membership",
-        "reg_link": "https://adherents.arn-fai.net/members/register/",
-        "software": "Synapse",
-        "version": "1.74.0",
         "recaptcha": false
     }
 ]
