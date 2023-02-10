@@ -16,22 +16,6 @@
         "recaptcha": false
     },
     {
-        "name": "4d2.org",
-        "domain": "matrix.4d2.org",
-        "info": "https://4d2.org",
-        "jurisdiction": "Moldova",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.4d2.org",
-        "software": "Synapse",
-        "version": "1.75.0",
-        "recaptcha": false
-    },
-    {
         "name": "agdersam.no",
         "domain": "agdersam.no",
         "info": "https://agdersam.no/",
@@ -205,22 +189,6 @@
         "reg_link": "https://chat.breeze.town/",
         "software": "Synapse",
         "version": "1.69.0",
-        "recaptcha": false
-    },
-    {
-        "name": "cat.casa",
-        "domain": "matrix.cat.casa",
-        "info": "https://cat.casa/",
-        "jurisdiction": "Germany",
-        "tos": "https://cat.casa/codeofconduct",
-        "privacy": "https://cat.casa/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.cat.casa/",
-        "software": "Synapse",
-        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -817,7 +785,7 @@
     },
     {
         "name": "magdeburg.jetzt",
-        "domain": "magdeburg.jetzt",
+        "domain": "chat.magdeburg.jetzt",
         "info": "https://magdeburg.jetzt/",
         "jurisdiction": "Germany",
         "tos": "https://softwerke.md/nutzungsbestimmungen/",
@@ -829,7 +797,7 @@
         "reg_link": "https://account.magdeburg.jetzt/",
         "software": "Synapse",
         "version": "1.75.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "mailstation.de",
