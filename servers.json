@@ -464,6 +464,22 @@
         "recaptcha": false
     },
     {
+        "name": "exarius.org",
+        "domain": "exarius.org",
+        "info": "https://exarius.org/docs/services/exatrix/",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.71.0",
+        "recaptcha": false
+    },
+    {
         "name": "filik.eu",
         "domain": "chat.filik.eu:443",
         "info": "https://filik.eu",
@@ -801,7 +817,7 @@
     },
     {
         "name": "magdeburg.jetzt",
-        "domain": "chat.magdeburg.jetzt",
+        "domain": "magdeburg.jetzt",
         "info": "https://magdeburg.jetzt/",
         "jurisdiction": "Germany",
         "tos": "https://softwerke.md/nutzungsbestimmungen/",
@@ -813,7 +829,7 @@
         "reg_link": "https://account.magdeburg.jetzt/",
         "software": "Synapse",
         "version": "1.75.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "mailstation.de",
@@ -1069,6 +1085,22 @@
         "reg_link": "https://client.perthchat.org/",
         "software": "Synapse",
         "version": "1.74.0",
+        "recaptcha": false
+    },
+    {
+        "name": "plus.st",
+        "domain": "matrix.plus.st",
+        "info": "https://plus.st/",
+        "jurisdiction": "US",
+        "tos": "https://plus.st/terms.html",
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.plus.st/",
+        "software": "Synapse",
+        "version": "1.76.0 (b=develop,d0fed7a37)",
         "recaptcha": false
     },
     {
