@@ -16,22 +16,6 @@
         "recaptcha": false
     },
     {
-        "name": "4d2.org",
-        "domain": "matrix.4d2.org",
-        "info": "https://4d2.org",
-        "jurisdiction": "Moldova",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.4d2.org",
-        "software": "Synapse",
-        "version": "1.76.0",
-        "recaptcha": false
-    },
-    {
         "name": "agdersam.no",
         "domain": "agdersam.no",
         "info": "https://agdersam.no/",
@@ -93,6 +77,22 @@
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
         "version": "1.76.0",
+        "recaptcha": false
+    },
+    {
+        "name": "aria-net.org",
+        "domain": "aria.im",
+        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
+        "jurisdiction": "Italy?",
+        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://el.aria-net.org/",
+        "software": "Archon",
+        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -539,8 +539,8 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.frei.chat/",
-        "software": "null",
-        "version": "null",
+        "software": "Synapse",
+        "version": "1.76.0",
         "recaptcha": false
     },
     {
@@ -588,7 +588,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.fulda.social/",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.76.0",
         "recaptcha": false
     },
     {
@@ -1180,7 +1180,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.sibnsk.net",
         "software": "Synapse",
-        "version": "1.75.0",
+        "version": "1.76.0",
         "recaptcha": false
     },
     {
@@ -1517,22 +1517,6 @@
         "reg_link": "https://www.bytes4u.de/index.php?action=register",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": false
-    },
-    {
-        "name": "deuxfleurs.fr",
-        "domain": "im.deuxfleurs.fr",
-        "info": "https://deuxfleurs.fr",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": false,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://deuxfleurs.fr/",
-        "software": "Synapse",
-        "version": "1.70.0",
         "recaptcha": false
     },
     {
