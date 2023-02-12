@@ -1101,7 +1101,7 @@
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
         "version": "1.76.0 (b=develop,d0fed7a37)",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "pragma-messenger.ch",
@@ -1132,7 +1132,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.projectsegfau.lt/",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.76.0",
         "recaptcha": false
     },
     {
