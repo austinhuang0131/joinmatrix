@@ -22,7 +22,7 @@ do
                 body=$(curl -Ls -m 10 "https://$SRV_DOMAIN/_matrix/federation/v1/version" -A "https://joinmatrix.org/servers")
                 test=$(echo $body | jq .server)
                 reg=$(curl -Ls -m 10 -X POST -H "accept: application/json" -H "Content-Type: application/json" "https://$SRV_DOMAIN/_matrix/client/r0/register" -A "https://joinmatrix.org/servers" -d '{}')
-                if [[ -z "$test" ]] && [[ -n "$SRV_PORT" ]]; then
+                if [[ -n "$SRV_PORT" ]] && [[ -z "$test" ]] || [[ "$test" == "null" ]]; then
                     body=$(curl -Ls -m 10 "https://$SRV_DOMAIN:$SRV_PORT/_matrix/federation/v1/version" -A "https://joinmatrix.org/servers")
                 fi
             else
@@ -30,7 +30,7 @@ do
                 body=$(curl -Ls -m 10 "https://$raw/_matrix/federation/v1/version" -A "https://joinmatrix.org/servers")
                 reg=$(curl -Ls -m 10 -X POST -H "accept: application/json" -H "Content-Type: application/json" "https://$raw/_matrix/client/r0/register" -A "https://joinmatrix.org/servers" -d '{}')
                 test=$(echo $body | jq .server)
-                if [[ -z "$test" ]]; then
+                if [[ -z "$test" ]] || [[ "$test" == "null" ]]; then
                     body=$(curl -Ls -m 10 "https://$raw:8448/_matrix/federation/v1/version" -A "https://joinmatrix.org/servers")
                 fi
             fi
