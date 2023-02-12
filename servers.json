@@ -16,6 +16,22 @@
         "recaptcha": false
     },
     {
+        "name": "4d2.org",
+        "domain": "matrix.4d2.org",
+        "info": "https://4d2.org",
+        "jurisdiction": "Moldova",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.4d2.org",
+        "software": "Synapse",
+        "version": "1.76.0",
+        "recaptcha": false
+    },
+    {
         "name": "agdersam.no",
         "domain": "agdersam.no",
         "info": "https://agdersam.no/",
@@ -28,7 +44,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.agdersam.no/",
         "software": "Synapse",
-        "version": "1.75.0",
+        "version": "1.76.0",
         "recaptcha": false
     },
     {
@@ -507,38 +523,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
-        "software": "Synapse",
-        "version": "1.76.0",
-        "recaptcha": false
-    },
-    {
-        "name": "foss.wtf",
-        "domain": "matrix.foss.wtf",
-        "info": "https://foss.wtf/#matrix",
-        "jurisdiction": "Germany",
-        "tos": "https://foss.wtf/#matrix-tos",
-        "privacy": "https://foss.wtf/#privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.foss.wtf/",
-        "software": "Synapse",
-        "version": "1.76.0",
-        "recaptcha": false
-    },
-    {
-        "name": "frei.chat",
-        "domain": "matrix.frei.chat",
-        "info": "https://frei.chat",
-        "jurisdiction": "Germany (Finland)",
-        "tos": "https://frei.chat/termsofuse/",
-        "privacy": "https://frei.chat/privacypolicy/",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
         "version": "1.76.0",
         "recaptcha": false
@@ -1374,22 +1358,6 @@
         "software": "Synapse",
         "version": "1.76.0",
         "recaptcha": true
-    },
-    {
-        "name": "vern.cc",
-        "domain": "mtrx.vern.cc",
-        "info": "https://vern.cc/",
-        "jurisdiction": "US",
-        "tos": "https://vern.cc/rules",
-        "privacy": "https://vern.cc/privpol",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://vern.cc/register.php",
-        "software": "Synapse",
-        "version": "1.74.0",
-        "recaptcha": false
     },
     {
         "name": "virto.community",
