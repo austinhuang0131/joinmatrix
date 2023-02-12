@@ -288,22 +288,6 @@
         "recaptcha": false
     },
     {
-        "name": "chatinamatrix.xyz",
-        "domain": "matrix.chatinamatrix.xyz",
-        "info": "https://arrayinamatrix.xyz/index/apps/matrix/",
-        "jurisdiction": "Canada",
-        "tos": "https://arrayinamatrix.xyz/index/apps/matrix/#rules",
-        "privacy": "https://arrayinamatrix.xyz/index/apps/privacy/#matrix",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.chatinamatrix.xyz/",
-        "software": "Dendrite",
-        "version": "0.11.0+430932f",
-        "recaptcha": false
-    },
-    {
         "name": "chatwave.org",
         "domain": "matrix.chatwave.org",
         "info": "https://yatrix.org",
@@ -523,6 +507,38 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
+        "software": "Synapse",
+        "version": "1.76.0",
+        "recaptcha": false
+    },
+    {
+        "name": "foss.wtf",
+        "domain": "matrix.foss.wtf",
+        "info": "https://foss.wtf/#matrix",
+        "jurisdiction": "Germany",
+        "tos": "https://foss.wtf/#matrix-tos",
+        "privacy": "https://foss.wtf/#privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.foss.wtf/",
+        "software": "Synapse",
+        "version": "1.76.0",
+        "recaptcha": false
+    },
+    {
+        "name": "frei.chat",
+        "domain": "matrix.frei.chat",
+        "info": "https://frei.chat",
+        "jurisdiction": "Germany (Finland)",
+        "tos": "https://frei.chat/termsofuse/",
+        "privacy": "https://frei.chat/privacypolicy/",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
         "version": "1.76.0",
         "recaptcha": false
@@ -1051,8 +1067,8 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pcriot.org/",
-        "software": "null",
-        "version": "null",
+        "software": "Synapse",
+        "version": "1.76.0",
         "recaptcha": false
     },
     {
@@ -1328,6 +1344,22 @@
         "recaptcha": false
     },
     {
+        "name": "ungleich.ch",
+        "domain": "ungleich.matrix.ungleich.cloud",
+        "info": "https://ungleich.ch/u/projects/open-chat/",
+        "jurisdiction": "Switzerland",
+        "tos": null,
+        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
+        "open": true,
+        "remarks": "Hosting provider",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://account.ungleich.ch/",
+        "software": "Synapse",
+        "version": "1.76.0",
+        "recaptcha": false
+    },
+    {
         "name": "unredacted.org",
         "domain": "matrix.unredacted.org",
         "info": "https://unredacted.org/services/matrix/",
@@ -1358,6 +1390,22 @@
         "software": "Synapse",
         "version": "1.76.0",
         "recaptcha": true
+    },
+    {
+        "name": "vern.cc",
+        "domain": "mtrx.vern.cc",
+        "info": "https://vern.cc/",
+        "jurisdiction": "US",
+        "tos": "https://vern.cc/rules",
+        "privacy": "https://vern.cc/privpol",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://vern.cc/register.php",
+        "software": "Synapse",
+        "version": "1.74.0",
+        "recaptcha": false
     },
     {
         "name": "virto.community",
