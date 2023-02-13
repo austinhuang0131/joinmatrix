@@ -224,22 +224,6 @@
         "recaptcha": false
     },
     {
-        "name": "cat.casa",
-        "domain": "matrix.cat.casa",
-        "info": "https://cat.casa/",
-        "jurisdiction": "Germany",
-        "tos": "https://cat.casa/codeofconduct",
-        "privacy": "https://cat.casa/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.cat.casa/",
-        "software": "Synapse",
-        "version": "1.75.0",
-        "recaptcha": true
-    },
-    {
         "name": "catgirl.cloud",
         "domain": "matrix.catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -285,6 +269,22 @@
         "reg_link": "https://talk.chatcloud.net/",
         "software": "Synapse",
         "version": "1.73.0",
+        "recaptcha": false
+    },
+    {
+        "name": "chatinamatrix.xyz",
+        "domain": "matrix.chatinamatrix.xyz",
+        "info": "https://arrayinamatrix.xyz/index/apps/matrix/",
+        "jurisdiction": "Canada",
+        "tos": "https://arrayinamatrix.xyz/index/apps/matrix/#rules",
+        "privacy": "https://arrayinamatrix.xyz/index/apps/privacy/#matrix",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.chatinamatrix.xyz/",
+        "software": "Dendrite",
+        "version": "0.11.1+cc59879",
         "recaptcha": false
     },
     {
@@ -477,7 +477,7 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "filik.eu",
@@ -523,22 +523,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.foss.wtf/",
-        "software": "Synapse",
-        "version": "1.76.0",
-        "recaptcha": false
-    },
-    {
-        "name": "frei.chat",
-        "domain": "matrix.frei.chat",
-        "info": "https://frei.chat",
-        "jurisdiction": "Germany (Finland)",
-        "tos": "https://frei.chat/termsofuse/",
-        "privacy": "https://frei.chat/privacypolicy/",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
         "version": "1.76.0",
         "recaptcha": false
@@ -1213,22 +1197,6 @@
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
-    },
-    {
-        "name": "studichat.de",
-        "domain": "matrix.studichat.de",
-        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.studichat.de/",
-        "software": "Synapse",
-        "version": "1.76.0",
         "recaptcha": false
     },
     {
