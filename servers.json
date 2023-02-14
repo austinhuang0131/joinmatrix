@@ -817,7 +817,7 @@
     },
     {
         "name": "magdeburg.jetzt",
-        "domain": "chat.magdeburg.jetzt",
+        "domain": "magdeburg.jetzt",
         "info": "https://magdeburg.jetzt/",
         "jurisdiction": "Germany",
         "tos": "https://softwerke.md/nutzungsbestimmungen/",
@@ -829,7 +829,7 @@
         "reg_link": "https://account.magdeburg.jetzt/",
         "software": "Synapse",
         "version": "1.75.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "mailstation.de",
@@ -1213,6 +1213,22 @@
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
         "version": "1.74.0",
+        "recaptcha": false
+    },
+    {
+        "name": "studichat.de",
+        "domain": "matrix.studichat.de",
+        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; student-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.studichat.de/",
+        "software": "Synapse",
+        "version": "1.76.0",
         "recaptcha": false
     },
     {
