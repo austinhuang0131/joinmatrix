@@ -108,7 +108,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://el.aria-net.org/",
         "software": "Archon",
-        "version": "1.75.0",
+        "version": "1.77.0",
         "recaptcha": false
     },
     {
@@ -237,7 +237,7 @@
         "reg_link": "https://chat.cat.casa/",
         "software": "Synapse",
         "version": "1.75.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "catgirl.cloud",
@@ -252,7 +252,7 @@
         "reg_method": "Form",
         "reg_link": "https://registration.matrix.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.76.0",
+        "version": "1.77.0",
         "recaptcha": false
     },
     {
@@ -524,7 +524,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.foss.wtf/",
         "software": "Synapse",
-        "version": "1.76.0",
+        "version": "1.77.0",
         "recaptcha": false
     },
     {
@@ -988,7 +988,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
-        "version": "1.76.0",
+        "version": "1.77.0",
         "recaptcha": false
     },
     {
@@ -1116,7 +1116,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.76.0",
+        "version": "1.77.0",
         "recaptcha": false
     },
     {
@@ -1260,7 +1260,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.76.0",
+        "version": "1.77.0",
         "recaptcha": false
     },
     {
