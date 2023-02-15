@@ -44,7 +44,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.agdersam.no/",
         "software": "Synapse",
-        "version": "1.76.0",
+        "version": "1.77.0",
         "recaptcha": false
     },
     {
@@ -269,22 +269,6 @@
         "reg_link": "https://element.chagai.website/",
         "software": "Synapse",
         "version": "1.59.1",
-        "recaptcha": false
-    },
-    {
-        "name": "chatcloud.net",
-        "domain": "matrix.chatcloud.net",
-        "info": "https://chatcloud.net",
-        "jurisdiction": "Austria (Germany)",
-        "tos": "https://www.chatcloud.net/terms-of-use/",
-        "privacy": "https://www.chatcloud.net/privacy/",
-        "open": true,
-        "remarks": "Relationship-oriented?",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://talk.chatcloud.net/",
-        "software": "Synapse",
-        "version": "1.73.0",
         "recaptcha": false
     },
     {
@@ -752,22 +736,6 @@
         "recaptcha": false
     },
     {
-        "name": "jonasled.de",
-        "domain": "matrix.jonasled.de",
-        "info": "https://jonasled.de",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://jonasled.de/datenschutzerklaerung.html",
-        "open": true,
-        "remarks": "In German; personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.jonasled.de/",
-        "software": "Synapse",
-        "version": "1.77.0",
-        "recaptcha": false
-    },
-    {
         "name": "libcom.de",
         "domain": "matrix.libcom.de:443",
         "info": "https://libcom.de",
@@ -845,7 +813,7 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "mandragot.org",
@@ -1217,7 +1185,7 @@
     },
     {
         "name": "studichat.de",
-        "domain": "matrix.studichat.de",
+        "domain": "studichat.de",
         "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
         "jurisdiction": "Germany",
         "tos": null,
@@ -1229,7 +1197,7 @@
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "synod.im",
@@ -1244,7 +1212,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://web.synod.im/",
         "software": "Synapse",
-        "version": "1.76.0",
+        "version": "1.77.0",
         "recaptcha": false
     },
     {
