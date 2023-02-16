@@ -224,22 +224,6 @@
         "recaptcha": false
     },
     {
-        "name": "cat.casa",
-        "domain": "matrix.cat.casa",
-        "info": "https://cat.casa/",
-        "jurisdiction": "Germany",
-        "tos": "https://cat.casa/codeofconduct",
-        "privacy": "https://cat.casa/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.cat.casa/",
-        "software": "Synapse",
-        "version": "1.75.0",
-        "recaptcha": false
-    },
-    {
         "name": "catgirl.cloud",
         "domain": "matrix.catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -269,6 +253,22 @@
         "reg_link": "https://element.chagai.website/",
         "software": "Synapse",
         "version": "1.59.1",
+        "recaptcha": false
+    },
+    {
+        "name": "chatcloud.net",
+        "domain": "matrix.chatcloud.net",
+        "info": "https://chatcloud.net",
+        "jurisdiction": "Austria (Germany)",
+        "tos": "https://www.chatcloud.net/terms-of-use/",
+        "privacy": "https://www.chatcloud.net/privacy/",
+        "open": true,
+        "remarks": "Relationship-oriented?",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://talk.chatcloud.net/",
+        "software": "Synapse",
+        "version": "1.73.0",
         "recaptcha": false
     },
     {
@@ -736,6 +736,22 @@
         "recaptcha": false
     },
     {
+        "name": "jonasled.de",
+        "domain": "matrix.jonasled.de",
+        "info": "https://jonasled.de",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://jonasled.de/datenschutzerklaerung.html",
+        "open": true,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.jonasled.de/",
+        "software": "Synapse",
+        "version": "1.77.0",
+        "recaptcha": false
+    },
+    {
         "name": "libcom.de",
         "domain": "matrix.libcom.de:443",
         "info": "https://libcom.de",
@@ -1185,7 +1201,7 @@
     },
     {
         "name": "studichat.de",
-        "domain": "studichat.de",
+        "domain": "matrix.studichat.de",
         "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
         "jurisdiction": "Germany",
         "tos": null,
@@ -1197,7 +1213,7 @@
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "synod.im",
