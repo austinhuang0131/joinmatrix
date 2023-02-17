@@ -892,7 +892,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
-        "version": "1.76.0",
+        "version": "1.77.0",
         "recaptcha": false
     },
     {
@@ -1037,7 +1037,7 @@
         "reg_link": "https://matrix.ohai.su/",
         "software": "Synapse",
         "version": "1.70.1",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "ombreport.info",
@@ -1052,7 +1052,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://riot.ombreport.info/",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.77.0",
         "recaptcha": false
     },
     {
@@ -1292,7 +1292,7 @@
         "reg_method": "SSO",
         "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
-        "version": "1.76.0",
+        "version": "1.77.0",
         "recaptcha": false
     },
     {
@@ -1484,7 +1484,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.76.0",
+        "version": "1.77.0",
         "recaptcha": false
     },
     {
