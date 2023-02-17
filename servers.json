@@ -1037,7 +1037,7 @@
         "reg_link": "https://matrix.ohai.su/",
         "software": "Synapse",
         "version": "1.70.1",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "ombreport.info",
