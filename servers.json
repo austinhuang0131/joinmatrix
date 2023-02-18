@@ -525,7 +525,7 @@
         "reg_link": "https://chat.foss.wtf/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "frei.chat",
