@@ -464,6 +464,22 @@
         "recaptcha": false
     },
     {
+        "name": "evulid.cc",
+        "domain": "matrix.evulid.cc",
+        "info": "https://element.evulid.cc",
+        "jurisdiction": "US",
+        "tos": "https://matrix.evulid.cc/_matrix/consent?v=1.0",
+        "privacy": "https://matrix.evulid.cc/_matrix/consent?v=1.0",
+        "open": true,
+        "remarks": "",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.evulid.cc",
+        "software": "Synapse",
+        "version": "1.77.0",
+        "recaptcha": false
+    },
+    {
         "name": "exarius.org",
         "domain": "exarius.org",
         "info": "https://exarius.org/docs/services/exatrix/",
@@ -525,7 +541,7 @@
         "reg_link": "https://chat.foss.wtf/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "frei.chat",
@@ -1452,7 +1468,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.75.0",
+        "version": "1.77.0",
         "recaptcha": false
     },
     {
