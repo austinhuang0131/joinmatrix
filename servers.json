@@ -224,6 +224,22 @@
         "recaptcha": false
     },
     {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/codeofconduct",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.75.0",
+        "recaptcha": false
+    },
+    {
         "name": "catgirl.cloud",
         "domain": "matrix.catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -845,7 +861,7 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "mandragot.org",
@@ -1357,6 +1373,22 @@
         "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
         "version": "1.76.0",
+        "recaptcha": false
+    },
+    {
+        "name": "unita.online",
+        "domain": "unita.online",
+        "info": "https://blog.unita.online/",
+        "jurisdiction": "Poland (France)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In Polish",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.unita.online",
+        "software": "Synapse",
+        "version": "1.71.0",
         "recaptcha": false
     },
     {
