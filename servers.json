@@ -592,6 +592,22 @@
         "recaptcha": false
     },
     {
+        "name": "fulda.social",
+        "domain": "matrix.fulda.social",
+        "info": "https://dasnetzundich.de/2021/08/14/willkommen-in-der-matrix/",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.fulda.social/",
+        "software": "Synapse",
+        "version": "1.77.0",
+        "recaptcha": false
+    },
+    {
         "name": "g24.at",
         "domain": "g24.at",
         "info": "https://g24.at",
@@ -844,7 +860,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.76.0",
+        "version": "1.77.0",
         "recaptcha": false
     },
     {
@@ -1117,22 +1133,6 @@
         "reg_link": "https://chat.projectsegfau.lt/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
-    },
-    {
-        "name": "pub.solar",
-        "domain": "matrix.pub.solar",
-        "info": "https://pub.solar",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://pub.solar/privacy",
-        "open": true,
-        "remarks": "Tech collective",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
-        "software": "Synapse",
-        "version": "1.75.0",
         "recaptcha": false
     },
     {
