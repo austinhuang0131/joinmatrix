@@ -48,22 +48,6 @@
         "recaptcha": false
     },
     {
-        "name": "anonymousland.org",
-        "domain": "matrix.anonymousland.org",
-        "info": "https://www.anonymousland.org/services#matrix",
-        "jurisdiction": "Iceland?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.anonymousland.org/",
-        "software": "Synapse",
-        "version": "1.76.0",
-        "recaptcha": false
-    },
-    {
         "name": "archaeo.social",
         "domain": "matrix.archaeo.social",
         "info": "https://archaeo.social",
@@ -300,7 +284,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
-        "version": "1.76.0",
+        "version": "1.77.0",
         "recaptcha": false
     },
     {
@@ -1532,7 +1516,7 @@
         "reg_method": "Contact",
         "reg_link": "https://www.bytes4u.de/index.php?action=register",
         "software": "Synapse",
-        "version": "1.76.0",
+        "version": "1.77.0",
         "recaptcha": false
     },
     {
