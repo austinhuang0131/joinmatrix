@@ -48,6 +48,22 @@
         "recaptcha": false
     },
     {
+        "name": "anonymousland.org",
+        "domain": "matrix.anonymousland.org:443",
+        "info": "https://www.anonymousland.org/services#matrix",
+        "jurisdiction": "Iceland?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.anonymousland.org/",
+        "software": "Synapse",
+        "version": "1.77.0",
+        "recaptcha": false
+    },
+    {
         "name": "archaeo.social",
         "domain": "matrix.archaeo.social",
         "info": "https://archaeo.social",
@@ -189,22 +205,6 @@
         "reg_link": "https://chat.buyvm.net/element/",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": false
-    },
-    {
-        "name": "cat.casa",
-        "domain": "matrix.cat.casa",
-        "info": "https://cat.casa/",
-        "jurisdiction": "Germany",
-        "tos": "https://cat.casa/codeofconduct",
-        "privacy": "https://cat.casa/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.cat.casa/",
-        "software": "Synapse",
-        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -427,6 +427,22 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
+        "software": "Synapse",
+        "version": "1.77.0",
+        "recaptcha": false
+    },
+    {
+        "name": "evulid.cc",
+        "domain": "matrix.evulid.cc",
+        "info": "https://element.evulid.cc",
+        "jurisdiction": "US",
+        "tos": "https://matrix.evulid.cc/_matrix/consent?v=1.0",
+        "privacy": "https://matrix.evulid.cc/_matrix/consent?v=1.0",
+        "open": true,
+        "remarks": "",
+        "antifeature": "Residential, uses Cloudflare",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.evulid.cc",
         "software": "Synapse",
         "version": "1.77.0",
         "recaptcha": false
