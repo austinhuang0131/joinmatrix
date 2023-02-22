@@ -172,7 +172,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.bolha.chat/",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.77.0",
         "recaptcha": false
     },
     {
@@ -507,22 +507,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
-        "software": "Synapse",
-        "version": "1.77.0",
-        "recaptcha": false
-    },
-    {
-        "name": "foss.wtf",
-        "domain": "matrix.foss.wtf",
-        "info": "https://foss.wtf/#matrix",
-        "jurisdiction": "Germany",
-        "tos": "https://foss.wtf/#matrix-tos",
-        "privacy": "https://foss.wtf/#privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.foss.wtf/",
         "software": "Synapse",
         "version": "1.77.0",
         "recaptcha": false
@@ -1101,7 +1085,7 @@
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
         "version": "1.76.0 (b=develop,d0fed7a37)",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "pragma-messenger.ch",
