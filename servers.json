@@ -49,7 +49,7 @@
     },
     {
         "name": "anonymousland.org",
-        "domain": "matrix.anonymousland.org:443",
+        "domain": "matrix.anonymousland.org",
         "info": "https://www.anonymousland.org/services#matrix",
         "jurisdiction": "Iceland?",
         "tos": null,
@@ -93,22 +93,6 @@
         "reg_link": "https://el.aria-net.org/",
         "software": "Archon",
         "version": "1.77.0",
-        "recaptcha": false
-    },
-    {
-        "name": "asozial.org",
-        "domain": "matrix.asozial.org:8448",
-        "info": "https://asozial.org",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; left-wing",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.asozial.org/",
-        "software": "Dendrite",
-        "version": "0.11.1+cc59879f",
         "recaptcha": false
     },
     {
@@ -588,7 +572,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://g24.at",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.77.0",
         "recaptcha": true
     },
     {
