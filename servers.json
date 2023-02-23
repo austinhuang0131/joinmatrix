@@ -749,7 +749,7 @@
         "reg_link": "https://houtworm.im/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "jonasled.de",
@@ -813,22 +813,6 @@
         "reg_link": "https://element.llamarific.social/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
-    },
-    {
-        "name": "magdeburg.jetzt",
-        "domain": "chat.magdeburg.jetzt",
-        "info": "https://magdeburg.jetzt/",
-        "jurisdiction": "Germany",
-        "tos": "https://softwerke.md/nutzungsbestimmungen/",
-        "privacy": "https://softwerke.md/datenschutz/",
-        "open": true,
-        "remarks": "In German; regional tech collective",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.magdeburg.jetzt/",
-        "software": "Synapse",
-        "version": "1.75.0",
         "recaptcha": false
     },
     {
@@ -1101,7 +1085,7 @@
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
         "version": "1.76.0 (b=develop,d0fed7a37)",
-        "recaptcha": false
+        "recaptcha": true
     },
     {
         "name": "pragma-messenger.ch",
