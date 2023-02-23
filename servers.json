@@ -192,6 +192,22 @@
         "recaptcha": false
     },
     {
+        "name": "buyvm.net",
+        "domain": "buyvm.chat",
+        "info": "https://buyvm.net/beware-the-moshbear/",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Hosting provider; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.buyvm.net/element/",
+        "software": "Synapse",
+        "version": "1.76.0",
+        "recaptcha": false
+    },
+    {
         "name": "cat.casa",
         "domain": "matrix.cat.casa",
         "info": "https://cat.casa/",
@@ -603,22 +619,6 @@
         "antifeature": null,
         "reg_method": "Form",
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
-        "software": "Synapse",
-        "version": "1.74.0",
-        "recaptcha": false
-    },
-    {
-        "name": "glasgow.social",
-        "domain": "matrix.glasgow.social",
-        "info": "https://opensource.glasgow.social/matrix",
-        "jurisdiction": "UK",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional tech collective",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.glasgow.social/",
         "software": "Synapse",
         "version": "1.74.0",
         "recaptcha": false
