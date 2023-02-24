@@ -32,22 +32,6 @@
         "recaptcha": false
     },
     {
-        "name": "agdersam.no",
-        "domain": "agdersam.no",
-        "info": "https://agdersam.no/",
-        "jurisdiction": "Norway (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.agdersam.no/",
-        "software": "Synapse",
-        "version": "1.77.0",
-        "recaptcha": false
-    },
-    {
         "name": "anonymousland.org",
         "domain": "matrix.anonymousland.org",
         "info": "https://www.anonymousland.org/services#matrix",
@@ -749,7 +733,7 @@
         "reg_link": "https://houtworm.im/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "jonasled.de",
@@ -1085,7 +1069,7 @@
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
         "version": "1.76.0 (b=develop,d0fed7a37)",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "pragma-messenger.ch",
