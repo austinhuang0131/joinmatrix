@@ -13,7 +13,8 @@
         "reg_link": "https://im.0wnz.at/element-web/",
         "software": "Synapse",
         "version": "1.75.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "4d2.org",
@@ -29,7 +30,8 @@
         "reg_link": "https://element.4d2.org",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "agdersam.no",
@@ -45,7 +47,8 @@
         "reg_link": "https://element.agdersam.no/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "anonymousland.org",
@@ -61,7 +64,8 @@
         "reg_link": "https://element.anonymousland.org/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "archaeo.social",
@@ -77,7 +81,8 @@
         "reg_link": "https://chat.archaeo.social/",
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "archoslinux.cz",
@@ -93,7 +98,8 @@
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "aria-net.org",
@@ -109,7 +115,8 @@
         "reg_link": "https://el.aria-net.org/",
         "software": "Archon",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "asozial.org",
@@ -125,7 +132,8 @@
         "reg_link": "https://chat.asozial.org/",
         "software": "Dendrite",
         "version": "0.11.1+cc59879f",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "bachgau.social",
@@ -141,7 +149,8 @@
         "reg_link": "https://element.bachgau.social/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "badstuebner.biz",
@@ -157,7 +166,8 @@
         "reg_link": "https://element.badstuebner.biz/",
         "software": "Synapse",
         "version": "1.72.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "bark.lgbt",
@@ -173,7 +183,8 @@
         "reg_link": "https://chat.bark.lgbt",
         "software": "Synapse",
         "version": "1.75.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "bolha.chat",
@@ -189,7 +200,8 @@
         "reg_link": "https://element.bolha.chat/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "breeze.town",
@@ -205,7 +217,8 @@
         "reg_link": "https://chat.breeze.town/",
         "software": "Synapse",
         "version": "1.69.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "buyvm.net",
@@ -221,7 +234,8 @@
         "reg_link": "https://chat.buyvm.net/element/",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "cat.casa",
@@ -237,7 +251,8 @@
         "reg_link": "https://chat.cat.casa/",
         "software": "Synapse",
         "version": "1.75.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "catgirl.cloud",
@@ -253,7 +268,8 @@
         "reg_link": "https://registration.matrix.catgirl.cloud/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "chagai.website",
@@ -269,7 +285,8 @@
         "reg_link": "https://element.chagai.website/",
         "software": "Synapse",
         "version": "1.59.1",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "chatcloud.net",
@@ -285,7 +302,8 @@
         "reg_link": "https://talk.chatcloud.net/",
         "software": "Synapse",
         "version": "1.73.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "chatwave.org",
@@ -301,7 +319,8 @@
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "chrrreeeeesss.com",
@@ -317,7 +336,8 @@
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "club1.fr",
@@ -333,7 +353,8 @@
         "reg_link": "https://riot.club1.fr/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "comm.cx",
@@ -349,7 +370,8 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "community.rs",
@@ -365,7 +387,8 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "converser.eu",
@@ -381,7 +404,8 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.73.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "crossbach.de",
@@ -397,7 +421,8 @@
         "reg_link": "https://element.crossbach.de/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "data.haus",
@@ -413,7 +438,8 @@
         "reg_link": "https://chat.data.haus/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "dieandalusier.net",
@@ -429,7 +455,8 @@
         "reg_link": "https://element.dieandalusier.net",
         "software": "Synapse",
         "version": "1.70.1",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "duesen.chat",
@@ -445,7 +472,8 @@
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "envs.net",
@@ -461,7 +489,8 @@
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "evulid.cc",
@@ -477,7 +506,8 @@
         "reg_link": "https://element.evulid.cc",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "exarius.org",
@@ -493,7 +523,8 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "filik.eu",
@@ -509,7 +540,8 @@
         "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "flieger.chat",
@@ -525,7 +557,8 @@
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "frei.chat",
@@ -541,7 +574,8 @@
         "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "freiburg.social",
@@ -557,7 +591,8 @@
         "reg_link": "https://element.freiburg.social/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "freitrix.de",
@@ -573,7 +608,8 @@
         "reg_link": "https://webchat.freitrix.de/#/register",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "fulda.social",
@@ -589,7 +625,8 @@
         "reg_link": "https://element.fulda.social/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "g24.at",
@@ -605,7 +642,8 @@
         "reg_link": "https://g24.at",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "gemeinsam.jetzt",
@@ -621,7 +659,8 @@
         "reg_link": "https://element.gemeinsam.jetzt/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "ggc-project.de",
@@ -637,7 +676,8 @@
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "glasgow.social",
@@ -653,7 +693,8 @@
         "reg_link": "https://matrix.glasgow.social/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "gnulinux.club",
@@ -669,7 +710,8 @@
         "reg_link": "https://element.gnulinux.club/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "grin.hu",
@@ -685,7 +727,8 @@
         "reg_link": "https://riot.grin.hu/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "group.lt",
@@ -701,7 +744,8 @@
         "reg_link": "https://chat.group.lt/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "hashi.sbs",
@@ -717,7 +761,8 @@
         "reg_link": "https://hashi.sbs",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "hot-chilli.im",
@@ -733,7 +778,8 @@
         "reg_link": "https://element.hot-chilli.im/",
         "software": "Synapse",
         "version": "1.75.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "houtworm.im",
@@ -749,7 +795,8 @@
         "reg_link": "https://houtworm.im/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "jonasled.de",
@@ -765,7 +812,8 @@
         "reg_link": "https://chat.jonasled.de/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "libcom.de",
@@ -781,7 +829,8 @@
         "reg_link": "https://element.libcom.de",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "librem.one",
@@ -797,7 +846,8 @@
         "reg_link": "https://librem.one",
         "software": "Synapse",
         "version": "1.66.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "llamarific.social",
@@ -813,11 +863,12 @@
         "reg_link": "https://element.llamarific.social/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "magdeburg.jetzt",
-        "domain": "chat.magdeburg.jetzt",
+        "domain": "null",
         "info": "https://magdeburg.jetzt/",
         "jurisdiction": "Germany",
         "tos": "https://softwerke.md/nutzungsbestimmungen/",
@@ -829,7 +880,8 @@
         "reg_link": "https://account.magdeburg.jetzt/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "mailstation.de",
@@ -845,7 +897,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "mandragot.org",
@@ -861,7 +914,8 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "marmottel.com",
@@ -877,7 +931,8 @@
         "reg_link": "https://element.marmottel.com",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "matrix.im",
@@ -893,7 +948,8 @@
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "monero.social",
@@ -909,7 +965,8 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "mtrx.nz",
@@ -925,7 +982,8 @@
         "reg_link": "https://mtrx.nz/",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "nibbana.jp",
@@ -941,7 +999,8 @@
         "reg_link": "https://element.nibbana.jp/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "nitro.chat",
@@ -957,7 +1016,8 @@
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "noevil.pl",
@@ -973,7 +1033,8 @@
         "reg_link": "https://chat.noevil.pl/",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "nope.chat",
@@ -989,7 +1050,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "norge.chat",
@@ -1005,7 +1067,8 @@
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "oblak.be",
@@ -1021,7 +1084,8 @@
         "reg_link": "https://chat.oblak.be/",
         "software": "Synapse",
         "version": "1.59.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "ohai.su",
@@ -1037,7 +1101,8 @@
         "reg_link": "https://matrix.ohai.su/",
         "software": "Synapse",
         "version": "1.70.1",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "ombreport.info",
@@ -1053,7 +1118,8 @@
         "reg_link": "https://riot.ombreport.info/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "pcriot.org",
@@ -1069,7 +1135,8 @@
         "reg_link": "https://chat.pcriot.org/",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "perthchat.org",
@@ -1085,7 +1152,8 @@
         "reg_link": "https://client.perthchat.org/",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "plus.st",
@@ -1101,7 +1169,8 @@
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
         "version": "1.76.0 (b=develop,d0fed7a37)",
-        "recaptcha": false
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "pragma-messenger.ch",
@@ -1117,7 +1186,8 @@
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "projectsegfau.lt",
@@ -1133,7 +1203,8 @@
         "reg_link": "https://chat.projectsegfau.lt/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "pub.solar",
@@ -1149,7 +1220,8 @@
         "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "radiowarnerd.org",
@@ -1165,7 +1237,8 @@
         "reg_link": "https://element.radiowarnerd.org/",
         "software": "Synapse",
         "version": "1.68.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "riotchat.de",
@@ -1181,7 +1254,8 @@
         "reg_link": "https://riotchat.de/register/form.php",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "sibnsk.net",
@@ -1197,7 +1271,8 @@
         "reg_link": "https://element.sibnsk.net",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "socialnetwork24.com",
@@ -1213,7 +1288,8 @@
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "studichat.de",
@@ -1229,7 +1305,8 @@
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "synod.im",
@@ -1245,7 +1322,8 @@
         "reg_link": "https://web.synod.im/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "tchncs.de",
@@ -1261,7 +1339,8 @@
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "techsaviours.org",
@@ -1277,7 +1356,8 @@
         "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
         "version": "1.75.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "tedomum.net",
@@ -1293,7 +1373,8 @@
         "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "the-apothecary.club",
@@ -1309,7 +1390,8 @@
         "reg_link": "https://the-apothecary.club/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "tomesh.net",
@@ -1325,7 +1407,8 @@
         "reg_link": "https://chat.tomesh.net/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "trygve.me",
@@ -1341,7 +1424,8 @@
         "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "ungleich.ch",
@@ -1357,7 +1441,8 @@
         "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "unita.online",
@@ -1373,7 +1458,8 @@
         "reg_link": "https://matrix.unita.online",
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "unredacted.org",
@@ -1389,7 +1475,8 @@
         "reg_link": "https://element.unredacted.org/",
         "software": "Synapse",
         "version": "1.75.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "utwente.io",
@@ -1405,7 +1492,8 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "vern.cc",
@@ -1421,7 +1509,8 @@
         "reg_link": "https://vern.cc/register.php",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "virto.community",
@@ -1437,7 +1526,8 @@
         "reg_link": "https://element.virto.community/",
         "software": "Synapse",
         "version": "1.68.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "xmr.se",
@@ -1453,7 +1543,8 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "yatrix.org",
@@ -1469,7 +1560,8 @@
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "asra.gr",
@@ -1485,7 +1577,8 @@
         "reg_link": "https://element.asra.gr/",
         "software": "Synapse",
         "version": "420*69",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "fachschaften.org",
@@ -1501,7 +1594,8 @@
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "hingst.net",
@@ -1517,7 +1611,8 @@
         "reg_link": "https://element.hingst.net/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "pikaviestin.fi",
@@ -1533,7 +1628,8 @@
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "bytes4u.de",
@@ -1549,7 +1645,8 @@
         "reg_link": "https://www.bytes4u.de/index.php?action=register",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "deuxfleurs.fr",
@@ -1565,7 +1662,8 @@
         "reg_link": "https://deuxfleurs.fr/",
         "software": "Synapse",
         "version": "1.70.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "hyteck.de",
@@ -1581,7 +1679,8 @@
         "reg_link": "https://hyteck.de/about/",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "libreon.fr",
@@ -1597,7 +1696,8 @@
         "reg_link": "https://libreon.fr/account",
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "data.coop",
@@ -1613,7 +1713,8 @@
         "reg_link": "https://data.coop/medlem/",
         "software": "Synapse",
         "version": "1.63.1",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "fsfe.org",
@@ -1629,7 +1730,8 @@
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "hadoly.fr",
@@ -1645,7 +1747,8 @@
         "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "sans-nuage.fr",
@@ -1661,6 +1764,7 @@
         "reg_link": "https://adherents.arn-fai.net/members/register/",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": false
+        "recaptcha": false,
+        "email": false
     }
 ]
