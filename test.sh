@@ -47,6 +47,7 @@ do
         version=$(echo $body | jq .server.version | sed s/\"//g)
         closed=$(echo $reg | jq .errcode)
         recaptcha=$(echo $reg | jq .params."m.login.recaptcha")
+        email=$(echo $reg | grep 'm.login.email.identity')
         if [[ $Line =~ \[(SSO|Form)\] ]] || [[ $Check -eq 0 ]]; then
             closed="null"
         fi
@@ -94,9 +95,14 @@ do
                 echo "        \"software\": \"$name\"," >> servers.json
                 echo "        \"version\": \"$version\"," >> servers.json
                 if [[ "$recaptcha" != "null" ]]; then
-                    echo "        \"recaptcha\": true" >> servers.json
+                    echo "        \"recaptcha\": true," >> servers.json
                 else
-                    echo "        \"recaptcha\": false" >> servers.json
+                    echo "        \"recaptcha\": false," >> servers.json
+                fi
+                if [[ -z "$email" ]]; then
+                    echo "        \"email\": false" >> servers.json
+                else
+                    echo "        \"email\": true" >> servers.json
                 fi
                 echo "    }," >> servers.json
                 if [[ "$name" == "Synapse" ]]; then
