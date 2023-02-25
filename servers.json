@@ -493,7 +493,7 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": true
+        "recaptcha": false
     },
     {
         "name": "filik.eu",
