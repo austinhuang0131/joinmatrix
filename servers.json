@@ -119,23 +119,6 @@
         "email": true
     },
     {
-        "name": "asozial.org",
-        "domain": "matrix.asozial.org:8448",
-        "info": "https://asozial.org",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; left-wing",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.asozial.org/",
-        "software": "Dendrite",
-        "version": "0.11.1+cc59879f",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "bachgau.social",
         "domain": "matrix.bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
@@ -880,8 +863,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "mandragot.org",
