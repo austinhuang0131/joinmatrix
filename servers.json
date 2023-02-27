@@ -1020,23 +1020,6 @@
         "email": true
     },
     {
-        "name": "nopasaran.red",
-        "domain": "nopasaran.red",
-        "info": "https://nopasaran.red",
-        "jurisdiction": "US (Germany)",
-        "tos": "https://mastodon.nopasaran.red/about",
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://nopasaran.red/how-to-join/",
-        "software": "Synapse",
-        "version": "1.77.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "nope.chat",
         "domain": "nope.chat",
         "info": "https://nope.chat",
@@ -1339,8 +1322,8 @@
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "techsaviours.org",
@@ -1578,7 +1561,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "fachschaften.org",
@@ -1678,7 +1661,7 @@
         "reg_method": "Contact",
         "reg_link": "https://hyteck.de/about/",
         "software": "Synapse",
-        "version": "1.76.0",
+        "version": "1.77.0",
         "recaptcha": false,
         "email": true
     },
