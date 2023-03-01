@@ -731,17 +731,17 @@
         "email": true
     },
     {
-        "name": "hashi.sbs",
-        "domain": "chatserver.hashi.sbs",
-        "info": "https://hashi.sbs",
-        "jurisdiction": "? (Germany)",
-        "tos": "https://hashi.icu/@MomentQYC/pages/tos",
+        "name": "group.lt",
+        "domain": "matrix.group.lt",
+        "info": "https://group.lt",
+        "jurisdiction": "Lithuania?",
+        "tos": null,
         "privacy": null,
         "open": true,
-        "remarks": "In Chinese",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://hashi.sbs",
+        "remarks": "",
+        "antifeature": "Uses Cloudflare",
+        "reg_method": "In-house Cinny",
+        "reg_link": "https://chat.group.lt/",
         "software": "Synapse",
         "version": "1.78.0",
         "recaptcha": false,
@@ -811,7 +811,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.kiber-ogur4ik.space/",
         "software": "Synapse",
-        "version": "1.76.0",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": false
     },
@@ -1186,8 +1186,8 @@
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
         "version": "1.76.0 (b=develop,d0fed7a37)",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "pragma-messenger.ch",
@@ -1271,7 +1271,7 @@
         "reg_link": "https://riotchat.de/register/form.php",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": true,
+        "recaptcha": false,
         "email": false
     },
     {
@@ -1578,7 +1578,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "fachschaften.org",
@@ -1729,7 +1729,7 @@
         "reg_method": "Membership",
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
-        "version": "1.77.0",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": false
     },
