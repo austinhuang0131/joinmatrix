@@ -251,7 +251,7 @@
         "reg_link": "https://chat.cat.casa/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": true,
+        "recaptcha": false,
         "email": false
     },
     {
@@ -731,23 +731,6 @@
         "email": true
     },
     {
-        "name": "group.lt",
-        "domain": "matrix.group.lt",
-        "info": "https://group.lt",
-        "jurisdiction": "Lithuania?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Uses Cloudflare",
-        "reg_method": "In-house Cinny",
-        "reg_link": "https://chat.group.lt/",
-        "software": "Synapse",
-        "version": "1.77.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "hashi.sbs",
         "domain": "chatserver.hashi.sbs",
         "info": "https://hashi.sbs",
@@ -814,6 +797,23 @@
         "version": "1.78.0",
         "recaptcha": false,
         "email": true
+    },
+    {
+        "name": "kiber-ogur4ik.space",
+        "domain": "matrix.kiber-ogur4ik.space",
+        "info": "https://kiber-ogur4ik.space/services/",
+        "jurisdiction": "Russia (Poland)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In Russian; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.kiber-ogur4ik.space/",
+        "software": "Synapse",
+        "version": "1.76.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "libcom.de",
@@ -897,8 +897,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "mandragot.org",
@@ -1049,7 +1049,7 @@
         "reg_method": "SSO",
         "reg_link": "https://nopasaran.red/how-to-join/",
         "software": "Synapse",
-        "version": "1.77.0",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": true
     },
@@ -1271,7 +1271,7 @@
         "reg_link": "https://riotchat.de/register/form.php",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -1372,7 +1372,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
-        "version": "1.75.0",
+        "version": "1.77.0",
         "recaptcha": false,
         "email": true
     },
@@ -1389,7 +1389,7 @@
         "reg_method": "SSO",
         "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
-        "version": "1.77.0",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": false
     },
@@ -1578,7 +1578,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "fachschaften.org",
