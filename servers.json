@@ -29,7 +29,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.4d2.org",
         "software": "Synapse",
-        "version": "1.76.0",
+        "version": "1.77.0",
         "recaptcha": false,
         "email": true
     },
@@ -96,6 +96,23 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.archoslinux.cz/",
+        "software": "Synapse",
+        "version": "1.77.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "arcticfoxes.net",
+        "domain": "matrix.arcticfoxes.net",
+        "info": "https://arcticfoxes.net",
+        "jurisdiction": "US (UK)",
+        "tos": "https://arcticfoxes.net/",
+        "privacy": "https://arcticfoxes.net/",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.arcticfoxes.net",
         "software": "Synapse",
         "version": "1.77.0",
         "recaptcha": false,
@@ -234,6 +251,23 @@
         "reg_link": "https://chat.cat.casa/",
         "software": "Synapse",
         "version": "1.77.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "catgirl.cloud",
+        "domain": "matrix.catgirl.cloud",
+        "info": "https://catgirl.cloud",
+        "jurisdiction": "Germany",
+        "tos": "https://catgirl.cloud/#rules",
+        "privacy": "https://catgirl.cloud/#privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://registration.matrix.catgirl.cloud/",
+        "software": "Synapse",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": false
     },
@@ -557,8 +591,8 @@
         "reg_link": "https://element.freiburg.social/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "freitrix.de",
@@ -998,7 +1032,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.noevil.pl/",
         "software": "Synapse",
-        "version": "1.76.0",
+        "version": "1.77.0",
         "recaptcha": false,
         "email": true
     },
@@ -1526,8 +1560,8 @@
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "asra.gr",
@@ -1544,7 +1578,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "fachschaften.org",
