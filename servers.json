@@ -238,23 +238,6 @@
         "email": true
     },
     {
-        "name": "cat.casa",
-        "domain": "matrix.cat.casa",
-        "info": "https://cat.casa/",
-        "jurisdiction": "Germany",
-        "tos": "https://cat.casa/codeofconduct",
-        "privacy": "https://cat.casa/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.cat.casa/",
-        "software": "Synapse",
-        "version": "1.77.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "catgirl.cloud",
         "domain": "matrix.catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -748,6 +731,23 @@
         "email": true
     },
     {
+        "name": "hashi.sbs",
+        "domain": "chatserver.hashi.sbs",
+        "info": "https://hashi.sbs",
+        "jurisdiction": "? (Germany)",
+        "tos": "https://hashi.icu/@MomentQYC/pages/tos",
+        "privacy": null,
+        "open": true,
+        "remarks": "In Chinese",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://hashi.sbs",
+        "software": "Synapse",
+        "version": "1.78.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "hot-chilli.im",
         "domain": "hot-chilli.im",
         "info": "https://jabber.hot-chilli.net/2022/04/26/hot-chilli-matrix-server/",
@@ -1203,8 +1203,8 @@
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
         "version": "1.76.0 (b=develop,d0fed7a37)",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "pragma-messenger.ch",
@@ -1239,23 +1239,6 @@
         "version": "1.78.0",
         "recaptcha": false,
         "email": true
-    },
-    {
-        "name": "pub.solar",
-        "domain": "matrix.pub.solar",
-        "info": "https://pub.solar",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://pub.solar/privacy",
-        "open": true,
-        "remarks": "Tech collective",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
-        "software": "Synapse",
-        "version": "1.77.0",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "radiowarnerd.org",
