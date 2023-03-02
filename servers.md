@@ -43,7 +43,6 @@ This is a list of public Matrix homeservers as compiled by the author of this gu
 * For long-term usage, choose a homeserver that you trust, [is properly federated](https://federationtester.matrix.org/), has a high version number, has an environment suitable to your use, and is designed to last.
 * Any homeserver you choose gets to access all the unencrypted data about your account!
 * **It bears reminding** that all participants of public discourse should foster a respectful environment, and that homeserver operators should discourage disruptive behaviour. As such, this list excludes homeservers that are known to harbour bad actors. Refer to [Criteria](#criteria).
-* For homeserver owners: You should implement [MSC1929](https://github.com/matrix-org/matrix-doc/blob/hs/proposal-admin-contact-1/proposals/1929-admin-contact.md).
 * This list is also available [as a JSON](../servers.json). Clients are welcomed to implement it as long as sufficient credit is given.
 
 **Disclaimer:**
@@ -81,7 +80,9 @@ The absolute criteria are:
   * `#matrix-org-coc-bl:matrix.org`: [matrix.org Code of Conduct](https://matrix.org/legal/code-of-conduct/) ban list. It is used on many popular public rooms.
   * `#matrix-org-hs-tos-bl:matrix.org`: [matrix.org Homeserver Terms of Service](https://matrix.org/legal/terms-and-conditions/) ban list.
 
-Some homeservers are excluded from this list on content grounds. Inclusion in other reputable ban lists may also be grounds for exclusion from this list.
+Some homeservers are excluded from this list on content and/or reputation grounds.
+
+Homeserver owners should implement [MSC1929](https://github.com/matrix-org/matrix-doc/blob/hs/proposal-admin-contact-1/proposals/1929-admin-contact.md) as well as provide rules and/or privacy policies, but they're not required.
 
 ## Legends
 
