@@ -97,7 +97,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
-        "version": "1.77.0",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": true
     },
@@ -748,6 +748,23 @@
         "email": true
     },
     {
+        "name": "hashi.sbs",
+        "domain": "chatserver.hashi.sbs",
+        "info": "https://hashi.sbs",
+        "jurisdiction": "? (Germany)",
+        "tos": "https://hashi.icu/@MomentQYC/pages/tos",
+        "privacy": null,
+        "open": true,
+        "remarks": "In Chinese",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://hashi.sbs",
+        "software": "Synapse",
+        "version": "1.78.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "hot-chilli.im",
         "domain": "hot-chilli.im",
         "info": "https://jabber.hot-chilli.net/2022/04/26/hot-chilli-matrix-server/",
@@ -1015,7 +1032,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
-        "version": "1.77.0",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": true
     },
@@ -1032,7 +1049,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.noevil.pl/",
         "software": "Synapse",
-        "version": "1.77.0",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": true
     },
@@ -1186,8 +1203,8 @@
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
         "version": "1.76.0 (b=develop,d0fed7a37)",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "pragma-messenger.ch",
@@ -1578,7 +1595,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "fachschaften.org",
