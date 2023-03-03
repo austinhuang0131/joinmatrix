@@ -641,7 +641,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://g24.at",
         "software": "Synapse",
-        "version": "1.77.0",
+        "version": "1.78.0",
         "recaptcha": true,
         "email": false
     },
@@ -658,7 +658,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.gemeinsam.jetzt/",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": true
     },
@@ -837,8 +837,8 @@
         "domain": "kitsunes.club",
         "info": "https://kitsunes.club",
         "jurisdiction": "Canada",
-        "tos": "https://kitsunes.club/@Kio/pages/rules",
-        "privacy": null,
+        "tos": "https://kitsunes.club/_matrix/consent",
+        "privacy": "https://kitsunes.club/_matrix/consent",
         "open": true,
         "remarks": "",
         "antifeature": null,
@@ -1612,7 +1612,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "fachschaften.org",
