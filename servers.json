@@ -1394,23 +1394,6 @@
         "email": true
     },
     {
-        "name": "techsaviours.org",
-        "domain": "matrix.techsaviours.org",
-        "info": "https://techsaviours.org",
-        "jurisdiction": "Germany",
-        "tos": "https://techsaviours.org/terms-and-conditions.html",
-        "privacy": "https://techsaviours.org/privacy-policy.html",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.techsaviours.org/",
-        "software": "Synapse",
-        "version": "1.77.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "tedomum.net",
         "domain": "matrix.tedomum.net",
         "info": "https://tedomum.net/service/matrix/",
