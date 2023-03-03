@@ -794,8 +794,8 @@
         "reg_method": "In-house Element",
         "reg_link": "https://houtworm.im/",
         "software": "Synapse",
-        "version": "1.77.0",
-        "recaptcha": true,
+        "version": "1.78.0",
+        "recaptcha": false,
         "email": false
     },
     {
@@ -1394,6 +1394,23 @@
         "email": true
     },
     {
+        "name": "techsaviours.org",
+        "domain": "matrix.techsaviours.org",
+        "info": "https://techsaviours.org",
+        "jurisdiction": "Germany",
+        "tos": "https://techsaviours.org/terms-and-conditions.html",
+        "privacy": "https://techsaviours.org/privacy-policy.html",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.techsaviours.org/",
+        "software": "Synapse",
+        "version": "1.77.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "tedomum.net",
         "domain": "matrix.tedomum.net",
         "info": "https://tedomum.net/service/matrix/",
@@ -1595,7 +1612,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "fachschaften.org",
