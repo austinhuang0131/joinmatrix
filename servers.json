@@ -17,23 +17,6 @@
         "email": true
     },
     {
-        "name": "4d2.org",
-        "domain": "matrix.4d2.org",
-        "info": "https://4d2.org",
-        "jurisdiction": "Moldova",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.4d2.org",
-        "software": "Synapse",
-        "version": "1.77.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "agdersam.no",
         "domain": "agdersam.no",
         "info": "https://agdersam.no/",
@@ -132,8 +115,8 @@
         "reg_link": "https://el.aria-net.org/",
         "software": "Archon",
         "version": "1.77.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "bachgau.social",
@@ -1032,7 +1015,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nibbana.jp/",
         "software": "Synapse",
-        "version": "1.77.0",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": true
     },
