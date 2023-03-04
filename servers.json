@@ -153,6 +153,23 @@
         "email": true
     },
     {
+        "name": "badstuebner.biz",
+        "domain": "matrix.badstuebner.biz",
+        "info": "https://badstuebner.biz",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://badstuebner.biz/impressum.php",
+        "open": true,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.badstuebner.biz/",
+        "software": "Synapse",
+        "version": "1.72.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "bark.lgbt",
         "domain": "synapse.bark.lgbt",
         "info": "https://bark.lgbt",
@@ -850,6 +867,23 @@
         "email": true
     },
     {
+        "name": "librem.one",
+        "domain": "chat.librem.one",
+        "info": "https://librem.one",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": "https://librem.one/policy/",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://librem.one",
+        "software": "Synapse",
+        "version": "1.66.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "llamarific.social",
         "domain": "matrix.llamarific.social",
         "info": "https://llamarific.social/matrix.html",
@@ -1338,7 +1372,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://web.synod.im/",
         "software": "Synapse",
-        "version": "1.77.0",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": true
     },
@@ -1644,7 +1678,7 @@
         "reg_method": "Contact",
         "reg_link": "https://www.bytes4u.de/index.php?action=register",
         "software": "Synapse",
-        "version": "1.77.0",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": false
     },
