@@ -114,7 +114,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.arcticfoxes.net",
         "software": "Synapse",
-        "version": "1.77.0",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": true
     },
@@ -573,7 +573,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
-        "version": "1.77.0",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": true
     },
@@ -606,23 +606,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://webchat.freitrix.de/#/register",
-        "software": "Synapse",
-        "version": "1.77.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "fulda.social",
-        "domain": "matrix.fulda.social",
-        "info": "https://dasnetzundich.de/2021/08/14/willkommen-in-der-matrix/",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.fulda.social/",
         "software": "Synapse",
         "version": "1.77.0",
         "recaptcha": false,
@@ -1612,7 +1595,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "fachschaften.org",
