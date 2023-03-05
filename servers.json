@@ -102,23 +102,6 @@
         "email": true
     },
     {
-        "name": "arcticfoxes.net",
-        "domain": "matrix.arcticfoxes.net",
-        "info": "https://arcticfoxes.net",
-        "jurisdiction": "US (UK)",
-        "tos": "https://arcticfoxes.net/",
-        "privacy": "https://arcticfoxes.net/",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.arcticfoxes.net",
-        "software": "Synapse",
-        "version": "1.78.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "aria-net.org",
         "domain": "aria.im",
         "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
@@ -1203,8 +1186,8 @@
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
         "version": "1.76.0 (b=develop,d0fed7a37)",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "pragma-messenger.ch",
@@ -1338,7 +1321,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
-        "version": "1.77.0",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": true
     },
@@ -1423,7 +1406,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tomesh.net/",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": true
     },
@@ -1513,23 +1496,6 @@
         "email": true
     },
     {
-        "name": "vern.cc",
-        "domain": "mtrx.vern.cc",
-        "info": "https://vern.cc/",
-        "jurisdiction": "US",
-        "tos": "https://vern.cc/rules",
-        "privacy": "https://vern.cc/privpol",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://vern.cc/register.php",
-        "software": "Synapse",
-        "version": "1.74.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "virto.community",
         "domain": "matrix.virto.community",
         "info": "https://virto.network/",
@@ -1559,7 +1525,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.77.0",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": false
     },
