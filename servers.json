@@ -476,6 +476,23 @@
         "email": true
     },
     {
+        "name": "evulid.cc",
+        "domain": "matrix.evulid.cc",
+        "info": "https://matrix.evulid.cc",
+        "jurisdiction": "US",
+        "tos": "https://matrix.evulid.cc/_matrix/consent",
+        "privacy": "https://matrix.evulid.cc/_matrix/consent",
+        "open": true,
+        "remarks": "",
+        "antifeature": "Residential, uses Cloudflare",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.evulid.cc",
+        "software": "Synapse",
+        "version": "1.78.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "exarius.org",
         "domain": "exarius.org",
         "info": "https://exarius.org/docs/services/exatrix/",
