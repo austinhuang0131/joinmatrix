@@ -301,7 +301,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
-        "version": "1.77.0",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": true
     },
@@ -404,23 +404,6 @@
         "reg_link": "https://chat.data.haus/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "dieandalusier.net",
-        "domain": "matrix.dieandalusier.net",
-        "info": "https://www.twitch.tv/dieandalusier/about",
-        "jurisdiction": "Germany/Spain",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.dieandalusier.net",
-        "software": "Synapse",
-        "version": "1.70.1",
         "recaptcha": false,
         "email": true
     },
