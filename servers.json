@@ -115,8 +115,8 @@
         "reg_link": "https://el.aria-net.org/",
         "software": "Archon",
         "version": "1.78.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "bachgau.social",
@@ -149,6 +149,23 @@
         "reg_link": "https://element.badstuebner.biz/",
         "software": "Synapse",
         "version": "1.72.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "bark.lgbt",
+        "domain": "synapse.bark.lgbt",
+        "info": "https://bark.lgbt",
+        "jurisdiction": "Netherlands",
+        "tos": "https://bark.lgbt/about",
+        "privacy": null,
+        "open": true,
+        "remarks": "Furry-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.bark.lgbt",
+        "software": "Synapse",
+        "version": "1.75.0",
         "recaptcha": false,
         "email": true
     },
@@ -267,7 +284,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
-        "version": "1.77.0",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": true
     },
@@ -403,7 +420,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.77.0",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": true
     },
@@ -488,7 +505,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
-        "version": "1.77.0",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": true
     },
