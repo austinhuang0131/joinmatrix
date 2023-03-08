@@ -204,23 +204,6 @@
         "email": false
     },
     {
-        "name": "buyvm.net",
-        "domain": "buyvm.chat",
-        "info": "https://buyvm.net/beware-the-moshbear/",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Hosting provider; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.buyvm.net/element/",
-        "software": "Synapse",
-        "version": "1.76.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "catgirl.cloud",
         "domain": "matrix.catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -727,7 +710,7 @@
         "reg_link": "https://houtworm.im/",
         "software": "Synapse",
         "version": "1.78.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -797,6 +780,23 @@
         "version": "1.77.0",
         "recaptcha": false,
         "email": true
+    },
+    {
+        "name": "librem.one",
+        "domain": "chat.librem.one",
+        "info": "https://librem.one",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": "https://librem.one/policy/",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://librem.one",
+        "software": "Synapse",
+        "version": "1.66.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "llamarific.social",
@@ -1185,7 +1185,7 @@
         "reg_method": "SSO",
         "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
         "software": "Synapse",
-        "version": "1.77.0",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": false
     },
@@ -1222,23 +1222,6 @@
         "version": "1.74.0",
         "recaptcha": false,
         "email": false
-    },
-    {
-        "name": "sibnsk.net",
-        "domain": "matrix.sibnsk.net",
-        "info": "https://lugnsk.org/page/blog/matrix",
-        "jurisdiction": "Russia",
-        "tos": "https://matrix.sibnsk.net/_matrix/consent",
-        "privacy": "https://matrix.sibnsk.net/_matrix/consent",
-        "open": true,
-        "remarks": "In Russian",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.sibnsk.net",
-        "software": "Synapse",
-        "version": "1.76.0",
-        "recaptcha": false,
-        "email": true
     },
     {
         "name": "socialnetwork24.com",
@@ -1445,23 +1428,6 @@
         "email": true
     },
     {
-        "name": "vern.cc",
-        "domain": "mtrx.vern.cc",
-        "info": "https://vern.cc/",
-        "jurisdiction": "US",
-        "tos": "https://vern.cc/rules",
-        "privacy": "https://vern.cc/privpol",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://vern.cc/register.php",
-        "software": "Synapse",
-        "version": "1.74.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "virto.community",
         "domain": "matrix.virto.community",
         "info": "https://virto.network/",
@@ -1527,7 +1493,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "fachschaften.org",
