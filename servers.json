@@ -115,8 +115,8 @@
         "reg_link": "https://el.aria-net.org/",
         "software": "Archon",
         "version": "1.78.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "bachgau.social",
@@ -663,23 +663,6 @@
         "email": true
     },
     {
-        "name": "group.lt",
-        "domain": "matrix.group.lt",
-        "info": "https://group.lt",
-        "jurisdiction": "Lithuania?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Uses Cloudflare",
-        "reg_method": "In-house Cinny",
-        "reg_link": "https://chat.group.lt/",
-        "software": "Synapse",
-        "version": "1.78.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "hashi.sbs",
         "domain": "chatserver.hashi.sbs",
         "info": "https://hashi.sbs",
@@ -1049,7 +1032,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
-        "version": "1.77.0",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": true
     },
