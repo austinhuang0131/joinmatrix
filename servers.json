@@ -663,6 +663,23 @@
         "email": true
     },
     {
+        "name": "group.lt",
+        "domain": "matrix.group.lt",
+        "info": "https://group.lt",
+        "jurisdiction": "Lithuania?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": "Uses Cloudflare",
+        "reg_method": "In-house Cinny",
+        "reg_link": "https://chat.group.lt/",
+        "software": "Synapse",
+        "version": "1.78.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "hashi.sbs",
         "domain": "chatserver.hashi.sbs",
         "info": "https://hashi.sbs",
@@ -780,23 +797,6 @@
         "version": "1.77.0",
         "recaptcha": false,
         "email": true
-    },
-    {
-        "name": "librem.one",
-        "domain": "chat.librem.one",
-        "info": "https://librem.one",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": "https://librem.one/policy/",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://librem.one",
-        "software": "Synapse",
-        "version": "1.66.0",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "llamarific.social",
@@ -1527,7 +1527,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "fachschaften.org",
