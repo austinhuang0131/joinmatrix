@@ -166,8 +166,8 @@
         "reg_link": "https://chat.bark.lgbt",
         "software": "Synapse",
         "version": "1.75.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "bolha.chat",
@@ -200,6 +200,40 @@
         "reg_link": "https://chat.breeze.town/",
         "software": "Synapse",
         "version": "1.69.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "buyvm.net",
+        "domain": "buyvm.chat",
+        "info": "https://buyvm.net/beware-the-moshbear/",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Hosting provider; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.buyvm.net/element/",
+        "software": "Synapse",
+        "version": "1.76.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/codeofconduct",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": false
     },
