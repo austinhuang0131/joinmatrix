@@ -165,7 +165,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.bark.lgbt",
         "software": "Synapse",
-        "version": "1.75.0",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": true
     },
@@ -1411,23 +1411,6 @@
         "email": true
     },
     {
-        "name": "ungleich.ch",
-        "domain": "ungleich.matrix.ungleich.cloud",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
-        "software": "Synapse",
-        "version": "1.76.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "unita.online",
         "domain": "unita.online",
         "info": "https://blog.unita.online/",
@@ -1713,23 +1696,6 @@
         "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "sans-nuage.fr",
-        "domain": "matrix.sans-nuage.fr",
-        "info": "https://sans-nuage.fr",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": false,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "Membership",
-        "reg_link": "https://adherents.arn-fai.net/members/register/",
-        "software": "Synapse",
-        "version": "1.76.0",
         "recaptcha": false,
         "email": false
     }
