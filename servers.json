@@ -420,7 +420,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.crossbach.de/",
         "software": "Synapse",
-        "version": "1.77.0",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": false
     },
@@ -897,8 +897,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "mandragot.org",
@@ -1173,23 +1173,6 @@
         "email": true
     },
     {
-        "name": "plus.st",
-        "domain": "matrix.plus.st",
-        "info": "https://plus.st/",
-        "jurisdiction": "US",
-        "tos": "https://plus.st/terms.html",
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.plus.st/",
-        "software": "Synapse",
-        "version": "1.78.0 (b=develop,242d2a27c)",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "pragma-messenger.ch",
         "domain": "pragma-messenger.ch",
         "info": "https://pragma-solution.com/de/Produkte/messenger/",
@@ -1305,6 +1288,23 @@
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
         "version": "1.77.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "studichat.de",
+        "domain": "matrix.studichat.de",
+        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; student-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.studichat.de/",
+        "software": "Synapse",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": true
     },
@@ -1581,23 +1581,6 @@
         "email": false
     },
     {
-        "name": "hingst.net",
-        "domain": "matrix.rimfaxe.net",
-        "info": "https://hingst.net",
-        "jurisdiction": "Sweden",
-        "tos": "https://www.hovkluster.se/matrix/villkor_hingst.html",
-        "privacy": "https://www.hovkluster.se/matrix/integritet_hingst.html",
-        "open": false,
-        "remarks": "Requires a public registration token (see homepage); freemium",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.hingst.net/",
-        "software": "Synapse",
-        "version": "1.78.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "pikaviestin.fi",
         "domain": "matrix.pikaviestin.fi",
         "info": "https://pikaviestin.fi",
@@ -1730,6 +1713,23 @@
         "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
         "software": "Synapse",
         "version": "1.77.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "rimfaxe.net",
+        "domain": "matrix.rimfaxe.net",
+        "info": "https://rimfaxe.net",
+        "jurisdiction": "Sweden",
+        "tos": "https://rimfaxe.net/terms/",
+        "privacy": "https://rimfaxe.net/privacy/",
+        "open": false,
+        "remarks": "In Swedish; freemium",
+        "antifeature": null,
+        "reg_method": "Membership",
+        "reg_link": "https://rimfaxe.net/bli-medlem/",
+        "software": "Synapse",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": false
     },
