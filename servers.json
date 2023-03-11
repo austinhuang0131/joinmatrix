@@ -1598,23 +1598,6 @@
         "email": false
     },
     {
-        "name": "hingst.net",
-        "domain": "matrix.rimfaxe.net",
-        "info": "https://hingst.net",
-        "jurisdiction": "Sweden",
-        "tos": "https://www.hovkluster.se/matrix/villkor_hingst.html",
-        "privacy": "https://www.hovkluster.se/matrix/integritet_hingst.html",
-        "open": false,
-        "remarks": "Requires a public registration token (see homepage); freemium",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.hingst.net/",
-        "software": "Synapse",
-        "version": "1.78.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "pikaviestin.fi",
         "domain": "matrix.pikaviestin.fi",
         "info": "https://pikaviestin.fi",
