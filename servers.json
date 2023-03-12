@@ -170,23 +170,6 @@
         "email": true
     },
     {
-        "name": "bark.lgbt",
-        "domain": "synapse.bark.lgbt",
-        "info": "https://bark.lgbt",
-        "jurisdiction": "Netherlands",
-        "tos": "https://bark.lgbt/about",
-        "privacy": null,
-        "open": true,
-        "remarks": "Furry-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.bark.lgbt",
-        "software": "Synapse",
-        "version": "1.78.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "bolha.chat",
         "domain": "bolha.chat",
         "info": "https://bolha.chat",
@@ -236,23 +219,6 @@
         "version": "1.76.0",
         "recaptcha": false,
         "email": true
-    },
-    {
-        "name": "cat.casa",
-        "domain": "matrix.cat.casa",
-        "info": "https://cat.casa/",
-        "jurisdiction": "Germany",
-        "tos": "https://cat.casa/codeofconduct",
-        "privacy": "https://cat.casa/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.cat.casa/",
-        "software": "Synapse",
-        "version": "1.78.0",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "catgirl.cloud",
@@ -969,6 +935,23 @@
         "email": true
     },
     {
+        "name": "mtrx.nz",
+        "domain": "mtrx.nz",
+        "info": "https://fediservices.nz/",
+        "jurisdiction": "New Zealand",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://mtrx.nz/",
+        "software": "Synapse",
+        "version": "1.78.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "nibbana.jp",
         "domain": "nibbana.jp",
         "info": "https://minohdon.jp/@toneji/108741278436401857",
@@ -1184,6 +1167,23 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
+        "software": "Synapse",
+        "version": "1.78.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "projectsegfau.lt",
+        "domain": "matrix.projectsegfau.lt:443",
+        "info": "https://projectsegfau.lt/instances",
+        "jurisdiction": "France/Luxembourg",
+        "tos": "https://projectsegfau.lt/legal/tos",
+        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.projectsegfau.lt/",
         "software": "Synapse",
         "version": "1.78.0",
         "recaptcha": false,
@@ -1527,7 +1527,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "fachschaften.org",
