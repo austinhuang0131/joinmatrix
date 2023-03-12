@@ -391,23 +391,6 @@
         "email": false
     },
     {
-        "name": "converser.eu",
-        "domain": "converser.eu",
-        "info": "https://converser.eu",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.74.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "crossbach.de",
         "domain": "matrix.crossbach.de",
         "info": "https://crossbach.de",
@@ -914,8 +897,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "mandragot.org",
@@ -1225,7 +1208,7 @@
     },
     {
         "name": "projectsegfau.lt",
-        "domain": "matrix.projectsegfau.lt:443",
+        "domain": "projectsegfau.lt:8448",
         "info": "https://projectsegfau.lt/instances",
         "jurisdiction": "France/Luxembourg",
         "tos": "https://projectsegfau.lt/legal/tos",
@@ -1513,6 +1496,23 @@
         "email": true
     },
     {
+        "name": "vern.cc",
+        "domain": "mtrx.vern.cc",
+        "info": "https://vern.cc/",
+        "jurisdiction": "US",
+        "tos": "https://vern.cc/rules",
+        "privacy": "https://vern.cc/privpol",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://vern.cc/register.php",
+        "software": "Synapse",
+        "version": "1.74.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "virto.community",
         "domain": "matrix.virto.community",
         "info": "https://virto.network/",
@@ -1578,7 +1578,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "fachschaften.org",
