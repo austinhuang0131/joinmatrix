@@ -136,6 +136,23 @@
         "email": true
     },
     {
+        "name": "bachgau.social",
+        "domain": "matrix.bachgau.social",
+        "info": "https://www.bachgau.social/unsere-dienste/matrix/",
+        "jurisdiction": "Germany",
+        "tos": "https://mastodon.bachgau.social/about",
+        "privacy": "https://www.bachgau.social/datenschutzerklaerung/",
+        "open": true,
+        "remarks": "In German; regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.bachgau.social/",
+        "software": "Synapse",
+        "version": "1.78.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "badstuebner.biz",
         "domain": "matrix.badstuebner.biz",
         "info": "https://badstuebner.biz",
@@ -695,6 +712,23 @@
         "version": "1.78.0",
         "recaptcha": false,
         "email": true
+    },
+    {
+        "name": "hackliberty.org",
+        "domain": "hackliberty.org",
+        "info": "https://hackliberty.org",
+        "jurisdiction": "Iceland?",
+        "tos": "https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/code-of-conduct.md",
+        "privacy": "https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/privacy-policy.md",
+        "open": true,
+        "remarks": "Libertarian; tech collective",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://hackliberty.org/register",
+        "software": "Synapse",
+        "version": "1.78.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "hashi.sbs",
@@ -1527,7 +1561,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "fachschaften.org",
