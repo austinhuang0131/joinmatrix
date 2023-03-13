@@ -170,6 +170,23 @@
         "email": true
     },
     {
+        "name": "bark.lgbt",
+        "domain": "synapse.bark.lgbt",
+        "info": "https://bark.lgbt",
+        "jurisdiction": "Netherlands",
+        "tos": "https://bark.lgbt/about",
+        "privacy": null,
+        "open": true,
+        "remarks": "Furry-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.bark.lgbt",
+        "software": "Synapse",
+        "version": "1.78.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "bolha.chat",
         "domain": "bolha.chat",
         "info": "https://bolha.chat",
@@ -219,6 +236,23 @@
         "version": "1.76.0",
         "recaptcha": false,
         "email": true
+    },
+    {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/codeofconduct",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.78.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "catgirl.cloud",
@@ -1135,23 +1169,6 @@
         "reg_link": "https://client.perthchat.org/",
         "software": "Synapse",
         "version": "1.78.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "plus.st",
-        "domain": "matrix.plus.st",
-        "info": "https://plus.st/",
-        "jurisdiction": "US",
-        "tos": "https://plus.st/terms.html",
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.plus.st/",
-        "software": "Synapse",
-        "version": "1.78.0 (b=develop,242d2a27c)",
         "recaptcha": false,
         "email": true
     },
