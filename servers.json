@@ -284,7 +284,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chagai.website/",
         "software": "Synapse",
-        "version": "1.59.1",
+        "version": "1.78.0",
         "recaptcha": false,
         "email": true
     },
@@ -1543,8 +1543,8 @@
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
         "version": "1.78.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "asra.gr",
