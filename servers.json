@@ -114,7 +114,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.arcticfoxes.net",
         "software": "Synapse",
-        "version": "1.79.0rc1",
+        "version": "1.79.0rc2",
         "recaptcha": false,
         "email": true
     },
@@ -527,6 +527,23 @@
         "email": false
     },
     {
+        "name": "filik.eu",
+        "domain": "chat.filik.eu:443",
+        "info": "https://filik.eu",
+        "jurisdiction": "Czech Republic",
+        "tos": null,
+        "privacy": "https://filik.eu/policy.html",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
+        "software": "Synapse",
+        "version": "1.78.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "flieger.chat",
         "domain": "matrix.flieger.chat",
         "info": "https://yatrix.org",
@@ -848,23 +865,6 @@
         "version": "1.77.0",
         "recaptcha": false,
         "email": true
-    },
-    {
-        "name": "librem.one",
-        "domain": "chat.librem.one",
-        "info": "https://librem.one",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": "https://librem.one/policy/",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://librem.one",
-        "software": "Synapse",
-        "version": "1.66.0",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "llamarific.social",
@@ -1561,7 +1561,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "fachschaften.org",
