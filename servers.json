@@ -1543,8 +1543,8 @@
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
         "version": "1.78.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "asra.gr",
@@ -1647,23 +1647,6 @@
         "version": "1.77.0",
         "recaptcha": false,
         "email": true
-    },
-    {
-        "name": "libreon.fr",
-        "domain": "matrix.libreon.fr",
-        "info": "https://libreon.fr",
-        "jurisdiction": "France",
-        "tos": "https://libreon.fr/cgu",
-        "privacy": "https://libreon.fr/cgu",
-        "open": false,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://libreon.fr/account",
-        "software": "Synapse",
-        "version": "1.71.0",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "data.coop",
