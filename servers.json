@@ -255,23 +255,6 @@
         "email": false
     },
     {
-        "name": "catgirl.cloud",
-        "domain": "matrix.catgirl.cloud",
-        "info": "https://catgirl.cloud",
-        "jurisdiction": "Germany",
-        "tos": "https://catgirl.cloud/#rules",
-        "privacy": "https://catgirl.cloud/#privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://registration.matrix.catgirl.cloud/",
-        "software": "Synapse",
-        "version": "1.79.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "chagai.website",
         "domain": "mx.chagai.website",
         "info": "https://chagai.website",
@@ -1236,7 +1219,7 @@
         "reg_method": "SSO",
         "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.79.0",
         "recaptcha": false,
         "email": false
     },
