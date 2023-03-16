@@ -46,7 +46,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.agdersam.no/",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.79.0",
         "recaptcha": false,
         "email": true
     },
@@ -539,7 +539,7 @@
         "reg_method": "SSO",
         "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.79.0",
         "recaptcha": false,
         "email": false
     },
@@ -914,8 +914,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.78.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "marmottel.com",
@@ -1050,6 +1050,23 @@
         "reg_link": "https://nopasaran.red/how-to-join/",
         "software": "Synapse",
         "version": "1.78.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "nope.chat",
+        "domain": "nope.chat",
+        "info": "https://nope.chat",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.nope.chat",
+        "software": "Synapse",
+        "version": "1.79.0",
         "recaptcha": false,
         "email": true
     },
@@ -1338,7 +1355,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.79.0",
         "recaptcha": false,
         "email": true
     },
@@ -1630,6 +1647,23 @@
         "version": "1.77.0",
         "recaptcha": false,
         "email": true
+    },
+    {
+        "name": "libreon.fr",
+        "domain": "matrix.libreon.fr",
+        "info": "https://libreon.fr",
+        "jurisdiction": "France",
+        "tos": "https://libreon.fr/cgu",
+        "privacy": "https://libreon.fr/cgu",
+        "open": false,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://libreon.fr/account",
+        "software": "Synapse",
+        "version": "1.71.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "data.coop",
