@@ -523,7 +523,7 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": true,
+        "recaptcha": false,
         "email": false
     },
     {
@@ -1338,7 +1338,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://web.synod.im/",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.79.0",
         "recaptcha": false,
         "email": true
     },
@@ -1610,7 +1610,7 @@
         "reg_method": "Contact",
         "reg_link": "https://www.bytes4u.de/index.php?action=register",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.79.0",
         "recaptcha": false,
         "email": false
     },
