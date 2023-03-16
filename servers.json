@@ -97,7 +97,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.79.0",
         "recaptcha": false,
         "email": true
     },
@@ -114,7 +114,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.arcticfoxes.net",
         "software": "Synapse",
-        "version": "1.79.0rc2",
+        "version": "1.79.0",
         "recaptcha": false,
         "email": true
     },
@@ -777,7 +777,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.hot-chilli.im/",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.79.0",
         "recaptcha": false,
         "email": true
     },
@@ -914,8 +914,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.78.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "marmottel.com",
@@ -1050,23 +1050,6 @@
         "reg_link": "https://nopasaran.red/how-to-join/",
         "software": "Synapse",
         "version": "1.78.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "nope.chat",
-        "domain": "nope.chat",
-        "info": "https://nope.chat",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.nope.chat",
-        "software": "Synapse",
-        "version": "1.79.0",
         "recaptcha": false,
         "email": true
     },
@@ -1561,7 +1544,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "fachschaften.org",
@@ -1615,6 +1598,23 @@
         "email": false
     },
     {
+        "name": "deuxfleurs.fr",
+        "domain": "im.deuxfleurs.fr",
+        "info": "https://deuxfleurs.fr",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": false,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://deuxfleurs.fr/",
+        "software": "Synapse",
+        "version": "1.70.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "hyteck.de",
         "domain": "synapse.hyteck.de",
         "info": "https://hyteck.de/services/",
@@ -1630,23 +1630,6 @@
         "version": "1.77.0",
         "recaptcha": false,
         "email": true
-    },
-    {
-        "name": "libreon.fr",
-        "domain": "matrix.libreon.fr",
-        "info": "https://libreon.fr",
-        "jurisdiction": "France",
-        "tos": "https://libreon.fr/cgu",
-        "privacy": "https://libreon.fr/cgu",
-        "open": false,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://libreon.fr/account",
-        "software": "Synapse",
-        "version": "1.71.0",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "data.coop",
