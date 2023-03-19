@@ -897,8 +897,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.79.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "marmottel.com",
@@ -1360,23 +1360,6 @@
         "email": true
     },
     {
-        "name": "tedomum.net",
-        "domain": "matrix.tedomum.net",
-        "info": "https://tedomum.net/service/matrix/",
-        "jurisdiction": "France",
-        "tos": "https://tedomum.net/page/cgu/",
-        "privacy": "https://tedomum.net/page/cgu/",
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://tedomum.net/documentation/general/account/",
-        "software": "Synapse",
-        "version": "1.79.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "tomesh.net",
         "domain": "matrix.tomesh.net",
         "info": "https://tomesh.net/mesh-services/",
@@ -1508,7 +1491,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.79.0",
         "recaptcha": false,
         "email": true
     },
@@ -1646,23 +1629,6 @@
         "software": "Synapse",
         "version": "1.63.1",
         "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "fsfe.org",
-        "domain": "fsfe.org",
-        "info": "https://fsfe.org/news/2022/news-20220202-01.html",
-        "jurisdiction": "Germany",
-        "tos": "https://fsfe.org/about/codeofconduct",
-        "privacy": "https://fsfe.org/about/legal/imprint.en.html#id-privacy-policy",
-        "open": false,
-        "remarks": "Accessory; advocacy",
-        "antifeature": null,
-        "reg_method": "Membership",
-        "reg_link": "https://my.fsfe.org/donate",
-        "software": "Synapse",
-        "version": "1.78.0",
-        "recaptcha": true,
         "email": false
     },
     {
