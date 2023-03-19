@@ -323,6 +323,23 @@
         "email": true
     },
     {
+        "name": "chrrreeeeesss.com",
+        "domain": "chrrreeeeesss.com",
+        "info": "https://chrrreeeeesss.com",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chrrreeeeesss.com/element",
+        "software": "Synapse",
+        "version": "1.79.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "club1.fr",
         "domain": "club1.fr",
         "info": "https://club1.fr/matrix/",
@@ -1015,7 +1032,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.noevil.pl/",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.79.0",
         "recaptcha": false,
         "email": true
     },
