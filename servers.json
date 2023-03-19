@@ -301,7 +301,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.79.0",
         "recaptcha": false,
         "email": true
     },
@@ -454,7 +454,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.79.0",
         "recaptcha": false,
         "email": true
     },
@@ -539,7 +539,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.79.0",
         "recaptcha": false,
         "email": true
     },
@@ -897,8 +897,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.79.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "marmottel.com",
@@ -1441,23 +1441,6 @@
         "reg_link": "https://matrix.unita.online",
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "unredacted.org",
-        "domain": "matrix.unredacted.org",
-        "info": "https://unredacted.org/services/matrix/",
-        "jurisdiction": "US (Romania)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.unredacted.org/",
-        "software": "Synapse",
-        "version": "1.79.0",
         "recaptcha": false,
         "email": true
     },
