@@ -85,23 +85,6 @@
         "email": false
     },
     {
-        "name": "archoslinux.cz",
-        "domain": "matrix.archoslinux.cz:443",
-        "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
-        "jurisdiction": "Czech Republic (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Czech; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.archoslinux.cz/",
-        "software": "Synapse",
-        "version": "1.79.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "arcticfoxes.net",
         "domain": "matrix.arcticfoxes.net",
         "info": "https://arcticfoxes.net",
@@ -573,7 +556,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.79.0",
         "recaptcha": false,
         "email": true
     },
@@ -914,8 +897,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.79.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "marmottel.com",
@@ -998,7 +981,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nibbana.jp/",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.79.0",
         "recaptcha": false,
         "email": true
     },
@@ -1474,7 +1457,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.unredacted.org/",
         "software": "Synapse",
-        "version": "1.75.0",
+        "version": "1.79.0",
         "recaptcha": false,
         "email": true
     },
@@ -1576,7 +1559,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.79.0",
         "recaptcha": false,
         "email": false
     },
@@ -1684,7 +1667,7 @@
     },
     {
         "name": "fsfe.org",
-        "domain": "matrix.fsfe.org",
+        "domain": "fsfe.org",
         "info": "https://fsfe.org/news/2022/news-20220202-01.html",
         "jurisdiction": "Germany",
         "tos": "https://fsfe.org/about/codeofconduct",
@@ -1696,7 +1679,7 @@
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
         "version": "1.78.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
