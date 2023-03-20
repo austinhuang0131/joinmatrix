@@ -34,6 +34,23 @@
         "email": true
     },
     {
+        "name": "agdersam.no",
+        "domain": "agdersam.no",
+        "info": "https://agdersam.no/",
+        "jurisdiction": "Norway (Germany)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.agdersam.no/",
+        "software": "Synapse",
+        "version": "1.79.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "anonymousland.org",
         "domain": "anonymousland.org",
         "info": "https://www.anonymousland.org/services#matrix",
@@ -81,23 +98,6 @@
         "reg_link": "https://element.arcticfoxes.net",
         "software": "Synapse",
         "version": "1.79.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "aria-net.org",
-        "domain": "aria.im",
-        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
-        "jurisdiction": "Italy?",
-        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://el.aria-net.org/",
-        "software": "Archon",
-        "version": "1.78.0",
         "recaptcha": false,
         "email": true
     },
@@ -306,23 +306,6 @@
         "email": true
     },
     {
-        "name": "club1.fr",
-        "domain": "club1.fr",
-        "info": "https://club1.fr/matrix/",
-        "jurisdiction": "France",
-        "tos": "https://club1.fr/docs/fr/cgu.html",
-        "privacy": "https://club1.fr/docs/fr/info/politique-de-vie-privee.html",
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://riot.club1.fr/",
-        "software": "Synapse",
-        "version": "1.78.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "comm.cx",
         "domain": "matrix-client.comm.cx",
         "info": "https://comm.cx",
@@ -489,7 +472,7 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
