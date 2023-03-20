@@ -29,8 +29,15 @@ document.addEventListener('DOMContentLoaded', (event) => {
     i = r.children.length - 1;
     if (c[i].textContent == "Error!!")
       c[i].classList.add("red");
-    else if (c[i].textContent.indexOf("Dendrite") == -1)
-      c[i].classList.add((c[i].textContent.match(/\d+\.\d+\.\d/) != null && parseFloat(c[i].textContent.match(/\d+\.\d+\.\d/)[0].substring(2)) >= 61.1) ? "green" : "orange");
+    else if (c[i].textContent.indexOf("Dendrite") == -1 && c[i].textContent.match(/\d+\.\d+\.\d/) != null)
+      c[i].classList.add(parseFloat(c[i].textContent.match(/\d+\.\d+\.\d/)[0].substring(2) >= 61.1
+        ? (
+          c[i].classList.add(parseFloat(c[i].textContent.match(/\d+\.\d+\.\d/)[0].substring(2) >= 73.0
+          ? "green"
+          : "blue"
+        )
+        : "orange"
+      );
   })
 })
 </script>
@@ -105,8 +112,10 @@ From left to right:
   * A domain: After clicking "Create Account" and "Edit," enter the domain as specified in this column (without `https://`) to [create an account](../guide/#register-an-account) on this homeserver. This discrepancy is usually due to the misconfiguration of `.well-known`.
   * "SSO": The homeserver requires [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) for authentication. You must create an account through the link prior to creating an account on the Matrix homeserver itself. Usually, the account can be used to access other services offered by the homeserver operator.
 * **Version**: The software version of the homeserver, [updated every 6 hours by a GitHub Action](https://github.com/austinhuang0131/joinmatrix/blob/main/.github/workflows/matrix_ver.yml#L4).
-  * Unless indicated otherwise, the homeserver is running Synapse, where versions `1.61.1` and above (coloured green) is [recommended](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-31052) to address a security issue. Homeservers running deprecated versions, namely those prior to `1.61.1`, are coloured yellow.
-  * Homeservers that use Dendrite are not coloured.
+  * Unless indicated otherwise, the homeserver is running Synapse.
+    * Homeservers running versions prior to `1.61.1` are coloured yellow due to a [vulnerability](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-31052).
+    * Homeservers running a version released approximately more than 3 months ago are coloured blue. Currently the cutoff is `1.73.0`.
+  * Homeservers that use Dendrite or have unparseable version strings are not coloured.
   * "Error!!" (coloured red): The homeserver cannot be reached at the time of checking. This is usually occasional, as frequent downtime are grounds for exclusion from this list.
 
 ## Other Matrix homeserver lists
