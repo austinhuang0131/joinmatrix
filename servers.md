@@ -29,15 +29,10 @@ document.addEventListener('DOMContentLoaded', (event) => {
     i = r.children.length - 1;
     if (c[i].textContent == "Error!!")
       c[i].classList.add("red");
-    else if (c[i].textContent.indexOf("Dendrite") == -1 && c[i].textContent.match(/\d+\.\d+\.\d/) != null)
-      c[i].classList.add(parseFloat(c[i].textContent.match(/\d+\.\d+\.\d/)[0].substring(2) >= 61.1
-        ? (
-          c[i].classList.add(parseFloat(c[i].textContent.match(/\d+\.\d+\.\d/)[0].substring(2) >= 73.0
-          ? "green"
-          : "blue"
-        )
-        : "orange"
-      );
+    else if (c[i].textContent.indexOf("Dendrite") == -1 && c[i].textContent.match(/\d+\.\d+\.\d/) != null) {
+      let v = parseFloat(c[i].textContent.match(/\d+\.\d+\.\d/)[0].substring(2));
+      c[i].classList.add(v >= 61.1 ? (v >= 73.0 ? "green" : "blue") : "orange");
+    }
   })
 })
 </script>
