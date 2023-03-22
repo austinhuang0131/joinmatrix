@@ -34,6 +34,23 @@
         "email": true
     },
     {
+        "name": "agdersam.no",
+        "domain": "agdersam.no",
+        "info": "https://agdersam.no/",
+        "jurisdiction": "Norway (Germany)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.agdersam.no/",
+        "software": "Synapse",
+        "version": "1.79.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "anonymousland.org",
         "domain": "anonymousland.org",
         "info": "https://www.anonymousland.org/services#matrix",
@@ -506,23 +523,6 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "filik.eu",
-        "domain": "chat.filik.eu:443",
-        "info": "https://filik.eu",
-        "jurisdiction": "Czech Republic",
-        "tos": null,
-        "privacy": "https://filik.eu/policy.html",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
-        "software": "Synapse",
-        "version": "1.79.0",
         "recaptcha": false,
         "email": false
     },
@@ -1627,7 +1627,7 @@
         "reg_method": "Contact",
         "reg_link": "https://deuxfleurs.fr/",
         "software": "Synapse",
-        "version": "1.70.0",
+        "version": "1.79.0",
         "recaptcha": false,
         "email": false
     },
