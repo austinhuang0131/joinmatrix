@@ -17,23 +17,6 @@
         "email": true
     },
     {
-        "name": "4d2.org",
-        "domain": "matrix.4d2.org",
-        "info": "https://4d2.org",
-        "jurisdiction": "Moldova",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.4d2.org",
-        "software": "Synapse",
-        "version": "1.77.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "agdersam.no",
         "domain": "agdersam.no",
         "info": "https://agdersam.no/",
@@ -493,23 +476,6 @@
         "email": true
     },
     {
-        "name": "evulid.cc",
-        "domain": "matrix.evulid.cc",
-        "info": "https://matrix.evulid.cc",
-        "jurisdiction": "US",
-        "tos": "https://matrix.evulid.cc/_matrix/consent",
-        "privacy": "https://matrix.evulid.cc/_matrix/consent",
-        "open": true,
-        "remarks": "",
-        "antifeature": "Residential, uses Cloudflare",
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.evulid.cc",
-        "software": "Synapse",
-        "version": "1.79.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "exarius.org",
         "domain": "exarius.org",
         "info": "https://exarius.org/docs/services/exatrix/",
@@ -914,8 +880,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.79.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "marmottel.com",
@@ -1084,8 +1050,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.79.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "norge.chat",
@@ -1186,23 +1152,6 @@
         "reg_link": "https://client.perthchat.org/",
         "software": "Synapse",
         "version": "1.78.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "plus.st",
-        "domain": "matrix.plus.st",
-        "info": "https://plus.st/",
-        "jurisdiction": "US",
-        "tos": "https://plus.st/terms.html",
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.plus.st/",
-        "software": "Synapse",
-        "version": "1.78.0 (b=develop,242d2a27c)",
         "recaptcha": false,
         "email": true
     },
@@ -1322,23 +1271,6 @@
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "studichat.de",
-        "domain": "matrix.studichat.de",
-        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.studichat.de/",
-        "software": "Synapse",
-        "version": "1.79.0",
         "recaptcha": false,
         "email": true
     },
