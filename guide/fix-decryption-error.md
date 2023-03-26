@@ -28,10 +28,10 @@ A detailed explanation is available on [neko.dev](https://blog.neko.dev/posts/un
 3. Move the resulting key file to device B.
 4. On device B, click "Import E2E room keys". Follow the instructions.
 
-## If you are able to read past messages on the same device
+## For all other situations
 
 Try the following in no specific order:
 
-* Enter `/discardsession` in the room.
 * If key backup is enabled for your account, go to Room Settings => Security & Privacy => Restore from Backup.
 * While the sender is online, ask them to navigate to the room, then click "resend key requests" on your device.
+* Enter `/discardsession` in the room.
