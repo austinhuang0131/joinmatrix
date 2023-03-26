@@ -1,5 +1,5 @@
 ---
-title: More Features of Matrix
+title: Fix decryption errors on Matrix
 layout: page-two-col
 nav: false
 parent: guide
