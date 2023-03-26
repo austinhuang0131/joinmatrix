@@ -102,23 +102,6 @@
         "email": true
     },
     {
-        "name": "arcticfoxes.net",
-        "domain": "matrix.arcticfoxes.net",
-        "info": "https://arcticfoxes.net",
-        "jurisdiction": "US (UK)",
-        "tos": "https://arcticfoxes.net/",
-        "privacy": "https://arcticfoxes.net/",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.arcticfoxes.net",
-        "software": "Synapse",
-        "version": "1.80.0rc2",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "aria-net.org",
         "domain": "aria.im",
         "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
@@ -166,23 +149,6 @@
         "reg_link": "https://element.badstuebner.biz/",
         "software": "Synapse",
         "version": "1.72.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "bark.lgbt",
-        "domain": "synapse.bark.lgbt",
-        "info": "https://bark.lgbt",
-        "jurisdiction": "Netherlands",
-        "tos": "https://bark.lgbt/about",
-        "privacy": null,
-        "open": true,
-        "remarks": "Furry-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.bark.lgbt",
-        "software": "Synapse",
-        "version": "1.78.0",
         "recaptcha": false,
         "email": true
     },
