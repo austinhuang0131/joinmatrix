@@ -15,9 +15,11 @@ A detailed explanation is available on [neko.dev](https://blog.neko.dev/posts/un
 
 ### Basic checks
 
-* Did the sender enable "Never send encrypted messages to unverified sessions in this room from this session" in Room Settings => Security & Privacy => Encryption, or in User Settings => Security & Privacy => Cryptography? (If so, turn it off if you don't understand what it does.)
-* Were you logged out of every device at the time the message was sent? (If so, there is no way to recover the message as of now.)
-* Can the sender see your current device (by opening your profile and clicking "sessions" on PC)? (If not, please verify whether your homeserver is working correctly.)
+* Unless you understand what it does, have the sender disable "Never send encrypted messages to unverified sessions in this room from this session" (in Room Settings => Security & Privacy), as well as "Never send encrypted messages to unverified sessions from this session" (in User Settings => Security & Privacy).
+* On PC Element, have the sender open your profile and show your active sessions under "Security". Check if your current session is there. If not, please verify whether your homeserver is working correctly.
+* If you logged out of every device when you received the message, the message cannot be recovered, *for now*. (Dehydrated devices will eventually fix this issue)
+
+If none of the above applies to you, continue reading.
 
 ### If at least one of your devices can read the messages
 
