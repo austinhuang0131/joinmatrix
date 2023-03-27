@@ -901,23 +901,6 @@
         "email": true
     },
     {
-        "name": "marmottel.com",
-        "domain": "matrix.marmottel.com",
-        "info": "https://www.marmottel.com",
-        "jurisdiction": "Canada",
-        "tos": "https://www.marmottel.com/rulage.html",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.marmottel.com",
-        "software": "Synapse",
-        "version": "1.74.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "matrix.im",
         "domain": "matrix.im",
         "info": "https://matrix.im",
