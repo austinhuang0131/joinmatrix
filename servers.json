@@ -34,6 +34,23 @@
         "email": true
     },
     {
+        "name": "agdersam.no",
+        "domain": "agdersam.no",
+        "info": "https://agdersam.no/",
+        "jurisdiction": "Norway (Germany)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.agdersam.no/",
+        "software": "Synapse",
+        "version": "1.79.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "anonymousland.org",
         "domain": "anonymousland.org",
         "info": "https://www.anonymousland.org/services#matrix",
@@ -233,7 +250,24 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.cat.casa/",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "catgirl.cloud",
+        "domain": "matrix.catgirl.cloud",
+        "info": "https://catgirl.cloud",
+        "jurisdiction": "Germany",
+        "tos": "https://catgirl.cloud/#rules",
+        "privacy": "https://catgirl.cloud/#privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://registration.matrix.catgirl.cloud/",
+        "software": "Synapse",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": false
     },
@@ -454,7 +488,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
@@ -472,7 +506,7 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -504,23 +538,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
-        "software": "Synapse",
-        "version": "1.79.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "frei.chat",
-        "domain": "matrix.frei.chat",
-        "info": "https://frei.chat",
-        "jurisdiction": "Germany (Finland)",
-        "tos": "https://frei.chat/termsofuse/",
-        "privacy": "https://frei.chat/privacypolicy/",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
         "version": "1.79.0",
         "recaptcha": false,
@@ -573,7 +590,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://g24.at",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": true,
         "email": false
     },
@@ -675,7 +692,7 @@
         "reg_method": "In-house Cinny",
         "reg_link": "https://chat.group.lt/",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
@@ -964,7 +981,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
@@ -1015,7 +1032,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
@@ -1050,23 +1067,6 @@
         "reg_link": "https://chat.oblak.be/",
         "software": "Synapse",
         "version": "1.59.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "ohai.su",
-        "domain": "matrix.ohai.su",
-        "info": "https://ohai.su",
-        "jurisdiction": "Germany",
-        "tos": "https://ohai.social/about",
-        "privacy": "https://fnordserver.eu/en/privacy-policy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.ohai.su/",
-        "software": "Synapse",
-        "version": "1.70.1",
         "recaptcha": false,
         "email": true
     },
@@ -1236,7 +1236,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.sibnsk.net",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
@@ -1270,7 +1270,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
@@ -1304,7 +1304,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
@@ -1525,7 +1525,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": false
     },
