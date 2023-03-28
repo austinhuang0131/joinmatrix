@@ -9,7 +9,7 @@ description: A simple checklist on what to do when your Matrix client cannot dec
 
 ## Fix decryption error
 
-If you're seeing *Unable to decrypt message* or similar errors in a room, here's a list of steps you can take to try to remedy the situation. Note that the instructions are relative to Element, but in principle similar steps can be taken for other clients.
+If you're seeing *Unable to decrypt message* or similar errors in a room, here's a list of possible steps you can take to try to remedy the situation. Note that the instructions are relative to Element, but in principle similar steps can be taken for other clients.
 
 A detailed explanation is available on [neko.dev](https://blog.neko.dev/posts/unable-to-decrypt-matrix.html).
 
@@ -41,3 +41,5 @@ Try the following in no specific order:
 * If key backup is enabled for your account, go to Room Settings => Security & Privacy => Restore from Backup.
 * While the sender is online, ask them to navigate to the room, then click "resend key requests" on your device.
 * Enter `/discardsession` in the room (unlikely to fix existing issue but could prevent future issues).
+
+If you have exhausted all the steps and have read through the [neko.dev](https://blog.neko.dev/posts/unable-to-decrypt-matrix.html) article, it may very well be a bug.
