@@ -47,8 +47,8 @@
         "reg_link": "https://element.agdersam.no/",
         "software": "Synapse",
         "version": "1.79.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "anonymousland.org",
@@ -318,7 +318,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
@@ -335,7 +335,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
@@ -471,7 +471,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
@@ -506,7 +506,7 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": true,
+        "recaptcha": false,
         "email": false
     },
     {
@@ -539,7 +539,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
@@ -556,7 +556,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.freiburg.social/",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
@@ -607,7 +607,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.gemeinsam.jetzt/",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
@@ -777,7 +777,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.jonasled.de/",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
@@ -1491,7 +1491,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
