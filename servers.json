@@ -47,8 +47,8 @@
         "reg_link": "https://element.agdersam.no/",
         "software": "Synapse",
         "version": "1.79.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "anonymousland.org",
@@ -97,7 +97,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
@@ -132,8 +132,8 @@
         "reg_link": "https://el.aria-net.org/",
         "software": "Archon",
         "version": "1.78.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "bachgau.social",
@@ -743,7 +743,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.hot-chilli.im/",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
