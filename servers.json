@@ -102,23 +102,6 @@
         "email": true
     },
     {
-        "name": "arcticfoxes.net",
-        "domain": "matrix.arcticfoxes.net",
-        "info": "https://arcticfoxes.net",
-        "jurisdiction": "US (UK)",
-        "tos": "https://arcticfoxes.net/",
-        "privacy": "https://arcticfoxes.net/",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.arcticfoxes.net",
-        "software": "Synapse",
-        "version": "1.80.0rc2",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "aria-net.org",
         "domain": "aria.im",
         "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
@@ -544,6 +527,23 @@
         "email": true
     },
     {
+        "name": "frei.chat",
+        "domain": "matrix.frei.chat",
+        "info": "https://frei.chat",
+        "jurisdiction": "Germany (Finland)",
+        "tos": "https://frei.chat/termsofuse/",
+        "privacy": "https://frei.chat/privacypolicy/",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.frei.chat/",
+        "software": "Synapse",
+        "version": "1.80.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "freiburg.social",
         "domain": "matrix.freiburg.social",
         "info": "https://wir.freiburg.social/angebote/matrix/",
@@ -726,7 +726,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://hashi.sbs",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
@@ -799,23 +799,6 @@
         "email": false
     },
     {
-        "name": "kitsunes.club",
-        "domain": "kitsunes.club",
-        "info": "https://kitsunes.club",
-        "jurisdiction": "Canada",
-        "tos": "https://kitsunes.club/_matrix/consent",
-        "privacy": "https://kitsunes.club/_matrix/consent",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://kitsunes.chat/",
-        "software": "Synapse",
-        "version": "1.79.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "libcom.de",
         "domain": "matrix.libcom.de:443",
         "info": "https://libcom.de",
@@ -880,8 +863,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.79.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -964,7 +947,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nibbana.jp/",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
@@ -1016,6 +999,23 @@
         "reg_link": "https://nopasaran.red/how-to-join/",
         "software": "Synapse",
         "version": "1.79.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "nope.chat",
+        "domain": "nope.chat",
+        "info": "https://nope.chat",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.nope.chat",
+        "software": "Synapse",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
@@ -1134,7 +1134,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
