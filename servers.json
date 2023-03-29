@@ -132,8 +132,8 @@
         "reg_link": "https://el.aria-net.org/",
         "software": "Archon",
         "version": "1.78.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "bachgau.social",
@@ -1020,23 +1020,6 @@
         "email": true
     },
     {
-        "name": "nope.chat",
-        "domain": "nope.chat",
-        "info": "https://nope.chat",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.nope.chat",
-        "software": "Synapse",
-        "version": "1.80.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "norge.chat",
         "domain": "matrix.norge.chat",
         "info": "https://norge.chat",
@@ -1049,7 +1032,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
@@ -1185,7 +1168,7 @@
         "reg_method": "SSO",
         "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": false
     },
@@ -1593,7 +1576,7 @@
         "reg_method": "Contact",
         "reg_link": "https://hyteck.de/about/",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
