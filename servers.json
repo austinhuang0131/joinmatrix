@@ -506,7 +506,7 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -897,8 +897,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.79.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -1324,23 +1324,6 @@
         "version": "1.79.0",
         "recaptcha": false,
         "email": true
-    },
-    {
-        "name": "tedomum.net",
-        "domain": "matrix.tedomum.net",
-        "info": "https://tedomum.net/service/matrix/",
-        "jurisdiction": "France",
-        "tos": "https://tedomum.net/page/cgu/",
-        "privacy": "https://tedomum.net/page/cgu/",
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://tedomum.net/documentation/general/account/",
-        "software": "Synapse",
-        "version": "1.79.0",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "tomesh.net",
