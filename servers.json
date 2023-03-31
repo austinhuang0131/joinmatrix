@@ -506,7 +506,7 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": true,
+        "recaptcha": false,
         "email": false
     },
     {
@@ -897,8 +897,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.79.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "matrix.im",
@@ -1006,7 +1006,7 @@
         "name": "noevil.pl",
         "domain": "matrix.noevil.pl",
         "info": "https://noevil.pl/matrix",
-        "jurisdiction": "Poland (Germany)",
+        "jurisdiction": "Poland (Iceland)",
         "tos": "https://noevil.pl/terms-of-service/",
         "privacy": "https://noevil.pl/privacy-matrix/",
         "open": true,
@@ -1544,7 +1544,7 @@
         "software": "Synapse",
         "version": "1.79.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "deuxfleurs.fr",
