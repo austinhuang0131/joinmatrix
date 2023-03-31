@@ -897,8 +897,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.79.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -1083,7 +1083,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://riot.ombreport.info/",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": false
     },
@@ -1326,6 +1326,23 @@
         "email": true
     },
     {
+        "name": "tedomum.net",
+        "domain": "matrix.tedomum.net",
+        "info": "https://tedomum.net/service/matrix/",
+        "jurisdiction": "France",
+        "tos": "https://tedomum.net/page/cgu/",
+        "privacy": "https://tedomum.net/page/cgu/",
+        "open": true,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://tedomum.net/documentation/general/account/",
+        "software": "Synapse",
+        "version": "1.79.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "tomesh.net",
         "domain": "matrix.tomesh.net",
         "info": "https://tomesh.net/mesh-services/",
@@ -1542,7 +1559,7 @@
         "reg_method": "Contact",
         "reg_link": "https://www.bytes4u.de/index.php?action=register",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
