@@ -85,12 +85,13 @@ The attachment can be accessed on the internet by replacing the `mxc://` prefix 
   It is possible to use "custom emojis/emotes" in text messages by embedding the emote: simply adjust the image, upload it in an unencrypted room, get its MXC URI, and place the embedding code in messages. Furthermore, FluffyChat allows you to assign a <code>:shortcode:</code> to custom emotes so that they can be entered like normal emotes: Go to user settings, then "Conversations", then emoji settings. Note that embed GIFs will not animate.
 </div>
 
-#### Stickers
+#### Custom Emotes & Stickers
 
-Currently, support for stickers across Matrix is somewhat inconsistent. Note that stickers sent from either app are visible to both apps.
+Note that emotes/stickers sent from any app are visible to most clients.
 
-* For Element and SchildiChat, stickers are offered by integration managers. If you have used [the config](../#pc-and-mobile) provided by this guide, the [Dimension integration manager](https://dimension.t2bot.io) allows you to create your own sticker packs.
-* For FluffyChat, stickers are offered by rooms, some of them are collected in the [`#stickers-and-emojis:pixie.town`](https://matrix.to/#/#stickers-and-emojis:pixie.town) Space. To get stickers or custom emotes in a room, press the room name, expand settings, and open emoji settings. Then, open the desired sticker or emote pack and enable them as you wish.
+Integration managers (which Element uses) are minimally used by the community; instead [MSC2545](https://github.com/matrix-org/matrix-spec-proposals/pull/2545) is preferred. Emote rooms are available at the [`#stickers-and-emojis:pixie.town`](https://matrix.to/#/#stickers-and-emojis:pixie.town) space.
+
+Nheko, FluffyChat and Cinny supports sending emotes/stickers and managing emote/sticker packs. SchildiChat supports sending emotes.
 
 See [here](https://1hiking.github.io/posts/2021/09/matrix-stickers/) if you want more details.
 
