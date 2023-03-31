@@ -34,23 +34,6 @@
         "email": true
     },
     {
-        "name": "agdersam.no",
-        "domain": "agdersam.no",
-        "info": "https://agdersam.no/",
-        "jurisdiction": "Norway (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.agdersam.no/",
-        "software": "Synapse",
-        "version": "1.79.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "anonymousland.org",
         "domain": "anonymousland.org",
         "info": "https://www.anonymousland.org/services#matrix",
@@ -272,6 +255,23 @@
         "email": false
     },
     {
+        "name": "chagai.website",
+        "domain": "mx.chagai.website",
+        "info": "https://chagai.website",
+        "jurisdiction": "Switzerland",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.chagai.website/",
+        "software": "Synapse",
+        "version": "1.78.0",
+        "recaptcha": true,
+        "email": false
+    },
+    {
         "name": "chatcloud.net",
         "domain": "matrix.chatcloud.net",
         "info": "https://chatcloud.net",
@@ -489,6 +489,23 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.71.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "filik.eu",
+        "domain": "chat.filik.eu:443",
+        "info": "https://filik.eu",
+        "jurisdiction": "Czech Republic",
+        "tos": null,
+        "privacy": "https://filik.eu/policy.html",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
+        "software": "Synapse",
+        "version": "1.79.0",
         "recaptcha": false,
         "email": false
     },
@@ -780,6 +797,23 @@
         "version": "1.78.0",
         "recaptcha": false,
         "email": false
+    },
+    {
+        "name": "kitsunes.club",
+        "domain": "kitsunes.club",
+        "info": "https://kitsunes.club",
+        "jurisdiction": "Canada",
+        "tos": "https://kitsunes.club/_matrix/consent",
+        "privacy": "https://kitsunes.club/_matrix/consent",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://kitsunes.chat/",
+        "software": "Synapse",
+        "version": "1.79.0",
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "libcom.de",
@@ -1220,8 +1254,8 @@
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
         "version": "1.80.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "synod.im",
@@ -1491,7 +1525,7 @@
         "reg_method": "SSO",
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": false
     },
