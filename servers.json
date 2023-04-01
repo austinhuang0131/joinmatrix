@@ -782,23 +782,6 @@
         "email": false
     },
     {
-        "name": "jonasled.de",
-        "domain": "matrix.jonasled.de",
-        "info": "https://jonasled.de",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://jonasled.de/privacy-policy",
-        "open": true,
-        "remarks": "In German; personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.jonasled.de/",
-        "software": "Synapse",
-        "version": "1.80.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "kiber-ogur4ik.space",
         "domain": "matrix.kiber-ogur4ik.space",
         "info": "https://kiber-ogur4ik.space/services/",
@@ -1066,7 +1049,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.oblak.be/",
         "software": "Synapse",
-        "version": "1.59.0",
+        "version": "1.70.0",
         "recaptcha": false,
         "email": true
     },
