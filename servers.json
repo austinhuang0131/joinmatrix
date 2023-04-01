@@ -369,7 +369,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
@@ -780,6 +780,23 @@
         "version": "1.79.0",
         "recaptcha": false,
         "email": false
+    },
+    {
+        "name": "jonasled.de",
+        "domain": "matrix.jonasled.de",
+        "info": "https://jonasled.de",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://jonasled.de/privacy-policy",
+        "open": true,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.jonasled.de/",
+        "software": "Synapse",
+        "version": "1.80.0",
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "kiber-ogur4ik.space",
@@ -1457,7 +1474,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": false
     },
@@ -1627,7 +1644,7 @@
         "reg_method": "Membership",
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": false
     },
