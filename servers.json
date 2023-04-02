@@ -777,7 +777,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://houtworm.im/",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": false
     },
