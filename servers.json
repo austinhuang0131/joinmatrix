@@ -115,8 +115,8 @@
         "reg_link": "https://el.aria-net.org/",
         "software": "Archon",
         "version": "1.80.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "bachgau.social",
@@ -1476,7 +1476,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "fachschaften.org",
