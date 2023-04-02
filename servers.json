@@ -782,23 +782,6 @@
         "email": true
     },
     {
-        "name": "kiber-ogur4ik.space",
-        "domain": "matrix.kiber-ogur4ik.space",
-        "info": "https://kiber-ogur4ik.space/services/",
-        "jurisdiction": "Russia (Poland)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Russian; personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.kiber-ogur4ik.space/",
-        "software": "Synapse",
-        "version": "1.78.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "kitsunes.club",
         "domain": "kitsunes.club",
         "info": "https://kitsunes.club",
@@ -880,8 +863,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.79.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -1493,7 +1476,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "fachschaften.org",
