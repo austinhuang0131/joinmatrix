@@ -493,23 +493,6 @@
         "email": false
     },
     {
-        "name": "filik.eu",
-        "domain": "chat.filik.eu:443",
-        "info": "https://filik.eu",
-        "jurisdiction": "Czech Republic",
-        "tos": null,
-        "privacy": "https://filik.eu/policy.html",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
-        "software": "Synapse",
-        "version": "1.80.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "flieger.chat",
         "domain": "matrix.flieger.chat",
         "info": "https://yatrix.org",
@@ -761,7 +744,7 @@
         "reg_link": "https://houtworm.im/",
         "software": "Synapse",
         "version": "1.80.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -863,8 +846,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.79.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -1152,23 +1135,6 @@
         "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
         "software": "Synapse",
         "version": "1.80.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "radiowarnerd.org",
-        "domain": "radiowarnerd.org",
-        "info": "https://dokuwiki.radiowarnerd.org/matrixaccountcreation",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.radiowarnerd.org/",
-        "software": "Synapse",
-        "version": "1.68.0",
         "recaptcha": false,
         "email": false
     },
