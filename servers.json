@@ -863,8 +863,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.79.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "matrix.im",
@@ -1016,23 +1016,6 @@
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
         "version": "1.80.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "oblak.be",
-        "domain": "matrix.oblak.be:443",
-        "info": "https://oblak.be/apps/chat/",
-        "jurisdiction": "Germany?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.oblak.be/",
-        "software": "Synapse",
-        "version": "1.70.0",
         "recaptcha": false,
         "email": true
     },
