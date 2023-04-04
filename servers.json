@@ -1020,6 +1020,23 @@
         "email": true
     },
     {
+        "name": "oblak.be",
+        "domain": "matrix.oblak.be:443",
+        "info": "https://oblak.be/apps/chat/",
+        "jurisdiction": "Germany?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.oblak.be/",
+        "software": "Synapse",
+        "version": "1.70.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "ombreport.info",
         "domain": "matrix.ombreport.info",
         "info": "http://ombreport.info",
