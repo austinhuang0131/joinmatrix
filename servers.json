@@ -131,7 +131,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.bachgau.social/",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
@@ -834,7 +834,7 @@
     },
     {
         "name": "magdeburg.jetzt",
-        "domain": "chat.magdeburg.jetzt",
+        "domain": "chat.magdeburg.jetzt:443",
         "info": "https://magdeburg.jetzt/",
         "jurisdiction": "Germany",
         "tos": "https://softwerke.md/nutzungsbestimmungen/",
