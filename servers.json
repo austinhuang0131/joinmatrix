@@ -29,9 +29,9 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.4d2.org",
         "software": "Synapse",
-        "version": "1.77.0",
+        "version": "1.80.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "agdersam.no",
