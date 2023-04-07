@@ -221,23 +221,6 @@
         "email": true
     },
     {
-        "name": "cat.casa",
-        "domain": "matrix.cat.casa",
-        "info": "https://cat.casa/",
-        "jurisdiction": "Germany",
-        "tos": "https://cat.casa/codeofconduct",
-        "privacy": "https://cat.casa/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.cat.casa/",
-        "software": "Synapse",
-        "version": "1.80.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "catgirl.cloud",
         "domain": "matrix.catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -863,8 +846,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.80.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "matrix.im",
@@ -980,23 +963,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.noevil.pl/",
-        "software": "Synapse",
-        "version": "1.80.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "nopasaran.red",
-        "domain": "nopasaran.red",
-        "info": "https://nopasaran.red",
-        "jurisdiction": "US (Germany)",
-        "tos": "https://mastodon.nopasaran.red/about",
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://nopasaran.red/how-to-join/",
         "software": "Synapse",
         "version": "1.80.0",
         "recaptcha": false,
@@ -1428,23 +1394,6 @@
         "email": true
     },
     {
-        "name": "xmr.se",
-        "domain": "xmr.se",
-        "info": "https://xmr.se",
-        "jurisdiction": "Germany?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.80.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "yatrix.org",
         "domain": "matrix.yatrix.org",
         "info": "https://yatrix.org",
@@ -1527,7 +1476,7 @@
         "software": "Synapse",
         "version": "1.80.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "deuxfleurs.fr",
