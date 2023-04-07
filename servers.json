@@ -12,7 +12,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://im.0wnz.at/element-web/",
         "software": "Synapse",
-        "version": "1.75.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
@@ -219,6 +219,23 @@
         "version": "1.76.0",
         "recaptcha": false,
         "email": true
+    },
+    {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/codeofconduct",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.80.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "catgirl.cloud",
@@ -969,6 +986,23 @@
         "email": true
     },
     {
+        "name": "nopasaran.red",
+        "domain": "nopasaran.red",
+        "info": "https://nopasaran.red",
+        "jurisdiction": "US (Germany)",
+        "tos": "https://mastodon.nopasaran.red/about",
+        "privacy": null,
+        "open": true,
+        "remarks": "Left-wing",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://nopasaran.red/how-to-join/",
+        "software": "Synapse",
+        "version": "1.80.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "nope.chat",
         "domain": "nope.chat",
         "info": "https://nope.chat",
@@ -1394,6 +1428,23 @@
         "email": true
     },
     {
+        "name": "xmr.se",
+        "domain": "xmr.se",
+        "info": "https://xmr.se",
+        "jurisdiction": "Germany?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.80.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "yatrix.org",
         "domain": "matrix.yatrix.org",
         "info": "https://yatrix.org",
@@ -1542,7 +1593,7 @@
         "reg_method": "Membership",
         "reg_link": "https://data.coop/medlem/",
         "software": "Synapse",
-        "version": "1.63.1",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": false
     },
