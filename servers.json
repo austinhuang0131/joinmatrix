@@ -1476,7 +1476,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "fachschaften.org",
@@ -1526,6 +1526,23 @@
         "reg_link": "https://www.bytes4u.de/index.php?action=register",
         "software": "Synapse",
         "version": "1.80.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "deuxfleurs.fr",
+        "domain": "im.deuxfleurs.fr",
+        "info": "https://deuxfleurs.fr",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": false,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://deuxfleurs.fr/",
+        "software": "Synapse",
+        "version": "1.79.0",
         "recaptcha": false,
         "email": false
     },
@@ -1628,23 +1645,6 @@
         "reg_link": "https://rimfaxe.net/bli-medlem/",
         "software": "Synapse",
         "version": "1.80.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "sans-nuage.fr",
-        "domain": "matrix.sans-nuage.fr",
-        "info": "https://sans-nuage.fr",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": false,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "Membership",
-        "reg_link": "https://adherents.arn-fai.net/members/register/",
-        "software": "Synapse",
-        "version": "1.76.0",
         "recaptcha": false,
         "email": false
     }
