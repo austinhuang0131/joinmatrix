@@ -199,7 +199,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.breeze.town/",
         "software": "Synapse",
-        "version": "1.69.0",
+        "version": "1.79.0",
         "recaptcha": false,
         "email": false
     },
@@ -489,7 +489,7 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": true,
+        "recaptcha": false,
         "email": false
     },
     {
@@ -1592,6 +1592,23 @@
         "antifeature": null,
         "reg_method": "Membership",
         "reg_link": "https://data.coop/medlem/",
+        "software": "Synapse",
+        "version": "1.80.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "fsfe.org",
+        "domain": "matrix.fsfe.org",
+        "info": "https://fsfe.org/news/2022/news-20220202-01.html",
+        "jurisdiction": "Germany",
+        "tos": "https://fsfe.org/about/codeofconduct",
+        "privacy": "https://fsfe.org/about/legal/imprint.en.html#id-privacy-policy",
+        "open": false,
+        "remarks": "Accessory; advocacy",
+        "antifeature": null,
+        "reg_method": "Membership",
+        "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
         "version": "1.80.0",
         "recaptcha": false,
