@@ -233,24 +233,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.cat.casa/",
         "software": "Synapse",
-        "version": "1.80.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "catgirl.cloud",
-        "domain": "matrix.catgirl.cloud",
-        "info": "https://catgirl.cloud",
-        "jurisdiction": "Germany",
-        "tos": "https://catgirl.cloud/#rules",
-        "privacy": "https://catgirl.cloud/#privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://registration.matrix.catgirl.cloud/",
-        "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": false
     },
@@ -300,23 +283,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
-        "software": "Synapse",
-        "version": "1.80.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "chrrreeeeesss.com",
-        "domain": "chrrreeeeesss.com",
-        "info": "https://chrrreeeeesss.com",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
         "version": "1.80.0",
         "recaptcha": false,
@@ -471,7 +437,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": true
     },
@@ -505,7 +471,7 @@
         "reg_method": "SSO",
         "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": false
     },
@@ -692,7 +658,7 @@
         "reg_method": "In-house Cinny",
         "reg_link": "https://chat.group.lt/",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": true
     },
@@ -709,7 +675,7 @@
         "reg_method": "Form",
         "reg_link": "https://hackliberty.org/register",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": false
     },
@@ -863,8 +829,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.80.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -964,7 +930,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": true
     },
@@ -1088,23 +1054,6 @@
         "email": true
     },
     {
-        "name": "plus.st",
-        "domain": "matrix.plus.st",
-        "info": "https://plus.st/",
-        "jurisdiction": "US",
-        "tos": "https://plus.st/terms.html",
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.plus.st/",
-        "software": "Synapse",
-        "version": "1.81.0rc2 (b=develop,d07d25583)",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "pragma-messenger.ch",
         "domain": "pragma-messenger.ch",
         "info": "https://pragma-solution.com/de/Produkte/messenger/",
@@ -1117,7 +1066,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": true
     },
@@ -1134,7 +1083,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.projectsegfau.lt/",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": true
     },
@@ -1236,7 +1185,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": true
     },
@@ -1270,7 +1219,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": true
     },
