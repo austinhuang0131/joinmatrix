@@ -46,7 +46,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.agdersam.no/",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": true
     },
@@ -1339,7 +1339,7 @@
         "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
