@@ -522,7 +522,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": true
     },
@@ -845,7 +845,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": true
     },
@@ -1202,7 +1202,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.sibnsk.net",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": true
     },
