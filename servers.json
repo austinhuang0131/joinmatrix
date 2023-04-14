@@ -102,6 +102,23 @@
         "email": true
     },
     {
+        "name": "aria-net.org",
+        "domain": "aria.im",
+        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
+        "jurisdiction": "Italy?",
+        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://el.aria-net.org/",
+        "software": "Archon",
+        "version": "1.80.0",
+        "recaptcha": true,
+        "email": false
+    },
+    {
         "name": "bachgau.social",
         "domain": "matrix.bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
@@ -283,6 +300,23 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
+        "software": "Synapse",
+        "version": "1.80.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "chrrreeeeesss.com",
+        "domain": "chrrreeeeesss.com",
+        "info": "https://chrrreeeeesss.com",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
         "version": "1.80.0",
         "recaptcha": false,
@@ -612,6 +646,23 @@
         "email": true
     },
     {
+        "name": "gnulinux.club",
+        "domain": "matrix.gnulinux.club",
+        "info": "https://gnulinux.social",
+        "jurisdiction": "US",
+        "tos": "https://gnulinux.social/about",
+        "privacy": null,
+        "open": true,
+        "remarks": "FOSS-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.gnulinux.club/",
+        "software": "Synapse",
+        "version": "1.79.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "grin.hu",
         "domain": "matrix.grin.hu",
         "info": "https://matrix.grin.hu",
@@ -812,8 +863,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "matrix.im",
@@ -880,8 +931,8 @@
         "reg_link": "https://mtrx.nz/",
         "software": "Synapse",
         "version": "1.80.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "nibbana.jp",
@@ -896,7 +947,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nibbana.jp/",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": true
     },
@@ -965,8 +1016,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "norge.chat",
