@@ -115,8 +115,8 @@
         "reg_link": "https://el.aria-net.org/",
         "software": "Archon",
         "version": "1.80.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "bachgau.social",
@@ -578,6 +578,23 @@
         "email": true
     },
     {
+        "name": "fulda.social",
+        "domain": "fulda.social",
+        "info": "https://dasnetzundich.de/2021/08/14/willkommen-in-der-matrix/",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.fulda.social/",
+        "software": "Synapse",
+        "version": "1.80.0",
+        "recaptcha": true,
+        "email": false
+    },
+    {
         "name": "g24.at",
         "domain": "g24.at",
         "info": "https://g24.at",
@@ -1016,8 +1033,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "norge.chat",
@@ -1440,7 +1457,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": false
     },
