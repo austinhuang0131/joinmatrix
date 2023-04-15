@@ -102,23 +102,6 @@
         "email": true
     },
     {
-        "name": "aria-net.org",
-        "domain": "aria.im",
-        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
-        "jurisdiction": "Italy?",
-        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://el.aria-net.org/",
-        "software": "Archon",
-        "version": "1.81.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "bachgau.social",
         "domain": "matrix.bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
@@ -320,7 +303,7 @@
         "software": "Synapse",
         "version": "1.80.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "club1.fr",
@@ -743,7 +726,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.hot-chilli.im/",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": true
     },
@@ -783,7 +766,7 @@
     },
     {
         "name": "kitsunes.club",
-        "domain": "kitsunes.club",
+        "domain": "kitsunes.chat",
         "info": "https://kitsunes.club",
         "jurisdiction": "Canada",
         "tos": "https://kitsunes.club/_matrix/consent",
@@ -794,7 +777,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://kitsunes.chat/",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": true
     },
@@ -811,7 +794,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.libcom.de",
         "software": "Synapse",
-        "version": "1.77.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": true
     },
@@ -1122,6 +1105,23 @@
         "email": true
     },
     {
+        "name": "pragma-messenger.ch",
+        "domain": "pragma-messenger.ch",
+        "info": "https://pragma-solution.com/de/Produkte/messenger/",
+        "jurisdiction": "Switzerland",
+        "tos": "https://pragma-solution.com/de/Produkte/messenger/Matrix-Nutzungsbedingungen",
+        "privacy": "https://pragma-solution.com/de/Produkte/messenger/Matrix-Datenschutz",
+        "open": true,
+        "remarks": "In German; hosting provider",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.pragma-messenger.ch/",
+        "software": "Synapse",
+        "version": "1.81.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "projectsegfau.lt",
         "domain": "matrix.projectsegfau.lt:443",
         "info": "https://projectsegfau.lt/instances",
@@ -1390,8 +1390,8 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "virto.community",
