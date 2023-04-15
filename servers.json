@@ -114,9 +114,9 @@
         "reg_method": "In-house Element",
         "reg_link": "https://el.aria-net.org/",
         "software": "Archon",
-        "version": "1.80.0",
-        "recaptcha": true,
-        "email": false
+        "version": "1.81.0",
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "bachgau.social",
@@ -320,7 +320,7 @@
         "software": "Synapse",
         "version": "1.80.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "club1.fr",
@@ -863,8 +863,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -1118,23 +1118,6 @@
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
         "version": "1.81.0rc2 (b=develop,d07d25583)",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "pragma-messenger.ch",
-        "domain": "pragma-messenger.ch",
-        "info": "https://pragma-solution.com/de/Produkte/messenger/",
-        "jurisdiction": "Switzerland",
-        "tos": "https://pragma-solution.com/de/Produkte/messenger/Matrix-Nutzungsbedingungen",
-        "privacy": "https://pragma-solution.com/de/Produkte/messenger/Matrix-Datenschutz",
-        "open": true,
-        "remarks": "In German; hosting provider",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.pragma-messenger.ch/",
-        "software": "Synapse",
-        "version": "1.81.0",
         "recaptcha": false,
         "email": true
     },
@@ -1407,8 +1390,8 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "virto.community",
