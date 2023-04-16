@@ -557,8 +557,8 @@
         "reg_link": "https://webchat.freitrix.de/#/register",
         "software": "Synapse",
         "version": "1.78.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "g24.at",
@@ -607,7 +607,7 @@
         "reg_method": "Form",
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.76.0",
         "recaptcha": false,
         "email": false
     },
@@ -1105,6 +1105,23 @@
         "email": true
     },
     {
+        "name": "possum.city",
+        "domain": "possum.city",
+        "info": "https://possum.city",
+        "jurisdiction": "Sweden",
+        "tos": "https://about.possum.city/rules",
+        "privacy": null,
+        "open": true,
+        "remarks": "Left-wing",
+        "antifeature": null,
+        "reg_method": "In-house SchildiChat",
+        "reg_link": "https://matrix.possum.city/",
+        "software": "Dendrite",
+        "version": "0.11.0+430932f0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "pragma-messenger.ch",
         "domain": "pragma-messenger.ch",
         "info": "https://pragma-solution.com/de/Produkte/messenger/",
@@ -1185,7 +1202,7 @@
         "reg_method": "Form",
         "reg_link": "https://riotchat.de/register/form.php",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.76.0",
         "recaptcha": false,
         "email": false
     },
@@ -1304,7 +1321,7 @@
         "reg_method": "SSO",
         "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": false
     },
@@ -1373,23 +1390,6 @@
         "reg_link": "https://matrix.unita.online",
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "utwente.io",
-        "domain": "matrix.snt.utwente.nl",
-        "info": "https://syscom.utwente.io/info/matrix/homeserver/",
-        "jurisdiction": "Netherlands",
-        "tos": "https://syscom.utwente.io/info/matrix/homeserver/#rules",
-        "privacy": "https://syscom.utwente.io/info/privacy/matrix/",
-        "open": true,
-        "remarks": "Regional; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.utwente.io/",
-        "software": "Synapse",
-        "version": "1.76.0",
         "recaptcha": false,
         "email": true
     },
@@ -1576,7 +1576,7 @@
         "reg_method": "Membership",
         "reg_link": "https://data.coop/medlem/",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": false
     },
