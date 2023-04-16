@@ -1474,7 +1474,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": false
     },
