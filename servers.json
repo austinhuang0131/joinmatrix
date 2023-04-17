@@ -165,7 +165,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.bark.lgbt",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": true
     },
@@ -352,7 +352,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": false
     },
@@ -829,8 +829,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "matrix.im",
