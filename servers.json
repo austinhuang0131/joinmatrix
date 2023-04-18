@@ -98,8 +98,8 @@
         "reg_link": "https://element.arcticfoxes.net",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "aria-net.org",
@@ -511,7 +511,7 @@
     },
     {
         "name": "flieger.chat",
-        "domain": "matrix.flieger.chat",
+        "domain": "flieger.chat",
         "info": "https://yatrix.org",
         "jurisdiction": "Germany",
         "tos": "https://yatrix.org/nutzungsbedingungen/",
@@ -523,8 +523,8 @@
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
         "version": "1.80.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "frei.chat",
