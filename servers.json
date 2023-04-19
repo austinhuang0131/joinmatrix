@@ -34,23 +34,6 @@
         "email": true
     },
     {
-        "name": "agdersam.no",
-        "domain": "agdersam.no",
-        "info": "https://agdersam.no/",
-        "jurisdiction": "Norway (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.agdersam.no/",
-        "software": "Synapse",
-        "version": "1.81.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "archaeo.social",
         "domain": "matrix.archaeo.social",
         "info": "https://archaeo.social",
@@ -320,7 +303,7 @@
         "software": "Synapse",
         "version": "1.81.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "club1.fr",
@@ -846,8 +829,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -914,23 +897,6 @@
         "reg_link": "https://mtrx.nz/",
         "software": "Synapse",
         "version": "1.80.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "nibbana.jp",
-        "domain": "nibbana.jp",
-        "info": "https://minohdon.jp/@toneji/108741278436401857",
-        "jurisdiction": "Japan",
-        "tos": "https://view.matrix.org/room/!yQqzXdUclhZuVJqDKy:nibbana.jp/",
-        "privacy": null,
-        "open": true,
-        "remarks": "Oriented towards Japanese culture",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.nibbana.jp/",
-        "software": "Synapse",
-        "version": "1.81.0",
         "recaptcha": false,
         "email": true
     },
