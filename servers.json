@@ -80,7 +80,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.arcticfoxes.net",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.82.0rc1",
         "recaptcha": false,
         "email": true
     },
@@ -731,23 +731,6 @@
         "email": true
     },
     {
-        "name": "jonasled.de",
-        "domain": "matrix.jonasled.de",
-        "info": "https://jonasled.de",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://jonasled.de/privacy-policy",
-        "open": true,
-        "remarks": "In German; personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.jonasled.de/",
-        "software": "Synapse",
-        "version": "1.81.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "kitsunes.club",
         "domain": "kitsunes.chat",
         "info": "https://kitsunes.club",
@@ -766,7 +749,7 @@
     },
     {
         "name": "libcom.de",
-        "domain": "matrix.libcom.de:443",
+        "domain": "matrix.libcom.de",
         "info": "https://libcom.de",
         "jurisdiction": "Germany",
         "tos": null,
@@ -965,8 +948,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "norge.chat",
