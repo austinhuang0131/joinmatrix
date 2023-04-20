@@ -731,6 +731,23 @@
         "email": true
     },
     {
+        "name": "jonasled.de",
+        "domain": "matrix.jonasled.de",
+        "info": "https://jonasled.de",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://jonasled.de/privacy-policy",
+        "open": true,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.jonasled.de/",
+        "software": "Synapse",
+        "version": "1.81.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "kitsunes.club",
         "domain": "kitsunes.chat",
         "info": "https://kitsunes.club",
@@ -749,7 +766,7 @@
     },
     {
         "name": "libcom.de",
-        "domain": "matrix.libcom.de",
+        "domain": "matrix.libcom.de:443",
         "info": "https://libcom.de",
         "jurisdiction": "Germany",
         "tos": null,
@@ -797,23 +814,6 @@
         "version": "1.81.0",
         "recaptcha": false,
         "email": false
-    },
-    {
-        "name": "mailstation.de",
-        "domain": "mailstation.de",
-        "info": "https://turing.mailstation.de/?page_id=1375",
-        "jurisdiction": "Germany",
-        "tos": "https://turing.mailstation.de/terms-and-conditions/",
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.mailstation.de/",
-        "software": "Synapse",
-        "version": "1.81.0",
-        "recaptcha": false,
-        "email": true
     },
     {
         "name": "matrix.im",
