@@ -884,23 +884,6 @@
         "email": true
     },
     {
-        "name": "mtrx.nz",
-        "domain": "mtrx.nz",
-        "info": "https://fediservices.nz/",
-        "jurisdiction": "New Zealand",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://mtrx.nz/",
-        "software": "Synapse",
-        "version": "1.80.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "nitro.chat",
         "domain": "nitro.chat",
         "info": "https://nitro.chat",
@@ -1241,23 +1224,6 @@
         "email": true
     },
     {
-        "name": "tchncs.de",
-        "domain": "matrix.tchncs.de",
-        "info": "https://tchncs.de/matrix",
-        "jurisdiction": "Germany",
-        "tos": "https://tchncs.de/matrix/tos",
-        "privacy": "https://tchncs.de/matrix/privacy",
-        "open": true,
-        "remarks": "General host; only stores messages for a year",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.tchncs.de/#/register",
-        "software": "Synapse",
-        "version": "1.81.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "techsaviours.org",
         "domain": "matrix.techsaviours.org",
         "info": "https://techsaviours.org",
@@ -1338,7 +1304,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
-        "version": "1.76.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": false
     },
