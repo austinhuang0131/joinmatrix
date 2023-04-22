@@ -829,8 +829,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "matrix.im",
@@ -846,23 +846,6 @@
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "miruku.cafe",
-        "domain": "synapse.miruku.cafe",
-        "info": "https://matrix.miruku.cafe",
-        "jurisdiction": "Lithuania",
-        "tos": "https://github.com/mirukucafe/legal",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Uses Cloudflare",
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.miruku.cafe/",
-        "software": "Synapse",
-        "version": "1.76.0",
         "recaptcha": false,
         "email": true
     },
@@ -1050,6 +1033,23 @@
         "reg_link": "https://client.perthchat.org/",
         "software": "Synapse",
         "version": "1.80.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "plus.st",
+        "domain": "matrix.plus.st",
+        "info": "https://plus.st/",
+        "jurisdiction": "US",
+        "tos": "https://plus.st/terms.html",
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.plus.st/",
+        "software": "Synapse",
+        "version": "1.81.0rc2 (b=develop,d07d25583)",
         "recaptcha": false,
         "email": true
     },
@@ -1425,7 +1425,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "fachschaften.org",
