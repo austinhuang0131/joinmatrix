@@ -340,23 +340,6 @@
         "email": true
     },
     {
-        "name": "community.rs",
-        "domain": "matrix.community.rs",
-        "info": "https://community.rs",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Rust-oriented",
-        "antifeature": "Uses Cloudflare",
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.community.rs/",
-        "software": "Synapse",
-        "version": "1.81.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "converser.eu",
         "domain": "converser.eu",
         "info": "https://converser.eu",
@@ -709,7 +692,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://hashi.sbs",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.80.0",
         "recaptcha": false,
         "email": true
     },
@@ -1137,23 +1120,6 @@
         "version": "1.80.0",
         "recaptcha": false,
         "email": true
-    },
-    {
-        "name": "riotchat.de",
-        "domain": "riotchat.de",
-        "info": "https://riotchat.de/legal/help.html",
-        "jurisdiction": "Germany",
-        "tos": "https://riotchat.de/legal/terms.html",
-        "privacy": "https://riotchat.de/legal/privacy.html",
-        "open": true,
-        "remarks": "In German; operated by ggc-project.de",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://riotchat.de/register/form.php",
-        "software": "Synapse",
-        "version": "1.76.0",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "sibnsk.net",
