@@ -114,7 +114,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.bachgau.social/",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": true
     },
@@ -338,6 +338,23 @@
         "version": "1.80.0",
         "recaptcha": false,
         "email": true
+    },
+    {
+        "name": "community.rs",
+        "domain": "matrix.community.rs",
+        "info": "https://community.rs",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Rust-oriented",
+        "antifeature": "Uses Cloudflare",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.community.rs/",
+        "software": "Synapse",
+        "version": "1.81.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "converser.eu",
@@ -743,7 +760,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://kitsunes.chat/",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.82.0rc1",
         "recaptcha": false,
         "email": true
     },
@@ -1020,23 +1037,6 @@
         "email": true
     },
     {
-        "name": "plus.st",
-        "domain": "matrix.plus.st",
-        "info": "https://plus.st/",
-        "jurisdiction": "US",
-        "tos": "https://plus.st/terms.html",
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.plus.st/",
-        "software": "Synapse",
-        "version": "1.81.0rc2 (b=develop,d07d25583)",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "possum.city",
         "domain": "possum.city",
         "info": "https://possum.city",
@@ -1088,6 +1088,23 @@
         "email": true
     },
     {
+        "name": "pub.solar",
+        "domain": "matrix.pub.solar",
+        "info": "https://pub.solar",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://pub.solar/privacy",
+        "open": true,
+        "remarks": "Tech collective",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
+        "software": "Synapse",
+        "version": "1.81.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "radiowarnerd.org",
         "domain": "radiowarnerd.org",
         "info": "https://dokuwiki.radiowarnerd.org/matrixaccountcreation",
@@ -1103,6 +1120,23 @@
         "version": "1.80.0",
         "recaptcha": false,
         "email": true
+    },
+    {
+        "name": "riotchat.de",
+        "domain": "riotchat.de",
+        "info": "https://riotchat.de/legal/help.html",
+        "jurisdiction": "Germany",
+        "tos": "https://riotchat.de/legal/terms.html",
+        "privacy": "https://riotchat.de/legal/privacy.html",
+        "open": true,
+        "remarks": "In German; operated by ggc-project.de",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://riotchat.de/register/form.php",
+        "software": "Synapse",
+        "version": "1.76.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "sibnsk.net",
