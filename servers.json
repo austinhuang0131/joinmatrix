@@ -34,23 +34,6 @@
         "email": true
     },
     {
-        "name": "agdersam.no",
-        "domain": "agdersam.no",
-        "info": "https://agdersam.no/",
-        "jurisdiction": "Norway (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.agdersam.no/",
-        "software": "Synapse",
-        "version": "1.81.0",
-        "recaptcha": true,
-        "email": false
-    },
-    {
         "name": "archaeo.social",
         "domain": "matrix.archaeo.social",
         "info": "https://archaeo.social",
@@ -918,23 +901,6 @@
         "email": true
     },
     {
-        "name": "noevil.pl",
-        "domain": "matrix.noevil.pl",
-        "info": "https://noevil.pl/matrix",
-        "jurisdiction": "Poland (Iceland)",
-        "tos": "https://noevil.pl/terms-of-service/",
-        "privacy": "https://noevil.pl/privacy-matrix/",
-        "open": true,
-        "remarks": "In Polish",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.noevil.pl/",
-        "software": "Synapse",
-        "version": "1.81.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "nopasaran.red",
         "domain": "nopasaran.red",
         "info": "https://nopasaran.red",
@@ -1442,7 +1408,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "fachschaften.org",
@@ -1611,23 +1577,6 @@
         "reg_link": "https://rimfaxe.net/bli-medlem/",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "sans-nuage.fr",
-        "domain": "matrix.sans-nuage.fr",
-        "info": "https://sans-nuage.fr",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": false,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "Membership",
-        "reg_link": "https://adherents.arn-fai.net/members/register/",
-        "software": "Synapse",
-        "version": "1.76.0",
         "recaptcha": false,
         "email": false
     }
