@@ -34,6 +34,23 @@
         "email": true
     },
     {
+        "name": "agdersam.no",
+        "domain": "agdersam.no",
+        "info": "https://agdersam.no/",
+        "jurisdiction": "Norway (Germany)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.agdersam.no/",
+        "software": "Synapse",
+        "version": "1.81.0",
+        "recaptcha": true,
+        "email": false
+    },
+    {
         "name": "archaeo.social",
         "domain": "matrix.archaeo.social",
         "info": "https://archaeo.social",
@@ -318,7 +335,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://riot.club1.fr/",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": true
     },
@@ -1425,7 +1442,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "fachschaften.org",
