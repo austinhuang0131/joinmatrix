@@ -98,8 +98,8 @@
         "reg_link": "https://el.aria-net.org/",
         "software": "Archon",
         "version": "1.81.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "bachgau.social",
@@ -454,7 +454,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.82.0rc1",
         "recaptcha": false,
         "email": true
     },
@@ -678,6 +678,23 @@
         "version": "1.81.0",
         "recaptcha": false,
         "email": true
+    },
+    {
+        "name": "hackliberty.org",
+        "domain": "hackliberty.org",
+        "info": "https://hackliberty.org",
+        "jurisdiction": "Iceland?",
+        "tos": "https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/code-of-conduct.md",
+        "privacy": "https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/privacy-policy.md",
+        "open": true,
+        "remarks": "Libertarian; tech collective",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://hackliberty.org/register",
+        "software": "Synapse",
+        "version": "1.81.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "hashi.sbs",
