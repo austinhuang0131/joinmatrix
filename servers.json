@@ -12,7 +12,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://im.0wnz.at/element-web/",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": true
     },
@@ -641,7 +641,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.gnulinux.club/",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.81.0",
         "recaptcha": false,
         "email": true
     },
@@ -829,8 +829,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -895,6 +895,23 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
+        "software": "Synapse",
+        "version": "1.81.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "noevil.pl",
+        "domain": "matrix.noevil.pl",
+        "info": "https://noevil.pl/matrix",
+        "jurisdiction": "Poland (Iceland)",
+        "tos": "https://noevil.pl/terms-of-service/",
+        "privacy": "https://noevil.pl/privacy-matrix/",
+        "open": true,
+        "remarks": "In Polish",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.noevil.pl/",
         "software": "Synapse",
         "version": "1.81.0",
         "recaptcha": false,
@@ -1032,7 +1049,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
-        "version": "1.81.0rc2 (b=develop,d07d25583)",
+        "version": "1.82.0rc1 (b=develop,19141b943)",
         "recaptcha": false,
         "email": true
     },
