@@ -98,8 +98,8 @@
         "reg_link": "https://el.aria-net.org/",
         "software": "Archon",
         "version": "1.81.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "bachgau.social",
@@ -678,23 +678,6 @@
         "version": "1.81.0",
         "recaptcha": false,
         "email": true
-    },
-    {
-        "name": "hackliberty.org",
-        "domain": "hackliberty.org",
-        "info": "https://hackliberty.org",
-        "jurisdiction": "Iceland?",
-        "tos": "https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/code-of-conduct.md",
-        "privacy": "https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/privacy-policy.md",
-        "open": true,
-        "remarks": "Libertarian; tech collective",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://hackliberty.org/register",
-        "software": "Synapse",
-        "version": "1.81.0",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "hashi.sbs",
@@ -1578,6 +1561,23 @@
         "software": "Synapse",
         "version": "1.81.0",
         "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "sans-nuage.fr",
+        "domain": "sans-nuage.fr",
+        "info": "https://sans-nuage.fr",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": false,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "Membership",
+        "reg_link": "https://adherents.arn-fai.net/members/register/",
+        "software": "Synapse",
+        "version": "1.81.0",
+        "recaptcha": true,
         "email": false
     }
 ]
