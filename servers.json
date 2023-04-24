@@ -595,23 +595,6 @@
         "email": true
     },
     {
-        "name": "ggc-project.de",
-        "domain": "ggc-project.de",
-        "info": "https://www.ggc-project.de/en/index.html",
-        "jurisdiction": "Germany",
-        "tos": "https://www.ggc-project.de/en/terms.html",
-        "privacy": "https://www.ggc-project.de/datenschutz.html",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
-        "software": "Synapse",
-        "version": "1.76.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "glasgow.social",
         "domain": "matrix.glasgow.social",
         "info": "https://opensource.glasgow.social/matrix",
@@ -829,8 +812,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "matrix.im",
