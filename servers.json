@@ -221,6 +221,23 @@
         "email": false
     },
     {
+        "name": "catgirl.cloud",
+        "domain": "matrix.catgirl.cloud",
+        "info": "https://catgirl.cloud",
+        "jurisdiction": "Germany",
+        "tos": "https://catgirl.cloud/#rules",
+        "privacy": "https://catgirl.cloud/#privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://registration.matrix.catgirl.cloud/",
+        "software": "Synapse",
+        "version": "1.82.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "chagai.website",
         "domain": "mx.chagai.website",
         "info": "https://chagai.website",
@@ -459,6 +476,23 @@
         "email": false
     },
     {
+        "name": "filik.eu",
+        "domain": "chat.filik.eu:443",
+        "info": "https://filik.eu",
+        "jurisdiction": "Czech Republic",
+        "tos": null,
+        "privacy": "https://filik.eu/policy.html",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
+        "software": "Synapse",
+        "version": "1.81.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "flieger.chat",
         "domain": "matrix.flieger.chat",
         "info": "https://yatrix.org",
@@ -641,26 +675,9 @@
         "reg_method": "Form",
         "reg_link": "https://hackliberty.org/register",
         "software": "Synapse",
-        "version": "1.81.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "hashi.sbs",
-        "domain": "chatserver.hashi.sbs",
-        "info": "https://hashi.sbs",
-        "jurisdiction": "? (Germany)",
-        "tos": "https://hashi.icu/@MomentQYC/pages/tos",
-        "privacy": null,
-        "open": true,
-        "remarks": "In Chinese",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://hashi.sbs",
-        "software": "Synapse",
         "version": "1.82.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "hot-chilli.im",
@@ -692,7 +709,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.jonasled.de/",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": true
     },
@@ -1374,7 +1391,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "fachschaften.org",
