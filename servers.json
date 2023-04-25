@@ -148,7 +148,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.bark.lgbt",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": true
     },
@@ -216,24 +216,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.cat.casa/",
         "software": "Synapse",
-        "version": "1.81.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "catgirl.cloud",
-        "domain": "matrix.catgirl.cloud",
-        "info": "https://catgirl.cloud",
-        "jurisdiction": "Germany",
-        "tos": "https://catgirl.cloud/#rules",
-        "privacy": "https://catgirl.cloud/#privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://registration.matrix.catgirl.cloud/",
-        "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": false
     },
@@ -454,7 +437,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.82.0rc1",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": true
     },
@@ -472,23 +455,6 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "filik.eu",
-        "domain": "chat.filik.eu:443",
-        "info": "https://filik.eu",
-        "jurisdiction": "Czech Republic",
-        "tos": null,
-        "privacy": "https://filik.eu/policy.html",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
-        "software": "Synapse",
-        "version": "1.81.0",
         "recaptcha": false,
         "email": false
     },
@@ -692,7 +658,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://hashi.sbs",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": true
     },
@@ -828,7 +794,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": true
     },
@@ -930,7 +896,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": true
     },
@@ -1185,7 +1151,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": true
     },
@@ -1423,7 +1389,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": false
     },
@@ -1440,7 +1406,7 @@
         "reg_method": "SSO",
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": false
     },
@@ -1576,7 +1542,7 @@
         "reg_method": "Membership",
         "reg_link": "https://rimfaxe.net/bli-medlem/",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": false
     },
