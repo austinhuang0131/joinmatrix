@@ -102,6 +102,23 @@
         "email": true
     },
     {
+        "name": "bachgau.social",
+        "domain": "matrix.bachgau.social",
+        "info": "https://www.bachgau.social/unsere-dienste/matrix/",
+        "jurisdiction": "Germany",
+        "tos": "https://mastodon.bachgau.social/about",
+        "privacy": "https://www.bachgau.social/datenschutzerklaerung-fuer-den-matrix-server/",
+        "open": true,
+        "remarks": "In German; regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.bachgau.social/",
+        "software": "Synapse",
+        "version": "1.81.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "badstuebner.biz",
         "domain": "matrix.badstuebner.biz",
         "info": "https://badstuebner.biz",
@@ -185,23 +202,6 @@
         "version": "1.81.0",
         "recaptcha": false,
         "email": true
-    },
-    {
-        "name": "cat.casa",
-        "domain": "matrix.cat.casa",
-        "info": "https://cat.casa/",
-        "jurisdiction": "Germany",
-        "tos": "https://cat.casa/codeofconduct",
-        "privacy": "https://cat.casa/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.cat.casa/",
-        "software": "Synapse",
-        "version": "1.82.0",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "catgirl.cloud",
@@ -697,6 +697,23 @@
         "email": true
     },
     {
+        "name": "hot-chilli.im",
+        "domain": "hot-chilli.im",
+        "info": "https://jabber.hot-chilli.net/2022/04/26/hot-chilli-matrix-server/",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.hot-chilli.im/",
+        "software": "Synapse",
+        "version": "1.81.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "jonasled.de",
         "domain": "matrix.jonasled.de",
         "info": "https://jonasled.de",
@@ -848,23 +865,6 @@
         "version": "1.81.0",
         "recaptcha": false,
         "email": true
-    },
-    {
-        "name": "nibbana.jp",
-        "domain": "nibbana.jp",
-        "info": "https://minohdon.jp/@toneji/108741278436401857",
-        "jurisdiction": "Japan",
-        "tos": "https://view.matrix.org/room/!yQqzXdUclhZuVJqDKy:nibbana.jp/",
-        "privacy": null,
-        "open": true,
-        "remarks": "Oriented towards Japanese culture",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.nibbana.jp/",
-        "software": "Synapse",
-        "version": "1.81.0",
-        "recaptcha": true,
-        "email": false
     },
     {
         "name": "nitro.chat",
@@ -1083,7 +1083,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": true
     },
@@ -1236,7 +1236,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": true
     },
