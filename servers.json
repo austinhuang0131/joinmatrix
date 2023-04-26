@@ -488,7 +488,7 @@
         "reg_method": "SSO",
         "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": false
     },
@@ -1037,6 +1037,23 @@
         "email": true
     },
     {
+        "name": "possum.city",
+        "domain": "possum.city",
+        "info": "https://possum.city",
+        "jurisdiction": "Sweden",
+        "tos": "https://about.possum.city/rules",
+        "privacy": null,
+        "open": true,
+        "remarks": "Left-wing",
+        "antifeature": null,
+        "reg_method": "In-house SchildiChat",
+        "reg_link": "https://matrix.possum.city/",
+        "software": "Dendrite",
+        "version": "0.11.0+430932f0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "pragma-messenger.ch",
         "domain": "pragma-messenger.ch",
         "info": "https://pragma-solution.com/de/Produkte/messenger/",
@@ -1120,23 +1137,6 @@
         "version": "1.76.0",
         "recaptcha": false,
         "email": false
-    },
-    {
-        "name": "sibnsk.net",
-        "domain": "matrix.sibnsk.net",
-        "info": "https://lugnsk.org/page/blog/matrix",
-        "jurisdiction": "Russia",
-        "tos": "https://matrix.sibnsk.net/_matrix/consent",
-        "privacy": "https://matrix.sibnsk.net/_matrix/consent",
-        "open": true,
-        "remarks": "In Russian",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.sibnsk.net",
-        "software": "Synapse",
-        "version": "1.81.0",
-        "recaptcha": false,
-        "email": true
     },
     {
         "name": "socialnetwork24.com",
@@ -1321,7 +1321,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
-        "version": "1.76.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": true
     },
