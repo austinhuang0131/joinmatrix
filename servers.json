@@ -102,23 +102,6 @@
         "email": true
     },
     {
-        "name": "bachgau.social",
-        "domain": "matrix.bachgau.social",
-        "info": "https://www.bachgau.social/unsere-dienste/matrix/",
-        "jurisdiction": "Germany",
-        "tos": "https://mastodon.bachgau.social/about",
-        "privacy": "https://www.bachgau.social/datenschutzerklaerung/",
-        "open": true,
-        "remarks": "In German; regional",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.bachgau.social/",
-        "software": "Synapse",
-        "version": "1.81.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "badstuebner.biz",
         "domain": "matrix.badstuebner.biz",
         "info": "https://badstuebner.biz",
@@ -595,6 +578,23 @@
         "email": true
     },
     {
+        "name": "ggc-project.de",
+        "domain": "ggc-project.de",
+        "info": "https://www.ggc-project.de/en/index.html",
+        "jurisdiction": "Germany",
+        "tos": "https://www.ggc-project.de/en/terms.html",
+        "privacy": "https://www.ggc-project.de/datenschutz.html",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
+        "software": "Synapse",
+        "version": "1.76.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "glasgow.social",
         "domain": "matrix.glasgow.social",
         "info": "https://opensource.glasgow.social/matrix",
@@ -693,23 +693,6 @@
         "reg_link": "https://hashi.sbs",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "hot-chilli.im",
-        "domain": "hot-chilli.im",
-        "info": "https://jabber.hot-chilli.net/2022/04/26/hot-chilli-matrix-server/",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.hot-chilli.im/",
-        "software": "Synapse",
-        "version": "1.81.0",
         "recaptcha": false,
         "email": true
     },
@@ -867,6 +850,23 @@
         "email": true
     },
     {
+        "name": "nibbana.jp",
+        "domain": "nibbana.jp",
+        "info": "https://minohdon.jp/@toneji/108741278436401857",
+        "jurisdiction": "Japan",
+        "tos": "https://view.matrix.org/room/!yQqzXdUclhZuVJqDKy:nibbana.jp/",
+        "privacy": null,
+        "open": true,
+        "remarks": "Oriented towards Japanese culture",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.nibbana.jp/",
+        "software": "Synapse",
+        "version": "1.81.0",
+        "recaptcha": true,
+        "email": false
+    },
+    {
         "name": "nitro.chat",
         "domain": "nitro.chat",
         "info": "https://nitro.chat",
@@ -948,6 +948,23 @@
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
         "version": "1.81.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "obco.pro",
+        "domain": "hs.obco.pro",
+        "info": "https://obco.pro",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.obco.pro/",
+        "software": "Synapse",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": true
     },
@@ -1137,6 +1154,23 @@
         "version": "1.76.0",
         "recaptcha": false,
         "email": false
+    },
+    {
+        "name": "sibnsk.net",
+        "domain": "matrix.sibnsk.net",
+        "info": "https://lugnsk.org/page/blog/matrix",
+        "jurisdiction": "Russia",
+        "tos": "https://matrix.sibnsk.net/_matrix/consent",
+        "privacy": "https://matrix.sibnsk.net/_matrix/consent",
+        "open": true,
+        "remarks": "In Russian",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.sibnsk.net",
+        "software": "Synapse",
+        "version": "1.82.0",
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "socialnetwork24.com",
