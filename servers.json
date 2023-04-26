@@ -63,7 +63,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": true
     },
@@ -680,6 +680,23 @@
         "email": false
     },
     {
+        "name": "hashi.sbs",
+        "domain": "chatserver.hashi.sbs",
+        "info": "https://hashi.sbs",
+        "jurisdiction": "? (Germany)",
+        "tos": "https://hashi.icu/@MomentQYC/pages/tos",
+        "privacy": null,
+        "open": true,
+        "remarks": "In Chinese",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://hashi.sbs",
+        "software": "Synapse",
+        "version": "1.82.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "hot-chilli.im",
         "domain": "hot-chilli.im",
         "info": "https://jabber.hot-chilli.net/2022/04/26/hot-chilli-matrix-server/",
@@ -1018,23 +1035,6 @@
         "version": "1.82.0rc1 (b=develop,19141b943)",
         "recaptcha": false,
         "email": true
-    },
-    {
-        "name": "possum.city",
-        "domain": "possum.city",
-        "info": "https://possum.city",
-        "jurisdiction": "Sweden",
-        "tos": "https://about.possum.city/rules",
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": "In-house SchildiChat",
-        "reg_link": "https://matrix.possum.city/",
-        "software": "Dendrite",
-        "version": "0.11.0+430932f0",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "pragma-messenger.ch",
