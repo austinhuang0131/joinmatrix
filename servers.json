@@ -103,7 +103,7 @@
     },
     {
         "name": "bachgau.social",
-        "domain": "matrix.bachgau.social",
+        "domain": "bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
         "jurisdiction": "Germany",
         "tos": "https://mastodon.bachgau.social/about",
@@ -115,8 +115,8 @@
         "reg_link": "https://element.bachgau.social/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
-        "email": true
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "badstuebner.biz",
@@ -726,7 +726,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.hot-chilli.im/",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": true
     },
