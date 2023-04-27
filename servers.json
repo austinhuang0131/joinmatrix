@@ -1049,7 +1049,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://client.perthchat.org/",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": true
     },
