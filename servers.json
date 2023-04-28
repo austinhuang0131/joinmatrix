@@ -102,6 +102,23 @@
         "email": true
     },
     {
+        "name": "bachgau.social",
+        "domain": "matrix.bachgau.social",
+        "info": "https://www.bachgau.social/unsere-dienste/matrix/",
+        "jurisdiction": "Germany",
+        "tos": "https://mastodon.bachgau.social/about",
+        "privacy": "https://www.bachgau.social/datenschutzerklaerung-fuer-den-matrix-server/",
+        "open": true,
+        "remarks": "In German; regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.bachgau.social/",
+        "software": "Synapse",
+        "version": "1.82.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "badstuebner.biz",
         "domain": "matrix.badstuebner.biz",
         "info": "https://badstuebner.biz",
