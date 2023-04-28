@@ -86,7 +86,7 @@
     },
     {
         "name": "bachgau.social",
-        "domain": "bachgau.social",
+        "domain": "matrix.bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
         "jurisdiction": "Germany",
         "tos": "https://mastodon.bachgau.social/about",
@@ -98,8 +98,8 @@
         "reg_link": "https://element.bachgau.social/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "badstuebner.biz",
@@ -998,7 +998,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pcriot.org/",
         "software": "Synapse",
-        "version": "1.76.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": true
     },
@@ -1016,23 +1016,6 @@
         "reg_link": "https://client.perthchat.org/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "plus.st",
-        "domain": "matrix.plus.st",
-        "info": "https://plus.st/",
-        "jurisdiction": "US",
-        "tos": "https://plus.st/terms.html",
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.plus.st/",
-        "software": "Synapse",
-        "version": "1.82.0rc1 (b=develop,19141b943)",
         "recaptcha": false,
         "email": true
     },
@@ -1408,7 +1391,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "fachschaften.org",
