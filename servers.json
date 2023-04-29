@@ -660,7 +660,7 @@
         "software": "Synapse",
         "version": "1.81.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "hackliberty.org",
