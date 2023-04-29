@@ -1559,7 +1559,7 @@
         "reg_method": "Membership",
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": false
     },
