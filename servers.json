@@ -17,6 +17,23 @@
         "email": true
     },
     {
+        "name": "4d2.org",
+        "domain": "matrix.4d2.org",
+        "info": "https://4d2.org",
+        "jurisdiction": "Moldova",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.4d2.org",
+        "software": "Synapse",
+        "version": "1.80.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "archaeo.social",
         "domain": "matrix.archaeo.social",
         "info": "https://archaeo.social",
@@ -643,7 +660,7 @@
         "software": "Synapse",
         "version": "1.81.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "hackliberty.org",
@@ -1020,6 +1037,23 @@
         "email": true
     },
     {
+        "name": "plus.st",
+        "domain": "matrix.plus.st",
+        "info": "https://plus.st/",
+        "jurisdiction": "US",
+        "tos": "https://plus.st/terms.html",
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.plus.st/",
+        "software": "Synapse",
+        "version": "1.82.0rc1 (b=develop,19141b943)",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "possum.city",
         "domain": "possum.city",
         "info": "https://possum.city",
@@ -1391,7 +1425,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "fachschaften.org",
