@@ -170,6 +170,23 @@
         "email": true
     },
     {
+        "name": "breeze.town",
+        "domain": "breeze.town",
+        "info": "https://breeze.town/@breeze/108776240056543549",
+        "jurisdiction": "Germany",
+        "tos": "https://breeze.town/about/more",
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.breeze.town/",
+        "software": "Synapse",
+        "version": "1.79.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "buyvm.net",
         "domain": "buyvm.chat",
         "info": "https://buyvm.net/beware-the-moshbear/",
@@ -420,7 +437,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": true
     },
@@ -488,7 +505,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": true
     },
@@ -573,7 +590,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.gemeinsam.jetzt/",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": true
     },
@@ -658,7 +675,7 @@
         "reg_method": "In-house Cinny",
         "reg_link": "https://chat.group.lt/",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": true
     },
@@ -1406,7 +1423,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": true
     },
@@ -1425,7 +1442,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "fachschaften.org",
