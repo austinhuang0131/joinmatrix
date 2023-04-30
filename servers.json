@@ -68,6 +68,23 @@
         "email": true
     },
     {
+        "name": "arcticfoxes.net",
+        "domain": "matrix.arcticfoxes.net",
+        "info": "https://arcticfoxes.net",
+        "jurisdiction": "US (UK)",
+        "tos": "https://arcticfoxes.net/",
+        "privacy": "https://arcticfoxes.net/",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.arcticfoxes.net",
+        "software": "Synapse",
+        "version": "1.82.0rc1",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "aria-net.org",
         "domain": "aria.im",
         "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
@@ -527,19 +544,19 @@
         "email": true
     },
     {
-        "name": "freitrix.de",
-        "domain": "freitrix.de",
-        "info": "https://freitrix.de",
+        "name": "fulda.social",
+        "domain": "matrix.fulda.social",
+        "info": "https://dasnetzundich.de/2021/08/14/willkommen-in-der-matrix/",
         "jurisdiction": "Germany",
         "tos": null,
-        "privacy": "https://freifunk-suedholstein.de/datenschutz/",
+        "privacy": null,
         "open": true,
-        "remarks": "In German",
+        "remarks": "In German; general host",
         "antifeature": null,
         "reg_method": "In-house Element",
-        "reg_link": "https://webchat.freitrix.de/#/register",
+        "reg_link": "https://element.fulda.social/",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": true
     },
@@ -863,8 +880,8 @@
         "reg_link": "https://mtrx.nz/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "nitro.chat",
@@ -882,23 +899,6 @@
         "version": "1.81.0",
         "recaptcha": false,
         "email": true
-    },
-    {
-        "name": "noevil.pl",
-        "domain": "matrix.noevil.pl",
-        "info": "https://noevil.pl/matrix",
-        "jurisdiction": "Poland (Iceland)",
-        "tos": "https://noevil.pl/terms-of-service/",
-        "privacy": "https://noevil.pl/privacy-matrix/",
-        "open": true,
-        "remarks": "In Polish",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.noevil.pl/",
-        "software": "Synapse",
-        "version": "1.81.0",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "nopasaran.red",
