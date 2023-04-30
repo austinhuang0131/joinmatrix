@@ -710,8 +710,8 @@
         "reg_link": "https://hashi.sbs",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": true,
-        "email": false
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "hot-chilli.im",
@@ -901,6 +901,23 @@
         "email": true
     },
     {
+        "name": "noevil.pl",
+        "domain": "matrix.noevil.pl",
+        "info": "https://noevil.pl/matrix",
+        "jurisdiction": "Poland (Iceland)",
+        "tos": "https://noevil.pl/terms-of-service/",
+        "privacy": "https://noevil.pl/privacy-matrix/",
+        "open": true,
+        "remarks": "In Polish",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.noevil.pl/",
+        "software": "Synapse",
+        "version": "1.81.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "nopasaran.red",
         "domain": "nopasaran.red",
         "info": "https://nopasaran.red",
@@ -1033,6 +1050,23 @@
         "reg_link": "https://client.perthchat.org/",
         "software": "Synapse",
         "version": "1.82.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "plus.st",
+        "domain": "matrix.plus.st",
+        "info": "https://plus.st/",
+        "jurisdiction": "US",
+        "tos": "https://plus.st/terms.html",
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.plus.st/",
+        "software": "Synapse",
+        "version": "1.82.0rc1 (b=develop,19141b943)",
         "recaptcha": false,
         "email": true
     },
