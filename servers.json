@@ -17,6 +17,23 @@
         "email": true
     },
     {
+        "name": "4d2.org",
+        "domain": "matrix.4d2.org",
+        "info": "https://4d2.org",
+        "jurisdiction": "Moldova",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.4d2.org",
+        "software": "Synapse",
+        "version": "1.82.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "archaeo.social",
         "domain": "matrix.archaeo.social",
         "info": "https://archaeo.social",
@@ -967,6 +984,23 @@
         "version": "1.82.0",
         "recaptcha": true,
         "email": true
+    },
+    {
+        "name": "oikei.net",
+        "domain": "oikei.net",
+        "info": "https://oikei.net",
+        "jurisdiction": "Slovenia (Germany)",
+        "tos": "https://oikei.net/pages/tos.html",
+        "privacy": "https://oikei.net/pages/privacy.html",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.76.0",
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "ombreport.info",
