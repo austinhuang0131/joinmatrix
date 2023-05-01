@@ -13,7 +13,7 @@
         "reg_link": "https://im.0wnz.at/element-web/",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -30,7 +30,7 @@
         "reg_link": "https://chat.archaeo.social/",
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -47,7 +47,7 @@
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -64,7 +64,7 @@
         "reg_link": "https://element.arcticfoxes.net",
         "software": "Synapse",
         "version": "1.82.0rc1",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -81,7 +81,7 @@
         "reg_link": "https://el.aria-net.org/",
         "software": "Archon",
         "version": "1.81.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -98,7 +98,7 @@
         "reg_link": "https://element.bachgau.social/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -115,7 +115,7 @@
         "reg_link": "https://element.badstuebner.biz/",
         "software": "Synapse",
         "version": "1.72.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -132,7 +132,7 @@
         "reg_link": "https://chat.bark.lgbt",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -149,7 +149,7 @@
         "reg_link": "https://element.bolha.chat/",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -166,7 +166,7 @@
         "reg_link": "https://chat.breeze.town/",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -183,7 +183,7 @@
         "reg_link": "https://chat.buyvm.net/element/",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -200,7 +200,7 @@
         "reg_link": "https://chat.cat.casa/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -217,7 +217,7 @@
         "reg_link": "https://registration.matrix.catgirl.cloud/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -234,7 +234,7 @@
         "reg_link": "https://element.chagai.website/",
         "software": "Synapse",
         "version": "1.78.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -251,7 +251,7 @@
         "reg_link": "https://talk.chatcloud.net/",
         "software": "Synapse",
         "version": "1.79.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -268,7 +268,7 @@
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -285,7 +285,7 @@
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -302,7 +302,7 @@
         "reg_link": "https://riot.club1.fr/",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -319,7 +319,7 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.80.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -336,7 +336,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -353,7 +353,7 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -370,7 +370,7 @@
         "reg_link": "https://element.crossbach.de/",
         "software": "Synapse",
         "version": "1.80.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -387,7 +387,7 @@
         "reg_link": "https://chat.data.haus/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -404,7 +404,7 @@
         "reg_link": "https://element.dieandalusier.net",
         "software": "Synapse",
         "version": "1.70.1",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -421,7 +421,7 @@
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -438,7 +438,7 @@
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -455,7 +455,24 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": false,
+        "recaptcha": true,
+        "email": false
+    },
+    {
+        "name": "filik.eu",
+        "domain": "chat.filik.eu:443",
+        "info": "https://filik.eu",
+        "jurisdiction": "Czech Republic",
+        "tos": null,
+        "privacy": "https://filik.eu/policy.html",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
+        "software": "Synapse",
+        "version": "1.82.0",
+        "recaptcha": true,
         "email": false
     },
     {
@@ -472,7 +489,7 @@
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -489,7 +506,7 @@
         "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -505,8 +522,8 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.freiburg.social/",
         "software": "Synapse",
-        "version": "1.81.0",
-        "recaptcha": false,
+        "version": "1.82.0",
+        "recaptcha": true,
         "email": true
     },
     {
@@ -523,7 +540,7 @@
         "reg_link": "https://element.fulda.social/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -557,7 +574,7 @@
         "reg_link": "https://element.gemeinsam.jetzt/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -574,7 +591,7 @@
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -591,7 +608,7 @@
         "reg_link": "https://matrix.glasgow.social/",
         "software": "Synapse",
         "version": "1.74.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -608,7 +625,7 @@
         "reg_link": "https://element.gnulinux.club/",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -625,7 +642,7 @@
         "reg_link": "https://riot.grin.hu/",
         "software": "Synapse",
         "version": "1.78.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -642,7 +659,7 @@
         "reg_link": "https://chat.group.lt/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -659,7 +676,7 @@
         "reg_link": "https://hackliberty.org/register",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -676,7 +693,7 @@
         "reg_link": "https://hashi.sbs",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -693,7 +710,7 @@
         "reg_link": "https://element.hot-chilli.im/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -710,7 +727,7 @@
         "reg_link": "https://chat.jonasled.de/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -727,7 +744,7 @@
         "reg_link": "https://kitsunes.chat/",
         "software": "Synapse",
         "version": "1.82.0rc1",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -744,7 +761,7 @@
         "reg_link": "https://element.libcom.de",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -761,7 +778,7 @@
         "reg_link": "https://element.llamarific.social/",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -778,7 +795,7 @@
         "reg_link": "https://account.magdeburg.jetzt/",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -795,7 +812,7 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -812,7 +829,7 @@
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -829,7 +846,7 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.79.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -846,7 +863,7 @@
         "reg_link": "https://mtrx.nz/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -863,7 +880,7 @@
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -880,7 +897,7 @@
         "reg_link": "https://chat.noevil.pl/",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -897,7 +914,7 @@
         "reg_link": "https://nopasaran.red/how-to-join/",
         "software": "Synapse",
         "version": "1.80.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -914,7 +931,7 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -931,7 +948,7 @@
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -948,24 +965,7 @@
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "oblak.be",
-        "domain": "matrix.oblak.be:443",
-        "info": "https://oblak.be/apps/chat/",
-        "jurisdiction": "Germany?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.oblak.be/",
-        "software": "Synapse",
-        "version": "1.70.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -982,7 +982,7 @@
         "reg_link": "https://riot.ombreport.info/",
         "software": "Synapse",
         "version": "1.80.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -999,7 +999,7 @@
         "reg_link": "https://chat.pcriot.org/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -1016,7 +1016,7 @@
         "reg_link": "https://client.perthchat.org/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -1033,7 +1033,7 @@
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
         "version": "1.82.0rc1 (b=develop,19141b943)",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -1050,7 +1050,7 @@
         "reg_link": "https://matrix.possum.city/",
         "software": "Dendrite",
         "version": "0.11.0+430932f0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -1067,7 +1067,7 @@
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -1084,7 +1084,7 @@
         "reg_link": "https://chat.projectsegfau.lt/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -1101,7 +1101,7 @@
         "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -1118,7 +1118,7 @@
         "reg_link": "https://element.radiowarnerd.org/",
         "software": "Synapse",
         "version": "1.80.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -1135,7 +1135,7 @@
         "reg_link": "https://riotchat.de/register/form.php",
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -1152,7 +1152,7 @@
         "reg_link": "https://element.sibnsk.net",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -1170,7 +1170,7 @@
         "software": "Synapse",
         "version": "1.81.0",
         "recaptcha": true,
-        "email": false
+        "email": true
     },
     {
         "name": "studichat.de",
@@ -1186,7 +1186,7 @@
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -1203,7 +1203,7 @@
         "reg_link": "https://web.synod.im/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -1220,7 +1220,7 @@
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -1237,7 +1237,7 @@
         "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -1254,7 +1254,7 @@
         "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -1271,7 +1271,7 @@
         "reg_link": "https://testmobo.com/",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -1288,7 +1288,7 @@
         "reg_link": "https://chat.tomesh.net/",
         "software": "Synapse",
         "version": "1.78.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -1305,7 +1305,7 @@
         "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
         "version": "1.79.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -1322,7 +1322,7 @@
         "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -1339,7 +1339,7 @@
         "reg_link": "https://matrix.unita.online",
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -1356,7 +1356,7 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -1373,7 +1373,7 @@
         "reg_link": "https://element.virto.community/",
         "software": "Synapse",
         "version": "1.79.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -1390,7 +1390,7 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -1407,7 +1407,7 @@
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -1424,7 +1424,7 @@
         "reg_link": "https://element.asra.gr/",
         "software": "Synapse",
         "version": "420*69",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -1441,7 +1441,7 @@
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -1458,7 +1458,7 @@
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -1475,7 +1475,7 @@
         "reg_link": "https://www.bytes4u.de/index.php?action=register",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -1492,7 +1492,7 @@
         "reg_link": "https://deuxfleurs.fr/",
         "software": "Synapse",
         "version": "1.79.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -1508,8 +1508,8 @@
         "reg_method": "Contact",
         "reg_link": "https://hyteck.de/about/",
         "software": "Synapse",
-        "version": "1.80.0",
-        "recaptcha": false,
+        "version": "1.82.0",
+        "recaptcha": true,
         "email": true
     },
     {
@@ -1526,7 +1526,7 @@
         "reg_link": "https://data.coop/medlem/",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -1543,7 +1543,7 @@
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -1560,7 +1560,7 @@
         "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -1577,7 +1577,7 @@
         "reg_link": "https://rimfaxe.net/bli-medlem/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
