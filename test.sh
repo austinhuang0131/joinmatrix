@@ -94,10 +94,10 @@ do
                 done < <(echo "$Line")
                 echo "        \"software\": \"$name\"," >> servers.json
                 echo "        \"version\": \"$version\"," >> servers.json
-                if [[ "$recaptcha" != "null" ]]; then
-                    echo "        \"recaptcha\": true," >> servers.json
-                else
+                if [[ -z "$recaptcha" ]]; then
                     echo "        \"recaptcha\": false," >> servers.json
+                else
+                    echo "        \"recaptcha\": true," >> servers.json
                 fi
                 if [[ -z "$email" ]]; then
                     echo "        \"email\": false" >> servers.json
