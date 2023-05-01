@@ -46,7 +46,7 @@ do
         name=$(echo $body | jq .server.name | sed s/\"//g)
         version=$(echo $body | jq .server.version | sed s/\"//g)
         closed=$(echo $reg | jq .errcode)
-        recaptcha=$(echo $reg | jq .params."m.login.recaptcha")
+        recaptcha=$(echo $reg | grep 'm.login.recaptcha')
         email=$(echo $reg | grep 'm.login.email.identity')
         if [[ $Line =~ \[(SSO|Form)\] ]] || [[ $Check -eq 0 ]]; then
             closed="null"
