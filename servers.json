@@ -541,7 +541,7 @@
         "software": "Synapse",
         "version": "1.82.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "fulda.social",
@@ -1442,7 +1442,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "fachschaften.org",
