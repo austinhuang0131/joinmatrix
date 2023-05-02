@@ -85,23 +85,6 @@
         "email": true
     },
     {
-        "name": "aria-net.org",
-        "domain": "aria.im",
-        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
-        "jurisdiction": "Italy?",
-        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://el.aria-net.org/",
-        "software": "Archon",
-        "version": "1.81.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "bachgau.social",
         "domain": "matrix.bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
@@ -541,7 +524,7 @@
         "software": "Synapse",
         "version": "1.82.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "fulda.social",
@@ -1237,8 +1220,8 @@
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "techsaviours.org",
@@ -1442,7 +1425,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "fachschaften.org",
