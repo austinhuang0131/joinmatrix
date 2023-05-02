@@ -829,8 +829,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -984,6 +984,23 @@
         "version": "1.82.0",
         "recaptcha": true,
         "email": true
+    },
+    {
+        "name": "oblak.be",
+        "domain": "matrix.oblak.be:443",
+        "info": "https://oblak.be/apps/chat/",
+        "jurisdiction": "Germany?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://oblak.be/accounts/login/?next=/profile/",
+        "software": "Synapse",
+        "version": "1.70.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "oikei.net",
