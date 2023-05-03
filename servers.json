@@ -812,8 +812,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -1338,9 +1338,9 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.trygve.me/",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.82.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "ungleich.ch",
@@ -1459,7 +1459,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "fachschaften.org",
