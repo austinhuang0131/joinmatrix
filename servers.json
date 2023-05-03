@@ -352,7 +352,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": false
     },
@@ -544,23 +544,6 @@
         "email": true
     },
     {
-        "name": "fulda.social",
-        "domain": "matrix.fulda.social",
-        "info": "https://dasnetzundich.de/2021/08/14/willkommen-in-der-matrix/",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.fulda.social/",
-        "software": "Synapse",
-        "version": "1.82.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "g24.at",
         "domain": "g24.at",
         "info": "https://g24.at",
@@ -711,23 +694,6 @@
         "software": "Synapse",
         "version": "1.82.0",
         "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "hot-chilli.im",
-        "domain": "hot-chilli.im",
-        "info": "https://jabber.hot-chilli.net/2022/04/26/hot-chilli-matrix-server/",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.hot-chilli.im/",
-        "software": "Synapse",
-        "version": "1.82.0",
-        "recaptcha": true,
         "email": true
     },
     {
