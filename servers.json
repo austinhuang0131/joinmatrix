@@ -541,7 +541,7 @@
         "software": "Synapse",
         "version": "1.82.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "g24.at",
@@ -1270,7 +1270,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.82.0",
         "recaptcha": false,
         "email": true
     },
