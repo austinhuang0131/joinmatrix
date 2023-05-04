@@ -335,7 +335,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.82.0",
         "recaptcha": true,
         "email": true
     },
@@ -541,7 +541,7 @@
         "software": "Synapse",
         "version": "1.82.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "g24.at",
@@ -812,8 +812,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "matrix.im",
