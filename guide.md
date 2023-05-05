@@ -125,11 +125,12 @@ There exists [many different apps](https://matrix.org/clients/) that can access 
 
 #### PC and Mobile
 
-* [Element](https://element.io): The flagship app.
-  * [SchildiChat](https://schildi.chat/): Element with lab features enabled, plus an optional speech bubble layout. Recommended to be used on PC for the full feature set.
-* [FluffyChat](https://fluffychat.im/): "Cute" Matrix. Recommended to be used on mobile for performance.
+* [Element](https://element.io): the flagship app.
+  * [SchildiChat](https://schildi.chat/): Element fork with additional features. Recommended to be used on PC for the full feature set.
+* [FluffyChat](https://fluffychat.im/): "cute" Matrix.
+* [Nheko](https://github.com/Nheko-Reborn/nheko): simpler, without compromising features. Recommended if Element is too heavy for you.
 
-For those living on the edge: [Commune](https://commune.chat/), [Nheko](https://github.com/Nheko-Reborn/nheko), [Spectral](https://spectral.im), and [Syphon](https://syphon.org/).
+For those living on the edge: [gomuks](https://github.com/tulir/gomuks), [Spectral](https://spectral.im), and [Syphon](https://syphon.org/).
 
 <div class="flash">
   For PC users, if you want a better experience when using Element or SchildiChat, place <a href="../assets/config.json">this config file</a> in your <a href="https://github.com/vector-im/element-desktop#user-specified-configjson">configuration folder</a>, where <code>$NAME</code> is either "Element" or "SchildiChat". The config file enables the "Labs" tab in settings, enables custom themes, preloads <a href="https://github.com/aaronraimist/element-themes">a few custom themes</a>, uses <a href="https://dimension.t2bot.io/">Dimension</a> instead of Scalar for integration manager, and preloads a few homeservers for room directory searches.
