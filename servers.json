@@ -302,8 +302,8 @@
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "club1.fr",
