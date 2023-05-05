@@ -302,8 +302,8 @@
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "club1.fr",
@@ -336,8 +336,8 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "community.rs",
@@ -913,7 +913,7 @@
         "reg_method": "SSO",
         "reg_link": "https://nopasaran.red/how-to-join/",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.82.0",
         "recaptcha": true,
         "email": true
     },
