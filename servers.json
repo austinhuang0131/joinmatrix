@@ -103,7 +103,7 @@
     },
     {
         "name": "bachgau.social",
-        "domain": "bachgau.social",
+        "domain": "matrix.bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
         "jurisdiction": "Germany",
         "tos": "https://mastodon.bachgau.social/about",
@@ -116,7 +116,7 @@
         "software": "Synapse",
         "version": "1.82.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "badstuebner.biz",
@@ -302,8 +302,8 @@
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "club1.fr",
@@ -969,6 +969,23 @@
         "email": true
     },
     {
+        "name": "oblak.be",
+        "domain": "matrix.oblak.be:443",
+        "info": "https://oblak.be/apps/chat/",
+        "jurisdiction": "Germany?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://oblak.be/accounts/login/?next=/profile/",
+        "software": "Synapse",
+        "version": "1.70.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "ohai.su",
         "domain": "matrix.ohai.su",
         "info": "https://ohai.su",
@@ -1221,7 +1238,7 @@
         "software": "Synapse",
         "version": "1.82.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "supreme.sh",
@@ -1303,6 +1320,23 @@
         "antifeature": null,
         "reg_method": "SSO",
         "reg_link": "https://tedomum.net/documentation/general/account/",
+        "software": "Synapse",
+        "version": "1.81.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "testmobo.com",
+        "domain": "matrix.testmobo.com",
+        "info": "https://testmobo.com",
+        "jurisdiction": "US?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://testmobo.com/",
         "software": "Synapse",
         "version": "1.81.0",
         "recaptcha": false,
@@ -1459,7 +1493,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "fachschaften.org",
