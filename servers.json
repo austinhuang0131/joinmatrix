@@ -114,7 +114,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.bachgau.social/",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": false,
         "email": true
     },
@@ -216,7 +216,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.cat.casa/",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": false,
         "email": false
     },
@@ -233,7 +233,7 @@
         "reg_method": "Form",
         "reg_link": "https://registration.matrix.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": false,
         "email": false
     },
@@ -301,7 +301,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": true,
         "email": true
     },
@@ -425,23 +425,6 @@
         "email": true
     },
     {
-        "name": "duesen.chat",
-        "domain": "matrix.duesen.chat",
-        "info": "https://yatrix.org",
-        "jurisdiction": "Germany",
-        "tos": "https://yatrix.org/nutzungsbedingungen/",
-        "privacy": "https://yatrix.org/impressum/",
-        "open": true,
-        "remarks": "In German; operated by yatrix.org",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.duesen.chat/",
-        "software": "Synapse",
-        "version": "1.82.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "envs.net",
         "domain": "matrix.envs.net",
         "info": "https://matrix-help.envs.net/",
@@ -454,7 +437,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": true,
         "email": true
     },
@@ -624,7 +607,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.gnulinux.club/",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.83.0",
         "recaptcha": true,
         "email": true
     },
@@ -812,8 +795,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -828,7 +811,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": true,
         "email": true
     },
@@ -930,7 +913,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": true,
         "email": true
     },
@@ -964,7 +947,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": true,
         "email": true
     },
@@ -1253,7 +1236,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://matrix.supreme.sh",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": false,
         "email": true
     },
@@ -1270,7 +1253,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://web.synod.im/",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": false,
         "email": true
     },
@@ -1593,7 +1576,7 @@
         "reg_method": "Membership",
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": false,
         "email": false
     },
