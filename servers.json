@@ -812,8 +812,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "matrix.im",
@@ -1051,6 +1051,23 @@
         "software": "Synapse",
         "version": "1.82.0",
         "recaptcha": true,
+        "email": true
+    },
+    {
+        "name": "perthchat.org",
+        "domain": "matrix.perthchat.org",
+        "info": "https://perthchat.org",
+        "jurisdiction": "Australia",
+        "tos": "https://gitlab.com/perthchat.org/legal/-/blob/main/terms-of-service.md",
+        "privacy": "https://gitlab.com/perthchat.org/legal/-/blob/main/privacy-policy.md",
+        "open": true,
+        "remarks": "Regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://client.perthchat.org/",
+        "software": "Synapse",
+        "version": "1.82.0",
+        "recaptcha": false,
         "email": true
     },
     {
@@ -1309,23 +1326,6 @@
         "email": false
     },
     {
-        "name": "testmobo.com",
-        "domain": "matrix.testmobo.com",
-        "info": "https://testmobo.com",
-        "jurisdiction": "US?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://testmobo.com/",
-        "software": "Synapse",
-        "version": "1.81.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "tomesh.net",
         "domain": "matrix.tomesh.net",
         "info": "https://tomesh.net/mesh-services/",
@@ -1490,23 +1490,6 @@
         "antifeature": null,
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
-        "software": "Synapse",
-        "version": "1.82.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "pikaviestin.fi",
-        "domain": "matrix.pikaviestin.fi",
-        "info": "https://pikaviestin.fi",
-        "jurisdiction": "Finland",
-        "tos": null,
-        "privacy": "https://www.pikaviestin.fi/tietosuojaseloste.pdf",
-        "open": false,
-        "remarks": "In Finnish; requires a Finnish email address",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
         "version": "1.82.0",
         "recaptcha": false,
