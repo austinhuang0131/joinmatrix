@@ -63,7 +63,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": true,
         "email": true
     },
@@ -148,7 +148,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.bark.lgbt",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": false,
         "email": true
     },
@@ -488,7 +488,7 @@
         "reg_method": "SSO",
         "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": false,
         "email": false
     },
@@ -692,7 +692,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://hashi.sbs",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": false,
         "email": true
     },
@@ -879,7 +879,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": true,
         "email": true
     },
@@ -896,7 +896,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.noevil.pl/",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": false,
         "email": true
     },
@@ -1134,7 +1134,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.projectsegfau.lt/",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": false,
         "email": true
     },
@@ -1287,7 +1287,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": true,
         "email": true
     },
