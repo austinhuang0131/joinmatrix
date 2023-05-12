@@ -323,23 +323,6 @@
         "email": true
     },
     {
-        "name": "comm.cx",
-        "domain": "matrix-client.comm.cx",
-        "info": "https://comm.cx",
-        "jurisdiction": "Japan",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": "Uses Cloudflare",
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.82.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "community.rs",
         "domain": "matrix.community.rs",
         "info": "https://community.rs",
@@ -897,23 +880,6 @@
         "reg_link": "https://nopasaran.red/how-to-join/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "nope.chat",
-        "domain": "nope.chat",
-        "info": "https://nope.chat",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.nope.chat",
-        "software": "Synapse",
-        "version": "1.83.0",
         "recaptcha": true,
         "email": true
     },
