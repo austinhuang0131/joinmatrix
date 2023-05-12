@@ -302,8 +302,8 @@
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
         "version": "1.83.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "club1.fr",
@@ -321,6 +321,23 @@
         "version": "1.82.0",
         "recaptcha": true,
         "email": true
+    },
+    {
+        "name": "comm.cx",
+        "domain": "matrix-client.comm.cx",
+        "info": "https://comm.cx",
+        "jurisdiction": "Japan",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": "Uses Cloudflare",
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.82.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "community.rs",
@@ -884,6 +901,23 @@
         "email": true
     },
     {
+        "name": "nope.chat",
+        "domain": "nope.chat",
+        "info": "https://nope.chat",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.nope.chat",
+        "software": "Synapse",
+        "version": "1.83.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "norge.chat",
         "domain": "matrix.norge.chat",
         "info": "https://norge.chat",
@@ -1287,7 +1321,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tomesh.net/",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.81.0",
         "recaptcha": true,
         "email": true
     },
@@ -1389,7 +1423,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.83.0",
         "recaptcha": true,
         "email": false
     },
