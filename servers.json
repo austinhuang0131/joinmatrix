@@ -675,7 +675,7 @@
         "reg_method": "Form",
         "reg_link": "https://hackliberty.org/register",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": false,
         "email": false
     },
@@ -1134,7 +1134,7 @@
         "reg_method": "SSO",
         "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.83.0",
         "recaptcha": false,
         "email": false
     },
