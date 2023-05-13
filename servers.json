@@ -97,7 +97,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://el.aria-net.org/",
         "software": "Archon",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": true,
         "email": true
     },
@@ -302,8 +302,8 @@
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
         "version": "1.83.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "club1.fr",
@@ -845,7 +845,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://mtrx.nz/",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": false,
         "email": true
     },
@@ -1542,7 +1542,7 @@
         "reg_method": "Contact",
         "reg_link": "https://libreon.fr/account",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.83.0",
         "recaptcha": false,
         "email": false
     },
