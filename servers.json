@@ -710,8 +710,8 @@
         "reg_link": "https://chat.jonasled.de/",
         "software": "Synapse",
         "version": "1.83.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "kitsunes.club",
