@@ -663,6 +663,23 @@
         "email": true
     },
     {
+        "name": "hackliberty.org",
+        "domain": "hackliberty.org",
+        "info": "https://hackliberty.org",
+        "jurisdiction": "Iceland?",
+        "tos": "https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/code-of-conduct.md",
+        "privacy": "https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/privacy-policy.md",
+        "open": true,
+        "remarks": "Libertarian; tech collective",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://hackliberty.org/register",
+        "software": "Synapse",
+        "version": "1.83.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "hashi.sbs",
         "domain": "chatserver.hashi.sbs",
         "info": "https://hashi.sbs",
@@ -795,8 +812,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.83.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -1137,6 +1154,23 @@
         "version": "1.80.0",
         "recaptcha": true,
         "email": true
+    },
+    {
+        "name": "riotchat.de",
+        "domain": "riotchat.de",
+        "info": "https://riotchat.de/legal/help.html",
+        "jurisdiction": "Germany",
+        "tos": "https://riotchat.de/legal/terms.html",
+        "privacy": "https://riotchat.de/legal/privacy.html",
+        "open": true,
+        "remarks": "In German; operated by ggc-project.de",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://riotchat.de/register/form.php",
+        "software": "Synapse",
+        "version": "1.76.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "sibnsk.net",
