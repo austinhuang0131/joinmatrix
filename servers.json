@@ -284,7 +284,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": false,
         "email": true
     },
@@ -302,23 +302,6 @@
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
         "version": "1.83.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "club1.fr",
-        "domain": "club1.fr",
-        "info": "https://club1.fr/matrix/",
-        "jurisdiction": "France",
-        "tos": "https://club1.fr/docs/fr/cgu.html",
-        "privacy": "https://club1.fr/docs/fr/info/politique-de-vie-privee.html",
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://riot.club1.fr/",
-        "software": "Synapse",
-        "version": "1.82.0",
         "recaptcha": true,
         "email": true
     },
@@ -437,7 +420,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": false,
         "email": true
     },
@@ -476,21 +459,21 @@
         "email": false
     },
     {
-        "name": "flieger.chat",
-        "domain": "matrix.flieger.chat",
-        "info": "https://yatrix.org",
-        "jurisdiction": "Germany",
-        "tos": "https://yatrix.org/nutzungsbedingungen/",
-        "privacy": "https://yatrix.org/impressum/",
+        "name": "filik.eu",
+        "domain": "chat.filik.eu:443",
+        "info": "https://filik.eu",
+        "jurisdiction": "Czech Republic",
+        "tos": null,
+        "privacy": "https://filik.eu/policy.html",
         "open": true,
-        "remarks": "In German; operated by yatrix.org",
+        "remarks": "",
         "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.flieger.chat/",
+        "reg_method": "SSO",
+        "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "frei.chat",
@@ -1423,7 +1406,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": false,
         "email": true
     },
@@ -1491,7 +1474,7 @@
         "reg_method": "Contact",
         "reg_link": "https://www.bytes4u.de/index.php?action=register",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": false,
         "email": false
     },
