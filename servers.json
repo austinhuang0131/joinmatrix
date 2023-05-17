@@ -80,7 +80,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.arcticfoxes.net",
         "software": "Synapse",
-        "version": "1.82.0rc1",
+        "version": "1.84.0rc1",
         "recaptcha": true,
         "email": true
     },
@@ -353,7 +353,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": true,
+        "recaptcha": false,
         "email": false
     },
     {
@@ -914,8 +914,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.83.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "norge.chat",
