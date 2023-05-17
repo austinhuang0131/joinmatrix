@@ -306,6 +306,23 @@
         "email": true
     },
     {
+        "name": "club1.fr",
+        "domain": "club1.fr",
+        "info": "https://club1.fr/matrix/",
+        "jurisdiction": "France",
+        "tos": "https://club1.fr/docs/fr/cgu.html",
+        "privacy": "https://club1.fr/docs/fr/info/politique-de-vie-privee.html",
+        "open": true,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://riot.club1.fr/",
+        "software": "Synapse",
+        "version": "1.82.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "comm.cx",
         "domain": "matrix-client.comm.cx",
         "info": "https://comm.cx",
@@ -474,6 +491,23 @@
         "version": "1.83.0",
         "recaptcha": false,
         "email": false
+    },
+    {
+        "name": "flieger.chat",
+        "domain": "matrix.flieger.chat",
+        "info": "https://yatrix.org",
+        "jurisdiction": "Germany",
+        "tos": "https://yatrix.org/nutzungsbedingungen/",
+        "privacy": "https://yatrix.org/impressum/",
+        "open": true,
+        "remarks": "In German; operated by yatrix.org",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.flieger.chat/",
+        "software": "Synapse",
+        "version": "1.83.0",
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "frei.chat",
