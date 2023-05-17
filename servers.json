@@ -357,23 +357,6 @@
         "email": false
     },
     {
-        "name": "converser.eu",
-        "domain": "converser.eu",
-        "info": "https://converser.eu",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.74.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "crossbach.de",
         "domain": "matrix.crossbach.de",
         "info": "https://crossbach.de",
@@ -847,7 +830,7 @@
         "software": "Synapse",
         "version": "1.79.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "mtrx.nz",
@@ -914,8 +897,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.83.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "norge.chat",
