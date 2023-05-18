@@ -476,6 +476,23 @@
         "email": false
     },
     {
+        "name": "filik.eu",
+        "domain": "chat.filik.eu:443",
+        "info": "https://filik.eu",
+        "jurisdiction": "Czech Republic",
+        "tos": null,
+        "privacy": "https://filik.eu/policy.html",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
+        "software": "Synapse",
+        "version": "1.83.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "flieger.chat",
         "domain": "matrix.flieger.chat",
         "info": "https://yatrix.org",
@@ -948,23 +965,6 @@
         "reg_link": "https://oblak.be/accounts/login/?next=/profile/",
         "software": "Synapse",
         "version": "1.70.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "ohai.su",
-        "domain": "matrix.ohai.su",
-        "info": "https://ohai.su",
-        "jurisdiction": "Germany",
-        "tos": "https://ohai.social/about",
-        "privacy": "https://fnordserver.eu/en/privacy-policy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://matrix.ohai.su/",
-        "software": "Synapse",
-        "version": "1.80.0",
         "recaptcha": false,
         "email": false
     },
