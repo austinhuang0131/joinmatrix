@@ -539,7 +539,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.freiburg.social/",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": false,
         "email": true
     },
@@ -795,8 +795,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.83.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "matrix.im",
