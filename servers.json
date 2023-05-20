@@ -165,7 +165,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.bolha.chat/",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.83.0",
         "recaptcha": false,
         "email": true
     },
@@ -914,8 +914,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.83.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "norge.chat",
