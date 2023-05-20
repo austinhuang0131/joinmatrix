@@ -12,7 +12,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://im.0wnz.at/element-web/",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": true,
         "email": true
     },
@@ -812,8 +812,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.83.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "matrix.im",
@@ -1356,8 +1356,8 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "virto.community",
