@@ -812,8 +812,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.83.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -914,8 +914,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.83.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "norge.chat",
@@ -1052,23 +1052,6 @@
         "version": "1.83.0 (b=develop,c97198ee1)",
         "recaptcha": true,
         "email": true
-    },
-    {
-        "name": "possum.city",
-        "domain": "possum.city",
-        "info": "https://possum.city",
-        "jurisdiction": "Sweden",
-        "tos": "https://about.possum.city/rules",
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": "In-house SchildiChat",
-        "reg_link": "https://matrix.possum.city/",
-        "software": "Dendrite",
-        "version": "0.11.0+430932f0",
-        "recaptcha": true,
-        "email": false
     },
     {
         "name": "pragma-messenger.ch",
@@ -1373,8 +1356,8 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "virto.community",
