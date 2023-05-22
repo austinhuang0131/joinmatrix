@@ -1032,7 +1032,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://client.perthchat.org/",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": false,
         "email": true
     },
@@ -1190,6 +1190,23 @@
         "email": true
     },
     {
+        "name": "studichat.de",
+        "domain": "matrix.studichat.de",
+        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; student-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.studichat.de/",
+        "software": "Synapse",
+        "version": "1.83.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "supreme.sh",
         "domain": "matrix.supreme.sh",
         "info": "https://supreme.sh/info",
@@ -1289,23 +1306,6 @@
         "software": "Synapse",
         "version": "1.81.0",
         "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "trygve.me",
-        "domain": "trygve.me",
-        "info": "https://trygve.me/matrix_info/",
-        "jurisdiction": "Norway",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Norwegian; personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.trygve.me/",
-        "software": "Synapse",
-        "version": "1.83.0",
-        "recaptcha": false,
         "email": true
     },
     {
@@ -1425,7 +1425,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "fachschaften.org",
