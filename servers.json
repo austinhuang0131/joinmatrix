@@ -353,7 +353,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.82.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -1186,23 +1186,6 @@
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "studichat.de",
-        "domain": "matrix.studichat.de",
-        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.studichat.de/",
-        "software": "Synapse",
-        "version": "1.83.0",
         "recaptcha": false,
         "email": true
     },
