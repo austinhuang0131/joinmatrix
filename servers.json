@@ -439,7 +439,7 @@
         "software": "Synapse",
         "version": "1.83.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "envs.net",
@@ -833,6 +833,23 @@
         "email": true
     },
     {
+        "name": "monero.social",
+        "domain": "matrix.monero.social",
+        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
+        "jurisdiction": "US",
+        "tos": "https://www.getmonero.org/legal/",
+        "privacy": null,
+        "open": true,
+        "remarks": "18+; accessory; crypto",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.79.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "mtrx.nz",
         "domain": "mtrx.nz",
         "info": "https://fediservices.nz/",
@@ -914,6 +931,23 @@
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
         "version": "1.82.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
+        "name": "obco.pro",
+        "domain": "hs.obco.pro",
+        "info": "https://obco.pro",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.obco.pro/",
+        "software": "Synapse",
+        "version": "1.83.0",
         "recaptcha": true,
         "email": true
     },
@@ -1157,7 +1191,7 @@
     },
     {
         "name": "studichat.de",
-        "domain": "studichat.de",
+        "domain": "matrix.studichat.de",
         "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
         "jurisdiction": "Germany",
         "tos": null,
@@ -1170,7 +1204,7 @@
         "software": "Synapse",
         "version": "1.83.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "supreme.sh",
@@ -1408,7 +1442,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "fachschaften.org",
