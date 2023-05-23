@@ -81,8 +81,8 @@
         "reg_link": "https://element.arcticfoxes.net",
         "software": "Synapse",
         "version": "1.84.0rc1",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "aria-net.org",
@@ -352,8 +352,8 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
-        "version": "1.82.0",
-        "recaptcha": true,
+        "version": "1.83.0",
+        "recaptcha": false,
         "email": false
     },
     {
@@ -1442,7 +1442,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "fachschaften.org",
