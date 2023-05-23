@@ -284,7 +284,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
-        "version": "1.83.0",
+        "version": "1.84.0",
         "recaptcha": false,
         "email": true
     },
@@ -405,7 +405,7 @@
         "software": "Synapse",
         "version": "1.83.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "dieandalusier.net",
@@ -437,7 +437,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.83.0",
+        "version": "1.84.0",
         "recaptcha": false,
         "email": true
     },
@@ -505,7 +505,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
-        "version": "1.83.0",
+        "version": "1.84.0",
         "recaptcha": false,
         "email": true
     },
@@ -593,6 +593,23 @@
         "version": "1.76.0",
         "recaptcha": false,
         "email": false
+    },
+    {
+        "name": "glasgow.social",
+        "domain": "matrix.glasgow.social",
+        "info": "https://opensource.glasgow.social/matrix",
+        "jurisdiction": "UK",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional tech collective",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.glasgow.social/",
+        "software": "Synapse",
+        "version": "1.74.0",
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "gnulinux.club",
@@ -1355,7 +1372,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": true,
         "email": true
     },
@@ -1406,7 +1423,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.83.0",
+        "version": "1.84.0",
         "recaptcha": false,
         "email": true
     },
@@ -1440,7 +1457,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.83.0",
+        "version": "1.84.0",
         "recaptcha": false,
         "email": false
     },
