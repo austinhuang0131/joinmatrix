@@ -522,7 +522,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
-        "version": "1.83.0",
+        "version": "1.84.0",
         "recaptcha": true,
         "email": true
     },
@@ -896,7 +896,7 @@
         "reg_method": "SSO",
         "reg_link": "https://nopasaran.red/how-to-join/",
         "software": "Synapse",
-        "version": "1.83.0",
+        "version": "1.84.0",
         "recaptcha": true,
         "email": true
     },
@@ -1442,7 +1442,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "fachschaften.org",
@@ -1577,23 +1577,6 @@
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
         "version": "1.83.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "hadoly.fr",
-        "domain": "matrix.hadoly.fr",
-        "info": "https://hadoly.fr",
-        "jurisdiction": "France",
-        "tos": "https://hadoly.fr/cgu.html",
-        "privacy": null,
-        "open": false,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "Membership",
-        "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
-        "software": "Synapse",
-        "version": "1.77.0",
         "recaptcha": false,
         "email": false
     },
