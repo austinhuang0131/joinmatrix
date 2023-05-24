@@ -114,7 +114,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.bachgau.social/",
         "software": "Synapse",
-        "version": "1.83.0",
+        "version": "1.84.0",
         "recaptcha": false,
         "email": true
     },
@@ -811,7 +811,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
-        "version": "1.83.0",
+        "version": "1.84.0",
         "recaptcha": false,
         "email": false
     },
@@ -1577,6 +1577,23 @@
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
         "version": "1.83.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "hadoly.fr",
+        "domain": "matrix.hadoly.fr",
+        "info": "https://hadoly.fr",
+        "jurisdiction": "France",
+        "tos": "https://hadoly.fr/cgu.html",
+        "privacy": null,
+        "open": false,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "Membership",
+        "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
+        "software": "Synapse",
+        "version": "1.77.0",
         "recaptcha": false,
         "email": false
     },
