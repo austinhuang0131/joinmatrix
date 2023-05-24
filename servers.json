@@ -353,8 +353,25 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.83.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
+    },
+    {
+        "name": "converser.eu",
+        "domain": "converser.eu",
+        "info": "https://converser.eu",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In French",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.74.0",
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "crossbach.de",
@@ -386,7 +403,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.data.haus/",
         "software": "Synapse",
-        "version": "1.83.0",
+        "version": "1.84.0",
         "recaptcha": false,
         "email": true
     },
@@ -795,8 +812,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.83.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -1017,7 +1034,7 @@
         "software": "Synapse",
         "version": "1.83.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "plus.st",
@@ -1151,7 +1168,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.sibnsk.net",
         "software": "Synapse",
-        "version": "1.83.0",
+        "version": "1.84.0",
         "recaptcha": true,
         "email": true
     },
@@ -1425,7 +1442,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "fachschaften.org",
