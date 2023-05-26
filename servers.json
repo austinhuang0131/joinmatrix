@@ -353,7 +353,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.83.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -629,23 +629,6 @@
         "email": true
     },
     {
-        "name": "grin.hu",
-        "domain": "matrix.grin.hu",
-        "info": "https://matrix.grin.hu",
-        "jurisdiction": "Hungary",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://riot.grin.hu/",
-        "software": "Synapse",
-        "version": "1.78.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "group.lt",
         "domain": "matrix.group.lt",
         "info": "https://group.lt",
@@ -846,23 +829,6 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.79.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "mtrx.nz",
-        "domain": "mtrx.nz",
-        "info": "https://fediservices.nz/",
-        "jurisdiction": "New Zealand",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://mtrx.nz/",
-        "software": "Synapse",
-        "version": "1.83.0",
         "recaptcha": false,
         "email": true
     },
@@ -1610,7 +1576,7 @@
         "reg_method": "Membership",
         "reg_link": "https://rimfaxe.net/bli-medlem/",
         "software": "Synapse",
-        "version": "1.83.0",
+        "version": "1.84.0",
         "recaptcha": false,
         "email": false
     },
