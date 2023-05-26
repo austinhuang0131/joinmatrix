@@ -148,7 +148,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.bark.lgbt",
         "software": "Synapse",
-        "version": "1.83.0",
+        "version": "1.84.0",
         "recaptcha": false,
         "email": true
     },
@@ -612,23 +612,6 @@
         "email": true
     },
     {
-        "name": "gnulinux.club",
-        "domain": "matrix.gnulinux.club",
-        "info": "https://gnulinux.social",
-        "jurisdiction": "US",
-        "tos": "https://gnulinux.social/about",
-        "privacy": null,
-        "open": true,
-        "remarks": "FOSS-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.gnulinux.club/",
-        "software": "Synapse",
-        "version": "1.83.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "group.lt",
         "domain": "matrix.group.lt",
         "info": "https://group.lt",
@@ -675,7 +658,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://hashi.sbs",
         "software": "Synapse",
-        "version": "1.84.0",
+        "version": "1.84.1",
         "recaptcha": false,
         "email": true
     },
@@ -833,6 +816,23 @@
         "email": true
     },
     {
+        "name": "mtrx.nz",
+        "domain": "mtrx.nz",
+        "info": "https://fediservices.nz/",
+        "jurisdiction": "New Zealand",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://mtrx.nz/",
+        "software": "Synapse",
+        "version": "1.83.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "noevil.pl",
         "domain": "matrix.noevil.pl",
         "info": "https://noevil.pl/matrix",
@@ -913,7 +913,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
-        "version": "1.84.0",
+        "version": "1.84.1",
         "recaptcha": true,
         "email": true
     },
@@ -1049,7 +1049,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.83.0",
+        "version": "1.84.0",
         "recaptcha": true,
         "email": true
     },
