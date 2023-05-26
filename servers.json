@@ -1037,6 +1037,23 @@
         "email": true
     },
     {
+        "name": "plus.st",
+        "domain": "matrix.plus.st",
+        "info": "https://plus.st/",
+        "jurisdiction": "US",
+        "tos": "https://plus.st/terms.html",
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.plus.st/",
+        "software": "Synapse",
+        "version": "1.84.0 (b=develop,7c9b91790)",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "possum.city",
         "domain": "possum.city",
         "info": "https://possum.city",
