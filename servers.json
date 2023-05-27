@@ -828,7 +828,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.84.1",
         "recaptcha": false,
         "email": true
     },
@@ -1151,7 +1151,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.sibnsk.net",
         "software": "Synapse",
-        "version": "1.84.0",
+        "version": "1.84.1",
         "recaptcha": true,
         "email": true
     },
