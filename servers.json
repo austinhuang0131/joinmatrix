@@ -63,7 +63,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
-        "version": "1.84.0",
+        "version": "1.84.1",
         "recaptcha": true,
         "email": true
     },
@@ -353,7 +353,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.83.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -1474,9 +1474,9 @@
         "reg_method": "Contact",
         "reg_link": "https://www.bytes4u.de/index.php?action=register",
         "software": "Synapse",
-        "version": "1.84.0",
-        "recaptcha": false,
-        "email": false
+        "version": "1.84.1",
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "deuxfleurs.fr",
