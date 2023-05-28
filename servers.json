@@ -85,23 +85,6 @@
         "email": true
     },
     {
-        "name": "aria-net.org",
-        "domain": "aria.im",
-        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
-        "jurisdiction": "Italy?",
-        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://aria.im/",
-        "software": "Archon",
-        "version": "1.84.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "bachgau.social",
         "domain": "matrix.bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
@@ -165,7 +148,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.bolha.chat/",
         "software": "Synapse",
-        "version": "1.84.0",
+        "version": "1.84.1",
         "recaptcha": false,
         "email": true
     },
@@ -353,7 +336,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.83.0",
-        "recaptcha": true,
+        "recaptcha": false,
         "email": false
     },
     {
@@ -612,6 +595,23 @@
         "email": true
     },
     {
+        "name": "gnulinux.club",
+        "domain": "matrix.gnulinux.club",
+        "info": "https://gnulinux.social",
+        "jurisdiction": "US",
+        "tos": "https://gnulinux.social/about",
+        "privacy": null,
+        "open": true,
+        "remarks": "FOSS-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.gnulinux.club/",
+        "software": "Synapse",
+        "version": "1.83.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "group.lt",
         "domain": "matrix.group.lt",
         "info": "https://group.lt",
@@ -624,7 +624,7 @@
         "reg_method": "In-house Cinny",
         "reg_link": "https://chat.group.lt/",
         "software": "Synapse",
-        "version": "1.83.0",
+        "version": "1.84.1",
         "recaptcha": true,
         "email": true
     },
@@ -778,8 +778,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.84.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -829,6 +829,23 @@
         "reg_link": "https://mtrx.nz/",
         "software": "Synapse",
         "version": "1.83.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "noevil.pl",
+        "domain": "matrix.noevil.pl",
+        "info": "https://noevil.pl/matrix",
+        "jurisdiction": "Poland",
+        "tos": "https://noevil.pl/terms-of-service/",
+        "privacy": "https://noevil.pl/matrix/privacy/",
+        "open": true,
+        "remarks": "In Polish",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.noevil.pl/",
+        "software": "Synapse",
+        "version": "1.84.0",
         "recaptcha": false,
         "email": true
     },
