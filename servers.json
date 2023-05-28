@@ -864,7 +864,7 @@
         "software": "Synapse",
         "version": "1.84.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "nopasaran.red",
