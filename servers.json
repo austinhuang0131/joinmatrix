@@ -97,7 +97,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.bachgau.social/",
         "software": "Synapse",
-        "version": "1.84.0",
+        "version": "1.84.1",
         "recaptcha": false,
         "email": true
     },
@@ -336,7 +336,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.83.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -1560,6 +1560,23 @@
         "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
         "software": "Synapse",
         "version": "1.77.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "rimfaxe.net",
+        "domain": "matrix.rimfaxe.net",
+        "info": "https://rimfaxe.net",
+        "jurisdiction": "Sweden",
+        "tos": "https://rimfaxe.net/terms/",
+        "privacy": "https://rimfaxe.net/privacy/",
+        "open": false,
+        "remarks": "In Swedish; freemium",
+        "antifeature": null,
+        "reg_method": "Membership",
+        "reg_link": "https://rimfaxe.net/bli-medlem/",
+        "software": "Synapse",
+        "version": "1.84.0",
         "recaptcha": false,
         "email": false
     },
