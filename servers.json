@@ -715,7 +715,7 @@
     },
     {
         "name": "llamarific.social",
-        "domain": "matrix.llamarific.social",
+        "domain": "llamarific.social",
         "info": "https://llamarific.social/matrix.html",
         "jurisdiction": "US",
         "tos": null,
@@ -728,7 +728,7 @@
         "software": "Synapse",
         "version": "1.77.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "magdeburg.jetzt",
@@ -761,8 +761,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.84.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "matrix.im",
@@ -1391,7 +1391,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "fachschaften.org",
