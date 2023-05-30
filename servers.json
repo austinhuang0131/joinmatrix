@@ -505,7 +505,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
-        "version": "1.84.0",
+        "version": "1.84.1",
         "recaptcha": true,
         "email": true
     },
@@ -680,6 +680,23 @@
         "email": true
     },
     {
+        "name": "jonasled.de",
+        "domain": "matrix.jonasled.de",
+        "info": "https://jonasled.de",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://jonasled.de/privacy-policy",
+        "open": true,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.jonasled.de/",
+        "software": "Synapse",
+        "version": "1.84.1",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "kitsunes.club",
         "domain": "kitsunes.chat",
         "info": "https://kitsunes.club",
@@ -715,7 +732,7 @@
     },
     {
         "name": "llamarific.social",
-        "domain": "llamarific.social",
+        "domain": "matrix.llamarific.social",
         "info": "https://llamarific.social/matrix.html",
         "jurisdiction": "US",
         "tos": null,
@@ -728,7 +745,7 @@
         "software": "Synapse",
         "version": "1.77.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "magdeburg.jetzt",
@@ -811,7 +828,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://mtrx.nz/",
         "software": "Synapse",
-        "version": "1.83.0",
+        "version": "1.84.1",
         "recaptcha": false,
         "email": true
     },
@@ -879,7 +896,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.84.1",
         "recaptcha": true,
         "email": true
     },
@@ -1156,23 +1173,6 @@
         "email": true
     },
     {
-        "name": "supreme.sh",
-        "domain": "matrix.supreme.sh",
-        "info": "https://supreme.sh/info",
-        "jurisdiction": "UK (Germany)",
-        "tos": "https://supreme.sh/info/policies/rules/",
-        "privacy": "https://supreme.sh/info/policies/privacy/",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.supreme.sh",
-        "software": "Synapse",
-        "version": "1.84.1",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "synod.im",
         "domain": "synod.im",
         "info": "https://doc.librechurch.org/Wiki.jsp?page=Matrix#section-Matrix-DieMatrixInstanzSynod.im",
@@ -1391,7 +1391,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "fachschaften.org",
