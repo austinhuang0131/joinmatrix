@@ -289,6 +289,23 @@
         "email": true
     },
     {
+        "name": "chrrreeeeesss.com",
+        "domain": "chrrreeeeesss.com",
+        "info": "https://chrrreeeeesss.com",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chrrreeeeesss.com/element",
+        "software": "Synapse",
+        "version": "1.84.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "club1.fr",
         "domain": "club1.fr",
         "info": "https://club1.fr/matrix/",
@@ -575,7 +592,7 @@
         "software": "Synapse",
         "version": "1.74.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "gnulinux.club",
@@ -794,7 +811,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
-        "version": "1.83.0",
+        "version": "1.84.1",
         "recaptcha": true,
         "email": true
     },
@@ -1015,7 +1032,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
-        "version": "1.84.1 (b=develop,c835befd1)",
+        "version": "1.85.0rc1 (b=develop,0b5f64ff0)",
         "recaptcha": true,
         "email": true
     },
@@ -1222,23 +1239,6 @@
         "version": "1.83.0",
         "recaptcha": false,
         "email": true
-    },
-    {
-        "name": "tedomum.net",
-        "domain": "matrix.tedomum.net",
-        "info": "https://tedomum.net/service/matrix/",
-        "jurisdiction": "France",
-        "tos": "https://tedomum.net/page/cgu/",
-        "privacy": "https://tedomum.net/page/cgu/",
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://tedomum.net/documentation/general/account/",
-        "software": "Synapse",
-        "version": "1.81.0",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "tomesh.net",
