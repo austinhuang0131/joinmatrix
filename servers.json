@@ -301,9 +301,9 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
-        "version": "1.84.0",
-        "recaptcha": false,
-        "email": false
+        "version": "1.84.1",
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "club1.fr",
@@ -545,7 +545,7 @@
     },
     {
         "name": "g24.at",
-        "domain": "g24.at",
+        "domain": "matrix.g24.at",
         "info": "https://g24.at",
         "jurisdiction": "Austria",
         "tos": null,
@@ -557,8 +557,8 @@
         "reg_link": "https://g24.at",
         "software": "Synapse",
         "version": "1.80.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "gemeinsam.jetzt",
@@ -1425,7 +1425,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "fachschaften.org",
