@@ -1581,23 +1581,6 @@
         "email": false
     },
     {
-        "name": "rimfaxe.net",
-        "domain": "matrix.rimfaxe.net",
-        "info": "https://rimfaxe.net",
-        "jurisdiction": "Sweden",
-        "tos": "https://rimfaxe.net/terms/",
-        "privacy": "https://rimfaxe.net/privacy/",
-        "open": false,
-        "remarks": "In Swedish; freemium",
-        "antifeature": null,
-        "reg_method": "Membership",
-        "reg_link": "https://rimfaxe.net/bli-medlem/",
-        "software": "Synapse",
-        "version": "1.84.1",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "sans-nuage.fr",
         "domain": "sans-nuage.fr",
         "info": "https://sans-nuage.fr",
