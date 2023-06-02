@@ -897,8 +897,8 @@
         "reg_link": "https://nopasaran.red/how-to-join/",
         "software": "Synapse",
         "version": "1.84.1",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "nope.chat",
@@ -1049,7 +1049,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
-        "version": "1.85.0rc1 (b=develop,0b5f64ff0)",
+        "version": "1.85.0rc2 (b=develop,30a5076da8)",
         "recaptcha": true,
         "email": true
     },
