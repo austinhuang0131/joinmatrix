@@ -510,6 +510,23 @@
         "email": true
     },
     {
+        "name": "frei.chat",
+        "domain": "matrix.frei.chat",
+        "info": "https://frei.chat",
+        "jurisdiction": "Germany (Finland)",
+        "tos": "https://frei.chat/termsofuse/",
+        "privacy": "https://frei.chat/privacypolicy/",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.frei.chat/",
+        "software": "Synapse",
+        "version": "1.84.1",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "freiburg.social",
         "domain": "matrix.freiburg.social",
         "info": "https://wir.freiburg.social/angebote/matrix/",
@@ -795,8 +812,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.84.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "matrix.im",
@@ -865,23 +882,6 @@
         "version": "1.84.1",
         "recaptcha": false,
         "email": true
-    },
-    {
-        "name": "nopasaran.red",
-        "domain": "nopasaran.red",
-        "info": "https://nopasaran.red",
-        "jurisdiction": "US (Germany)",
-        "tos": "https://mastodon.nopasaran.red/about",
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://nopasaran.red/how-to-join/",
-        "software": "Synapse",
-        "version": "1.84.1",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "nope.chat",
@@ -1491,7 +1491,7 @@
         "reg_method": "Contact",
         "reg_link": "https://hyteck.de/about/",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.83.0",
         "recaptcha": false,
         "email": true
     },
