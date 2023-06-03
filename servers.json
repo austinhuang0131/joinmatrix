@@ -510,23 +510,6 @@
         "email": true
     },
     {
-        "name": "frei.chat",
-        "domain": "matrix.frei.chat",
-        "info": "https://frei.chat",
-        "jurisdiction": "Germany (Finland)",
-        "tos": "https://frei.chat/termsofuse/",
-        "privacy": "https://frei.chat/privacypolicy/",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.frei.chat/",
-        "software": "Synapse",
-        "version": "1.84.1",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "freiburg.social",
         "domain": "matrix.freiburg.social",
         "info": "https://wir.freiburg.social/angebote/matrix/",
@@ -812,8 +795,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.84.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "matrix.im",
