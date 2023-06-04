@@ -81,8 +81,8 @@
         "reg_link": "https://element.arcticfoxes.net",
         "software": "Synapse",
         "version": "1.85.0rc2",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "aria-net.org",
@@ -505,7 +505,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
-        "version": "1.84.0",
+        "version": "1.84.1",
         "recaptcha": false,
         "email": true
     },
@@ -694,6 +694,23 @@
         "software": "Synapse",
         "version": "1.84.1",
         "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "hot-chilli.im",
+        "domain": "hot-chilli.im",
+        "info": "https://jabber.hot-chilli.net/2022/04/26/hot-chilli-matrix-server/",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.hot-chilli.im/",
+        "software": "Synapse",
+        "version": "1.84.1",
+        "recaptcha": true,
         "email": true
     },
     {
@@ -1289,7 +1306,7 @@
         "software": "Synapse",
         "version": "1.83.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "ungleich.ch",
@@ -1406,7 +1423,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.84.0",
+        "version": "1.84.1",
         "recaptcha": false,
         "email": true
     },
@@ -1425,7 +1442,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "fachschaften.org",
