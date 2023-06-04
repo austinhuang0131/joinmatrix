@@ -267,7 +267,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
-        "version": "1.84.0",
+        "version": "1.84.1",
         "recaptcha": false,
         "email": true
     },
@@ -677,23 +677,6 @@
         "software": "Synapse",
         "version": "1.84.1",
         "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "hot-chilli.im",
-        "domain": "hot-chilli.im",
-        "info": "https://jabber.hot-chilli.net/2022/04/26/hot-chilli-matrix-server/",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.hot-chilli.im/",
-        "software": "Synapse",
-        "version": "1.82.0",
-        "recaptcha": true,
         "email": true
     },
     {
