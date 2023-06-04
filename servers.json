@@ -68,6 +68,23 @@
         "email": true
     },
     {
+        "name": "arcticfoxes.net",
+        "domain": "matrix.arcticfoxes.net",
+        "info": "https://arcticfoxes.net",
+        "jurisdiction": "US (UK)",
+        "tos": "https://arcticfoxes.net/",
+        "privacy": "https://arcticfoxes.net/",
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.arcticfoxes.net",
+        "software": "Synapse",
+        "version": "1.85.0rc2",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "aria-net.org",
         "domain": "aria.im",
         "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
@@ -778,8 +795,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.84.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "matrix.im",
@@ -1057,7 +1074,7 @@
         "name": "projectsegfau.lt",
         "domain": "matrix.projectsegfau.lt:443",
         "info": "https://projectsegfau.lt/instances",
-        "jurisdiction": "France/Luxembourg",
+        "jurisdiction": "France",
         "tos": "https://projectsegfau.lt/legal/tos",
         "privacy": "https://projectsegfau.lt/legal/privacy-policy",
         "open": true,
@@ -1343,6 +1360,23 @@
         "email": true
     },
     {
+        "name": "waffle.tech",
+        "domain": "waffle.tech",
+        "info": "https://waffle.tech/start",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Tech collective",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.74.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "xmr.se",
         "domain": "xmr.se",
         "info": "https://xmr.se",
@@ -1391,7 +1425,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "fachschaften.org",
