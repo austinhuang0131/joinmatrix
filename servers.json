@@ -306,23 +306,6 @@
         "email": true
     },
     {
-        "name": "club1.fr",
-        "domain": "club1.fr",
-        "info": "https://club1.fr/matrix/",
-        "jurisdiction": "France",
-        "tos": "https://club1.fr/docs/fr/cgu.html",
-        "privacy": "https://club1.fr/docs/fr/info/politique-de-vie-privee.html",
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://riot.club1.fr/",
-        "software": "Synapse",
-        "version": "1.82.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "comm.cx",
         "domain": "matrix-client.comm.cx",
         "info": "https://comm.cx",
@@ -1270,7 +1253,7 @@
         "reg_method": "SSO",
         "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.84.0",
         "recaptcha": false,
         "email": false
     },
