@@ -335,9 +335,26 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.84.0",
+        "version": "1.84.1",
         "recaptcha": true,
         "email": true
+    },
+    {
+        "name": "community.rs",
+        "domain": "matrix.community.rs",
+        "info": "https://community.rs",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Rust-oriented",
+        "antifeature": "Uses Cloudflare",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.community.rs/",
+        "software": "Synapse",
+        "version": "1.84.1",
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "converser.eu",
@@ -795,8 +812,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.84.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "matrix.im",
