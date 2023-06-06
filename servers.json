@@ -183,8 +183,8 @@
         "reg_link": "https://chat.buyvm.net/element/",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "cat.casa",
@@ -199,7 +199,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.cat.casa/",
         "software": "Synapse",
-        "version": "1.84.1",
+        "version": "1.85.0",
         "recaptcha": false,
         "email": false
     },
@@ -761,8 +761,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.84.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -863,8 +863,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.84.1",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "norge.chat",
@@ -896,7 +896,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
-        "version": "1.84.1",
+        "version": "1.85.0",
         "recaptcha": true,
         "email": true
     },
@@ -1152,6 +1152,23 @@
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
         "version": "1.84.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "supreme.sh",
+        "domain": "matrix.supreme.sh",
+        "info": "https://supreme.sh/info",
+        "jurisdiction": "UK (Germany)",
+        "tos": "https://supreme.sh/info/policies/rules/",
+        "privacy": "https://supreme.sh/info/policies/privacy/",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.supreme.sh",
+        "software": "Synapse",
+        "version": "1.85.0",
         "recaptcha": false,
         "email": true
     },
