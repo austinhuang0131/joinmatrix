@@ -285,8 +285,8 @@
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
         "version": "1.84.1",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "comm.cx",
@@ -319,7 +319,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.84.1",
-        "recaptcha": true,
+        "recaptcha": false,
         "email": false
     },
     {
@@ -761,8 +761,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.84.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "matrix.im",
@@ -846,8 +846,8 @@
         "reg_link": "https://nopasaran.red/how-to-join/",
         "software": "Synapse",
         "version": "1.84.1",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "nope.chat",
@@ -863,8 +863,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.84.1",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "norge.chat",
