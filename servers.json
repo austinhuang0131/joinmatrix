@@ -153,6 +153,23 @@
         "email": true
     },
     {
+        "name": "bolha.chat",
+        "domain": "bolha.chat",
+        "info": "https://bolha.chat",
+        "jurisdiction": "Brazil (Canada)",
+        "tos": "https://hub.bolha.us/conduta/",
+        "privacy": null,
+        "open": true,
+        "remarks": "In Portuguese; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.bolha.chat/",
+        "software": "Synapse",
+        "version": "1.84.1",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "breeze.town",
         "domain": "breeze.town",
         "info": "https://breeze.town/@breeze/108776240056543549",
@@ -182,9 +199,9 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.buyvm.net/element/",
         "software": "Synapse",
-        "version": "1.81.0",
-        "recaptcha": false,
-        "email": false
+        "version": "1.85.0",
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "cat.casa",
@@ -284,9 +301,9 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
-        "version": "1.84.1",
-        "recaptcha": true,
-        "email": true
+        "version": "1.85.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "comm.cx",
@@ -301,7 +318,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.84.1",
+        "version": "1.85.0",
         "recaptcha": true,
         "email": true
     },
@@ -319,7 +336,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.84.1",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -420,7 +437,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.84.1",
+        "version": "1.85.0",
         "recaptcha": true,
         "email": true
     },
@@ -454,7 +471,7 @@
         "reg_method": "SSO",
         "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
         "software": "Synapse",
-        "version": "1.84.0",
+        "version": "1.85.0",
         "recaptcha": false,
         "email": false
     },
@@ -607,7 +624,7 @@
         "reg_method": "In-house Cinny",
         "reg_link": "https://chat.group.lt/",
         "software": "Synapse",
-        "version": "1.84.1",
+        "version": "1.85.0",
         "recaptcha": true,
         "email": true
     },
@@ -624,7 +641,7 @@
         "reg_method": "Form",
         "reg_link": "https://hackliberty.org/register",
         "software": "Synapse",
-        "version": "1.84.1",
+        "version": "1.85.0",
         "recaptcha": false,
         "email": false
     },
@@ -641,7 +658,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://hashi.sbs",
         "software": "Synapse",
-        "version": "1.84.1",
+        "version": "1.85.0",
         "recaptcha": false,
         "email": true
     },
@@ -761,8 +778,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.84.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "matrix.im",
@@ -862,7 +879,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
-        "version": "1.84.1",
+        "version": "1.85.0",
         "recaptcha": true,
         "email": true
     },
@@ -1156,23 +1173,6 @@
         "email": true
     },
     {
-        "name": "supreme.sh",
-        "domain": "matrix.supreme.sh",
-        "info": "https://supreme.sh/info",
-        "jurisdiction": "UK (Germany)",
-        "tos": "https://supreme.sh/info/policies/rules/",
-        "privacy": "https://supreme.sh/info/policies/privacy/",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.supreme.sh",
-        "software": "Synapse",
-        "version": "1.85.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "synod.im",
         "domain": "synod.im",
         "info": "https://doc.librechurch.org/Wiki.jsp?page=Matrix#section-Matrix-DieMatrixInstanzSynod.im",
@@ -1423,7 +1423,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.84.1",
+        "version": "1.85.0",
         "recaptcha": false,
         "email": false
     },
