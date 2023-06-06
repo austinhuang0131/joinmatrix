@@ -114,7 +114,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.bachgau.social/",
         "software": "Synapse",
-        "version": "1.84.1",
+        "version": "1.85.0",
         "recaptcha": false,
         "email": true
     },
@@ -302,8 +302,8 @@
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
         "version": "1.85.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "comm.cx",
@@ -505,7 +505,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
-        "version": "1.84.1",
+        "version": "1.85.0",
         "recaptcha": true,
         "email": true
     },
