@@ -420,7 +420,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.84.0",
+        "version": "1.85.1",
         "recaptcha": false,
         "email": true
     },
@@ -474,23 +474,6 @@
         "version": "1.85.0",
         "recaptcha": false,
         "email": false
-    },
-    {
-        "name": "flieger.chat",
-        "domain": "matrix.flieger.chat",
-        "info": "https://yatrix.org",
-        "jurisdiction": "Germany",
-        "tos": "https://yatrix.org/nutzungsbedingungen/",
-        "privacy": "https://yatrix.org/impressum/",
-        "open": true,
-        "remarks": "In German; operated by yatrix.org",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.flieger.chat/",
-        "software": "Synapse",
-        "version": "1.84.1",
-        "recaptcha": false,
-        "email": true
     },
     {
         "name": "frei.chat",
@@ -641,7 +624,7 @@
         "reg_method": "In-house Cinny",
         "reg_link": "https://chat.group.lt/",
         "software": "Synapse",
-        "version": "1.85.0",
+        "version": "1.85.1",
         "recaptcha": true,
         "email": true
     },
@@ -782,23 +765,6 @@
         "email": false
     },
     {
-        "name": "mailstation.de",
-        "domain": "mailstation.de",
-        "info": "https://turing.mailstation.de/?page_id=1375",
-        "jurisdiction": "Germany",
-        "tos": "https://turing.mailstation.de/terms-and-conditions/",
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.mailstation.de/",
-        "software": "Synapse",
-        "version": "1.84.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "matrix.im",
         "domain": "matrix.im",
         "info": "https://matrix.im",
@@ -867,23 +833,6 @@
         "email": true
     },
     {
-        "name": "nopasaran.red",
-        "domain": "nopasaran.red",
-        "info": "https://nopasaran.red",
-        "jurisdiction": "US (Germany)",
-        "tos": "https://mastodon.nopasaran.red/about",
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://nopasaran.red/how-to-join/",
-        "software": "Synapse",
-        "version": "1.84.1",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "nope.chat",
         "domain": "nope.chat",
         "info": "https://nope.chat",
@@ -896,7 +845,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
-        "version": "1.85.0",
+        "version": "1.85.1",
         "recaptcha": true,
         "email": true
     },
@@ -1020,6 +969,23 @@
         "email": true
     },
     {
+        "name": "plus.st",
+        "domain": "matrix.plus.st",
+        "info": "https://plus.st/",
+        "jurisdiction": "US",
+        "tos": "https://plus.st/terms.html",
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.plus.st/",
+        "software": "Synapse",
+        "version": "1.85.0rc2 (b=develop,30a5076da8)",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "possum.city",
         "domain": "possum.city",
         "info": "https://possum.city",
@@ -1105,23 +1071,6 @@
         "email": true
     },
     {
-        "name": "riotchat.de",
-        "domain": "riotchat.de",
-        "info": "https://riotchat.de/legal/help.html",
-        "jurisdiction": "Germany",
-        "tos": "https://riotchat.de/legal/terms.html",
-        "privacy": "https://riotchat.de/legal/privacy.html",
-        "open": true,
-        "remarks": "In German; operated by ggc-project.de",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://riotchat.de/register/form.php",
-        "software": "Synapse",
-        "version": "1.76.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "sibnsk.net",
         "domain": "matrix.sibnsk.net",
         "info": "https://lugnsk.org/page/blog/matrix",
@@ -1204,23 +1153,6 @@
         "software": "Synapse",
         "version": "1.84.0",
         "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "techsaviours.org",
-        "domain": "matrix.techsaviours.org",
-        "info": "https://techsaviours.org",
-        "jurisdiction": "Germany",
-        "tos": "https://techsaviours.org/terms-and-conditions.html",
-        "privacy": "https://techsaviours.org/privacy-policy.html",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.techsaviours.org/",
-        "software": "Synapse",
-        "version": "1.85.0",
-        "recaptcha": false,
         "email": true
     },
     {
