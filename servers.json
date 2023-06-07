@@ -289,23 +289,6 @@
         "email": true
     },
     {
-        "name": "chrrreeeeesss.com",
-        "domain": "chrrreeeeesss.com",
-        "info": "https://chrrreeeeesss.com",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chrrreeeeesss.com/element",
-        "software": "Synapse",
-        "version": "1.85.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "comm.cx",
         "domain": "matrix-client.comm.cx",
         "info": "https://comm.cx",
@@ -595,6 +578,23 @@
         "email": true
     },
     {
+        "name": "gnulinux.club",
+        "domain": "matrix.gnulinux.club",
+        "info": "https://gnulinux.social",
+        "jurisdiction": "US",
+        "tos": "https://gnulinux.social/about",
+        "privacy": null,
+        "open": true,
+        "remarks": "FOSS-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.gnulinux.club/",
+        "software": "Synapse",
+        "version": "1.83.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "grin.hu",
         "domain": "matrix.grin.hu",
         "info": "https://matrix.grin.hu",
@@ -865,23 +865,6 @@
         "version": "1.84.1",
         "recaptcha": false,
         "email": false
-    },
-    {
-        "name": "nope.chat",
-        "domain": "nope.chat",
-        "info": "https://nope.chat",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.nope.chat",
-        "software": "Synapse",
-        "version": "1.85.0",
-        "recaptcha": true,
-        "email": true
     },
     {
         "name": "norge.chat",
@@ -1219,7 +1202,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
-        "version": "1.83.0",
+        "version": "1.85.0",
         "recaptcha": false,
         "email": true
     },
@@ -1543,23 +1526,6 @@
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
         "version": "1.84.1",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "hadoly.fr",
-        "domain": "matrix.hadoly.fr",
-        "info": "https://hadoly.fr",
-        "jurisdiction": "France",
-        "tos": "https://hadoly.fr/cgu.html",
-        "privacy": null,
-        "open": false,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "Membership",
-        "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
-        "software": "Synapse",
-        "version": "1.77.0",
         "recaptcha": false,
         "email": false
     },
