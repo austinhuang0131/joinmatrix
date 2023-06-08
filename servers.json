@@ -386,7 +386,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.data.haus/",
         "software": "Synapse",
-        "version": "1.85.0",
+        "version": "1.85.1",
         "recaptcha": false,
         "email": true
     },
@@ -762,7 +762,7 @@
         "software": "Synapse",
         "version": "1.77.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "magdeburg.jetzt",
@@ -1105,6 +1105,23 @@
         "email": true
     },
     {
+        "name": "riotchat.de",
+        "domain": "riotchat.de",
+        "info": "https://riotchat.de/legal/help.html",
+        "jurisdiction": "Germany",
+        "tos": "https://riotchat.de/legal/terms.html",
+        "privacy": "https://riotchat.de/legal/privacy.html",
+        "open": true,
+        "remarks": "In German; operated by ggc-project.de",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://riotchat.de/register/form.php",
+        "software": "Synapse",
+        "version": "1.76.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "sibnsk.net",
         "domain": "matrix.sibnsk.net",
         "info": "https://lugnsk.org/page/blog/matrix",
@@ -1117,7 +1134,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.sibnsk.net",
         "software": "Synapse",
-        "version": "1.84.1",
+        "version": "1.85.1",
         "recaptcha": true,
         "email": true
     },
@@ -1440,7 +1457,7 @@
         "reg_method": "Contact",
         "reg_link": "https://www.bytes4u.de/index.php?action=register",
         "software": "Synapse",
-        "version": "1.84.1",
+        "version": "1.85.1",
         "recaptcha": true,
         "email": true
     },
