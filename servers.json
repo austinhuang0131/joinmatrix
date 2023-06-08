@@ -488,7 +488,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
-        "version": "1.85.0",
+        "version": "1.85.2",
         "recaptcha": true,
         "email": true
     },
@@ -760,7 +760,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.magdeburg.jetzt/",
         "software": "Synapse",
-        "version": "1.84.0",
+        "version": "1.85.2",
         "recaptcha": false,
         "email": false
     },
@@ -778,8 +778,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.85.1",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "matrix.im",
@@ -1032,7 +1032,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.84.0",
+        "version": "1.85.2",
         "recaptcha": true,
         "email": true
     },
@@ -1185,7 +1185,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.84.0",
+        "version": "1.85.2",
         "recaptcha": true,
         "email": true
     },
@@ -1391,7 +1391,7 @@
         "software": "Synapse",
         "version": "420*69",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "fachschaften.org",
