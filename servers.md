@@ -108,8 +108,8 @@ From left to right:
   * "SSO": The homeserver requires [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) for authentication. You must create an account through the link prior to creating an account on the Matrix homeserver itself. Usually, the account can be used to access other services offered by the homeserver operator.
 * **Version**: The software version of the homeserver, [updated every 6 hours by a GitHub Action](https://github.com/austinhuang0131/joinmatrix/blob/main/.github/workflows/matrix_ver.yml#L4).
   * Unless indicated otherwise, the homeserver is running Synapse.
-    * Homeservers running versions prior to `1.74.0` are coloured yellow due to a [vulnerability](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32323).
-    * Homeservers running a version released approximately more than 3 months ago are coloured blue. Currently the cutoff is `1.78.0`.
+    * Homeservers running versions prior to `1.85.0` are coloured yellow due to [vulnerabilities](https://github.com/matrix-org/synapse/releases/tag/v1.85.0).
+    * Homeservers running a version released approximately more than 3 months ago are coloured blue. Currently the cutoff is `1.85.0`.
   * Homeservers that use Dendrite or have unparseable version strings are not coloured.
   * "Error!!" (coloured red): The homeserver cannot be reached at the time of checking. This is usually occasional, as frequent downtime are grounds for exclusion from this list.
 
