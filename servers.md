@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
       c[i].classList.add("red");
     else if (c[i].textContent.indexOf("Dendrite") == -1 && c[i].textContent.match(/\d+\.\d+\.\d/) != null) {
       let v = parseFloat(c[i].textContent.match(/\d+\.\d+\.\d/)[0].substring(2));
-      c[i].classList.add(v >= 74.0 ? (v >= 78.0 ? "green" : "blue") : "orange");
+      c[i].classList.add(v >= 85.0 ? (v >= 85.0 ? "green" : "blue") : "orange");
     }
   })
 })
@@ -115,7 +115,6 @@ From left to right:
 
 ## Other Matrix homeserver lists
 
-* [asra.gr's list](https://wiki.asra.gr/en:public_servers): A raw dataset of homeservers that allows (but are not necessarily intended for) public registration.
 * [CHATONS list](https://www.chatons.org/search/by-service?service_type_target_id=All&field_alternatives_aux_services_target_id=All&field_software_target_id=274&field_is_shared_value=All&title=): A list of homeservers hosted in France that adhere to certain ethical standards. Some may require membership.
 
 This list was originally located at AustinHuang.me.
