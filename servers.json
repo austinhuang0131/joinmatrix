@@ -845,7 +845,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://mtrx.nz/",
         "software": "Synapse",
-        "version": "1.84.1",
+        "version": "1.85.2",
         "recaptcha": false,
         "email": true
     },
@@ -932,23 +932,6 @@
         "software": "Synapse",
         "version": "1.70.0",
         "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "oikei.net",
-        "domain": "oikei.net",
-        "info": "https://oikei.net",
-        "jurisdiction": "Slovenia (Germany)",
-        "tos": "https://oikei.net/pages/tos.html",
-        "privacy": "https://oikei.net/pages/privacy.html",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.76.0",
-        "recaptcha": true,
         "email": false
     },
     {
@@ -1051,23 +1034,6 @@
         "software": "Synapse",
         "version": "1.85.2",
         "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "projectsegfau.lt",
-        "domain": "matrix.projectsegfau.lt:443",
-        "info": "https://projectsegfau.lt/instances",
-        "jurisdiction": "France",
-        "tos": "https://projectsegfau.lt/legal/tos",
-        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.projectsegfau.lt/",
-        "software": "Synapse",
-        "version": "1.85.0",
-        "recaptcha": false,
         "email": true
     },
     {
