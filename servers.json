@@ -811,7 +811,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
-        "version": "1.84.1",
+        "version": "1.85.2",
         "recaptcha": true,
         "email": true
     },
@@ -932,6 +932,23 @@
         "software": "Synapse",
         "version": "1.70.0",
         "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "oikei.net",
+        "domain": "oikei.net",
+        "info": "https://oikei.net",
+        "jurisdiction": "Slovenia (Germany)",
+        "tos": "https://oikei.net/pages/tos.html",
+        "privacy": "https://oikei.net/pages/privacy.html",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.76.0",
+        "recaptcha": true,
         "email": false
     },
     {
@@ -1238,7 +1255,7 @@
         "software": "Synapse",
         "version": "1.83.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "ungleich.ch",
@@ -1372,7 +1389,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.85.0",
+        "version": "1.85.2",
         "recaptcha": false,
         "email": false
     },
