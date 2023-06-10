@@ -63,7 +63,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
-        "version": "1.85.1",
+        "version": "1.85.2",
         "recaptcha": true,
         "email": true
     },
@@ -286,23 +286,6 @@
         "software": "Synapse",
         "version": "1.84.1",
         "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "chrrreeeeesss.com",
-        "domain": "chrrreeeeesss.com",
-        "info": "https://chrrreeeeesss.com",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chrrreeeeesss.com/element",
-        "software": "Synapse",
-        "version": "1.85.0",
-        "recaptcha": true,
         "email": true
     },
     {
