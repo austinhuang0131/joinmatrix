@@ -167,7 +167,7 @@
         "software": "Synapse",
         "version": "1.84.1",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "breeze.town",
