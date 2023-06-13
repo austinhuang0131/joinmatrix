@@ -795,8 +795,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.85.1",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -1068,7 +1068,7 @@
         "software": "Synapse",
         "version": "1.85.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "pub.solar",
@@ -1559,7 +1559,7 @@
         "reg_method": "Membership",
         "reg_link": "https://rimfaxe.net/bli-medlem/",
         "software": "Synapse",
-        "version": "1.85.0",
+        "version": "1.85.2",
         "recaptcha": false,
         "email": false
     },
