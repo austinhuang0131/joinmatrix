@@ -850,40 +850,6 @@
         "email": true
     },
     {
-        "name": "noevil.pl",
-        "domain": "matrix.noevil.pl",
-        "info": "https://noevil.pl/matrix",
-        "jurisdiction": "Poland",
-        "tos": "https://noevil.pl/terms-of-service/",
-        "privacy": "https://noevil.pl/matrix/privacy/",
-        "open": true,
-        "remarks": "In Polish",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.noevil.pl/",
-        "software": "Synapse",
-        "version": "1.85.1",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "nope.chat",
-        "domain": "nope.chat",
-        "info": "https://nope.chat",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.nope.chat",
-        "software": "Synapse",
-        "version": "1.85.2",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "norge.chat",
         "domain": "matrix.norge.chat",
         "info": "https://norge.chat",
@@ -1083,7 +1049,7 @@
         "reg_method": "SSO",
         "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
         "software": "Synapse",
-        "version": "1.84.1",
+        "version": "1.85.2",
         "recaptcha": false,
         "email": false
     },
@@ -1272,7 +1238,7 @@
         "software": "Synapse",
         "version": "1.83.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "ungleich.ch",
