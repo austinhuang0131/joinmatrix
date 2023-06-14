@@ -12,9 +12,9 @@
         "reg_method": "In-house Element",
         "reg_link": "https://im.0wnz.at/element-web/",
         "software": "Synapse",
-        "version": "1.84.1",
-        "recaptcha": true,
-        "email": true
+        "version": "1.85.2",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "4d2.org",
@@ -165,7 +165,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.bolha.chat/",
         "software": "Synapse",
-        "version": "1.84.1",
+        "version": "1.85.2",
         "recaptcha": false,
         "email": true
     },
@@ -850,6 +850,40 @@
         "email": true
     },
     {
+        "name": "noevil.pl",
+        "domain": "matrix.noevil.pl",
+        "info": "https://noevil.pl/matrix",
+        "jurisdiction": "Poland",
+        "tos": "https://noevil.pl/terms-of-service/",
+        "privacy": "https://noevil.pl/matrix/privacy/",
+        "open": true,
+        "remarks": "In Polish",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.noevil.pl/",
+        "software": "Synapse",
+        "version": "1.85.1",
+        "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "nope.chat",
+        "domain": "nope.chat",
+        "info": "https://nope.chat",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.nope.chat",
+        "software": "Synapse",
+        "version": "1.85.2",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "norge.chat",
         "domain": "matrix.norge.chat",
         "info": "https://norge.chat",
@@ -1188,23 +1222,6 @@
         "version": "1.85.0",
         "recaptcha": false,
         "email": true
-    },
-    {
-        "name": "tedomum.net",
-        "domain": "matrix.tedomum.net",
-        "info": "https://tedomum.net/service/matrix/",
-        "jurisdiction": "France",
-        "tos": "https://tedomum.net/page/cgu/",
-        "privacy": "https://tedomum.net/page/cgu/",
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://tedomum.net/documentation/general/account/",
-        "software": "Synapse",
-        "version": "1.84.0",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "tomesh.net",
