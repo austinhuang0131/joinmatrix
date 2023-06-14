@@ -13,8 +13,8 @@
         "reg_link": "https://im.0wnz.at/element-web/",
         "software": "Synapse",
         "version": "1.85.2",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "4d2.org",
@@ -795,8 +795,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.85.1",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -1222,6 +1222,23 @@
         "version": "1.85.0",
         "recaptcha": false,
         "email": true
+    },
+    {
+        "name": "tedomum.net",
+        "domain": "matrix.tedomum.net",
+        "info": "https://tedomum.net/service/matrix/",
+        "jurisdiction": "France",
+        "tos": "https://tedomum.net/page/cgu/",
+        "privacy": "https://tedomum.net/page/cgu/",
+        "open": true,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://tedomum.net/documentation/general/account/",
+        "software": "Synapse",
+        "version": "1.85.2",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "tomesh.net",
