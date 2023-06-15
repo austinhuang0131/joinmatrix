@@ -286,7 +286,7 @@
         "software": "Synapse",
         "version": "1.84.1",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "chrrreeeeesss.com",
@@ -1054,21 +1054,21 @@
         "email": true
     },
     {
-        "name": "pub.solar",
-        "domain": "matrix.pub.solar",
-        "info": "https://pub.solar",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://pub.solar/privacy",
+        "name": "projectsegfau.lt",
+        "domain": "matrix.projectsegfau.lt:443",
+        "info": "https://projectsegfau.lt/instances",
+        "jurisdiction": "France",
+        "tos": "https://projectsegfau.lt/legal/tos",
+        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
         "open": true,
-        "remarks": "Tech collective",
+        "remarks": "General host",
         "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.projectsegfau.lt/",
         "software": "Synapse",
-        "version": "1.85.2",
+        "version": "1.85.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "radiowarnerd.org",
@@ -1186,8 +1186,8 @@
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
         "version": "1.85.2",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "techsaviours.org",
