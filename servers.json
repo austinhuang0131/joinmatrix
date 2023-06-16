@@ -1,5 +1,22 @@
 [
     {
+        "name": "0wnz.at",
+        "domain": "0wnz.at",
+        "info": "https://0wnz.at",
+        "jurisdiction": "Austria",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://im.0wnz.at/element-web/",
+        "software": "Synapse",
+        "version": "1.85.2",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "4d2.org",
         "domain": "matrix.4d2.org",
         "info": "https://4d2.org",
@@ -544,23 +561,6 @@
         "email": false
     },
     {
-        "name": "glasgow.social",
-        "domain": "matrix.glasgow.social",
-        "info": "https://opensource.glasgow.social/matrix",
-        "jurisdiction": "UK",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Regional tech collective",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.glasgow.social/",
-        "software": "Synapse",
-        "version": "1.74.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "gnulinux.club",
         "domain": "matrix.gnulinux.club",
         "info": "https://gnulinux.social",
@@ -610,6 +610,23 @@
         "version": "1.85.2",
         "recaptcha": true,
         "email": true
+    },
+    {
+        "name": "hackliberty.org",
+        "domain": "hackliberty.org",
+        "info": "https://hackliberty.org",
+        "jurisdiction": "Iceland?",
+        "tos": "https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/code-of-conduct.md",
+        "privacy": "https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/privacy-policy.md",
+        "open": true,
+        "remarks": "Libertarian; tech collective",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://hackliberty.org/register",
+        "software": "Synapse",
+        "version": "1.85.2",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "hashi.sbs",
