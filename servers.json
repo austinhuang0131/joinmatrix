@@ -1,22 +1,5 @@
 [
     {
-        "name": "0wnz.at",
-        "domain": "0wnz.at",
-        "info": "https://0wnz.at",
-        "jurisdiction": "Austria",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://im.0wnz.at/element-web/",
-        "software": "Synapse",
-        "version": "1.85.2",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "4d2.org",
         "domain": "matrix.4d2.org",
         "info": "https://4d2.org",
@@ -167,7 +150,7 @@
         "software": "Synapse",
         "version": "1.85.2",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "breeze.town",
@@ -338,23 +321,6 @@
         "version": "1.85.1",
         "recaptcha": true,
         "email": false
-    },
-    {
-        "name": "converser.eu",
-        "domain": "converser.eu",
-        "info": "https://converser.eu",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.78.0",
-        "recaptcha": false,
-        "email": true
     },
     {
         "name": "crossbach.de",
@@ -644,23 +610,6 @@
         "version": "1.85.2",
         "recaptcha": true,
         "email": true
-    },
-    {
-        "name": "hackliberty.org",
-        "domain": "hackliberty.org",
-        "info": "https://hackliberty.org",
-        "jurisdiction": "Iceland?",
-        "tos": "https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/code-of-conduct.md",
-        "privacy": "https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/privacy-policy.md",
-        "open": true,
-        "remarks": "Libertarian; tech collective",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://hackliberty.org/register",
-        "software": "Synapse",
-        "version": "1.85.2",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "hashi.sbs",
@@ -1173,6 +1122,23 @@
         "email": true
     },
     {
+        "name": "supreme.sh",
+        "domain": "matrix.supreme.sh",
+        "info": "https://supreme.sh/info",
+        "jurisdiction": "UK (Germany)",
+        "tos": "https://supreme.sh/info/policies/rules/",
+        "privacy": "https://supreme.sh/info/policies/privacy/",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.supreme.sh",
+        "software": "Synapse",
+        "version": "1.85.2",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "synod.im",
         "domain": "synod.im",
         "info": "https://doc.librechurch.org/Wiki.jsp?page=Matrix#section-Matrix-DieMatrixInstanzSynod.im",
@@ -1339,8 +1305,8 @@
         "reg_link": "https://element.virto.community/",
         "software": "Synapse",
         "version": "1.79.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "waffle.tech",
