@@ -167,7 +167,7 @@
         "software": "Synapse",
         "version": "1.85.2",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "breeze.town",
@@ -202,6 +202,23 @@
         "version": "1.85.2",
         "recaptcha": true,
         "email": true
+    },
+    {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/rules",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.85.2",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "catgirl.cloud",
@@ -1322,8 +1339,8 @@
         "reg_link": "https://element.virto.community/",
         "software": "Synapse",
         "version": "1.79.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "waffle.tech",
