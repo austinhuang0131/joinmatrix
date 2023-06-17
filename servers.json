@@ -340,6 +340,23 @@
         "email": false
     },
     {
+        "name": "converser.eu",
+        "domain": "converser.eu",
+        "info": "https://converser.eu",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In French",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.78.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "crossbach.de",
         "domain": "matrix.crossbach.de",
         "info": "https://crossbach.de",
@@ -1219,7 +1236,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
-        "version": "1.85.0",
+        "version": "1.85.2",
         "recaptcha": false,
         "email": true
     },
