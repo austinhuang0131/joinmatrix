@@ -1016,7 +1016,7 @@
         "reg_link": "https://matrix.possum.city/",
         "software": "Dendrite",
         "version": "0.11.0+430932f0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -1508,7 +1508,7 @@
         "reg_method": "Membership",
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
-        "version": "1.84.1",
+        "version": "1.85.2",
         "recaptcha": false,
         "email": false
     },
