@@ -833,23 +833,6 @@
         "email": true
     },
     {
-        "name": "noevil.pl",
-        "domain": "matrix.noevil.pl",
-        "info": "https://noevil.pl/matrix",
-        "jurisdiction": "Poland",
-        "tos": "https://noevil.pl/terms-of-service/",
-        "privacy": "https://noevil.pl/matrix/privacy/",
-        "open": true,
-        "remarks": "In Polish",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.noevil.pl/",
-        "software": "Synapse",
-        "version": "1.85.1",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "nope.chat",
         "domain": "nope.chat",
         "info": "https://nope.chat",
@@ -998,7 +981,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
-        "version": "1.85.2 (b=develop,d84e66144d)",
+        "version": "1.86.0rc2 (b=develop,0f02f0b4da)",
         "recaptcha": true,
         "email": true
     },
@@ -1423,7 +1406,7 @@
         "reg_method": "Contact",
         "reg_link": "https://www.bytes4u.de/index.php?action=register",
         "software": "Synapse",
-        "version": "1.85.1",
+        "version": "1.85.2",
         "recaptcha": true,
         "email": true
     },
