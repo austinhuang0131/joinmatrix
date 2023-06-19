@@ -506,7 +506,7 @@
         "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
         "version": "1.85.2",
-        "recaptcha": true,
+        "recaptcha": false,
         "email": true
     },
     {
@@ -833,6 +833,23 @@
         "email": true
     },
     {
+        "name": "noevil.pl",
+        "domain": "matrix.noevil.pl",
+        "info": "https://noevil.pl/matrix",
+        "jurisdiction": "Poland",
+        "tos": "https://noevil.pl/terms-of-service/",
+        "privacy": "https://noevil.pl/matrix/privacy/",
+        "open": true,
+        "remarks": "In Polish",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.noevil.pl/",
+        "software": "Synapse",
+        "version": "1.85.1",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "nope.chat",
         "domain": "nope.chat",
         "info": "https://nope.chat",
@@ -981,7 +998,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
-        "version": "1.86.0rc2 (b=develop,0f02f0b4da)",
+        "version": "1.86.0rc2 (b=develop,4ba528d9c3)",
         "recaptcha": true,
         "email": true
     },
