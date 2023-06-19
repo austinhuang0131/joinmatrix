@@ -833,23 +833,6 @@
         "email": true
     },
     {
-        "name": "noevil.pl",
-        "domain": "matrix.noevil.pl",
-        "info": "https://noevil.pl/matrix",
-        "jurisdiction": "Poland",
-        "tos": "https://noevil.pl/terms-of-service/",
-        "privacy": "https://noevil.pl/matrix/privacy/",
-        "open": true,
-        "remarks": "In Polish",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.noevil.pl/",
-        "software": "Synapse",
-        "version": "1.85.1",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "nope.chat",
         "domain": "nope.chat",
         "info": "https://nope.chat",
@@ -897,8 +880,8 @@
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
         "version": "1.85.2",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "oblak.be",
@@ -947,7 +930,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://riot.ombreport.info/",
         "software": "Synapse",
-        "version": "1.84.0",
+        "version": "1.85.2",
         "recaptcha": true,
         "email": false
     },
@@ -1118,23 +1101,6 @@
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
         "version": "1.81.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "studichat.de",
-        "domain": "matrix.studichat.de",
-        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.studichat.de/",
-        "software": "Synapse",
-        "version": "1.85.1",
         "recaptcha": false,
         "email": true
     },
@@ -1338,7 +1304,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.85.2",
         "recaptcha": true,
         "email": true
     },
