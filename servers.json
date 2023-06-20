@@ -357,23 +357,6 @@
         "email": true
     },
     {
-        "name": "crossbach.de",
-        "domain": "matrix.crossbach.de",
-        "info": "https://crossbach.de",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://crossbach.de/datenschutz/datenschutz.html",
-        "open": true,
-        "remarks": "In German; personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.crossbach.de/",
-        "software": "Synapse",
-        "version": "1.80.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "data.haus",
         "domain": "matrix.data.haus",
         "info": "https://data.haus",
@@ -437,7 +420,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.85.2",
+        "version": "1.86.0",
         "recaptcha": true,
         "email": true
     },
@@ -658,7 +641,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://hashi.sbs",
         "software": "Synapse",
-        "version": "1.85.2",
+        "version": "1.86.0",
         "recaptcha": false,
         "email": true
     },
@@ -778,8 +761,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.85.1",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "matrix.im",
@@ -845,7 +828,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.noevil.pl/",
         "software": "Synapse",
-        "version": "1.85.1",
+        "version": "1.86.0",
         "recaptcha": false,
         "email": true
     },
@@ -862,7 +845,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
-        "version": "1.85.2",
+        "version": "1.86.0",
         "recaptcha": true,
         "email": true
     },
@@ -1139,23 +1122,6 @@
         "email": true
     },
     {
-        "name": "supreme.sh",
-        "domain": "matrix.supreme.sh",
-        "info": "https://supreme.sh/info",
-        "jurisdiction": "UK (Germany)",
-        "tos": "https://supreme.sh/info/policies/rules/",
-        "privacy": "https://supreme.sh/info/policies/privacy/",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://matrix.supreme.sh",
-        "software": "Synapse",
-        "version": "1.85.2",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "synod.im",
         "domain": "synod.im",
         "info": "https://doc.librechurch.org/Wiki.jsp?page=Matrix#section-Matrix-DieMatrixInstanzSynod.im",
@@ -1185,9 +1151,9 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.85.2",
-        "recaptcha": false,
-        "email": false
+        "version": "1.86.0",
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "techsaviours.org",
@@ -1238,23 +1204,6 @@
         "software": "Synapse",
         "version": "1.84.0",
         "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "trygve.me",
-        "domain": "trygve.me",
-        "info": "https://trygve.me/matrix_info/",
-        "jurisdiction": "Norway",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Norwegian; personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.trygve.me/",
-        "software": "Synapse",
-        "version": "1.83.0",
-        "recaptcha": false,
         "email": true
     },
     {
