@@ -148,7 +148,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.bark.lgbt",
         "software": "Synapse",
-        "version": "1.85.0",
+        "version": "1.85.2",
         "recaptcha": false,
         "email": true
     },
@@ -576,6 +576,23 @@
         "version": "1.76.0",
         "recaptcha": false,
         "email": false
+    },
+    {
+        "name": "glasgow.social",
+        "domain": "matrix.glasgow.social",
+        "info": "https://opensource.glasgow.social/matrix",
+        "jurisdiction": "UK",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional tech collective",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.glasgow.social/",
+        "software": "Synapse",
+        "version": "1.74.0",
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "gnulinux.club",
@@ -1084,6 +1101,23 @@
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
         "version": "1.81.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "studichat.de",
+        "domain": "matrix.studichat.de",
+        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; student-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.studichat.de/",
+        "software": "Synapse",
+        "version": "1.85.1",
         "recaptcha": false,
         "email": true
     },
