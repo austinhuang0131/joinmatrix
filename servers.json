@@ -778,8 +778,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.85.1",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -833,6 +833,23 @@
         "email": true
     },
     {
+        "name": "noevil.pl",
+        "domain": "matrix.noevil.pl",
+        "info": "https://noevil.pl/matrix",
+        "jurisdiction": "Poland",
+        "tos": "https://noevil.pl/terms-of-service/",
+        "privacy": "https://noevil.pl/matrix/privacy/",
+        "open": true,
+        "remarks": "In Polish",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.noevil.pl/",
+        "software": "Synapse",
+        "version": "1.85.1",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "nope.chat",
         "domain": "nope.chat",
         "info": "https://nope.chat",
@@ -879,7 +896,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
-        "version": "1.85.2",
+        "version": "1.86.0",
         "recaptcha": true,
         "email": true
     },
@@ -1169,8 +1186,8 @@
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
         "version": "1.85.2",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "techsaviours.org",
