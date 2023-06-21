@@ -63,7 +63,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
-        "version": "1.85.2",
+        "version": "1.86.0",
         "recaptcha": true,
         "email": true
     },
@@ -147,23 +147,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.bark.lgbt",
-        "software": "Synapse",
-        "version": "1.85.2",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "bolha.chat",
-        "domain": "bolha.chat",
-        "info": "https://bolha.chat",
-        "jurisdiction": "Brazil (Canada)",
-        "tos": "https://hub.bolha.us/conduta/",
-        "privacy": null,
-        "open": true,
-        "remarks": "In Portuguese; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.bolha.chat/",
         "software": "Synapse",
         "version": "1.85.2",
         "recaptcha": false,
@@ -354,7 +337,7 @@
         "software": "Synapse",
         "version": "1.78.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "data.haus",
@@ -438,23 +421,6 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "filik.eu",
-        "domain": "chat.filik.eu:443",
-        "info": "https://filik.eu",
-        "jurisdiction": "Czech Republic",
-        "tos": null,
-        "privacy": "https://filik.eu/policy.html",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
-        "software": "Synapse",
-        "version": "1.85.0",
         "recaptcha": false,
         "email": false
     },
@@ -573,7 +539,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://matrix.glasgow.social/",
         "software": "Synapse",
-        "version": "1.74.0",
+        "version": "1.86.0",
         "recaptcha": false,
         "email": true
     },
