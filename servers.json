@@ -153,6 +153,23 @@
         "email": true
     },
     {
+        "name": "bolha.chat",
+        "domain": "bolha.chat",
+        "info": "https://bolha.chat",
+        "jurisdiction": "Brazil (Canada)",
+        "tos": "https://hub.bolha.us/conduta/",
+        "privacy": null,
+        "open": true,
+        "remarks": "In Portuguese; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.bolha.chat/",
+        "software": "Synapse",
+        "version": "1.86.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "breeze.town",
         "domain": "breeze.town",
         "info": "https://breeze.town/@breeze/108776240056543549",
@@ -267,7 +284,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
-        "version": "1.85.2",
+        "version": "1.86.0",
         "recaptcha": false,
         "email": true
     },
@@ -337,6 +354,23 @@
         "software": "Synapse",
         "version": "1.78.0",
         "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "crossbach.de",
+        "domain": "matrix.crossbach.de",
+        "info": "https://crossbach.de",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://crossbach.de/datenschutz/datenschutz.html",
+        "open": true,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.crossbach.de/",
+        "software": "Synapse",
+        "version": "1.80.0",
+        "recaptcha": false,
         "email": false
     },
     {
@@ -352,7 +386,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.data.haus/",
         "software": "Synapse",
-        "version": "1.85.2",
+        "version": "1.86.0",
         "recaptcha": false,
         "email": true
     },
@@ -386,7 +420,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.85.2",
+        "version": "1.86.0",
         "recaptcha": false,
         "email": true
     },
@@ -425,6 +459,23 @@
         "email": false
     },
     {
+        "name": "filik.eu",
+        "domain": "chat.filik.eu:443",
+        "info": "https://filik.eu",
+        "jurisdiction": "Czech Republic",
+        "tos": null,
+        "privacy": "https://filik.eu/policy.html",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
+        "software": "Synapse",
+        "version": "1.85.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "flieger.chat",
         "domain": "matrix.flieger.chat",
         "info": "https://yatrix.org",
@@ -437,7 +488,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
-        "version": "1.85.2",
+        "version": "1.86.0",
         "recaptcha": false,
         "email": true
     },
@@ -541,23 +592,6 @@
         "software": "Synapse",
         "version": "1.86.0",
         "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "gnulinux.club",
-        "domain": "matrix.gnulinux.club",
-        "info": "https://gnulinux.social",
-        "jurisdiction": "US",
-        "tos": "https://gnulinux.social/about",
-        "privacy": null,
-        "open": true,
-        "remarks": "FOSS-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.gnulinux.club/",
-        "software": "Synapse",
-        "version": "1.85.2",
-        "recaptcha": true,
         "email": true
     },
     {
@@ -1173,23 +1207,6 @@
         "email": true
     },
     {
-        "name": "ungleich.ch",
-        "domain": "ungleich.matrix.ungleich.cloud",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
-        "software": "Synapse",
-        "version": "1.83.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "unita.online",
         "domain": "unita.online",
         "info": "https://blog.unita.online/",
@@ -1287,7 +1304,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.85.2",
+        "version": "1.86.0",
         "recaptcha": false,
         "email": true
     },
