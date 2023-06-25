@@ -592,7 +592,7 @@
         "software": "Synapse",
         "version": "1.86.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "gnulinux.club",
@@ -625,6 +625,23 @@
         "reg_link": "https://riot.grin.hu/",
         "software": "Synapse",
         "version": "1.78.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
+        "name": "group.lt",
+        "domain": "matrix.group.lt",
+        "info": "https://group.lt",
+        "jurisdiction": "Lithuania?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": "Uses Cloudflare",
+        "reg_method": "In-house Cinny",
+        "reg_link": "https://chat.group.lt/",
+        "software": "Synapse",
+        "version": "1.86.0",
         "recaptcha": true,
         "email": true
     },
