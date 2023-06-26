@@ -914,8 +914,8 @@
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
         "version": "1.86.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "oblak.be",
@@ -1015,7 +1015,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
-        "version": "1.86.0rc2 (b=develop,4ba528d9c3)",
+        "version": "1.86.0rc2 (b=develop,14c1bfd534)",
         "recaptcha": true,
         "email": true
     },
@@ -1256,23 +1256,6 @@
         "version": "1.84.0",
         "recaptcha": true,
         "email": true
-    },
-    {
-        "name": "ungleich.ch",
-        "domain": "ungleich.matrix.ungleich.cloud",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
-        "software": "Synapse",
-        "version": "1.83.0",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "unita.online",
