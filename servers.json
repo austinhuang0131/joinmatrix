@@ -561,20 +561,20 @@
         "email": false
     },
     {
-        "name": "glasgow.social",
-        "domain": "matrix.glasgow.social",
-        "info": "https://opensource.glasgow.social/matrix",
-        "jurisdiction": "UK",
-        "tos": null,
+        "name": "gnulinux.club",
+        "domain": "matrix.gnulinux.club",
+        "info": "https://gnulinux.social",
+        "jurisdiction": "US",
+        "tos": "https://gnulinux.social/about",
         "privacy": null,
         "open": true,
-        "remarks": "Regional tech collective",
+        "remarks": "FOSS-oriented",
         "antifeature": null,
         "reg_method": "In-house Element",
-        "reg_link": "https://matrix.glasgow.social/",
+        "reg_link": "https://element.gnulinux.club/",
         "software": "Synapse",
-        "version": "1.86.0",
-        "recaptcha": false,
+        "version": "1.85.2",
+        "recaptcha": true,
         "email": true
     },
     {
@@ -761,8 +761,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.86.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "matrix.im",
@@ -898,23 +898,6 @@
         "software": "Synapse",
         "version": "1.70.0",
         "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "oikei.net",
-        "domain": "oikei.net",
-        "info": "https://oikei.net",
-        "jurisdiction": "Slovenia (Germany)",
-        "tos": "https://oikei.net/pages/tos.html",
-        "privacy": "https://oikei.net/pages/privacy.html",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.76.0",
-        "recaptcha": true,
         "email": false
     },
     {
