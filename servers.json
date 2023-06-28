@@ -489,7 +489,7 @@
         "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
         "version": "1.86.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -575,23 +575,6 @@
         "software": "Synapse",
         "version": "1.86.0",
         "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "gnulinux.club",
-        "domain": "matrix.gnulinux.club",
-        "info": "https://gnulinux.social",
-        "jurisdiction": "US",
-        "tos": "https://gnulinux.social/about",
-        "privacy": null,
-        "open": true,
-        "remarks": "FOSS-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.gnulinux.club/",
-        "software": "Synapse",
-        "version": "1.85.2",
-        "recaptcha": true,
         "email": true
     },
     {
@@ -726,7 +709,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.libcom.de",
         "software": "Synapse",
-        "version": "1.81.0",
+        "version": "1.86.0",
         "recaptcha": false,
         "email": true
     },
@@ -1133,6 +1116,23 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
+        "software": "Synapse",
+        "version": "1.86.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "supreme.sh",
+        "domain": "matrix.supreme.sh",
+        "info": "https://supreme.sh/info",
+        "jurisdiction": "UK (Germany)",
+        "tos": "https://supreme.sh/info/policies/rules/",
+        "privacy": "https://supreme.sh/info/policies/privacy/",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.supreme.sh",
         "software": "Synapse",
         "version": "1.86.0",
         "recaptcha": false,
