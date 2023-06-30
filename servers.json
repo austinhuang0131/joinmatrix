@@ -595,23 +595,6 @@
         "email": true
     },
     {
-        "name": "gnulinux.club",
-        "domain": "matrix.gnulinux.club",
-        "info": "https://gnulinux.social",
-        "jurisdiction": "US",
-        "tos": "https://gnulinux.social/about",
-        "privacy": null,
-        "open": true,
-        "remarks": "FOSS-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.gnulinux.club/",
-        "software": "Synapse",
-        "version": "1.85.2",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "grin.hu",
         "domain": "matrix.grin.hu",
         "info": "https://matrix.grin.hu",
@@ -726,7 +709,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://kitsunes.chat/",
         "software": "Synapse",
-        "version": "1.86.0",
+        "version": "1.87.0rc1",
         "recaptcha": true,
         "email": true
     },
@@ -848,6 +831,23 @@
         "version": "1.85.2",
         "recaptcha": false,
         "email": true
+    },
+    {
+        "name": "nibbana.jp",
+        "domain": "nibbana.jp",
+        "info": "https://minohdon.jp/@toneji/108741278436401857",
+        "jurisdiction": "Japan",
+        "tos": "https://view.matrix.org/room/!yQqzXdUclhZuVJqDKy:nibbana.jp/",
+        "privacy": null,
+        "open": true,
+        "remarks": "Oriented towards Japanese culture",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.nibbana.jp/",
+        "software": "Synapse",
+        "version": "1.86.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "noevil.pl",
@@ -1015,7 +1015,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
-        "version": "1.86.0rc2 (b=develop,14c1bfd534)",
+        "version": "1.86.0rc2 (b=develop,13fc89148c)",
         "recaptcha": true,
         "email": true
     },
