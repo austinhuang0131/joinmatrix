@@ -778,8 +778,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.86.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -831,23 +831,6 @@
         "version": "1.85.2",
         "recaptcha": false,
         "email": true
-    },
-    {
-        "name": "nibbana.jp",
-        "domain": "nibbana.jp",
-        "info": "https://minohdon.jp/@toneji/108741278436401857",
-        "jurisdiction": "Japan",
-        "tos": "https://view.matrix.org/room/!yQqzXdUclhZuVJqDKy:nibbana.jp/",
-        "privacy": null,
-        "open": true,
-        "remarks": "Oriented towards Japanese culture",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.nibbana.jp/",
-        "software": "Synapse",
-        "version": "1.86.0",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "noevil.pl",
