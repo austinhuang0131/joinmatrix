@@ -388,7 +388,7 @@
         "software": "Synapse",
         "version": "1.86.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "dieandalusier.net",
@@ -847,7 +847,7 @@
         "software": "Synapse",
         "version": "1.85.2",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "noevil.pl",
@@ -1016,8 +1016,8 @@
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
         "version": "1.87.0rc1 (b=develop,13fc89148)",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "possum.city",
