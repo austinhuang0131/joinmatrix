@@ -811,7 +811,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
-        "version": "1.85.2",
+        "version": "1.86.0",
         "recaptcha": true,
         "email": true
     },
@@ -1083,7 +1083,7 @@
         "reg_method": "SSO",
         "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
         "software": "Synapse",
-        "version": "1.85.2",
+        "version": "1.86.0",
         "recaptcha": false,
         "email": false
     },
@@ -1423,7 +1423,7 @@
         "reg_method": "Contact",
         "reg_link": "https://www.bytes4u.de/index.php?action=register",
         "software": "Synapse",
-        "version": "1.85.2",
+        "version": "1.86.0",
         "recaptcha": true,
         "email": true
     },
