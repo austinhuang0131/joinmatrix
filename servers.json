@@ -68,23 +68,6 @@
         "email": true
     },
     {
-        "name": "arcticfoxes.net",
-        "domain": "matrix.arcticfoxes.net",
-        "info": "https://arcticfoxes.net",
-        "jurisdiction": "US (UK)",
-        "tos": "https://arcticfoxes.net/",
-        "privacy": "https://arcticfoxes.net/",
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.arcticfoxes.net",
-        "software": "Synapse",
-        "version": "1.86.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "aria-net.org",
         "domain": "aria.im",
         "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
@@ -388,7 +371,7 @@
         "software": "Synapse",
         "version": "1.86.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "dieandalusier.net",
@@ -845,9 +828,9 @@
         "reg_method": "In-house Element",
         "reg_link": "https://mtrx.nz/",
         "software": "Synapse",
-        "version": "1.85.2",
+        "version": "1.86.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "noevil.pl",
@@ -1016,8 +999,8 @@
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
         "version": "1.87.0rc1 (b=develop,13fc89148)",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "possum.city",
