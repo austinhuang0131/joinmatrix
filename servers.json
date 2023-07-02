@@ -187,23 +187,6 @@
         "email": true
     },
     {
-        "name": "cat.casa",
-        "domain": "matrix.cat.casa",
-        "info": "https://cat.casa/",
-        "jurisdiction": "Germany",
-        "tos": "https://cat.casa/rules",
-        "privacy": "https://cat.casa/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.cat.casa/",
-        "software": "Synapse",
-        "version": "1.86.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "catgirl.cloud",
         "domain": "matrix.catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -782,23 +765,6 @@
         "email": true
     },
     {
-        "name": "monero.social",
-        "domain": "matrix.monero.social",
-        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
-        "jurisdiction": "US",
-        "tos": "https://www.getmonero.org/legal/",
-        "privacy": null,
-        "open": true,
-        "remarks": "18+; accessory; crypto",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.84.1",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "mtrx.nz",
         "domain": "mtrx.nz",
         "info": "https://fediservices.nz/",
@@ -966,7 +932,7 @@
         "software": "Synapse",
         "version": "1.83.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "plus.st",
