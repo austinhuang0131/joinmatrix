@@ -981,7 +981,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
-        "version": "1.87.0rc1 (b=develop,13fc89148)",
+        "version": "1.87.0rc1 (b=develop,t=v1.87.0rc1,10ed3e233)",
         "recaptcha": true,
         "email": true
     },
