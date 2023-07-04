@@ -187,6 +187,23 @@
         "email": true
     },
     {
+        "name": "catgirl.cloud",
+        "domain": "matrix.catgirl.cloud",
+        "info": "https://catgirl.cloud",
+        "jurisdiction": "Germany",
+        "tos": "https://catgirl.cloud/#rules",
+        "privacy": "https://catgirl.cloud/#privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "Form",
+        "reg_link": "https://registration.matrix.catgirl.cloud/",
+        "software": "Synapse",
+        "version": "1.86.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "chagai.website",
         "domain": "mx.chagai.website",
         "info": "https://chagai.website",
@@ -250,7 +267,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
-        "version": "1.85.2",
+        "version": "1.87.0",
         "recaptcha": true,
         "email": true
     },
@@ -386,7 +403,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.86.0",
+        "version": "1.87.0",
         "recaptcha": true,
         "email": true
     },
@@ -456,23 +473,6 @@
         "software": "Synapse",
         "version": "1.86.0",
         "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "freiburg.social",
-        "domain": "matrix.freiburg.social",
-        "info": "https://wir.freiburg.social/angebote/matrix/",
-        "jurisdiction": "Germany",
-        "tos": "https://freiburg.social/terms",
-        "privacy": "https://wir.freiburg.social/datenschutz-matrix/",
-        "open": true,
-        "remarks": "In German; regional tech collective",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.freiburg.social/",
-        "software": "Synapse",
-        "version": "1.84.1",
-        "recaptcha": false,
         "email": true
     },
     {
@@ -624,7 +624,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://hashi.sbs",
         "software": "Synapse",
-        "version": "1.86.0",
+        "version": "1.87.0",
         "recaptcha": false,
         "email": true
     },
@@ -828,7 +828,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
-        "version": "1.86.0",
+        "version": "1.87.0",
         "recaptcha": true,
         "email": true
     },
@@ -1083,7 +1083,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
-        "version": "1.86.0",
+        "version": "1.87.0",
         "recaptcha": false,
         "email": true
     },
