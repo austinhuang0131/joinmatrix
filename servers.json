@@ -1,22 +1,5 @@
 [
     {
-        "name": "0wnz.at",
-        "domain": "0wnz.at",
-        "info": "https://0wnz.at",
-        "jurisdiction": "Austria",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://im.0wnz.at/element-web/",
-        "software": "Synapse",
-        "version": "1.86.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "4d2.org",
         "domain": "matrix.4d2.org",
         "info": "https://4d2.org",
@@ -80,7 +63,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://aria.im/",
         "software": "Archon",
-        "version": "1.86.0",
+        "version": "1.87.0",
         "recaptcha": true,
         "email": true
     },
@@ -969,6 +952,23 @@
         "email": true
     },
     {
+        "name": "plus.st",
+        "domain": "matrix.plus.st",
+        "info": "https://plus.st/",
+        "jurisdiction": "US",
+        "tos": "https://plus.st/terms.html",
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.plus.st/",
+        "software": "Synapse",
+        "version": "1.87.0rc1 (b=develop,t=v1.87.0rc1,10ed3e233)",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "possum.city",
         "domain": "possum.city",
         "info": "https://possum.city",
@@ -1117,7 +1117,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://web.synod.im/",
         "software": "Synapse",
-        "version": "1.86.0",
+        "version": "1.87.0",
         "recaptcha": false,
         "email": true
     },
@@ -1321,7 +1321,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.86.0",
+        "version": "1.87.0",
         "recaptcha": false,
         "email": false
     },
