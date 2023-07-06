@@ -1,18 +1,18 @@
 [
     {
-        "name": "4d2.org",
-        "domain": "matrix.4d2.org",
-        "info": "https://4d2.org",
-        "jurisdiction": "Moldova",
+        "name": "0wnz.at",
+        "domain": "0wnz.at",
+        "info": "https://0wnz.at",
+        "jurisdiction": "Austria",
         "tos": null,
         "privacy": null,
         "open": true,
-        "remarks": "",
+        "remarks": "Personal",
         "antifeature": null,
         "reg_method": "In-house Element",
-        "reg_link": "https://element.4d2.org",
+        "reg_link": "https://im.0wnz.at/element-web/",
         "software": "Synapse",
-        "version": "1.85.2",
+        "version": "1.86.0",
         "recaptcha": true,
         "email": true
     },
@@ -46,7 +46,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
-        "version": "1.86.0",
+        "version": "1.87.0",
         "recaptcha": true,
         "email": true
     },
@@ -168,23 +168,6 @@
         "version": "1.85.2",
         "recaptcha": true,
         "email": true
-    },
-    {
-        "name": "cat.casa",
-        "domain": "matrix.cat.casa",
-        "info": "https://cat.casa/",
-        "jurisdiction": "Germany",
-        "tos": "https://cat.casa/rules",
-        "privacy": "https://cat.casa/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.cat.casa/",
-        "software": "Synapse",
-        "version": "1.86.0",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "catgirl.cloud",
@@ -473,6 +456,23 @@
         "software": "Synapse",
         "version": "1.86.0",
         "recaptcha": true,
+        "email": true
+    },
+    {
+        "name": "freiburg.social",
+        "domain": "matrix.freiburg.social",
+        "info": "https://wir.freiburg.social/angebote/matrix/",
+        "jurisdiction": "Germany",
+        "tos": "https://freiburg.social/terms",
+        "privacy": "https://wir.freiburg.social/datenschutz-matrix/",
+        "open": true,
+        "remarks": "In German; regional tech collective",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.freiburg.social/",
+        "software": "Synapse",
+        "version": "1.87.0",
+        "recaptcha": false,
         "email": true
     },
     {
@@ -884,23 +884,6 @@
         "email": false
     },
     {
-        "name": "oikei.net",
-        "domain": "oikei.net",
-        "info": "https://oikei.net",
-        "jurisdiction": "Slovenia (Germany)",
-        "tos": "https://oikei.net/pages/tos.html",
-        "privacy": "https://oikei.net/pages/privacy.html",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.76.0",
-        "recaptcha": true,
-        "email": false
-    },
-    {
         "name": "ombreport.info",
         "domain": "matrix.ombreport.info",
         "info": "http://ombreport.info",
@@ -964,7 +947,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
-        "version": "1.87.0rc1 (b=develop,t=v1.87.0rc1,10ed3e233)",
+        "version": "1.87.0 (b=develop,b07b14b49,dirty)",
         "recaptcha": true,
         "email": true
     },
