@@ -17,6 +17,23 @@
         "email": true
     },
     {
+        "name": "4d2.org",
+        "domain": "matrix.4d2.org",
+        "info": "https://4d2.org",
+        "jurisdiction": "Moldova",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.4d2.org",
+        "software": "Synapse",
+        "version": "1.85.2",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "archaeo.social",
         "domain": "matrix.archaeo.social",
         "info": "https://archaeo.social",
@@ -302,7 +319,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.86.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -522,7 +539,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.gemeinsam.jetzt/",
         "software": "Synapse",
-        "version": "1.86.0",
+        "version": "1.87.0",
         "recaptcha": false,
         "email": true
     },
@@ -646,23 +663,6 @@
         "email": true
     },
     {
-        "name": "hot-chilli.im",
-        "domain": "hot-chilli.im",
-        "info": "https://jabber.hot-chilli.net/2022/04/26/hot-chilli-matrix-server/",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.hot-chilli.im/",
-        "software": "Synapse",
-        "version": "1.86.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "jonasled.de",
         "domain": "matrix.jonasled.de",
         "info": "https://jonasled.de",
@@ -743,7 +743,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.magdeburg.jetzt/",
         "software": "Synapse",
-        "version": "1.86.0",
+        "version": "1.87.0",
         "recaptcha": false,
         "email": false
     },
@@ -761,8 +761,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.86.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "matrix.im",
@@ -812,23 +812,6 @@
         "reg_link": "https://mtrx.nz/",
         "software": "Synapse",
         "version": "1.86.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "noevil.pl",
-        "domain": "matrix.noevil.pl",
-        "info": "https://noevil.pl/matrix",
-        "jurisdiction": "Poland",
-        "tos": "https://noevil.pl/terms-of-service/",
-        "privacy": "https://noevil.pl/matrix/privacy/",
-        "open": true,
-        "remarks": "In Polish",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.noevil.pl/",
-        "software": "Synapse",
-        "version": "1.87.0",
         "recaptcha": false,
         "email": true
     },
@@ -966,23 +949,6 @@
         "software": "Synapse",
         "version": "1.83.0",
         "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "plus.st",
-        "domain": "matrix.plus.st",
-        "info": "https://plus.st/",
-        "jurisdiction": "US",
-        "tos": "https://plus.st/terms.html",
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.plus.st/",
-        "software": "Synapse",
-        "version": "1.87.0 (b=develop,b07b14b49,dirty)",
-        "recaptcha": true,
         "email": true
     },
     {
