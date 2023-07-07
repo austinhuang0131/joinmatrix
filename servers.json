@@ -12,7 +12,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://im.0wnz.at/element-web/",
         "software": "Synapse",
-        "version": "1.86.0",
+        "version": "1.87.0",
         "recaptcha": true,
         "email": true
     },
@@ -185,6 +185,23 @@
         "version": "1.85.2",
         "recaptcha": true,
         "email": true
+    },
+    {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/rules",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.87.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "catgirl.cloud",
@@ -420,9 +437,9 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.71.0",
+        "version": "1.87.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "filik.eu",
@@ -558,23 +575,6 @@
         "software": "Synapse",
         "version": "1.86.0",
         "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "gnulinux.club",
-        "domain": "matrix.gnulinux.club",
-        "info": "https://gnulinux.social",
-        "jurisdiction": "US",
-        "tos": "https://gnulinux.social/about",
-        "privacy": null,
-        "open": true,
-        "remarks": "FOSS-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.gnulinux.club/",
-        "software": "Synapse",
-        "version": "1.85.2",
-        "recaptcha": true,
         "email": true
     },
     {
