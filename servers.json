@@ -30,8 +30,8 @@
         "reg_link": "https://element.4d2.org",
         "software": "Synapse",
         "version": "1.85.2",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "archaeo.social",
@@ -321,6 +321,23 @@
         "version": "1.86.0",
         "recaptcha": true,
         "email": false
+    },
+    {
+        "name": "converser.eu",
+        "domain": "converser.eu",
+        "info": "https://converser.eu",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In French",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.78.0",
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "crossbach.de",
@@ -761,8 +778,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.86.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "matrix.im",
@@ -846,8 +863,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.87.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "norge.chat",
@@ -1253,7 +1270,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
-        "version": "1.84.1",
+        "version": "1.87.0",
         "recaptcha": true,
         "email": true
     },
