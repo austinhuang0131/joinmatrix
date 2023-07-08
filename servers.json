@@ -488,7 +488,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
-        "version": "1.86.0",
+        "version": "1.87.0",
         "recaptcha": true,
         "email": true
     },
@@ -575,23 +575,6 @@
         "software": "Synapse",
         "version": "1.86.0",
         "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "gnulinux.club",
-        "domain": "matrix.gnulinux.club",
-        "info": "https://gnulinux.social",
-        "jurisdiction": "US",
-        "tos": "https://gnulinux.social/about",
-        "privacy": null,
-        "open": true,
-        "remarks": "FOSS-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.gnulinux.club/",
-        "software": "Synapse",
-        "version": "1.85.2",
-        "recaptcha": true,
         "email": true
     },
     {
@@ -778,8 +761,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.86.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -1207,23 +1190,6 @@
         "email": false
     },
     {
-        "name": "tomesh.net",
-        "domain": "tomesh.net",
-        "info": "https://tomesh.net/mesh-services/",
-        "jurisdiction": "Canada (US)",
-        "tos": "https://tomesh.net/code-of-conduct/",
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.tomesh.net/",
-        "software": "Synapse",
-        "version": "1.84.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "ungleich.ch",
         "domain": "ungleich.matrix.ungleich.cloud",
         "info": "https://ungleich.ch/u/projects/open-chat/",
@@ -1236,7 +1202,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
-        "version": "1.83.0",
+        "version": "1.87.0",
         "recaptcha": false,
         "email": false
     },
