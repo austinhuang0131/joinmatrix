@@ -30,8 +30,8 @@
         "reg_link": "https://element.4d2.org",
         "software": "Synapse",
         "version": "1.85.2",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "archaeo.social",
@@ -323,23 +323,6 @@
         "email": false
     },
     {
-        "name": "converser.eu",
-        "domain": "converser.eu",
-        "info": "https://converser.eu",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.78.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "crossbach.de",
         "domain": "matrix.crossbach.de",
         "info": "https://crossbach.de",
@@ -575,6 +558,23 @@
         "software": "Synapse",
         "version": "1.86.0",
         "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "gnulinux.club",
+        "domain": "matrix.gnulinux.club",
+        "info": "https://gnulinux.social",
+        "jurisdiction": "US",
+        "tos": "https://gnulinux.social/about",
+        "privacy": null,
+        "open": true,
+        "remarks": "FOSS-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.gnulinux.club/",
+        "software": "Synapse",
+        "version": "1.85.2",
+        "recaptcha": true,
         "email": true
     },
     {
@@ -964,7 +964,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://client.perthchat.org/",
         "software": "Synapse",
-        "version": "1.83.0",
+        "version": "1.87.0",
         "recaptcha": false,
         "email": true
     },
@@ -1186,6 +1186,23 @@
         "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
         "version": "1.85.2",
+        "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "tomesh.net",
+        "domain": "tomesh.net",
+        "info": "https://tomesh.net/mesh-services/",
+        "jurisdiction": "Canada (US)",
+        "tos": "https://tomesh.net/code-of-conduct/",
+        "privacy": null,
+        "open": true,
+        "remarks": "Accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.tomesh.net/",
+        "software": "Synapse",
+        "version": "1.84.0",
         "recaptcha": false,
         "email": false
     },
