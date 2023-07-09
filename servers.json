@@ -405,7 +405,7 @@
         "software": "Synapse",
         "version": "1.87.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "envs.net",
@@ -863,8 +863,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.87.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "norge.chat",
@@ -915,6 +915,23 @@
         "software": "Synapse",
         "version": "1.70.0",
         "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "oikei.net",
+        "domain": "oikei.net",
+        "info": "https://oikei.net",
+        "jurisdiction": "Slovenia (Germany)",
+        "tos": "https://oikei.net/pages/tos.html",
+        "privacy": "https://oikei.net/pages/privacy.html",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.76.0",
+        "recaptcha": true,
         "email": false
     },
     {
