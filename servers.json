@@ -17,23 +17,6 @@
         "email": true
     },
     {
-        "name": "4d2.org",
-        "domain": "matrix.4d2.org",
-        "info": "https://4d2.org",
-        "jurisdiction": "Moldova",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.4d2.org",
-        "software": "Synapse",
-        "version": "1.85.2",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "archoslinux.cz",
         "domain": "matrix.archoslinux.cz:443",
         "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
@@ -165,7 +148,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.buyvm.net/element/",
         "software": "Synapse",
-        "version": "1.85.2",
+        "version": "1.87.0",
         "recaptcha": true,
         "email": true
     },
@@ -846,8 +829,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.87.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "norge.chat",
@@ -901,19 +884,19 @@
         "email": false
     },
     {
-        "name": "oikei.net",
-        "domain": "oikei.net",
-        "info": "https://oikei.net",
-        "jurisdiction": "Slovenia (Germany)",
-        "tos": "https://oikei.net/pages/tos.html",
-        "privacy": "https://oikei.net/pages/privacy.html",
+        "name": "ombreport.info",
+        "domain": "matrix.ombreport.info",
+        "info": "http://ombreport.info",
+        "jurisdiction": "France?",
+        "tos": null,
+        "privacy": null,
         "open": true,
-        "remarks": "",
+        "remarks": "In French",
         "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://riot.ombreport.info/",
         "software": "Synapse",
-        "version": "1.76.0",
+        "version": "1.87.0",
         "recaptcha": true,
         "email": false
     },
