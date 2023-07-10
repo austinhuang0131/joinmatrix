@@ -114,7 +114,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.bark.lgbt",
         "software": "Synapse",
-        "version": "1.85.2",
+        "version": "1.87.0",
         "recaptcha": false,
         "email": true
     },
@@ -867,6 +867,23 @@
         "email": true
     },
     {
+        "name": "obco.pro",
+        "domain": "hs.obco.pro",
+        "info": "https://obco.pro",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.obco.pro/",
+        "software": "Synapse",
+        "version": "1.87.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "oblak.be",
         "domain": "matrix.oblak.be:443",
         "info": "https://oblak.be/apps/chat/",
@@ -897,23 +914,6 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.76.0",
-        "recaptcha": true,
-        "email": false
-    },
-    {
-        "name": "ombreport.info",
-        "domain": "matrix.ombreport.info",
-        "info": "http://ombreport.info",
-        "jurisdiction": "France?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://riot.ombreport.info/",
-        "software": "Synapse",
-        "version": "1.87.0",
         "recaptcha": true,
         "email": false
     },
