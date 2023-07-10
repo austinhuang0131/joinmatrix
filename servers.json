@@ -34,23 +34,6 @@
         "email": true
     },
     {
-        "name": "archaeo.social",
-        "domain": "matrix.archaeo.social",
-        "info": "https://archaeo.social",
-        "jurisdiction": "Switzerland (Germany)",
-        "tos": "https://archaeo.social/about",
-        "privacy": null,
-        "open": true,
-        "remarks": "Archaeology-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.archaeo.social/",
-        "software": "Synapse",
-        "version": "1.86.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "archoslinux.cz",
         "domain": "matrix.archoslinux.cz:443",
         "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
@@ -185,6 +168,23 @@
         "version": "1.85.2",
         "recaptcha": true,
         "email": true
+    },
+    {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/rules",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.87.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "catgirl.cloud",
@@ -931,7 +931,7 @@
         "reg_link": "https://riot.ombreport.info/",
         "software": "Synapse",
         "version": "1.85.2",
-        "recaptcha": true,
+        "recaptcha": false,
         "email": false
     },
     {
