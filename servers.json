@@ -301,7 +301,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
-        "version": "1.86.0",
+        "version": "1.87.0",
         "recaptcha": true,
         "email": false
     },
@@ -437,7 +437,7 @@
         "reg_method": "SSO",
         "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
         "software": "Synapse",
-        "version": "1.85.0",
+        "version": "1.87.0",
         "recaptcha": false,
         "email": false
     },
@@ -867,23 +867,6 @@
         "email": true
     },
     {
-        "name": "obco.pro",
-        "domain": "hs.obco.pro",
-        "info": "https://obco.pro",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.obco.pro/",
-        "software": "Synapse",
-        "version": "1.87.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "oblak.be",
         "domain": "matrix.oblak.be:443",
         "info": "https://oblak.be/apps/chat/",
@@ -930,8 +913,8 @@
         "reg_method": "In-house Element",
         "reg_link": "https://riot.ombreport.info/",
         "software": "Synapse",
-        "version": "1.85.2",
-        "recaptcha": false,
+        "version": "1.87.0",
+        "recaptcha": true,
         "email": false
     },
     {
