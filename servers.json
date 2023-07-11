@@ -34,6 +34,23 @@
         "email": true
     },
     {
+        "name": "archaeo.social",
+        "domain": "matrix.archaeo.social",
+        "info": "https://archaeo.social",
+        "jurisdiction": "Switzerland (Germany)",
+        "tos": "https://archaeo.social/about",
+        "privacy": null,
+        "open": true,
+        "remarks": "Archaeology-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.archaeo.social/",
+        "software": "Synapse",
+        "version": "1.86.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "archoslinux.cz",
         "domain": "matrix.archoslinux.cz:443",
         "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
@@ -422,7 +439,7 @@
         "software": "Synapse",
         "version": "1.87.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "filik.eu",
@@ -591,8 +608,8 @@
         "reg_link": "https://riot.grin.hu/",
         "software": "Synapse",
         "version": "1.78.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "group.lt",
@@ -784,7 +801,7 @@
     {
         "name": "monero.social",
         "domain": "matrix.monero.social",
-        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
+        "info": "https://forum.monero.space/t/welcome-to-monero-space-forum/5",
         "jurisdiction": "US",
         "tos": "https://www.getmonero.org/legal/",
         "privacy": null,
@@ -898,6 +915,23 @@
         "software": "Synapse",
         "version": "1.70.0",
         "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "oikei.net",
+        "domain": "oikei.net",
+        "info": "https://oikei.net",
+        "jurisdiction": "Slovenia (Germany)",
+        "tos": "https://oikei.net/pages/tos.html",
+        "privacy": "https://oikei.net/pages/privacy.html",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.76.0",
+        "recaptcha": true,
         "email": false
     },
     {
