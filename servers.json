@@ -439,7 +439,7 @@
         "software": "Synapse",
         "version": "1.87.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "filik.eu",
@@ -1239,6 +1239,23 @@
         "version": "1.71.0",
         "recaptcha": true,
         "email": true
+    },
+    {
+        "name": "usesarchbtw.lol",
+        "domain": "usesarchbtw.lol",
+        "info": "https://usesarchbtw.lol",
+        "jurisdiction": "Germany",
+        "tos": "https://usesarchbtw.lol/terms",
+        "privacy": "https://usesarchbtw.lol/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://auth.usesarchbtw.lol/",
+        "software": "Synapse",
+        "version": "1.87.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "utwente.io",
