@@ -216,7 +216,7 @@
         "reg_method": "Form",
         "reg_link": "https://registration.matrix.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.86.0",
+        "version": "1.87.0",
         "recaptcha": false,
         "email": false
     },
