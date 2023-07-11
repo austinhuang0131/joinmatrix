@@ -17,6 +17,23 @@
         "email": true
     },
     {
+        "name": "4d2.org",
+        "domain": "matrix.4d2.org",
+        "info": "https://4d2.org",
+        "jurisdiction": "Moldova",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.4d2.org",
+        "software": "Synapse",
+        "version": "1.85.2",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "archoslinux.cz",
         "domain": "matrix.archoslinux.cz:443",
         "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
@@ -574,8 +591,8 @@
         "reg_link": "https://riot.grin.hu/",
         "software": "Synapse",
         "version": "1.78.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "group.lt",
@@ -829,8 +846,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.87.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "norge.chat",
@@ -899,23 +916,6 @@
         "version": "1.87.0",
         "recaptcha": true,
         "email": false
-    },
-    {
-        "name": "pcriot.org",
-        "domain": "pcriot.org",
-        "info": "https://pcriot.org",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.pcriot.org/",
-        "software": "Synapse",
-        "version": "1.82.0",
-        "recaptcha": true,
-        "email": true
     },
     {
         "name": "perthchat.org",
