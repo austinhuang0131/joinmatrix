@@ -170,6 +170,23 @@
         "email": false
     },
     {
+        "name": "buyvm.net",
+        "domain": "buyvm.chat",
+        "info": "https://buyvm.net/beware-the-moshbear/",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Hosting provider; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.buyvm.net/element/",
+        "software": "Synapse",
+        "version": "1.87.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "cat.casa",
         "domain": "matrix.cat.casa",
         "info": "https://cat.casa/",
@@ -612,23 +629,6 @@
         "email": true
     },
     {
-        "name": "hackliberty.org",
-        "domain": "hackliberty.org",
-        "info": "https://hackliberty.org",
-        "jurisdiction": "Iceland?",
-        "tos": "https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/code-of-conduct.md",
-        "privacy": "https://git.hackliberty.org/hackliberty.org/hackliberty.org-legal/src/branch/main/privacy-policy.md",
-        "open": true,
-        "remarks": "Libertarian; tech collective",
-        "antifeature": null,
-        "reg_method": "Form",
-        "reg_link": "https://hackliberty.org/register",
-        "software": "Synapse",
-        "version": "1.87.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "hashi.sbs",
         "domain": "chatserver.hashi.sbs",
         "info": "https://hashi.sbs",
@@ -676,23 +676,6 @@
         "reg_link": "https://chat.jonasled.de/",
         "software": "Synapse",
         "version": "1.87.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "kitsunes.club",
-        "domain": "kitsunes.chat",
-        "info": "https://kitsunes.club",
-        "jurisdiction": "Canada",
-        "tos": "https://kitsunes.club/_matrix/consent",
-        "privacy": "https://kitsunes.club/_matrix/consent",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://kitsunes.chat/",
-        "software": "Synapse",
-        "version": "1.87.0rc1",
         "recaptcha": true,
         "email": true
     },
@@ -761,8 +744,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.86.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -863,23 +846,6 @@
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
         "version": "1.85.2",
-        "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "obco.pro",
-        "domain": "hs.obco.pro",
-        "info": "https://obco.pro",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.obco.pro/",
-        "software": "Synapse",
-        "version": "1.87.0",
         "recaptcha": true,
         "email": true
     },
