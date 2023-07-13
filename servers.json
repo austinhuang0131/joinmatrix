@@ -64,8 +64,8 @@
         "reg_link": "https://aria.im/",
         "software": "Archon",
         "version": "1.87.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "bachgau.social",
@@ -252,6 +252,23 @@
         "software": "Synapse",
         "version": "1.87.0",
         "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "chrrreeeeesss.com",
+        "domain": "chrrreeeeesss.com",
+        "info": "https://chrrreeeeesss.com",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chrrreeeeesss.com/element",
+        "software": "Synapse",
+        "version": "1.87.0",
+        "recaptcha": true,
         "email": true
     },
     {
@@ -913,8 +930,25 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pcriot.org/",
         "software": "Synapse",
-        "version": "1.82.0",
+        "version": "1.87.0",
         "recaptcha": true,
+        "email": true
+    },
+    {
+        "name": "perthchat.org",
+        "domain": "matrix.perthchat.org",
+        "info": "https://perthchat.org",
+        "jurisdiction": "Australia",
+        "tos": "https://gitlab.com/perthchat.org/legal/-/blob/main/terms-of-service.md",
+        "privacy": "https://gitlab.com/perthchat.org/legal/-/blob/main/privacy-policy.md",
+        "open": true,
+        "remarks": "Regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://client.perthchat.org/",
+        "software": "Synapse",
+        "version": "1.87.0",
+        "recaptcha": false,
         "email": true
     },
     {
@@ -1156,23 +1190,6 @@
         "email": false
     },
     {
-        "name": "ungleich.ch",
-        "domain": "ungleich.matrix.ungleich.cloud",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
-        "software": "Synapse",
-        "version": "1.87.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "unita.online",
         "domain": "unita.online",
         "info": "https://blog.unita.online/",
@@ -1273,23 +1290,6 @@
         "version": "1.86.0",
         "recaptcha": true,
         "email": false
-    },
-    {
-        "name": "yatrix.org",
-        "domain": "matrix.yatrix.org",
-        "info": "https://yatrix.org",
-        "jurisdiction": "Germany",
-        "tos": "https://yatrix.org/nutzungsbedingungen/",
-        "privacy": "https://yatrix.org/impressum/",
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.yatrix.org/",
-        "software": "Synapse",
-        "version": "1.87.0",
-        "recaptcha": false,
-        "email": true
     },
     {
         "name": "fachschaften.org",
@@ -1441,23 +1441,6 @@
         "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "rimfaxe.net",
-        "domain": "matrix.rimfaxe.net",
-        "info": "https://rimfaxe.net",
-        "jurisdiction": "Sweden",
-        "tos": "https://rimfaxe.net/terms/",
-        "privacy": "https://rimfaxe.net/privacy/",
-        "open": false,
-        "remarks": "In Swedish; freemium",
-        "antifeature": null,
-        "reg_method": "Membership",
-        "reg_link": "https://rimfaxe.net/bli-medlem/",
-        "software": "Synapse",
-        "version": "1.86.0",
         "recaptcha": false,
         "email": false
     },
