@@ -833,23 +833,6 @@
         "email": true
     },
     {
-        "name": "noevil.pl",
-        "domain": "matrix.noevil.pl",
-        "info": "https://noevil.pl/matrix",
-        "jurisdiction": "Poland",
-        "tos": "https://noevil.pl/terms-of-service/",
-        "privacy": "https://noevil.pl/matrix/privacy/",
-        "open": true,
-        "remarks": "In Polish",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.noevil.pl/",
-        "software": "Synapse",
-        "version": "1.87.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "nope.chat",
         "domain": "nope.chat",
         "info": "https://nope.chat",
