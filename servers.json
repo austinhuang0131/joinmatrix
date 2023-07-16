@@ -476,6 +476,23 @@
         "email": true
     },
     {
+        "name": "frei.chat",
+        "domain": "matrix.frei.chat",
+        "info": "https://frei.chat",
+        "jurisdiction": "Germany (Finland)",
+        "tos": "https://frei.chat/termsofuse/",
+        "privacy": "https://frei.chat/privacypolicy/",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.frei.chat/",
+        "software": "Synapse",
+        "version": "1.87.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "freiburg.social",
         "domain": "matrix.freiburg.social",
         "info": "https://wir.freiburg.social/angebote/matrix/",
@@ -681,7 +698,7 @@
     },
     {
         "name": "kitsunes.club",
-        "domain": "kitsunes.chat",
+        "domain": "kitsunes.club",
         "info": "https://kitsunes.club",
         "jurisdiction": "Canada",
         "tos": "https://kitsunes.club/_matrix/consent",
@@ -953,7 +970,7 @@
     },
     {
         "name": "plus.st",
-        "domain": "matrix.plus.st",
+        "domain": "plus.st",
         "info": "https://plus.st/",
         "jurisdiction": "US",
         "tos": "https://plus.st/terms.html",
@@ -965,8 +982,8 @@
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
         "version": "1.87.0 (b=develop,f19dd39df)",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "possum.city",
@@ -1389,7 +1406,7 @@
         "reg_method": "Contact",
         "reg_link": "https://www.bytes4u.de/index.php?action=register",
         "software": "Synapse",
-        "version": "1.86.0",
+        "version": "1.87.0",
         "recaptcha": true,
         "email": true
     },
