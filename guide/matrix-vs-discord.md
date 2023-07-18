@@ -73,9 +73,11 @@ In Matrix, rooms *can* be included in a Space. A Space can be used in similar fa
 
 ## Feature comparison
 
-Note that Matrix does not (and cannot, due to its decentralized nature) paywall features. Thus any exception in Discord features that require Nitro or Nitro Classic subscription is not considered.
+Note that Matrix does not (and cannot, due to its decentralized nature) paywall features.
 
-| Feature | Discord | Matrix | Spacebar (third party Discord reimplementation) |
+Matrix has a handful server implementations and about a dozen general purpose clients maintained. Discord has one first party website, two first party clients (web and mobile), [two third party server implementations and about a dozen third party general purpose clients](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties#third-party-reimplementations) maintained.
+
+| Feature | Discord | Matrix | [Spacebar (third party Discord reimplementation)](https://github.com/spacebarchat/server) |
 | ------- | ------- | ------ | ------------------------------------------------|
 | **Registration** | Requires email. Discord may demand your phone number if it detects "suspicious activity." | Depending on homeserver (especially if you're running your own), **email may be optional**, and phone number is usually optional. There is no *automatically enforced* human check after registration. | Depending on instance (especially if you're running your own), **email may be optional**, and phone number is usually optional. There is no *automatically enforced* human check after registration. |
 | Price | Free, with certain features paywalled. | Free for [most homeservers](../../servers) (but please consider donating to them). Hosting a private homeserver may also incur cost (could be [free](https://matrix.org/docs/guides/free-small-matrix-server)). Note that paying (not donation) only affects where your data is hosted and (to a much lesser degree) server performance; it has no effect on features. | Usually free.
