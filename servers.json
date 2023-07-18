@@ -81,8 +81,8 @@
         "reg_link": "https://aria.im/",
         "software": "Archon",
         "version": "1.87.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "bachgau.social",
