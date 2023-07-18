@@ -337,7 +337,7 @@
         "software": "Synapse",
         "version": "1.78.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "crossbach.de",
