@@ -319,7 +319,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.87.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -1322,8 +1322,8 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.85.2",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "xmr.se",
