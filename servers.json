@@ -86,7 +86,7 @@
     },
     {
         "name": "bachgau.social",
-        "domain": "matrix.bachgau.social",
+        "domain": "bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
         "jurisdiction": "Germany",
         "tos": "https://mastodon.bachgau.social/about",
@@ -99,7 +99,7 @@
         "software": "Synapse",
         "version": "1.87.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "badstuebner.biz",
@@ -1409,6 +1409,23 @@
         "version": "1.79.0",
         "recaptcha": false,
         "email": false
+    },
+    {
+        "name": "hyteck.de",
+        "domain": "synapse.hyteck.de",
+        "info": "https://hyteck.de/services/",
+        "jurisdiction": "Germany",
+        "tos": "https://hyteck.de/services/",
+        "privacy": null,
+        "open": false,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://hyteck.de/about/",
+        "software": "Synapse",
+        "version": "1.87.0",
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "libreon.fr",
