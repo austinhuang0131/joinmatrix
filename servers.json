@@ -880,8 +880,8 @@
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
         "version": "1.88.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "oblak.be",
@@ -1037,6 +1037,23 @@
         "email": true
     },
     {
+        "name": "pub.solar",
+        "domain": "matrix.pub.solar",
+        "info": "https://pub.solar",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://pub.solar/privacy",
+        "open": true,
+        "remarks": "Tech collective",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
+        "software": "Synapse",
+        "version": "1.88.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "radiowarnerd.org",
         "domain": "radiowarnerd.org",
         "info": "https://dokuwiki.radiowarnerd.org/matrixaccountcreation",
@@ -1069,6 +1086,23 @@
         "version": "1.76.0",
         "recaptcha": false,
         "email": false
+    },
+    {
+        "name": "sibnsk.net",
+        "domain": "matrix.sibnsk.net",
+        "info": "https://lugnsk.org/page/blog/matrix",
+        "jurisdiction": "Russia",
+        "tos": "https://matrix.sibnsk.net/_matrix/consent",
+        "privacy": "https://matrix.sibnsk.net/_matrix/consent",
+        "open": true,
+        "remarks": "In Russian",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.sibnsk.net",
+        "software": "Synapse",
+        "version": "1.87.0",
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "socialnetwork24.com",
@@ -1375,23 +1409,6 @@
         "version": "1.79.0",
         "recaptcha": false,
         "email": false
-    },
-    {
-        "name": "hyteck.de",
-        "domain": "synapse.hyteck.de",
-        "info": "https://hyteck.de/services/",
-        "jurisdiction": "Germany",
-        "tos": "https://hyteck.de/services/",
-        "privacy": null,
-        "open": false,
-        "remarks": "In German; personal",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://hyteck.de/about/",
-        "software": "Synapse",
-        "version": "1.87.0",
-        "recaptcha": false,
-        "email": true
     },
     {
         "name": "libreon.fr",
