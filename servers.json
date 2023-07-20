@@ -1,5 +1,22 @@
 [
     {
+        "name": "0wnz.at",
+        "domain": "0wnz.at",
+        "info": "https://0wnz.at",
+        "jurisdiction": "Austria",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://im.0wnz.at/element-web/",
+        "software": "Synapse",
+        "version": "1.87.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "4d2.org",
         "domain": "matrix.4d2.org",
         "info": "https://4d2.org",
@@ -97,7 +114,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.badstuebner.biz/",
         "software": "Synapse",
-        "version": "1.87.0",
+        "version": "1.88.0",
         "recaptcha": true,
         "email": true
     },
@@ -493,23 +510,6 @@
         "email": true
     },
     {
-        "name": "g24.at",
-        "domain": "g24.at",
-        "info": "https://g24.at",
-        "jurisdiction": "Austria",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; regional (Graz)",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://g24.at",
-        "software": "Synapse",
-        "version": "1.86.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "gemeinsam.jetzt",
         "domain": "matrix.gemeinsam.jetzt",
         "info": "https://gemeinsam.jetzt/",
@@ -761,8 +761,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.86.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "matrix.im",
