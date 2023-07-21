@@ -1,22 +1,5 @@
 [
     {
-        "name": "0wnz.at",
-        "domain": "0wnz.at",
-        "info": "https://0wnz.at",
-        "jurisdiction": "Austria",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://im.0wnz.at/element-web/",
-        "software": "Synapse",
-        "version": "1.88.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "4d2.org",
         "domain": "matrix.4d2.org",
         "info": "https://4d2.org",
@@ -199,7 +182,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.cat.casa/",
         "software": "Synapse",
-        "version": "1.87.0",
+        "version": "1.88.0",
         "recaptcha": false,
         "email": false
     },
@@ -505,7 +488,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.freiburg.social/",
         "software": "Synapse",
-        "version": "1.87.0",
+        "version": "1.88.0",
         "recaptcha": false,
         "email": true
     },
@@ -698,7 +681,7 @@
     },
     {
         "name": "kitsunes.club",
-        "domain": "kitsunes.club",
+        "domain": "kitsunes.chat",
         "info": "https://kitsunes.club",
         "jurisdiction": "Canada",
         "tos": "https://kitsunes.club/_matrix/consent",
@@ -778,8 +761,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.86.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "matrix.im",
@@ -862,7 +845,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
-        "version": "1.87.0",
+        "version": "1.88.0",
         "recaptcha": true,
         "email": true
     },
@@ -1017,6 +1000,23 @@
         "software": "Synapse",
         "version": "1.88.0",
         "recaptcha": true,
+        "email": true
+    },
+    {
+        "name": "projectsegfau.lt",
+        "domain": "matrix.projectsegfau.lt:443",
+        "info": "https://projectsegfau.lt/instances",
+        "jurisdiction": "France",
+        "tos": "https://projectsegfau.lt/legal/tos",
+        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.projectsegfau.lt/",
+        "software": "Synapse",
+        "version": "1.88.0",
+        "recaptcha": false,
         "email": true
     },
     {
@@ -1191,7 +1191,7 @@
     },
     {
         "name": "tomesh.net",
-        "domain": "tomesh.net",
+        "domain": "matrix.tomesh.net",
         "info": "https://tomesh.net/mesh-services/",
         "jurisdiction": "Canada (US)",
         "tos": "https://tomesh.net/code-of-conduct/",
@@ -1203,8 +1203,8 @@
         "reg_link": "https://chat.tomesh.net/",
         "software": "Synapse",
         "version": "1.84.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "ungleich.ch",
