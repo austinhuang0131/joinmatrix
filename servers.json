@@ -680,6 +680,23 @@
         "email": true
     },
     {
+        "name": "jonasled.de",
+        "domain": "matrix.jonasled.de",
+        "info": "https://jonasled.de",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://jonasled.de/privacy-policy",
+        "open": true,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.jonasled.de/",
+        "software": "Synapse",
+        "version": "1.88.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "kitsunes.club",
         "domain": "kitsunes.chat",
         "info": "https://kitsunes.club",
