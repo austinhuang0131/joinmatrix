@@ -698,7 +698,7 @@
     },
     {
         "name": "kitsunes.club",
-        "domain": "kitsunes.chat",
+        "domain": "kitsunes.club",
         "info": "https://kitsunes.club",
         "jurisdiction": "Canada",
         "tos": "https://kitsunes.club/_matrix/consent",
@@ -1474,7 +1474,7 @@
         "reg_method": "Membership",
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
-        "version": "1.87.0",
+        "version": "1.88.0",
         "recaptcha": false,
         "email": false
     },
