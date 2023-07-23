@@ -170,6 +170,23 @@
         "email": true
     },
     {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/rules",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.88.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "catgirl.cloud",
         "domain": "matrix.catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -522,7 +539,7 @@
         "reg_method": "Form",
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
-        "version": "1.76.0",
+        "version": "1.85.2",
         "recaptcha": false,
         "email": false
     },
@@ -676,8 +693,8 @@
         "reg_link": "https://kitsunes.chat/",
         "software": "Synapse",
         "version": "1.88.0rc1",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "libcom.de",
@@ -1066,7 +1083,7 @@
         "reg_method": "Form",
         "reg_link": "https://riotchat.de/register/form.php",
         "software": "Synapse",
-        "version": "1.76.0",
+        "version": "1.85.2",
         "recaptcha": false,
         "email": false
     },
@@ -1083,7 +1100,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.sibnsk.net",
         "software": "Synapse",
-        "version": "1.87.0",
+        "version": "1.88.0",
         "recaptcha": true,
         "email": true
     },
