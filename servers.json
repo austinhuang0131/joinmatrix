@@ -680,6 +680,23 @@
         "email": true
     },
     {
+        "name": "kitsunes.club",
+        "domain": "kitsunes.chat",
+        "info": "https://kitsunes.club",
+        "jurisdiction": "Canada",
+        "tos": "https://kitsunes.club/_matrix/consent",
+        "privacy": "https://kitsunes.club/_matrix/consent",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://kitsunes.chat/",
+        "software": "Synapse",
+        "version": "1.88.0rc1",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "libcom.de",
         "domain": "matrix.libcom.de:443",
         "info": "https://libcom.de",
@@ -767,7 +784,7 @@
     {
         "name": "monero.social",
         "domain": "matrix.monero.social",
-        "info": "https://forum.monero.space/t/welcome-to-monero-space-forum/5",
+        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
         "jurisdiction": "US",
         "tos": "https://www.getmonero.org/legal/",
         "privacy": null,
@@ -796,6 +813,23 @@
         "software": "Synapse",
         "version": "1.87.0",
         "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "nitro.chat",
+        "domain": "nitro.chat",
+        "info": "https://nitro.chat",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://www.nitrokey.com/data-privacy-policy",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://app.nitro.chat/",
+        "software": "Synapse",
+        "version": "1.88.0",
+        "recaptcha": true,
         "email": true
     },
     {
