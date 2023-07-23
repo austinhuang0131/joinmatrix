@@ -765,6 +765,23 @@
         "email": true
     },
     {
+        "name": "matrix.2b9t.xyz",
+        "domain": "matrix.2b9t.xyz",
+        "info": "https://matrix.2b9t.xyz",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": "https://2b9t.xyz/privacy-policy/",
+        "open": true,
+        "remarks": "Hosted by Linode in the US",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.2b9t.xyz/",
+        "software": "Synapse",
+        "version": "1.88.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "monero.social",
         "domain": "matrix.monero.social",
         "info": "https://forum.monero.space/t/welcome-to-monero-space-forum/5",
