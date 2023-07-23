@@ -17,6 +17,23 @@
         "email": true
     },
     {
+        "name": "2b9t.xyz",
+        "domain": "matrix.2b9t.xyz",
+        "info": "https://matrix.2b9t.xyz",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": "https://2b9t.xyz/privacy-policy/",
+        "open": true,
+        "remarks": "Hosted by Linode in the US",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.2b9t.xyz/",
+        "software": "Synapse",
+        "version": "1.88.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "4d2.org",
         "domain": "matrix.4d2.org",
         "info": "https://4d2.org",
@@ -762,23 +779,6 @@
         "software": "Synapse",
         "version": "1.87.0",
         "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "matrix.2b9t.xyz",
-        "domain": "matrix.2b9t.xyz",
-        "info": "https://matrix.2b9t.xyz",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": "https://2b9t.xyz/privacy-policy/",
-        "open": true,
-        "remarks": "Hosted by Linode in the US",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.2b9t.xyz/",
-        "software": "Synapse",
-        "version": "1.88.0",
-        "recaptcha": false,
         "email": true
     },
     {
