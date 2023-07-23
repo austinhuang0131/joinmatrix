@@ -104,7 +104,7 @@ From left to right:
   * "In-house Element": You may [register](../guide/#register-an-account) using the Element client hosted on the homeserver, which is linked. This is usually due to reCaptcha domain restriction.
   * "Form": You may register using the linked form.
   * "See info page": Refer to the page linked in the "server name" column.
-  * A domain: After clicking "Create Account" and "Edit," enter the domain as specified in this column (without `https://`) to [create an account](../guide/#register-an-account) on this homeserver. This discrepancy is usually due to the misconfiguration of `.well-known`.
+  * "Manual": After clicking "Create Account" and "Edit," enter the server name (without `https://`) to [create an account](../guide/#register-an-account) on this homeserver.
   * "SSO": The homeserver requires [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) for authentication. You must create an account through the link prior to creating an account on the Matrix homeserver itself. Usually, the account can be used to access other services offered by the homeserver operator.
 * **Version**: The software version of the homeserver, [updated every 6 hours by a GitHub Action](https://github.com/austinhuang0131/joinmatrix/blob/main/.github/workflows/matrix_ver.yml#L4).
   * Unless indicated otherwise, the homeserver is running Synapse.
