@@ -80,7 +80,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://aria.im/",
         "software": "Archon",
-        "version": "1.87.0",
+        "version": "1.88.0",
         "recaptcha": true,
         "email": true
     },
@@ -355,23 +355,6 @@
         "version": "1.88.0",
         "recaptcha": false,
         "email": false
-    },
-    {
-        "name": "data.haus",
-        "domain": "matrix.data.haus",
-        "info": "https://data.haus",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://data.haus/tos.html",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.data.haus/",
-        "software": "Synapse",
-        "version": "1.88.0",
-        "recaptcha": false,
-        "email": true
     },
     {
         "name": "dieandalusier.net",
@@ -697,23 +680,6 @@
         "email": true
     },
     {
-        "name": "kitsunes.club",
-        "domain": "kitsunes.chat",
-        "info": "https://kitsunes.club",
-        "jurisdiction": "Canada",
-        "tos": "https://kitsunes.club/_matrix/consent",
-        "privacy": "https://kitsunes.club/_matrix/consent",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://kitsunes.chat/",
-        "software": "Synapse",
-        "version": "1.88.0rc1",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "libcom.de",
         "domain": "matrix.libcom.de:443",
         "info": "https://libcom.de",
@@ -813,7 +779,7 @@
         "software": "Synapse",
         "version": "1.84.1",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "mtrx.nz",
@@ -895,23 +861,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.norge.chat",
-        "software": "Synapse",
-        "version": "1.88.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "obco.pro",
-        "domain": "hs.obco.pro",
-        "info": "https://obco.pro",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
         "version": "1.88.0",
         "recaptcha": true,
