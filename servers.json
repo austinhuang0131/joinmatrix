@@ -170,23 +170,6 @@
         "email": false
     },
     {
-        "name": "buyvm.net",
-        "domain": "buyvm.chat",
-        "info": "https://buyvm.net/beware-the-moshbear/",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Hosting provider; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.buyvm.net/element/",
-        "software": "Synapse",
-        "version": "1.87.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "cat.casa",
         "domain": "matrix.cat.casa",
         "info": "https://cat.casa/",
@@ -578,23 +561,6 @@
         "email": true
     },
     {
-        "name": "gnulinux.club",
-        "domain": "matrix.gnulinux.club",
-        "info": "https://gnulinux.social",
-        "jurisdiction": "US",
-        "tos": "https://gnulinux.social/about",
-        "privacy": null,
-        "open": true,
-        "remarks": "FOSS-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.gnulinux.club/",
-        "software": "Synapse",
-        "version": "1.88.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "grin.hu",
         "domain": "matrix.grin.hu",
         "info": "https://matrix.grin.hu",
@@ -710,8 +676,8 @@
         "reg_link": "https://kitsunes.chat/",
         "software": "Synapse",
         "version": "1.88.0rc1",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "libcom.de",
@@ -795,8 +761,8 @@
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
         "version": "1.87.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "monero.social",
