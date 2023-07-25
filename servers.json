@@ -319,7 +319,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.88.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -439,7 +439,7 @@
         "software": "Synapse",
         "version": "1.87.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "filik.eu",
@@ -590,7 +590,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.gnulinux.club/",
         "software": "Synapse",
-        "version": "1.85.2",
+        "version": "1.88.0",
         "recaptcha": true,
         "email": true
     },
@@ -698,7 +698,7 @@
     },
     {
         "name": "kitsunes.club",
-        "domain": "kitsunes.club",
+        "domain": "kitsunes.chat",
         "info": "https://kitsunes.club",
         "jurisdiction": "Canada",
         "tos": "https://kitsunes.club/_matrix/consent",
@@ -1242,7 +1242,7 @@
     },
     {
         "name": "tomesh.net",
-        "domain": "matrix.tomesh.net",
+        "domain": "tomesh.net",
         "info": "https://tomesh.net/mesh-services/",
         "jurisdiction": "Canada (US)",
         "tos": "https://tomesh.net/code-of-conduct/",
@@ -1254,8 +1254,8 @@
         "reg_link": "https://chat.tomesh.net/",
         "software": "Synapse",
         "version": "1.84.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "ungleich.ch",
