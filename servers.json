@@ -29,7 +29,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.4d2.org",
         "software": "Synapse",
-        "version": "1.85.2",
+        "version": "1.88.0",
         "recaptcha": true,
         "email": true
     },
@@ -319,7 +319,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.88.0",
-        "recaptcha": true,
+        "recaptcha": false,
         "email": false
     },
     {
@@ -578,6 +578,23 @@
         "email": true
     },
     {
+        "name": "gnulinux.club",
+        "domain": "matrix.gnulinux.club",
+        "info": "https://gnulinux.social",
+        "jurisdiction": "US",
+        "tos": "https://gnulinux.social/about",
+        "privacy": null,
+        "open": true,
+        "remarks": "FOSS-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.gnulinux.club/",
+        "software": "Synapse",
+        "version": "1.88.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "grin.hu",
         "domain": "matrix.grin.hu",
         "info": "https://matrix.grin.hu",
@@ -680,6 +697,23 @@
         "email": true
     },
     {
+        "name": "kitsunes.club",
+        "domain": "kitsunes.chat",
+        "info": "https://kitsunes.club",
+        "jurisdiction": "Canada",
+        "tos": "https://kitsunes.club/_matrix/consent",
+        "privacy": "https://kitsunes.club/_matrix/consent",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://kitsunes.chat/",
+        "software": "Synapse",
+        "version": "1.88.0rc1",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "libcom.de",
         "domain": "matrix.libcom.de:443",
         "info": "https://libcom.de",
@@ -744,8 +778,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.86.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -1066,7 +1100,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.radiowarnerd.org/",
         "software": "Synapse",
-        "version": "1.80.0",
+        "version": "1.88.0",
         "recaptcha": true,
         "email": true
     },
