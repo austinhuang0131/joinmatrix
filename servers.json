@@ -439,7 +439,7 @@
         "software": "Synapse",
         "version": "1.88.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "filik.eu",
@@ -698,7 +698,7 @@
     },
     {
         "name": "kitsunes.club",
-        "domain": "kitsunes.chat",
+        "domain": "kitsunes.club",
         "info": "https://kitsunes.club",
         "jurisdiction": "Canada",
         "tos": "https://kitsunes.club/_matrix/consent",
@@ -710,8 +710,8 @@
         "reg_link": "https://kitsunes.chat/",
         "software": "Synapse",
         "version": "1.88.0rc1",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "libcom.de",
