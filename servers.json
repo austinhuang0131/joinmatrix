@@ -319,7 +319,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.88.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -338,6 +338,23 @@
         "version": "1.78.0",
         "recaptcha": false,
         "email": true
+    },
+    {
+        "name": "crossbach.de",
+        "domain": "matrix.crossbach.de",
+        "info": "https://crossbach.de",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://crossbach.de/datenschutz/datenschutz.html",
+        "open": true,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.crossbach.de/",
+        "software": "Synapse",
+        "version": "1.88.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "data.haus",
@@ -845,7 +862,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.noevil.pl/",
         "software": "Synapse",
-        "version": "1.87.0",
+        "version": "1.88.0",
         "recaptcha": false,
         "email": true
     },
@@ -897,8 +914,8 @@
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
         "version": "1.88.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "oblak.be",
@@ -981,7 +998,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://client.perthchat.org/",
         "software": "Synapse",
-        "version": "1.87.0",
+        "version": "1.88.0",
         "recaptcha": false,
         "email": true
     },
@@ -1103,6 +1120,23 @@
         "version": "1.85.2",
         "recaptcha": false,
         "email": false
+    },
+    {
+        "name": "sibnsk.net",
+        "domain": "matrix.sibnsk.net",
+        "info": "https://lugnsk.org/page/blog/matrix",
+        "jurisdiction": "Russia",
+        "tos": "https://matrix.sibnsk.net/_matrix/consent",
+        "privacy": "https://matrix.sibnsk.net/_matrix/consent",
+        "open": true,
+        "remarks": "In Russian",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.sibnsk.net",
+        "software": "Synapse",
+        "version": "1.88.0",
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "socialnetwork24.com",
