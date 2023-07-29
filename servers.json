@@ -136,6 +136,23 @@
         "email": true
     },
     {
+        "name": "bolha.chat",
+        "domain": "bolha.chat",
+        "info": "https://bolha.chat",
+        "jurisdiction": "Brazil (Canada)",
+        "tos": "https://hub.bolha.us/conduta/",
+        "privacy": null,
+        "open": true,
+        "remarks": "In Portuguese; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.bolha.chat/",
+        "software": "Synapse",
+        "version": "1.88.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "breeze.town",
         "domain": "breeze.town",
         "info": "https://breeze.town/@breeze/108776240056543549",
@@ -442,6 +459,23 @@
         "email": false
     },
     {
+        "name": "flieger.chat",
+        "domain": "matrix.flieger.chat",
+        "info": "https://yatrix.org",
+        "jurisdiction": "Germany",
+        "tos": "https://yatrix.org/nutzungsbedingungen/",
+        "privacy": "https://yatrix.org/impressum/",
+        "open": true,
+        "remarks": "In German; operated by yatrix.org",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.flieger.chat/",
+        "software": "Synapse",
+        "version": "1.88.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "frei.chat",
         "domain": "matrix.frei.chat",
         "info": "https://frei.chat",
@@ -663,23 +697,6 @@
         "email": true
     },
     {
-        "name": "kitsunes.club",
-        "domain": "kitsunes.chat",
-        "info": "https://kitsunes.club",
-        "jurisdiction": "Canada",
-        "tos": "https://kitsunes.club/_matrix/consent",
-        "privacy": "https://kitsunes.club/_matrix/consent",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://kitsunes.chat/",
-        "software": "Synapse",
-        "version": "1.89.0rc1",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "libcom.de",
         "domain": "matrix.libcom.de:443",
         "info": "https://libcom.de",
@@ -779,7 +796,7 @@
         "software": "Synapse",
         "version": "1.84.1",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "mtrx.nz",
@@ -969,6 +986,23 @@
         "email": true
     },
     {
+        "name": "plus.st",
+        "domain": "matrix.plus.st",
+        "info": "https://plus.st/",
+        "jurisdiction": "US",
+        "tos": "https://plus.st/terms.html",
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.plus.st/",
+        "software": "Synapse",
+        "version": "1.88.0 (b=develop,fc1e534e4)",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "possum.city",
         "domain": "possum.city",
         "info": "https://possum.city",
@@ -1069,6 +1103,23 @@
         "version": "1.85.2",
         "recaptcha": false,
         "email": false
+    },
+    {
+        "name": "sibnsk.net",
+        "domain": "matrix.sibnsk.net",
+        "info": "https://lugnsk.org/page/blog/matrix",
+        "jurisdiction": "Russia",
+        "tos": "https://matrix.sibnsk.net/_matrix/consent",
+        "privacy": "https://matrix.sibnsk.net/_matrix/consent",
+        "open": true,
+        "remarks": "In Russian",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.sibnsk.net",
+        "software": "Synapse",
+        "version": "1.88.0",
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "socialnetwork24.com",
