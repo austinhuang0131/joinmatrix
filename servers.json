@@ -902,7 +902,7 @@
     },
     {
         "name": "obco.pro",
-        "domain": "obco.pro",
+        "domain": "hs.obco.pro",
         "info": "https://obco.pro",
         "jurisdiction": "Germany",
         "tos": null,
@@ -1000,23 +1000,6 @@
         "software": "Synapse",
         "version": "1.88.0",
         "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "plus.st",
-        "domain": "matrix.plus.st",
-        "info": "https://plus.st/",
-        "jurisdiction": "US",
-        "tos": "https://plus.st/terms.html",
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.plus.st/",
-        "software": "Synapse",
-        "version": "1.88.0 (b=develop,fc1e534e4)",
-        "recaptcha": true,
         "email": true
     },
     {
@@ -1120,6 +1103,23 @@
         "version": "1.85.2",
         "recaptcha": false,
         "email": false
+    },
+    {
+        "name": "sibnsk.net",
+        "domain": "matrix.sibnsk.net",
+        "info": "https://lugnsk.org/page/blog/matrix",
+        "jurisdiction": "Russia",
+        "tos": "https://matrix.sibnsk.net/_matrix/consent",
+        "privacy": "https://matrix.sibnsk.net/_matrix/consent",
+        "open": true,
+        "remarks": "In Russian",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.sibnsk.net",
+        "software": "Synapse",
+        "version": "1.88.0",
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "socialnetwork24.com",
