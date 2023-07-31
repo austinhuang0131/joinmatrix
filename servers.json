@@ -319,7 +319,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.88.0",
-        "recaptcha": true,
+        "recaptcha": false,
         "email": false
     },
     {
@@ -1016,8 +1016,8 @@
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
         "version": "1.89.0rc1 (b=develop,68b261178)",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "possum.city",
