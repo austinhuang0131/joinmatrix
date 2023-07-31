@@ -828,7 +828,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://mtrx.nz/",
         "software": "Synapse",
-        "version": "1.87.0",
+        "version": "1.88.0",
         "recaptcha": false,
         "email": true
     },
@@ -880,8 +880,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.88.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "norge.chat",
@@ -1016,8 +1016,8 @@
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
         "version": "1.89.0rc1 (b=develop,68b261178)",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "possum.city",
