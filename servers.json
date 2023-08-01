@@ -119,6 +119,23 @@
         "email": true
     },
     {
+        "name": "bark.lgbt",
+        "domain": "synapse.bark.lgbt",
+        "info": "https://bark.lgbt",
+        "jurisdiction": "Netherlands",
+        "tos": "https://bark.lgbt/about",
+        "privacy": null,
+        "open": true,
+        "remarks": "Furry-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.bark.lgbt",
+        "software": "Synapse",
+        "version": "1.89.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "bolha.chat",
         "domain": "bolha.chat",
         "info": "https://bolha.chat",
@@ -268,8 +285,8 @@
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
         "version": "1.88.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "comm.cx",
@@ -437,7 +454,7 @@
         "reg_method": "SSO",
         "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.89.0",
         "recaptcha": false,
         "email": false
     },
@@ -471,7 +488,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.89.0",
         "recaptcha": true,
         "email": true
     },
@@ -607,7 +624,7 @@
         "reg_method": "In-house Cinny",
         "reg_link": "https://chat.group.lt/",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.89.0",
         "recaptcha": true,
         "email": true
     },
@@ -641,7 +658,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://hashi.sbs",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.89.0",
         "recaptcha": false,
         "email": true
     },
@@ -761,8 +778,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.86.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -828,7 +845,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.89.0",
         "recaptcha": true,
         "email": true
     },
@@ -862,7 +879,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.89.0",
         "recaptcha": true,
         "email": true
     },
@@ -896,7 +913,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.89.0",
         "recaptcha": true,
         "email": true
     },
@@ -1151,7 +1168,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.89.0",
         "recaptcha": false,
         "email": true
     },
@@ -1287,7 +1304,7 @@
         "reg_method": "SSO",
         "reg_link": "https://auth.usesarchbtw.lol/",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.89.0",
         "recaptcha": false,
         "email": false
     },
