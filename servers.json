@@ -63,7 +63,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.89.0",
         "recaptcha": true,
         "email": true
     },
@@ -199,7 +199,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.cat.casa/",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.89.0",
         "recaptcha": false,
         "email": false
     },
@@ -420,7 +420,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.89.0rc1",
+        "version": "1.89.0",
         "recaptcha": true,
         "email": true
     },
@@ -539,7 +539,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.gemeinsam.jetzt/",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.89.0",
         "recaptcha": false,
         "email": true
     },
@@ -964,7 +964,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://riot.ombreport.info/",
         "software": "Synapse",
-        "version": "1.87.0",
+        "version": "1.89.0",
         "recaptcha": true,
         "email": false
     },
@@ -1049,7 +1049,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.89.0",
         "recaptcha": true,
         "email": true
     },
@@ -1202,7 +1202,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.89.0",
         "recaptcha": true,
         "email": true
     },
@@ -1406,7 +1406,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.89.0",
         "recaptcha": false,
         "email": false
     },
