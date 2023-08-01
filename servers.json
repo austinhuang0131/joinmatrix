@@ -319,7 +319,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.88.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -880,8 +880,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.88.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "norge.chat",
@@ -1016,8 +1016,8 @@
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
         "version": "1.89.0rc1 (b=develop,68b261178)",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "possum.city",
