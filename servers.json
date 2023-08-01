@@ -119,23 +119,6 @@
         "email": true
     },
     {
-        "name": "bark.lgbt",
-        "domain": "synapse.bark.lgbt",
-        "info": "https://bark.lgbt",
-        "jurisdiction": "Netherlands",
-        "tos": "https://bark.lgbt/about",
-        "privacy": null,
-        "open": true,
-        "remarks": "Furry-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.bark.lgbt",
-        "software": "Synapse",
-        "version": "1.87.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "bolha.chat",
         "domain": "bolha.chat",
         "info": "https://bolha.chat",
@@ -285,8 +268,8 @@
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
         "version": "1.88.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "comm.cx",
