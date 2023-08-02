@@ -81,8 +81,8 @@
         "reg_link": "https://aria.im/",
         "software": "Archon",
         "version": "1.88.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "bachgau.social",
@@ -215,6 +215,23 @@
         "antifeature": null,
         "reg_method": "Form",
         "reg_link": "https://registration.matrix.catgirl.cloud/",
+        "software": "Synapse",
+        "version": "1.88.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "catgir.ls",
+        "domain": "m.catgir.ls",
+        "info": "https://catgir.ls",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Cinny",
+        "reg_link": "https://cinny.catgir.ls/",
         "software": "Synapse",
         "version": "1.88.0",
         "recaptcha": false,
