@@ -777,7 +777,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.magdeburg.jetzt/",
         "software": "Synapse",
-        "version": "1.87.0",
+        "version": "1.89.0",
         "recaptcha": false,
         "email": false
     },
@@ -795,8 +795,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.86.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "matrix.im",
