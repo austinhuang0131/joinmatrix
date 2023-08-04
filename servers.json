@@ -272,6 +272,23 @@
         "email": true
     },
     {
+        "name": "chatwave.org",
+        "domain": "matrix.chatwave.org",
+        "info": "https://yatrix.org",
+        "jurisdiction": "Germany",
+        "tos": "https://yatrix.org/nutzungsbedingungen/",
+        "privacy": "https://yatrix.org/impressum/",
+        "open": true,
+        "remarks": "In German; operated by yatrix.org",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.chatwave.org/",
+        "software": "Synapse",
+        "version": "1.89.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "chrrreeeeesss.com",
         "domain": "chrrreeeeesss.com",
         "info": "https://chrrreeeeesss.com",
@@ -439,7 +456,7 @@
         "software": "Synapse",
         "version": "1.88.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "filik.eu",
@@ -473,23 +490,6 @@
         "software": "Synapse",
         "version": "1.89.0",
         "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "frei.chat",
-        "domain": "matrix.frei.chat",
-        "info": "https://frei.chat",
-        "jurisdiction": "Germany (Finland)",
-        "tos": "https://frei.chat/termsofuse/",
-        "privacy": "https://frei.chat/privacypolicy/",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.frei.chat/",
-        "software": "Synapse",
-        "version": "1.89.0",
-        "recaptcha": true,
         "email": true
     },
     {
@@ -765,23 +765,6 @@
         "email": false
     },
     {
-        "name": "mailstation.de",
-        "domain": "mailstation.de",
-        "info": "https://turing.mailstation.de/?page_id=1375",
-        "jurisdiction": "Germany",
-        "tos": "https://turing.mailstation.de/terms-and-conditions/",
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.mailstation.de/",
-        "software": "Synapse",
-        "version": "1.86.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "matrix.im",
         "domain": "matrix.im",
         "info": "https://matrix.im",
@@ -914,8 +897,8 @@
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
         "version": "1.89.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "oblak.be",
