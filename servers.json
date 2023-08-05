@@ -97,7 +97,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.bachgau.social/",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.89.0",
         "recaptcha": false,
         "email": true
     },
@@ -1187,7 +1187,7 @@
         "software": "Synapse",
         "version": "1.89.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "synod.im",
