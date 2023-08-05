@@ -544,6 +544,23 @@
         "email": false
     },
     {
+        "name": "gemeinsam.jetzt",
+        "domain": "matrix.gemeinsam.jetzt",
+        "info": "https://gemeinsam.jetzt/",
+        "jurisdiction": "Austria",
+        "tos": null,
+        "privacy": "https://matrix.gemeinsam.jetzt/_matrix/consent?v=1.0",
+        "open": true,
+        "remarks": "In German; left-wing",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.gemeinsam.jetzt/",
+        "software": "Synapse",
+        "version": "1.89.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "ggc-project.de",
         "domain": "ggc-project.de",
         "info": "https://www.ggc-project.de/en/index.html",
