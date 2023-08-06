@@ -221,23 +221,6 @@
         "email": false
     },
     {
-        "name": "catgir.ls",
-        "domain": "m.catgir.ls",
-        "info": "https://catgir.ls",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Cinny",
-        "reg_link": "https://cinny.catgir.ls/",
-        "software": "Synapse",
-        "version": "1.88.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "chagai.website",
         "domain": "mx.chagai.website",
         "info": "https://chagai.website",
@@ -918,23 +901,6 @@
         "email": true
     },
     {
-        "name": "obco.pro",
-        "domain": "hs.obco.pro",
-        "info": "https://obco.pro",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.obco.pro/",
-        "software": "Synapse",
-        "version": "1.89.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "oblak.be",
         "domain": "matrix.oblak.be:443",
         "info": "https://oblak.be/apps/chat/",
@@ -1174,7 +1140,7 @@
     },
     {
         "name": "studichat.de",
-        "domain": "studichat.de",
+        "domain": "matrix.studichat.de",
         "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
         "jurisdiction": "Germany",
         "tos": null,
@@ -1187,7 +1153,7 @@
         "software": "Synapse",
         "version": "1.89.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "synod.im",
@@ -1356,8 +1322,8 @@
         "reg_link": "https://element.virto.community/",
         "software": "Synapse",
         "version": "1.79.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "waffle.tech",
