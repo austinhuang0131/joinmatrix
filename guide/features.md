@@ -130,14 +130,17 @@ Matrix users will show up as webhooks on Discord, and Discord users will show up
 
 ### Telegram
 
-To bridge a Matrix room with a Telegram group chat, you can install [mautrix telegram](https://github.com/mautrix/telegram) if you're running your own homeserver, or set up one of the free public bridges otherwise:
+To bridge a Matrix room with a Telegram group chat, you can install [mautrix telegram](https://github.com/mautrix/telegram) if you're running your own homeserver, or use one of the free public bridges otherwise:
 
 * [t2bot](https://t2bot.io/telegram) (No puppeting)
 * [tchncs.de](https://tchncs.de/matrix) (Puppeting requires approval)
 * [TeDomum](https://tedomum.net/service/matrix/bridges/)
 * [SNT](https://syscom.utwente.io/info/matrix/telegram/)
+* [yatrix.org](https://yatrix.org/wissen/anleitungen/bruecken/#telegram) (No puppeting)
 
-When a Matrix room is bridged with a Telegram group, Matrix users will be represented by the bridging bot on Telegram, while Telegram users will show up as standard users on Matrix (but you cannot DM them). When you log into a Telegram account on a bridge, you may use it to control your own account such that you may interact with the whole of Telegram from Matrix.
+When a Matrix room is bridged with a Telegram group, Matrix users will be represented by the bridging bot on Telegram, while Telegram users will show up as standard users on Matrix (but you cannot DM them).
+
+When you log into a Telegram account on a bridge, you may use it to control your own account such that you may interact with the entirety of Telegram from Matrix. This is called "puppeting" and is not supported by all bridges.
 
 ### Slack
 
@@ -166,7 +169,8 @@ Matrix supports many other platforms, but such bridges generally require setup. 
 * [Host the bridges yourself](https://matrix.org/bridges/), if you run your own homeserver
 * Use public bridges (which you're encouraged to donate for):
   * [Aria Network](https://aria-net.org/SitePages/Portal/Bridges.aspx) (Facebook, Instagram, MS Teams, Twitter, WhatsApp; only available to accounts on the aria-net.org homeserver)
-  * [yatrix.org](https://yatrix.org/#interoperabilität) (Signal, WhatsApp; requires approval)
+  * [Beeper](https://www.beeper.com/) (Many platforms; requires signing up to a waitlist)
+  * [yatrix.org](https://yatrix.org/wissen/anleitungen/bruecken/) (Signal, Slack, WhatsApp)
   * [TeDomum](https://tedomum.net/service/matrix/bridges/) (WhatsApp)
 * Set up bridges as part of a managed homeserver hosting:
   * [Element Matrix Store](https://element.io/element-matrix-store) (WhatsApp, Slack, MS Teams, IRC, Discord, Telegram)
@@ -174,7 +178,6 @@ Matrix supports many other platforms, but such bridges generally require setup. 
   * [ungleich](https://ungleich.ch/u/products/hosted-matrix-chat/) (Many platforms)
 * Purchase managed bridging services without a homeserver:
   * [Element One](https://element.io/element-one) (WhatsApp, Signal, Telegram)
-  * [Beeper](https://www.beeper.com/) (Many platforms; has waitlist)
 
 ## All about rooms
 
