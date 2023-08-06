@@ -336,7 +336,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.88.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -913,7 +913,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.89.0",
         "recaptcha": true,
         "email": true
     },
@@ -1174,7 +1174,7 @@
     },
     {
         "name": "studichat.de",
-        "domain": "matrix.studichat.de",
+        "domain": "studichat.de",
         "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
         "jurisdiction": "Germany",
         "tos": null,
@@ -1187,7 +1187,7 @@
         "software": "Synapse",
         "version": "1.89.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "synod.im",
@@ -1474,7 +1474,7 @@
         "reg_method": "Contact",
         "reg_link": "https://hyteck.de/about/",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.89.0",
         "recaptcha": false,
         "email": true
     },
@@ -1559,7 +1559,7 @@
         "reg_method": "Membership",
         "reg_link": "https://rimfaxe.net/bli-medlem/",
         "software": "Synapse",
-        "version": "1.87.0",
+        "version": "1.89.0",
         "recaptcha": false,
         "email": false
     },
