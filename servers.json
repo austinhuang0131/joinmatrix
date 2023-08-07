@@ -136,23 +136,6 @@
         "email": true
     },
     {
-        "name": "bolha.chat",
-        "domain": "bolha.chat",
-        "info": "https://bolha.chat",
-        "jurisdiction": "Brazil (Canada)",
-        "tos": "https://hub.bolha.us/conduta/",
-        "privacy": null,
-        "open": true,
-        "remarks": "In Portuguese; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.bolha.chat/",
-        "software": "Synapse",
-        "version": "1.88.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "breeze.town",
         "domain": "breeze.town",
         "info": "https://breeze.town/@breeze/108776240056543549",
@@ -578,6 +561,23 @@
         "email": true
     },
     {
+        "name": "gnulinux.club",
+        "domain": "matrix.gnulinux.club",
+        "info": "https://gnulinux.social",
+        "jurisdiction": "US",
+        "tos": "https://gnulinux.social/about",
+        "privacy": null,
+        "open": true,
+        "remarks": "FOSS-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.gnulinux.club/",
+        "software": "Synapse",
+        "version": "1.88.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "grin.hu",
         "domain": "matrix.grin.hu",
         "info": "https://matrix.grin.hu",
@@ -629,6 +629,23 @@
         "email": false
     },
     {
+        "name": "hashi.sbs",
+        "domain": "chatserver.hashi.sbs",
+        "info": "https://hashi.sbs",
+        "jurisdiction": "? (Germany)",
+        "tos": "https://hashi.icu/@MomentQYC/pages/tos",
+        "privacy": null,
+        "open": true,
+        "remarks": "In Chinese",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://hashi.sbs",
+        "software": "Synapse",
+        "version": "1.89.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "hot-chilli.im",
         "domain": "hot-chilli.im",
         "info": "https://jabber.hot-chilli.net/2022/04/26/hot-chilli-matrix-server/",
@@ -641,7 +658,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.hot-chilli.im/",
         "software": "Synapse",
-        "version": "1.87.0",
+        "version": "1.89.0",
         "recaptcha": true,
         "email": true
     },
@@ -982,8 +999,8 @@
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
         "version": "1.89.0 (b=develop,01a45869f)",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "possum.city",
@@ -1509,23 +1526,6 @@
         "reg_link": "https://rimfaxe.net/bli-medlem/",
         "software": "Synapse",
         "version": "1.89.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "sans-nuage.fr",
-        "domain": "sans-nuage.fr",
-        "info": "https://sans-nuage.fr",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": false,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "Membership",
-        "reg_link": "https://adherents.arn-fai.net/members/register/",
-        "software": "Synapse",
-        "version": "1.81.0",
         "recaptcha": false,
         "email": false
     }
