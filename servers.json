@@ -1406,7 +1406,7 @@
         "reg_method": "Contact",
         "reg_link": "https://deuxfleurs.fr/",
         "software": "Synapse",
-        "version": "1.79.0",
+        "version": "1.89.0",
         "recaptcha": false,
         "email": false
     },
