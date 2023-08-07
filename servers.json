@@ -272,6 +272,23 @@
         "email": true
     },
     {
+        "name": "chrrreeeeesss.com",
+        "domain": "chrrreeeeesss.com",
+        "info": "https://chrrreeeeesss.com",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chrrreeeeesss.com/element",
+        "software": "Synapse",
+        "version": "1.88.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "comm.cx",
         "domain": "matrix-client.comm.cx",
         "info": "https://comm.cx",
@@ -561,23 +578,6 @@
         "email": true
     },
     {
-        "name": "gnulinux.club",
-        "domain": "matrix.gnulinux.club",
-        "info": "https://gnulinux.social",
-        "jurisdiction": "US",
-        "tos": "https://gnulinux.social/about",
-        "privacy": null,
-        "open": true,
-        "remarks": "FOSS-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.gnulinux.club/",
-        "software": "Synapse",
-        "version": "1.88.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "grin.hu",
         "domain": "matrix.grin.hu",
         "info": "https://matrix.grin.hu",
@@ -627,23 +627,6 @@
         "version": "1.89.0",
         "recaptcha": false,
         "email": false
-    },
-    {
-        "name": "hashi.sbs",
-        "domain": "chatserver.hashi.sbs",
-        "info": "https://hashi.sbs",
-        "jurisdiction": "? (Germany)",
-        "tos": "https://hashi.icu/@MomentQYC/pages/tos",
-        "privacy": null,
-        "open": true,
-        "remarks": "In Chinese",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://hashi.sbs",
-        "software": "Synapse",
-        "version": "1.89.0",
-        "recaptcha": false,
-        "email": true
     },
     {
         "name": "hot-chilli.im",
@@ -878,6 +861,23 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.norge.chat",
+        "software": "Synapse",
+        "version": "1.89.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
+        "name": "obco.pro",
+        "domain": "hs.obco.pro",
+        "info": "https://obco.pro",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
         "version": "1.89.0",
         "recaptcha": true,
@@ -1236,7 +1236,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
-        "version": "1.87.0",
+        "version": "1.89.0",
         "recaptcha": false,
         "email": false
     },
@@ -1305,8 +1305,8 @@
         "reg_link": "https://element.virto.community/",
         "software": "Synapse",
         "version": "1.79.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "waffle.tech",
