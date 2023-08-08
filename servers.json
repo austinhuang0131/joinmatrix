@@ -901,23 +901,6 @@
         "email": true
     },
     {
-        "name": "obco.pro",
-        "domain": "hs.obco.pro",
-        "info": "https://obco.pro",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.obco.pro/",
-        "software": "Synapse",
-        "version": "1.89.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "oblak.be",
         "domain": "matrix.oblak.be:443",
         "info": "https://oblak.be/apps/chat/",
