@@ -81,8 +81,8 @@
         "reg_link": "https://aria.im/",
         "software": "Archon",
         "version": "1.88.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "bachgau.social",
@@ -132,6 +132,23 @@
         "reg_link": "https://chat.bark.lgbt",
         "software": "Synapse",
         "version": "1.89.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "bolha.chat",
+        "domain": "bolha.chat",
+        "info": "https://bolha.chat",
+        "jurisdiction": "Brazil (Canada)",
+        "tos": "https://hub.bolha.us/conduta/",
+        "privacy": null,
+        "open": true,
+        "remarks": "In Portuguese; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.bolha.chat/",
+        "software": "Synapse",
+        "version": "1.88.0",
         "recaptcha": false,
         "email": true
     },
@@ -252,23 +269,6 @@
         "software": "Synapse",
         "version": "1.89.0",
         "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "chrrreeeeesss.com",
-        "domain": "chrrreeeeesss.com",
-        "info": "https://chrrreeeeesss.com",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chrrreeeeesss.com/element",
-        "software": "Synapse",
-        "version": "1.88.0",
-        "recaptcha": true,
         "email": true
     },
     {
@@ -999,8 +999,8 @@
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
         "version": "1.89.0 (b=develop,01a45869f)",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "possum.city",
@@ -1135,23 +1135,6 @@
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
         "version": "1.88.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "studichat.de",
-        "domain": "matrix.studichat.de",
-        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.studichat.de/",
-        "software": "Synapse",
-        "version": "1.89.0",
         "recaptcha": false,
         "email": true
     },
