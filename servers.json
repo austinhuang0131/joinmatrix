@@ -272,6 +272,23 @@
         "email": true
     },
     {
+        "name": "chrrreeeeesss.com",
+        "domain": "chrrreeeeesss.com",
+        "info": "https://chrrreeeeesss.com",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chrrreeeeesss.com/element",
+        "software": "Synapse",
+        "version": "1.88.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "comm.cx",
         "domain": "matrix-client.comm.cx",
         "info": "https://comm.cx",
@@ -302,7 +319,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.88.0",
-        "recaptcha": true,
+        "recaptcha": false,
         "email": false
     },
     {
@@ -422,7 +439,7 @@
         "software": "Synapse",
         "version": "1.88.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "filik.eu",
@@ -1135,6 +1152,23 @@
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
         "version": "1.88.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "studichat.de",
+        "domain": "matrix.studichat.de",
+        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; student-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.studichat.de/",
+        "software": "Synapse",
+        "version": "1.89.0",
         "recaptcha": false,
         "email": true
     },
