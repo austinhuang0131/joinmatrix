@@ -420,7 +420,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.90.0rc1",
         "recaptcha": true,
         "email": true
     },
@@ -439,7 +439,7 @@
         "software": "Synapse",
         "version": "1.88.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "filik.eu",
@@ -695,6 +695,23 @@
         "version": "1.88.0",
         "recaptcha": true,
         "email": true
+    },
+    {
+        "name": "kitsunes.club",
+        "domain": "kitsunes.chat",
+        "info": "https://kitsunes.club",
+        "jurisdiction": "Canada",
+        "tos": "https://kitsunes.club/_matrix/consent",
+        "privacy": "https://kitsunes.club/_matrix/consent",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://kitsunes.chat/",
+        "software": "Synapse",
+        "version": "1.90.0rc1",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "libcom.de",
@@ -1254,8 +1271,8 @@
         "reg_link": "https://matrix.unita.online",
         "software": "Synapse",
         "version": "1.71.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "usesarchbtw.lol",
