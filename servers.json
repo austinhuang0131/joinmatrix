@@ -81,8 +81,8 @@
         "reg_link": "https://aria.im/",
         "software": "Archon",
         "version": "1.88.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "bachgau.social",
@@ -306,6 +306,23 @@
         "email": true
     },
     {
+        "name": "community.rs",
+        "domain": "matrix.community.rs",
+        "info": "https://community.rs",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Rust-oriented",
+        "antifeature": "Uses Cloudflare",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.community.rs/",
+        "software": "Synapse",
+        "version": "1.89.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "converser.eu",
         "domain": "converser.eu",
         "info": "https://converser.eu",
@@ -422,7 +439,7 @@
         "software": "Synapse",
         "version": "1.88.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "filik.eu",
@@ -627,6 +644,23 @@
         "version": "1.89.0",
         "recaptcha": false,
         "email": false
+    },
+    {
+        "name": "hashi.sbs",
+        "domain": "chatserver.hashi.sbs",
+        "info": "https://hashi.sbs",
+        "jurisdiction": "? (Germany)",
+        "tos": "https://hashi.icu/@MomentQYC/pages/tos",
+        "privacy": null,
+        "open": true,
+        "remarks": "In Chinese",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://hashi.sbs",
+        "software": "Synapse",
+        "version": "1.89.0",
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "hot-chilli.im",
