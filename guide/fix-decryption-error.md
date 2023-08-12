@@ -42,4 +42,4 @@ Try the following in no specific order:
 * While the sender is online, ask them to navigate to the room, then click "resend key requests" on your device.
 * Enter `/discardsession` in the room (unlikely to fix existing issue but could prevent future issues).
 
-If you have exhausted all the steps and they don't produce improvements on future messages either, it may very well be a bug.
+If you have exhausted all the steps **and** they don't produce improvements on future messages either, it may very well be an issue regarding your homeserver, or a protocol bug.
