@@ -119,6 +119,23 @@
         "email": true
     },
     {
+        "name": "bark.lgbt",
+        "domain": "synapse.bark.lgbt",
+        "info": "https://bark.lgbt",
+        "jurisdiction": "Netherlands",
+        "tos": "https://bark.lgbt/about",
+        "privacy": null,
+        "open": true,
+        "remarks": "Furry-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.bark.lgbt",
+        "software": "Synapse",
+        "version": "1.89.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "bolha.chat",
         "domain": "bolha.chat",
         "info": "https://bolha.chat",
@@ -202,23 +219,6 @@
         "version": "1.88.0",
         "recaptcha": false,
         "email": false
-    },
-    {
-        "name": "chagai.website",
-        "domain": "mx.chagai.website",
-        "info": "https://chagai.website",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.chagai.website/",
-        "software": "Synapse",
-        "version": "1.78.0",
-        "recaptcha": false,
-        "email": true
     },
     {
         "name": "chatcloud.net",
@@ -544,6 +544,23 @@
         "email": true
     },
     {
+        "name": "gnulinux.club",
+        "domain": "matrix.gnulinux.club",
+        "info": "https://gnulinux.social",
+        "jurisdiction": "US",
+        "tos": "https://gnulinux.social/about",
+        "privacy": null,
+        "open": true,
+        "remarks": "FOSS-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.gnulinux.club/",
+        "software": "Synapse",
+        "version": "1.89.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "grin.hu",
         "domain": "matrix.grin.hu",
         "info": "https://matrix.grin.hu",
@@ -745,23 +762,6 @@
         "software": "Synapse",
         "version": "1.87.0",
         "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "monero.social",
-        "domain": "matrix.monero.social",
-        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
-        "jurisdiction": "US",
-        "tos": "https://www.getmonero.org/legal/",
-        "privacy": null,
-        "open": true,
-        "remarks": "18+; accessory; crypto",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.84.1",
-        "recaptcha": false,
         "email": true
     },
     {
