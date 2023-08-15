@@ -97,7 +97,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.bachgau.social/",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.90.0",
         "recaptcha": false,
         "email": true
     },
@@ -116,23 +116,6 @@
         "software": "Synapse",
         "version": "1.88.0",
         "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "bark.lgbt",
-        "domain": "synapse.bark.lgbt",
-        "info": "https://bark.lgbt",
-        "jurisdiction": "Netherlands",
-        "tos": "https://bark.lgbt/about",
-        "privacy": null,
-        "open": true,
-        "remarks": "Furry-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.bark.lgbt",
-        "software": "Synapse",
-        "version": "1.89.0",
-        "recaptcha": false,
         "email": true
     },
     {
@@ -216,7 +199,7 @@
         "reg_method": "Form",
         "reg_link": "https://registration.matrix.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.89.0",
         "recaptcha": false,
         "email": false
     },
@@ -268,8 +251,8 @@
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
         "version": "1.88.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "comm.cx",
@@ -386,7 +369,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.90.0rc1",
+        "version": "1.90.0",
         "recaptcha": true,
         "email": true
     },
@@ -731,23 +714,6 @@
         "email": false
     },
     {
-        "name": "mailstation.de",
-        "domain": "mailstation.de",
-        "info": "https://turing.mailstation.de/?page_id=1375",
-        "jurisdiction": "Germany",
-        "tos": "https://turing.mailstation.de/terms-and-conditions/",
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.mailstation.de/",
-        "software": "Synapse",
-        "version": "1.89.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "matrix.im",
         "domain": "matrix.im",
         "info": "https://matrix.im",
@@ -845,7 +811,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.90.0",
         "recaptcha": true,
         "email": true
     },
@@ -879,7 +845,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.90.0",
         "recaptcha": true,
         "email": true
     },
@@ -1270,7 +1236,7 @@
         "reg_method": "SSO",
         "reg_link": "https://auth.usesarchbtw.lol/",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.90.0",
         "recaptcha": false,
         "email": false
     },
@@ -1338,7 +1304,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.90.0",
         "recaptcha": true,
         "email": false
     },
