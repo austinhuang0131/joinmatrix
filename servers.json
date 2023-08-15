@@ -63,7 +63,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.90.0",
         "recaptcha": true,
         "email": true
     },
@@ -116,6 +116,23 @@
         "software": "Synapse",
         "version": "1.88.0",
         "recaptcha": true,
+        "email": true
+    },
+    {
+        "name": "bark.lgbt",
+        "domain": "synapse.bark.lgbt",
+        "info": "https://bark.lgbt",
+        "jurisdiction": "Netherlands",
+        "tos": "https://bark.lgbt/about",
+        "privacy": null,
+        "open": true,
+        "remarks": "Furry-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.bark.lgbt",
+        "software": "Synapse",
+        "version": "1.89.0",
+        "recaptcha": false,
         "email": true
     },
     {
@@ -544,23 +561,6 @@
         "email": true
     },
     {
-        "name": "grin.hu",
-        "domain": "matrix.grin.hu",
-        "info": "https://matrix.grin.hu",
-        "jurisdiction": "Hungary",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://riot.grin.hu/",
-        "software": "Synapse",
-        "version": "1.78.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "group.lt",
         "domain": "matrix.group.lt",
         "info": "https://group.lt",
@@ -607,7 +607,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://hashi.sbs",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.90.0",
         "recaptcha": false,
         "email": true
     },
@@ -708,6 +708,23 @@
         "antifeature": null,
         "reg_method": "SSO",
         "reg_link": "https://account.magdeburg.jetzt/",
+        "software": "Synapse",
+        "version": "1.89.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "mailstation.de",
+        "domain": "mailstation.de",
+        "info": "https://turing.mailstation.de/?page_id=1375",
+        "jurisdiction": "Germany",
+        "tos": "https://turing.mailstation.de/terms-and-conditions/",
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.89.0",
         "recaptcha": false,
@@ -981,7 +998,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.90.0",
         "recaptcha": true,
         "email": true
     },
@@ -1088,23 +1105,6 @@
         "email": true
     },
     {
-        "name": "studichat.de",
-        "domain": "matrix.studichat.de",
-        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.studichat.de/",
-        "software": "Synapse",
-        "version": "1.89.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "synod.im",
         "domain": "synod.im",
         "info": "https://doc.librechurch.org/Wiki.jsp?page=Matrix#section-Matrix-DieMatrixInstanzSynod.im",
@@ -1134,7 +1134,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.90.0",
         "recaptcha": true,
         "email": true
     },
