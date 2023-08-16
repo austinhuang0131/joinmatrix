@@ -12,7 +12,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://im.0wnz.at/element-web/",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.90.0",
         "recaptcha": false,
         "email": true
     },
@@ -81,8 +81,8 @@
         "reg_link": "https://aria.im/",
         "software": "Archon",
         "version": "1.88.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "bachgau.social",
@@ -99,23 +99,6 @@
         "software": "Synapse",
         "version": "1.90.0",
         "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "badstuebner.biz",
-        "domain": "matrix.badstuebner.biz",
-        "info": "https://badstuebner.biz",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://badstuebner.biz/impressum.php",
-        "open": true,
-        "remarks": "In German; personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.badstuebner.biz/",
-        "software": "Synapse",
-        "version": "1.88.0",
-        "recaptcha": true,
         "email": true
     },
     {
@@ -561,6 +544,23 @@
         "email": true
     },
     {
+        "name": "grin.hu",
+        "domain": "matrix.grin.hu",
+        "info": "https://matrix.grin.hu",
+        "jurisdiction": "Hungary",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://riot.grin.hu/",
+        "software": "Synapse",
+        "version": "1.78.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "group.lt",
         "domain": "matrix.group.lt",
         "info": "https://group.lt",
@@ -646,23 +646,6 @@
         "email": true
     },
     {
-        "name": "kitsunes.club",
-        "domain": "kitsunes.chat",
-        "info": "https://kitsunes.club",
-        "jurisdiction": "Canada",
-        "tos": "https://kitsunes.club/_matrix/consent",
-        "privacy": "https://kitsunes.club/_matrix/consent",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://kitsunes.chat/",
-        "software": "Synapse",
-        "version": "1.90.0rc1",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "libcom.de",
         "domain": "matrix.libcom.de:443",
         "info": "https://libcom.de",
@@ -708,23 +691,6 @@
         "antifeature": null,
         "reg_method": "SSO",
         "reg_link": "https://account.magdeburg.jetzt/",
-        "software": "Synapse",
-        "version": "1.89.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "mailstation.de",
-        "domain": "mailstation.de",
-        "info": "https://turing.mailstation.de/?page_id=1375",
-        "jurisdiction": "Germany",
-        "tos": "https://turing.mailstation.de/terms-and-conditions/",
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.89.0",
         "recaptcha": false,
@@ -1101,6 +1067,23 @@
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
         "version": "1.88.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "studichat.de",
+        "domain": "matrix.studichat.de",
+        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; student-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.studichat.de/",
+        "software": "Synapse",
+        "version": "1.89.0",
         "recaptcha": false,
         "email": true
     },
