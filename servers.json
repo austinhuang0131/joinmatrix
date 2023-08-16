@@ -148,7 +148,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.bolha.chat/",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.90.0",
         "recaptcha": false,
         "email": true
     },
@@ -219,23 +219,6 @@
         "version": "1.89.0",
         "recaptcha": false,
         "email": false
-    },
-    {
-        "name": "chagai.website",
-        "domain": "mx.chagai.website",
-        "info": "https://chagai.website",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.chagai.website/",
-        "software": "Synapse",
-        "version": "1.78.0",
-        "recaptcha": false,
-        "email": true
     },
     {
         "name": "chatcloud.net",
@@ -319,7 +302,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.89.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -505,7 +488,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://g24.at",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.90.0",
         "recaptcha": false,
         "email": false
     },
@@ -675,7 +658,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.jonasled.de/",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.90.0",
         "recaptcha": true,
         "email": true
     },
@@ -796,7 +779,7 @@
         "software": "Synapse",
         "version": "1.84.1",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "nitro.chat",
@@ -969,21 +952,21 @@
         "email": true
     },
     {
-        "name": "possum.city",
-        "domain": "possum.city",
-        "info": "https://possum.city",
-        "jurisdiction": "Sweden",
-        "tos": "https://about.possum.city/rules",
+        "name": "plus.st",
+        "domain": "matrix.plus.st",
+        "info": "https://plus.st/",
+        "jurisdiction": "US",
+        "tos": "https://plus.st/terms.html",
         "privacy": null,
         "open": true,
-        "remarks": "Left-wing",
+        "remarks": "General host",
         "antifeature": null,
-        "reg_method": "In-house SchildiChat",
-        "reg_link": "https://matrix.possum.city/",
-        "software": "Conduit",
-        "version": "0.5.0",
-        "recaptcha": false,
-        "email": false
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.plus.st/",
+        "software": "Synapse",
+        "version": "1.90.0rc1 (b=heads/v1.90.0rc1,t=v1.90.0rc1,458180984)",
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "pragma-messenger.ch",
@@ -1441,6 +1424,23 @@
         "reg_link": "https://data.coop/medlem/",
         "software": "Synapse",
         "version": "1.87.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "fsfe.org",
+        "domain": "matrix.fsfe.org",
+        "info": "https://fsfe.org/news/2022/news-20220202-01.html",
+        "jurisdiction": "Germany",
+        "tos": "https://fsfe.org/about/codeofconduct",
+        "privacy": "https://fsfe.org/about/legal/imprint.en.html#id-privacy-policy",
+        "open": false,
+        "remarks": "Accessory; advocacy",
+        "antifeature": null,
+        "reg_method": "Membership",
+        "reg_link": "https://my.fsfe.org/donate",
+        "software": "Synapse",
+        "version": "1.88.0",
         "recaptcha": false,
         "email": false
     },
