@@ -81,8 +81,8 @@
         "reg_link": "https://aria.im/",
         "software": "Archon",
         "version": "1.88.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "bachgau.social",
@@ -99,6 +99,23 @@
         "software": "Synapse",
         "version": "1.90.0",
         "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "badstuebner.biz",
+        "domain": "matrix.badstuebner.biz",
+        "info": "https://badstuebner.biz",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://badstuebner.biz/impressum.php",
+        "open": true,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.badstuebner.biz/",
+        "software": "Synapse",
+        "version": "1.88.0",
+        "recaptcha": true,
         "email": true
     },
     {
@@ -204,6 +221,23 @@
         "email": false
     },
     {
+        "name": "chagai.website",
+        "domain": "mx.chagai.website",
+        "info": "https://chagai.website",
+        "jurisdiction": "Switzerland",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.chagai.website/",
+        "software": "Synapse",
+        "version": "1.78.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "chatcloud.net",
         "domain": "matrix.chatcloud.net",
         "info": "https://chatcloud.net",
@@ -285,7 +319,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.89.0",
-        "recaptcha": true,
+        "recaptcha": false,
         "email": false
     },
     {
@@ -318,7 +352,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.data.haus/",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.90.0",
         "recaptcha": false,
         "email": true
     },
@@ -437,7 +471,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.90.0",
         "recaptcha": true,
         "email": true
     },
@@ -646,6 +680,23 @@
         "email": true
     },
     {
+        "name": "kitsunes.club",
+        "domain": "kitsunes.chat",
+        "info": "https://kitsunes.club",
+        "jurisdiction": "Canada",
+        "tos": "https://kitsunes.club/_matrix/consent",
+        "privacy": "https://kitsunes.club/_matrix/consent",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://kitsunes.chat/",
+        "software": "Synapse",
+        "version": "1.90.0rc1",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "libcom.de",
         "domain": "matrix.libcom.de:443",
         "info": "https://libcom.de",
@@ -697,6 +748,23 @@
         "email": false
     },
     {
+        "name": "mailstation.de",
+        "domain": "mailstation.de",
+        "info": "https://turing.mailstation.de/?page_id=1375",
+        "jurisdiction": "Germany",
+        "tos": "https://turing.mailstation.de/terms-and-conditions/",
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.mailstation.de/",
+        "software": "Synapse",
+        "version": "1.89.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "matrix.im",
         "domain": "matrix.im",
         "info": "https://matrix.im",
@@ -728,24 +796,7 @@
         "software": "Synapse",
         "version": "1.84.1",
         "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "mtrx.nz",
-        "domain": "mtrx.nz",
-        "info": "https://fediservices.nz/",
-        "jurisdiction": "New Zealand",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://mtrx.nz/",
-        "software": "Synapse",
-        "version": "1.89.0",
-        "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "nitro.chat",
@@ -915,23 +966,6 @@
         "software": "Synapse",
         "version": "1.89.0",
         "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "plus.st",
-        "domain": "matrix.plus.st",
-        "info": "https://plus.st/",
-        "jurisdiction": "US",
-        "tos": "https://plus.st/terms.html",
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.plus.st/",
-        "software": "Synapse",
-        "version": "1.90.0rc1 (b=heads/v1.90.0rc1,t=v1.90.0rc1,458180984)",
-        "recaptcha": true,
         "email": true
     },
     {
@@ -1407,23 +1441,6 @@
         "reg_link": "https://data.coop/medlem/",
         "software": "Synapse",
         "version": "1.87.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "fsfe.org",
-        "domain": "matrix.fsfe.org",
-        "info": "https://fsfe.org/news/2022/news-20220202-01.html",
-        "jurisdiction": "Germany",
-        "tos": "https://fsfe.org/about/codeofconduct",
-        "privacy": "https://fsfe.org/about/legal/imprint.en.html#id-privacy-policy",
-        "open": false,
-        "remarks": "Accessory; advocacy",
-        "antifeature": null,
-        "reg_method": "Membership",
-        "reg_link": "https://my.fsfe.org/donate",
-        "software": "Synapse",
-        "version": "1.88.0",
         "recaptcha": false,
         "email": false
     },
