@@ -17,23 +17,6 @@
         "email": true
     },
     {
-        "name": "4d2.org",
-        "domain": "matrix.4d2.org",
-        "info": "https://4d2.org",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.4d2.org",
-        "software": "Synapse",
-        "version": "1.89.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "archaeo.social",
         "domain": "matrix.archaeo.social",
         "info": "https://archaeo.social",
@@ -221,6 +204,40 @@
         "email": false
     },
     {
+        "name": "catgir.ls",
+        "domain": "m.catgir.ls",
+        "info": "https://catgir.ls",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Cinny",
+        "reg_link": "https://cinny.catgir.ls/",
+        "software": "Synapse",
+        "version": "1.88.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "chagai.website",
+        "domain": "mx.chagai.website",
+        "info": "https://chagai.website",
+        "jurisdiction": "Switzerland",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.chagai.website/",
+        "software": "Synapse",
+        "version": "1.78.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "chatcloud.net",
         "domain": "matrix.chatcloud.net",
         "info": "https://chatcloud.net",
@@ -255,23 +272,6 @@
         "email": true
     },
     {
-        "name": "chrrreeeeesss.com",
-        "domain": "chrrreeeeesss.com",
-        "info": "https://chrrreeeeesss.com",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chrrreeeeesss.com/element",
-        "software": "Synapse",
-        "version": "1.88.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "comm.cx",
         "domain": "matrix-client.comm.cx",
         "info": "https://comm.cx",
@@ -302,7 +302,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.89.0",
-        "recaptcha": true,
+        "recaptcha": false,
         "email": false
     },
     {
@@ -967,6 +967,23 @@
         "version": "1.90.0rc1 (b=heads/v1.90.0rc1,t=v1.90.0rc1,458180984)",
         "recaptcha": true,
         "email": true
+    },
+    {
+        "name": "possum.city",
+        "domain": "possum.city",
+        "info": "https://possum.city",
+        "jurisdiction": "Sweden",
+        "tos": "https://about.possum.city/rules",
+        "privacy": null,
+        "open": true,
+        "remarks": "Left-wing",
+        "antifeature": null,
+        "reg_method": "In-house SchildiChat",
+        "reg_link": "https://matrix.possum.city/",
+        "software": "Conduit",
+        "version": "0.5.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "pragma-messenger.ch",
