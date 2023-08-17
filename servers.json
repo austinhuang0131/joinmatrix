@@ -319,7 +319,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.89.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -880,8 +880,8 @@
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
         "version": "1.90.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "oblak.be",
@@ -1134,7 +1134,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.90.0",
         "recaptcha": false,
         "email": true
     },
