@@ -319,7 +319,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.89.0",
-        "recaptcha": true,
+        "recaptcha": false,
         "email": false
     },
     {
@@ -422,7 +422,7 @@
         "software": "Synapse",
         "version": "1.88.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "filik.eu",
