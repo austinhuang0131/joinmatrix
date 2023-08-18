@@ -302,7 +302,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.89.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -442,23 +442,6 @@
         "email": true
     },
     {
-        "name": "frei.chat",
-        "domain": "matrix.frei.chat",
-        "info": "https://frei.chat",
-        "jurisdiction": "Germany (Finland)",
-        "tos": "https://frei.chat/termsofuse/",
-        "privacy": "https://frei.chat/privacypolicy/",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.frei.chat/",
-        "software": "Synapse",
-        "version": "1.90.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "freiburg.social",
         "domain": "matrix.freiburg.social",
         "info": "https://wir.freiburg.social/angebote/matrix/",
@@ -525,6 +508,23 @@
         "version": "1.85.2",
         "recaptcha": false,
         "email": false
+    },
+    {
+        "name": "glasgow.social",
+        "domain": "matrix.glasgow.social",
+        "info": "https://opensource.glasgow.social/matrix",
+        "jurisdiction": "UK",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Regional tech collective",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://matrix.glasgow.social/",
+        "software": "Synapse",
+        "version": "1.86.0",
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "gnulinux.club",
@@ -743,7 +743,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
-        "version": "1.87.0",
+        "version": "1.90.0",
         "recaptcha": true,
         "email": true
     },
