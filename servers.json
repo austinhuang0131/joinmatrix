@@ -51,6 +51,23 @@
         "email": true
     },
     {
+        "name": "archoslinux.cz",
+        "domain": "matrix.archoslinux.cz:443",
+        "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
+        "jurisdiction": "Czech Republic (Germany)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In Czech; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.archoslinux.cz/",
+        "software": "Synapse",
+        "version": "1.90.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "aria-net.org",
         "domain": "aria.im",
         "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
