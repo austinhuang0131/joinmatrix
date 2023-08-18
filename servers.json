@@ -51,23 +51,6 @@
         "email": true
     },
     {
-        "name": "archoslinux.cz",
-        "domain": "matrix.archoslinux.cz:443",
-        "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
-        "jurisdiction": "Czech Republic (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Czech; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.archoslinux.cz/",
-        "software": "Synapse",
-        "version": "1.90.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "aria-net.org",
         "domain": "aria.im",
         "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
@@ -221,21 +204,21 @@
         "email": false
     },
     {
-        "name": "catgir.ls",
-        "domain": "m.catgir.ls",
-        "info": "https://catgir.ls",
-        "jurisdiction": "US",
+        "name": "chagai.website",
+        "domain": "mx.chagai.website",
+        "info": "https://chagai.website",
+        "jurisdiction": "Switzerland",
         "tos": null,
         "privacy": null,
         "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Cinny",
-        "reg_link": "https://cinny.catgir.ls/",
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.chagai.website/",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.78.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "chatcloud.net",
@@ -319,7 +302,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.89.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
@@ -422,7 +405,7 @@
         "software": "Synapse",
         "version": "1.88.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "filik.eu",
@@ -969,23 +952,6 @@
         "email": true
     },
     {
-        "name": "plus.st",
-        "domain": "matrix.plus.st",
-        "info": "https://plus.st/",
-        "jurisdiction": "US",
-        "tos": "https://plus.st/terms.html",
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.plus.st/",
-        "software": "Synapse",
-        "version": "1.90.0rc1 (b=heads/v1.90.0rc1,t=v1.90.0rc1,458180984)",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "possum.city",
         "domain": "possum.city",
         "info": "https://possum.city",
@@ -1017,23 +983,6 @@
         "software": "Synapse",
         "version": "1.90.0",
         "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "projectsegfau.lt",
-        "domain": "matrix.projectsegfau.lt:443",
-        "info": "https://projectsegfau.lt/instances",
-        "jurisdiction": "France",
-        "tos": "https://projectsegfau.lt/legal/tos",
-        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.projectsegfau.lt/",
-        "software": "Synapse",
-        "version": "1.89.0",
-        "recaptcha": false,
         "email": true
     },
     {
