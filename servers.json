@@ -81,8 +81,8 @@
         "reg_link": "https://aria.im/",
         "software": "Archon",
         "version": "1.88.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "bachgau.social",
@@ -391,6 +391,23 @@
         "email": true
     },
     {
+        "name": "exarius.org",
+        "domain": "exarius.org",
+        "info": "https://exarius.org/docs/services/exatrix/",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.88.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "filik.eu",
         "domain": "chat.filik.eu:443",
         "info": "https://filik.eu",
@@ -527,6 +544,23 @@
         "email": true
     },
     {
+        "name": "gnulinux.club",
+        "domain": "matrix.gnulinux.club",
+        "info": "https://gnulinux.social",
+        "jurisdiction": "US",
+        "tos": "https://gnulinux.social/about",
+        "privacy": null,
+        "open": true,
+        "remarks": "FOSS-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.gnulinux.club/",
+        "software": "Synapse",
+        "version": "1.89.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "grin.hu",
         "domain": "matrix.grin.hu",
         "info": "https://matrix.grin.hu",
@@ -556,7 +590,7 @@
         "reg_method": "In-house Cinny",
         "reg_link": "https://chat.group.lt/",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.90.0",
         "recaptcha": true,
         "email": true
     },
@@ -812,8 +846,25 @@
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
         "version": "1.89.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
+    },
+    {
+        "name": "obco.pro",
+        "domain": "hs.obco.pro",
+        "info": "https://obco.pro",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.obco.pro/",
+        "software": "Synapse",
+        "version": "1.90.0",
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "oblak.be",
@@ -932,6 +983,23 @@
         "software": "Synapse",
         "version": "1.90.0",
         "recaptcha": true,
+        "email": true
+    },
+    {
+        "name": "projectsegfau.lt",
+        "domain": "matrix.projectsegfau.lt:443",
+        "info": "https://projectsegfau.lt/instances",
+        "jurisdiction": "France",
+        "tos": "https://projectsegfau.lt/legal/tos",
+        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.projectsegfau.lt/",
+        "software": "Synapse",
+        "version": "1.90.0",
+        "recaptcha": false,
         "email": true
     },
     {
@@ -1406,7 +1474,7 @@
         "reg_method": "Membership",
         "reg_link": "https://rimfaxe.net/bli-medlem/",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.90.0",
         "recaptcha": false,
         "email": false
     },
