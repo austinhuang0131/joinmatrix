@@ -268,8 +268,8 @@
         "reg_link": "https://chrrreeeeesss.com/element",
         "software": "Synapse",
         "version": "1.90.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "comm.cx",
@@ -782,6 +782,23 @@
         "email": true
     },
     {
+        "name": "nitro.chat",
+        "domain": "nitro.chat",
+        "info": "https://nitro.chat",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://www.nitrokey.com/data-privacy-policy",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://app.nitro.chat/",
+        "software": "Synapse",
+        "version": "1.90.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "noevil.pl",
         "domain": "matrix.noevil.pl",
         "info": "https://noevil.pl/matrix",
@@ -935,6 +952,23 @@
         "email": true
     },
     {
+        "name": "plus.st",
+        "domain": "matrix.plus.st",
+        "info": "https://plus.st/",
+        "jurisdiction": "US",
+        "tos": "https://plus.st/terms.html",
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.plus.st/",
+        "software": "Synapse",
+        "version": "1.90.0rc1 (b=heads/v1.90.0rc1,t=v1.90.0rc1,458180984)",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "possum.city",
         "domain": "possum.city",
         "info": "https://possum.city",
@@ -966,23 +1000,6 @@
         "software": "Synapse",
         "version": "1.90.0",
         "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "projectsegfau.lt",
-        "domain": "matrix.projectsegfau.lt:443",
-        "info": "https://projectsegfau.lt/instances",
-        "jurisdiction": "France",
-        "tos": "https://projectsegfau.lt/legal/tos",
-        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.projectsegfau.lt/",
-        "software": "Synapse",
-        "version": "1.90.0",
-        "recaptcha": false,
         "email": true
     },
     {
