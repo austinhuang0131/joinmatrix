@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
     i = r.children.length - 1;
     if (c[i].textContent == "Error!!")
       c[i].classList.add("red");
-    else if (c[i].textContent.indexOf("Dendrite") == -1 && c[i].textContent.match(/\d+\.\d+\.\d/) != null) {
+    else if (c[i].textContent.indexOf("Dendrite") == -1 && c[i].textContent.indexOf("Conduit") == -1 && c[i].textContent.match(/\d+\.\d+\.\d/) != null) {
       let v = parseFloat(c[i].textContent.match(/\d+\.\d+\.\d/)[0].substring(2));
       c[i].classList.add(v >= 85.0 ? (v >= 85.0 ? "green" : "blue") : "orange");
     }
@@ -101,7 +101,7 @@ From left to right:
   * "...-oriented": The homeserver is intended to serve the mentioned purpose.
   * "...-inclined": While the homeserver is not specifically intended to serve any purpose, it is nevertheless used for the mentioned purpose.
 * **Registration method**: Exact registration procedure. Those are tested (but not necessarily thoroughly) on [the official Element web client](https://app.element.io) and, in most cases, should work for other clients as well.
-  * "In-house Element": You may [register](../guide/#register-an-account) using the Element client hosted on the homeserver, which is linked. This is usually due to reCaptcha domain restriction.
+  * "In-house Element/Cinny/SchildiChat": You may [register](../guide/#register-an-account) using the named client hosted on the homeserver, which is linked.
   * "Form": You may register using the linked form.
   * "See info page": Refer to the page linked in the "server name" column.
   * "Manual": After clicking "Create Account" and "Edit," enter the server name (without `https://`) to [create an account](../guide/#register-an-account) on this homeserver.
@@ -110,7 +110,7 @@ From left to right:
   * Unless indicated otherwise, the homeserver is running Synapse.
     * Homeservers running versions prior to `1.85.0` are coloured yellow due to [vulnerabilities](https://github.com/matrix-org/synapse/releases/tag/v1.85.0).
     * Homeservers running a version released approximately more than 3 months ago are coloured blue. Currently the cutoff is `1.85.0`.
-  * Homeservers that use Dendrite or have unparseable version strings are not coloured.
+  * Homeservers that use Dendrite, Conduit, or have unparseable version strings are not coloured.
   * "Error!!" (coloured red): The homeserver cannot be reached at the time of checking. This is usually occasional, as frequent downtime are grounds for exclusion from this list.
 
 ## Other Matrix homeserver lists
