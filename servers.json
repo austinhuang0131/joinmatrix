@@ -340,6 +340,23 @@
         "email": true
     },
     {
+        "name": "cyberfurz.chat",
+        "domain": "matrix.cyberfurz.chat",
+        "info": "https://cyberfurz.org/services/matrix",
+        "jurisdiction": "US",
+        "tos": "https://wiki.cyberfurz.org/chat:start",
+        "privacy": null,
+        "open": true,
+        "remarks": "Furry-oriented",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.90.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "data.haus",
         "domain": "matrix.data.haus",
         "info": "https://data.haus",
@@ -422,7 +439,7 @@
         "software": "Synapse",
         "version": "1.88.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "filik.eu",
@@ -964,7 +981,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
-        "version": "1.90.0rc1 (b=heads/v1.90.0rc1,t=v1.90.0rc1,458180984)",
+        "version": "1.90.0rc1",
         "recaptcha": true,
         "email": true
     },
@@ -1129,7 +1146,7 @@
         "tos": "https://tchncs.de/matrix/tos",
         "privacy": "https://tchncs.de/matrix/privacy",
         "open": true,
-        "remarks": "General host; only stores messages for a year",
+        "remarks": "General host",
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
@@ -1290,6 +1307,23 @@
         "version": "1.85.2",
         "recaptcha": true,
         "email": true
+    },
+    {
+        "name": "xmr.se",
+        "domain": "xmr.se",
+        "info": "https://xmr.se",
+        "jurisdiction": "Germany?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.90.0",
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "yatrix.org",
@@ -1475,6 +1509,23 @@
         "reg_link": "https://adherents.arn-fai.net/members/register/",
         "software": "Synapse",
         "version": "1.81.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "unredacted.org",
+        "domain": "matrix.unredacted.org",
+        "info": "https://unredacted.org/services/matrix/",
+        "jurisdiction": "US (Romania)",
+        "tos": null,
+        "privacy": null,
+        "open": false,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "Donation",
+        "reg_link": "https://unredacted.org/services/matrix/",
+        "software": "Synapse",
+        "version": "1.89.0",
         "recaptcha": false,
         "email": false
     }
