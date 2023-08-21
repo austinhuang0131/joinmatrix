@@ -44,7 +44,7 @@ do
             reg=$(curl -Ls -m 10 -X POST -H "accept: application/json" -H "Content-Type: application/json" "https://$PUBLIC/_matrix/client/r0/register" -A "https://joinmatrix.org/servers" -d '{}')
         fi
         name=$(echo $body | jq .server.name | sed s/\"//g)
-        version=$(echo $body | jq .server.version | sed s/\"//g)
+        version=$(echo $body | jq .server.version | sed s/\"//g | sed s/\ .\*//g)
         closed=$(echo $reg | jq .errcode)
         recaptcha=$(echo $reg | grep 'm.login.recaptcha')
         email=$(echo $reg | grep 'm.login.email.identity')
