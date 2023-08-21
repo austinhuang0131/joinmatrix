@@ -68,6 +68,23 @@
         "email": true
     },
     {
+        "name": "aria-net.org",
+        "domain": "aria.im",
+        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
+        "jurisdiction": "Italy?",
+        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://aria.im/",
+        "software": "Archon",
+        "version": "1.90.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "bachgau.social",
         "domain": "matrix.bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
@@ -82,6 +99,23 @@
         "software": "Synapse",
         "version": "1.90.0",
         "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "badstuebner.biz",
+        "domain": "matrix.badstuebner.biz",
+        "info": "https://badstuebner.biz",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://badstuebner.biz/impressum.php",
+        "open": true,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.badstuebner.biz/",
+        "software": "Synapse",
+        "version": "1.90.0",
+        "recaptcha": true,
         "email": true
     },
     {
@@ -388,7 +422,7 @@
         "software": "Synapse",
         "version": "1.88.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "filik.eu",
@@ -697,6 +731,23 @@
         "email": false
     },
     {
+        "name": "mailstation.de",
+        "domain": "mailstation.de",
+        "info": "https://turing.mailstation.de/?page_id=1375",
+        "jurisdiction": "Germany",
+        "tos": "https://turing.mailstation.de/terms-and-conditions/",
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.mailstation.de/",
+        "software": "Synapse",
+        "version": "1.89.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "matrix.im",
         "domain": "matrix.im",
         "info": "https://matrix.im",
@@ -778,8 +829,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.90.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "norge.chat",
@@ -949,6 +1000,23 @@
         "software": "Synapse",
         "version": "1.90.0",
         "recaptcha": true,
+        "email": true
+    },
+    {
+        "name": "projectsegfau.lt",
+        "domain": "matrix.projectsegfau.lt:443",
+        "info": "https://projectsegfau.lt/instances",
+        "jurisdiction": "France",
+        "tos": "https://projectsegfau.lt/legal/tos",
+        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.projectsegfau.lt/",
+        "software": "Synapse",
+        "version": "1.90.0",
+        "recaptcha": false,
         "email": true
     },
     {
@@ -1224,23 +1292,6 @@
         "email": true
     },
     {
-        "name": "xmr.se",
-        "domain": "xmr.se",
-        "info": "https://xmr.se",
-        "jurisdiction": "Germany?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.90.0",
-        "recaptcha": true,
-        "email": false
-    },
-    {
         "name": "yatrix.org",
         "domain": "matrix.yatrix.org",
         "info": "https://yatrix.org",
@@ -1292,23 +1343,6 @@
         "email": false
     },
     {
-        "name": "deuxfleurs.fr",
-        "domain": "im.deuxfleurs.fr",
-        "info": "https://deuxfleurs.fr",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": false,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "Contact",
-        "reg_link": "https://deuxfleurs.fr/",
-        "software": "Synapse",
-        "version": "1.89.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "hyteck.de",
         "domain": "synapse.hyteck.de",
         "info": "https://hyteck.de/services/",
@@ -1356,6 +1390,23 @@
         "reg_link": "https://data.coop/medlem/",
         "software": "Synapse",
         "version": "1.87.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "deuxfleurs.fr",
+        "domain": "im.deuxfleurs.fr",
+        "info": "https://deuxfleurs.fr",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": false,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "Membership",
+        "reg_link": "https://guide.deuxfleurs.fr/vie_associative/nous-rejoindre/",
+        "software": "Synapse",
+        "version": "1.89.0",
         "recaptcha": false,
         "email": false
     },
