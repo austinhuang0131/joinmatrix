@@ -51,23 +51,6 @@
         "email": true
     },
     {
-        "name": "archoslinux.cz",
-        "domain": "matrix.archoslinux.cz:443",
-        "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
-        "jurisdiction": "Czech Republic (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Czech; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.archoslinux.cz/",
-        "software": "Synapse",
-        "version": "1.90.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "aria-net.org",
         "domain": "aria.im",
         "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
@@ -202,6 +185,23 @@
         "version": "1.89.0",
         "recaptcha": false,
         "email": false
+    },
+    {
+        "name": "chagai.website",
+        "domain": "mx.chagai.website",
+        "info": "https://chagai.website",
+        "jurisdiction": "Switzerland",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.chagai.website/",
+        "software": "Synapse",
+        "version": "1.78.0",
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "chatcloud.net",
@@ -680,6 +680,23 @@
         "email": true
     },
     {
+        "name": "libcom.de",
+        "domain": "matrix.libcom.de:443",
+        "info": "https://libcom.de",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.libcom.de",
+        "software": "Synapse",
+        "version": "1.89.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "llamarific.social",
         "domain": "matrix.llamarific.social",
         "info": "https://llamarific.social/matrix.html",
@@ -762,7 +779,7 @@
         "software": "Synapse",
         "version": "1.84.1",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "nitro.chat",
@@ -1273,6 +1290,23 @@
         "version": "1.85.2",
         "recaptcha": true,
         "email": true
+    },
+    {
+        "name": "xmr.se",
+        "domain": "xmr.se",
+        "info": "https://xmr.se",
+        "jurisdiction": "Germany?",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.90.0",
+        "recaptcha": true,
+        "email": false
     },
     {
         "name": "yatrix.org",
