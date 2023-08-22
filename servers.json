@@ -51,6 +51,23 @@
         "email": true
     },
     {
+        "name": "archoslinux.cz",
+        "domain": "matrix.archoslinux.cz:443",
+        "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
+        "jurisdiction": "Czech Republic (Germany)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In Czech; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.archoslinux.cz/",
+        "software": "Synapse",
+        "version": "1.90.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "aria-net.org",
         "domain": "aria.im",
         "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
@@ -136,23 +153,6 @@
         "email": true
     },
     {
-        "name": "breeze.town",
-        "domain": "breeze.town",
-        "info": "https://breeze.town/@breeze/108776240056543549",
-        "jurisdiction": "Germany",
-        "tos": "https://breeze.town/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.breeze.town/",
-        "software": "Synapse",
-        "version": "1.81.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "buyvm.net",
         "domain": "buyvm.chat",
         "info": "https://buyvm.net/beware-the-moshbear/",
@@ -170,6 +170,23 @@
         "email": true
     },
     {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/rules",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.89.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "catgirl.cloud",
         "domain": "matrix.catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -185,23 +202,6 @@
         "version": "1.89.0",
         "recaptcha": false,
         "email": false
-    },
-    {
-        "name": "chagai.website",
-        "domain": "mx.chagai.website",
-        "info": "https://chagai.website",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.chagai.website/",
-        "software": "Synapse",
-        "version": "1.78.0",
-        "recaptcha": false,
-        "email": true
     },
     {
         "name": "chatcloud.net",
@@ -1003,23 +1003,6 @@
         "email": true
     },
     {
-        "name": "projectsegfau.lt",
-        "domain": "matrix.projectsegfau.lt:443",
-        "info": "https://projectsegfau.lt/instances",
-        "jurisdiction": "France",
-        "tos": "https://projectsegfau.lt/legal/tos",
-        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.projectsegfau.lt/",
-        "software": "Synapse",
-        "version": "1.90.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "pub.solar",
         "domain": "matrix.pub.solar",
         "info": "https://pub.solar",
@@ -1355,7 +1338,7 @@
         "reg_method": "SSO",
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
-        "version": "1.83.0",
+        "version": "1.90.0",
         "recaptcha": false,
         "email": false
     },
