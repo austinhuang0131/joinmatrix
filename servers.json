@@ -136,23 +136,6 @@
         "email": true
     },
     {
-        "name": "bolha.chat",
-        "domain": "bolha.chat",
-        "info": "https://bolha.chat",
-        "jurisdiction": "Brazil (Canada)",
-        "tos": "https://hub.bolha.us/conduta/",
-        "privacy": null,
-        "open": true,
-        "remarks": "In Portuguese; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.bolha.chat/",
-        "software": "Synapse",
-        "version": "1.90.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "buyvm.net",
         "domain": "buyvm.chat",
         "info": "https://buyvm.net/beware-the-moshbear/",
@@ -233,7 +216,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.90.0",
         "recaptcha": false,
         "email": true
     },
@@ -369,7 +352,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.90.0",
         "recaptcha": false,
         "email": true
     },
@@ -437,7 +420,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.90.0",
         "recaptcha": false,
         "email": true
     },
@@ -744,8 +727,8 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.89.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "matrix.im",
@@ -1304,7 +1287,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.90.0",
         "recaptcha": false,
         "email": true
     },
