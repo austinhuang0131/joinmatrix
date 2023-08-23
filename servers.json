@@ -1156,6 +1156,22 @@
         "email": false
     },
     {
+        "name": "transgirl.cafe",
+        "domain": "transgirl.cafe",
+        "info": "https://transgirl.cafe/",
+        "jurisdiction": "Germany",
+        "tos": "https://transgirl.cafe/@cafe/pages/ToS",
+        "privacy": null,
+        "remarks": "LGBT-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Cinny",
+        "reg_link": "https://matrix.transgirl.cafe/",
+        "software": "Synapse",
+        "version": "1.90.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "ungleich.ch",
         "domain": "ungleich.matrix.ungleich.cloud",
         "info": "https://ungleich.ch/u/projects/open-chat/",
