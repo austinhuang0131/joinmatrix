@@ -81,8 +81,8 @@
         "reg_link": "https://aria.im/",
         "software": "Archon",
         "version": "1.90.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "bachgau.social",
@@ -136,6 +136,23 @@
         "email": true
     },
     {
+        "name": "bolha.chat",
+        "domain": "bolha.chat",
+        "info": "https://bolha.chat",
+        "jurisdiction": "Brazil (Canada)",
+        "tos": "https://hub.bolha.us/conduta/",
+        "privacy": null,
+        "open": true,
+        "remarks": "In Portuguese; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.bolha.chat/",
+        "software": "Synapse",
+        "version": "1.90.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "buyvm.net",
         "domain": "buyvm.chat",
         "info": "https://buyvm.net/beware-the-moshbear/",
@@ -185,23 +202,6 @@
         "version": "1.89.0",
         "recaptcha": false,
         "email": false
-    },
-    {
-        "name": "chagai.website",
-        "domain": "mx.chagai.website",
-        "info": "https://chagai.website",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.chagai.website/",
-        "software": "Synapse",
-        "version": "1.78.0",
-        "recaptcha": false,
-        "email": true
     },
     {
         "name": "chatcloud.net",
@@ -405,7 +405,7 @@
         "software": "Synapse",
         "version": "1.88.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "filik.eu",
@@ -1000,6 +1000,23 @@
         "software": "Synapse",
         "version": "1.90.0",
         "recaptcha": true,
+        "email": true
+    },
+    {
+        "name": "projectsegfau.lt",
+        "domain": "matrix.projectsegfau.lt:443",
+        "info": "https://projectsegfau.lt/instances",
+        "jurisdiction": "France",
+        "tos": "https://projectsegfau.lt/legal/tos",
+        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.projectsegfau.lt/",
+        "software": "Synapse",
+        "version": "1.90.0",
+        "recaptcha": false,
         "email": true
     },
     {
