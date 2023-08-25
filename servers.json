@@ -302,7 +302,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.90.0",
-        "recaptcha": true,
+        "recaptcha": false,
         "email": false
     },
     {
@@ -422,7 +422,7 @@
         "software": "Synapse",
         "version": "1.88.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "filik.eu",
@@ -522,7 +522,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.gemeinsam.jetzt/",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.90.0",
         "recaptcha": false,
         "email": true
     },
@@ -1119,7 +1119,7 @@
         "software": "Synapse",
         "version": "1.90.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "synod.im",
