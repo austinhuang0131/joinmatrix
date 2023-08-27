@@ -748,6 +748,23 @@
         "email": false
     },
     {
+        "name": "mailstation.de",
+        "domain": "mailstation.de",
+        "info": "https://turing.mailstation.de/?page_id=1375",
+        "jurisdiction": "Germany",
+        "tos": "https://turing.mailstation.de/terms-and-conditions/",
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.mailstation.de/",
+        "software": "Synapse",
+        "version": "1.90.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "matrix.im",
         "domain": "matrix.im",
         "info": "https://matrix.im",
@@ -1407,6 +1424,23 @@
         "reg_link": "https://data.coop/medlem/",
         "software": "Synapse",
         "version": "1.87.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "deuxfleurs.fr",
+        "domain": "im.deuxfleurs.fr",
+        "info": "https://deuxfleurs.fr",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": false,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "Membership",
+        "reg_link": "https://guide.deuxfleurs.fr/vie_associative/nous-rejoindre/",
+        "software": "Synapse",
+        "version": "1.89.0",
         "recaptcha": false,
         "email": false
     },
