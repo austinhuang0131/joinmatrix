@@ -1084,8 +1084,8 @@
         "reg_link": "https://element.sibnsk.net",
         "software": "Synapse",
         "version": "1.90.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "socialnetwork24.com",
