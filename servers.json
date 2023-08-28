@@ -289,23 +289,6 @@
         "email": true
     },
     {
-        "name": "community.rs",
-        "domain": "matrix.community.rs",
-        "info": "https://community.rs",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Rust-oriented",
-        "antifeature": "Uses Cloudflare",
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.community.rs/",
-        "software": "Synapse",
-        "version": "1.90.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "converser.eu",
         "domain": "converser.eu",
         "info": "https://converser.eu",
@@ -371,23 +354,6 @@
         "software": "Synapse",
         "version": "1.70.1",
         "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "duesen.chat",
-        "domain": "matrix.duesen.chat",
-        "info": "https://yatrix.org",
-        "jurisdiction": "Germany",
-        "tos": "https://yatrix.org/nutzungsbedingungen/",
-        "privacy": "https://yatrix.org/impressum/",
-        "open": true,
-        "remarks": "In German; operated by yatrix.org",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.duesen.chat/",
-        "software": "Synapse",
-        "version": "1.90.0",
-        "recaptcha": false,
         "email": true
     },
     {
@@ -680,6 +646,23 @@
         "email": true
     },
     {
+        "name": "kitsunes.club",
+        "domain": "kitsunes.chat",
+        "info": "https://kitsunes.club",
+        "jurisdiction": "Canada",
+        "tos": "https://kitsunes.club/_matrix/consent",
+        "privacy": "https://kitsunes.club/_matrix/consent",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://kitsunes.chat/",
+        "software": "Synapse",
+        "version": "1.91.0rc1",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "libcom.de",
         "domain": "matrix.libcom.de:443",
         "info": "https://libcom.de",
@@ -965,8 +948,8 @@
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
         "version": "1.91.0rc1",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "possum.city",
@@ -1018,6 +1001,23 @@
         "version": "1.90.0",
         "recaptcha": false,
         "email": true
+    },
+    {
+        "name": "pub.solar",
+        "domain": "matrix.pub.solar",
+        "info": "https://pub.solar",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://pub.solar/privacy",
+        "open": true,
+        "remarks": "Tech collective",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
+        "software": "Synapse",
+        "version": "1.88.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "radiowarnerd.org",
@@ -1253,7 +1253,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
-        "version": "1.87.0",
+        "version": "1.90.0",
         "recaptcha": true,
         "email": true
     },
