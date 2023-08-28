@@ -289,6 +289,23 @@
         "email": true
     },
     {
+        "name": "community.rs",
+        "domain": "matrix.community.rs",
+        "info": "https://community.rs",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Rust-oriented",
+        "antifeature": "Uses Cloudflare",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.community.rs/",
+        "software": "Synapse",
+        "version": "1.90.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "converser.eu",
         "domain": "converser.eu",
         "info": "https://converser.eu",
@@ -388,7 +405,7 @@
         "software": "Synapse",
         "version": "1.88.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "filik.eu",
@@ -812,8 +829,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.90.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "norge.chat",
@@ -948,8 +965,8 @@
         "reg_link": "https://element.plus.st/",
         "software": "Synapse",
         "version": "1.91.0rc1",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "possum.city",
