@@ -1,7 +1,7 @@
 name: Scheduled Version Check
 
 on:
-  schedule: [{cron: "0 4,10,16,22 * * *"}]
+  schedule: [{cron: "0 4,16 * * *"}]
   push:
     paths:
       - '_includes/matrix_base.md'
