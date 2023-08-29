@@ -4,7 +4,6 @@ IFS=$'\n'
 Lines=$(cat _includes/matrix_base.md)
 Check=1
 
-rm _includes/matrix_prod.md
 echo "[" > servers.json
 
 for Line in $Lines
@@ -105,26 +104,10 @@ do
                     echo "        \"email\": true" >> servers.json
                 fi
                 echo "    }," >> servers.json
-                if [[ "$name" == "Synapse" ]]; then
-                    echo "$Line $version |" >> _includes/matrix_prod.md
-                else
-                    echo "$Line $name $version |" >> _includes/matrix_prod.md
-                fi
-            else
-                echo "$Line Error!! |" >> _includes/matrix_prod.md
             fi
         fi
-    elif [[ $Line =~ \|\ \*\* ]]; then
-        echo >> _includes/matrix_prod.md
-        echo "$Line **Version** |" >> _includes/matrix_prod.md
-    elif [[ $Line =~ \|\ \-\- ]]; then
-        echo "$Line ----------- |" >> _includes/matrix_prod.md
-    else
-        echo >> _includes/matrix_prod.md
-        echo "$Line" >> _includes/matrix_prod.md
-        if [[ "$Line" == "### Conditional registration" ]]; then
-            Check=0
-        fi
+    elif [[ "$Line" == "### Conditional registration" ]]; then
+        Check=0
     fi
 done
 
