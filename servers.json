@@ -340,23 +340,6 @@
         "email": true
     },
     {
-        "name": "data.haus",
-        "domain": "matrix.data.haus",
-        "info": "https://data.haus",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://data.haus/tos.html",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.data.haus/",
-        "software": "Synapse",
-        "version": "1.90.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "dieandalusier.net",
         "domain": "matrix.dieandalusier.net",
         "info": "https://www.twitch.tv/dieandalusier/about",
@@ -507,7 +490,7 @@
         "software": "Synapse",
         "version": "1.90.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "ggc-project.de",
@@ -816,23 +799,6 @@
         "email": true
     },
     {
-        "name": "nope.chat",
-        "domain": "nope.chat",
-        "info": "https://nope.chat",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.nope.chat",
-        "software": "Synapse",
-        "version": "1.90.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "norge.chat",
         "domain": "matrix.norge.chat",
         "info": "https://norge.chat",
@@ -863,8 +829,8 @@
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
         "version": "1.90.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "oblak.be",
