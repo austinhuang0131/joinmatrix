@@ -302,7 +302,7 @@
         "reg_link": "https://element.community.rs/",
         "software": "Synapse",
         "version": "1.90.0",
-        "recaptcha": true,
+        "recaptcha": false,
         "email": false
     },
     {
@@ -337,23 +337,6 @@
         "software": "Synapse",
         "version": "1.90.0",
         "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "dieandalusier.net",
-        "domain": "matrix.dieandalusier.net",
-        "info": "https://www.twitch.tv/dieandalusier/about",
-        "jurisdiction": "Germany/Spain",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.dieandalusier.net",
-        "software": "Synapse",
-        "version": "1.70.1",
-        "recaptcha": true,
         "email": true
     },
     {
@@ -490,7 +473,7 @@
         "software": "Synapse",
         "version": "1.90.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "ggc-project.de",
@@ -799,6 +782,23 @@
         "email": true
     },
     {
+        "name": "nope.chat",
+        "domain": "nope.chat",
+        "info": "https://nope.chat",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.nope.chat",
+        "software": "Synapse",
+        "version": "1.90.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "norge.chat",
         "domain": "matrix.norge.chat",
         "info": "https://norge.chat",
@@ -829,8 +829,8 @@
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
         "version": "1.90.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "oblak.be",
