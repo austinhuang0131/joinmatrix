@@ -12,7 +12,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://im.0wnz.at/element-web/",
         "software": "Synapse",
-        "version": "1.90.0",
+        "version": "1.91.0",
         "recaptcha": false,
         "email": true
     },
@@ -63,7 +63,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
-        "version": "1.90.0",
+        "version": "1.91.0",
         "recaptcha": true,
         "email": true
     },
@@ -170,6 +170,23 @@
         "email": true
     },
     {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/rules",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.91.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "catgirl.cloud",
         "domain": "matrix.catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -216,25 +233,8 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
-        "version": "1.90.0",
+        "version": "1.91.0",
         "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "chrrreeeeesss.com",
-        "domain": "chrrreeeeesss.com",
-        "info": "https://chrrreeeeesss.com",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chrrreeeeesss.com/element",
-        "software": "Synapse",
-        "version": "1.90.0",
-        "recaptcha": true,
         "email": true
     },
     {
@@ -253,6 +253,23 @@
         "version": "1.90.0",
         "recaptcha": true,
         "email": true
+    },
+    {
+        "name": "community.rs",
+        "domain": "matrix.community.rs",
+        "info": "https://community.rs",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Rust-oriented",
+        "antifeature": "Uses Cloudflare",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.community.rs/",
+        "software": "Synapse",
+        "version": "1.90.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "converser.eu",
@@ -369,7 +386,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
-        "version": "1.90.0",
+        "version": "1.91.0",
         "recaptcha": false,
         "email": true
     },
@@ -403,7 +420,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.freiburg.social/",
         "software": "Synapse",
-        "version": "1.90.0",
+        "version": "1.91.0",
         "recaptcha": false,
         "email": true
     },
@@ -539,7 +556,7 @@
         "reg_method": "Form",
         "reg_link": "https://hackliberty.org/register",
         "software": "Synapse",
-        "version": "1.90.0",
+        "version": "1.91.0",
         "recaptcha": false,
         "email": false
     },
@@ -748,23 +765,6 @@
         "email": true
     },
     {
-        "name": "nope.chat",
-        "domain": "nope.chat",
-        "info": "https://nope.chat",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.nope.chat",
-        "software": "Synapse",
-        "version": "1.91.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "norge.chat",
         "domain": "matrix.norge.chat",
         "info": "https://norge.chat",
@@ -930,7 +930,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.90.0",
+        "version": "1.91.0",
         "recaptcha": true,
         "email": true
     },
@@ -964,7 +964,7 @@
         "reg_method": "SSO",
         "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.91.0",
         "recaptcha": false,
         "email": false
     },
@@ -1083,7 +1083,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.90.0",
+        "version": "1.91.0",
         "recaptcha": true,
         "email": true
     },
@@ -1270,7 +1270,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.90.0",
+        "version": "1.91.0",
         "recaptcha": false,
         "email": true
     },
