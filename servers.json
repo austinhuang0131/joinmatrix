@@ -539,7 +539,7 @@
         "reg_method": "In-house Cinny",
         "reg_link": "https://chat.group.lt/",
         "software": "Synapse",
-        "version": "1.90.0",
+        "version": "1.91.0",
         "recaptcha": true,
         "email": true
     },
@@ -714,23 +714,6 @@
         "email": true
     },
     {
-        "name": "monero.social",
-        "domain": "matrix.monero.social",
-        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
-        "jurisdiction": "US",
-        "tos": "https://www.getmonero.org/legal/",
-        "privacy": null,
-        "open": true,
-        "remarks": "18+; accessory; crypto",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.84.1",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "nitro.chat",
         "domain": "nitro.chat",
         "info": "https://nitro.chat",
@@ -743,7 +726,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
-        "version": "1.90.0",
+        "version": "1.91.0",
         "recaptcha": true,
         "email": true
     },
@@ -762,6 +745,23 @@
         "software": "Synapse",
         "version": "1.90.0",
         "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "nope.chat",
+        "domain": "nope.chat",
+        "info": "https://nope.chat",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.nope.chat",
+        "software": "Synapse",
+        "version": "1.91.0",
+        "recaptcha": true,
         "email": true
     },
     {
@@ -1457,7 +1457,7 @@
         "reg_method": "Donation",
         "reg_link": "https://unredacted.org/services/matrix/",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.91.0",
         "recaptcha": false,
         "email": false
     }
