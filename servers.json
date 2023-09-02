@@ -68,23 +68,6 @@
         "email": true
     },
     {
-        "name": "aria-net.org",
-        "domain": "aria.im",
-        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
-        "jurisdiction": "Italy?",
-        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://aria.im/",
-        "software": "Archon",
-        "version": "1.90.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "bachgau.social",
         "domain": "matrix.bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
@@ -476,6 +459,23 @@
         "email": false
     },
     {
+        "name": "gemeinsam.jetzt",
+        "domain": "matrix.gemeinsam.jetzt",
+        "info": "https://gemeinsam.jetzt/",
+        "jurisdiction": "Austria",
+        "tos": null,
+        "privacy": "https://matrix.gemeinsam.jetzt/_matrix/consent?v=1.0",
+        "open": true,
+        "remarks": "In German; left-wing",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.gemeinsam.jetzt/",
+        "software": "Synapse",
+        "version": "1.91.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "ggc-project.de",
         "domain": "ggc-project.de",
         "info": "https://www.ggc-project.de/en/index.html",
@@ -765,6 +765,23 @@
         "email": true
     },
     {
+        "name": "noevil.pl",
+        "domain": "matrix.noevil.pl",
+        "info": "https://noevil.pl/matrix",
+        "jurisdiction": "Poland",
+        "tos": "https://noevil.pl/terms-of-service/",
+        "privacy": "https://noevil.pl/matrix/privacy/",
+        "open": true,
+        "remarks": "In Polish",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.noevil.pl/",
+        "software": "Synapse",
+        "version": "1.91.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "nope.chat",
         "domain": "nope.chat",
         "info": "https://nope.chat",
@@ -812,8 +829,8 @@
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
         "version": "1.91.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "oblak.be",
@@ -863,7 +880,7 @@
         "reg_link": "https://riot.ombreport.info/",
         "software": "Synapse",
         "version": "1.90.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
