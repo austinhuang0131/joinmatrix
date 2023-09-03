@@ -68,6 +68,23 @@
         "email": true
     },
     {
+        "name": "aria-net.org",
+        "domain": "aria.im",
+        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
+        "jurisdiction": "Italy?",
+        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://aria.im/",
+        "software": "Archon",
+        "version": "1.90.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "bachgau.social",
         "domain": "matrix.bachgau.social",
         "info": "https://www.bachgau.social/unsere-dienste/matrix/",
@@ -301,7 +318,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.90.0",
+        "version": "1.91.0",
         "recaptcha": false,
         "email": true
     },
@@ -578,23 +595,6 @@
         "email": false
     },
     {
-        "name": "hashi.sbs",
-        "domain": "chatserver.hashi.sbs",
-        "info": "https://hashi.sbs",
-        "jurisdiction": "? (Germany)",
-        "tos": "https://hashi.icu/@MomentQYC/pages/tos",
-        "privacy": null,
-        "open": true,
-        "remarks": "In Chinese",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://hashi.sbs",
-        "software": "Synapse",
-        "version": "1.91.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "hot-chilli.im",
         "domain": "hot-chilli.im",
         "info": "https://jabber.hot-chilli.net/2022/04/26/hot-chilli-matrix-server/",
@@ -625,23 +625,6 @@
         "reg_link": "https://chat.jonasled.de/",
         "software": "Synapse",
         "version": "1.90.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "kitsunes.club",
-        "domain": "kitsunes.chat",
-        "info": "https://kitsunes.club",
-        "jurisdiction": "Canada",
-        "tos": "https://kitsunes.club/_matrix/consent",
-        "privacy": "https://kitsunes.club/_matrix/consent",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://kitsunes.chat/",
-        "software": "Synapse",
-        "version": "1.91.0rc1",
         "recaptcha": true,
         "email": true
     },
