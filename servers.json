@@ -12,7 +12,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://im.0wnz.at/element-web/",
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.91.1",
         "recaptcha": false,
         "email": true
     },
@@ -63,7 +63,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.91.1",
         "recaptcha": true,
         "email": true
     },
@@ -80,7 +80,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://aria.im/",
         "software": "Archon",
-        "version": "1.90.0",
+        "version": "1.91.1",
         "recaptcha": true,
         "email": true
     },
@@ -165,7 +165,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.cat.casa/",
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.91.1",
         "recaptcha": false,
         "email": false
     },
@@ -235,6 +235,23 @@
         "software": "Synapse",
         "version": "1.91.0",
         "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "comm.cx",
+        "domain": "matrix-client.comm.cx",
+        "info": "https://comm.cx",
+        "jurisdiction": "Japan",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": "Uses Cloudflare",
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.91.1",
+        "recaptcha": true,
         "email": true
     },
     {
@@ -318,7 +335,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.91.1",
         "recaptcha": true,
         "email": true
     },
@@ -337,7 +354,7 @@
         "software": "Synapse",
         "version": "1.88.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "filik.eu",
@@ -386,7 +403,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.91.1",
         "recaptcha": true,
         "email": true
     },
@@ -522,7 +539,7 @@
         "reg_method": "In-house Cinny",
         "reg_link": "https://chat.group.lt/",
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.91.1",
         "recaptcha": true,
         "email": true
     },
@@ -539,7 +556,7 @@
         "reg_method": "Form",
         "reg_link": "https://hackliberty.org/register",
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.91.1",
         "recaptcha": false,
         "email": false
     },
@@ -692,25 +709,8 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.matrix.im/",
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.91.1",
         "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "monero.social",
-        "domain": "matrix.monero.social",
-        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
-        "jurisdiction": "US",
-        "tos": "https://www.getmonero.org/legal/",
-        "privacy": null,
-        "open": true,
-        "remarks": "18+; accessory; crypto",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.84.1",
-        "recaptcha": false,
         "email": true
     },
     {
@@ -760,7 +760,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.91.1",
         "recaptcha": true,
         "email": true
     },
@@ -828,7 +828,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://riot.ombreport.info/",
         "software": "Synapse",
-        "version": "1.90.0",
+        "version": "1.91.1",
         "recaptcha": true,
         "email": false
     },
@@ -847,23 +847,6 @@
         "software": "Synapse",
         "version": "1.87.0",
         "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "perthchat.org",
-        "domain": "matrix.perthchat.org",
-        "info": "https://perthchat.org",
-        "jurisdiction": "Australia",
-        "tos": "https://gitlab.com/perthchat.org/legal/-/blob/main/terms-of-service.md",
-        "privacy": "https://gitlab.com/perthchat.org/legal/-/blob/main/privacy-policy.md",
-        "open": true,
-        "remarks": "Regional",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://client.perthchat.org/",
-        "software": "Synapse",
-        "version": "1.91.0",
-        "recaptcha": false,
         "email": true
     },
     {
@@ -930,7 +913,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.projectsegfau.lt/",
         "software": "Synapse",
-        "version": "1.90.0",
+        "version": "1.91.1",
         "recaptcha": false,
         "email": true
     },
@@ -947,7 +930,7 @@
         "reg_method": "SSO",
         "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.91.1",
         "recaptcha": false,
         "email": false
     },
@@ -1016,23 +999,6 @@
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
         "version": "1.88.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "studichat.de",
-        "domain": "matrix.studichat.de",
-        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.studichat.de/",
-        "software": "Synapse",
-        "version": "1.91.1",
         "recaptcha": false,
         "email": true
     },
@@ -1236,7 +1202,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.91.1",
         "recaptcha": true,
         "email": false
     },
@@ -1440,7 +1406,7 @@
         "reg_method": "Donation",
         "reg_link": "https://unredacted.org/services/matrix/",
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.91.1",
         "recaptcha": false,
         "email": false
     }
