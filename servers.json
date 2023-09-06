@@ -97,7 +97,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.badstuebner.biz/",
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.91.1",
         "recaptcha": true,
         "email": true
     },
@@ -233,7 +233,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.91.1",
         "recaptcha": false,
         "email": true
     },
@@ -318,7 +318,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.91.1",
         "recaptcha": false,
         "email": true
     },
@@ -335,7 +335,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.91.1",
+        "version": "1.92.0rc1",
         "recaptcha": true,
         "email": true
     },
@@ -354,7 +354,7 @@
         "software": "Synapse",
         "version": "1.88.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "filik.eu",
@@ -386,7 +386,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.91.1",
         "recaptcha": false,
         "email": true
     },
@@ -420,7 +420,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.freiburg.social/",
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.91.1",
         "recaptcha": false,
         "email": true
     },
@@ -612,23 +612,6 @@
         "email": true
     },
     {
-        "name": "kitsunes.club",
-        "domain": "kitsunes.chat",
-        "info": "https://kitsunes.club",
-        "jurisdiction": "Canada",
-        "tos": "https://kitsunes.club/_matrix/consent",
-        "privacy": "https://kitsunes.club/_matrix/consent",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://kitsunes.chat/",
-        "software": "Synapse",
-        "version": "1.91.1",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "libcom.de",
         "domain": "matrix.libcom.de:443",
         "info": "https://libcom.de",
@@ -675,7 +658,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.magdeburg.jetzt/",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.91.1",
         "recaptcha": false,
         "email": false
     },
@@ -711,6 +694,23 @@
         "software": "Synapse",
         "version": "1.91.1",
         "recaptcha": true,
+        "email": true
+    },
+    {
+        "name": "monero.social",
+        "domain": "matrix.monero.social",
+        "info": "https://forum.monero.space/d/83-join-the-monero-core-team-matrix-server",
+        "jurisdiction": "US",
+        "tos": "https://www.getmonero.org/legal/",
+        "privacy": null,
+        "open": true,
+        "remarks": "18+; accessory; crypto",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.84.1",
+        "recaptcha": false,
         "email": true
     },
     {
@@ -816,6 +816,23 @@
         "email": false
     },
     {
+        "name": "oikei.net",
+        "domain": "matrix.oikei.net",
+        "info": "https://oikei.net",
+        "jurisdiction": "Slovenia (Germany)",
+        "tos": "https://oikei.net/pages/tos.html",
+        "privacy": "https://oikei.net/pages/privacy.html",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.91.1",
+        "recaptcha": true,
+        "email": false
+    },
+    {
         "name": "ombreport.info",
         "domain": "matrix.ombreport.info",
         "info": "http://ombreport.info",
@@ -847,6 +864,23 @@
         "software": "Synapse",
         "version": "1.87.0",
         "recaptcha": true,
+        "email": true
+    },
+    {
+        "name": "perthchat.org",
+        "domain": "matrix.perthchat.org",
+        "info": "https://perthchat.org",
+        "jurisdiction": "Australia",
+        "tos": "https://gitlab.com/perthchat.org/legal/-/blob/main/terms-of-service.md",
+        "privacy": "https://gitlab.com/perthchat.org/legal/-/blob/main/privacy-policy.md",
+        "open": true,
+        "remarks": "Regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://client.perthchat.org/",
+        "software": "Synapse",
+        "version": "1.91.0",
+        "recaptcha": false,
         "email": true
     },
     {
@@ -947,7 +981,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.radiowarnerd.org/",
         "software": "Synapse",
-        "version": "1.90.0",
+        "version": "1.91.1",
         "recaptcha": true,
         "email": true
     },
@@ -999,6 +1033,23 @@
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
         "version": "1.88.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "studichat.de",
+        "domain": "matrix.studichat.de",
+        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; student-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.studichat.de/",
+        "software": "Synapse",
+        "version": "1.91.1",
         "recaptcha": false,
         "email": true
     },
@@ -1219,7 +1270,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.91.1",
         "recaptcha": false,
         "email": true
     },
@@ -1236,7 +1287,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.91.1",
         "recaptcha": false,
         "email": false
     },
