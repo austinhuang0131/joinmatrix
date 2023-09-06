@@ -354,7 +354,7 @@
         "software": "Synapse",
         "version": "1.88.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "filik.eu",
@@ -612,6 +612,23 @@
         "email": true
     },
     {
+        "name": "kitsunes.club",
+        "domain": "kitsunes.chat",
+        "info": "https://kitsunes.club",
+        "jurisdiction": "Canada",
+        "tos": "https://kitsunes.club/_matrix/consent",
+        "privacy": "https://kitsunes.club/_matrix/consent",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://kitsunes.chat/",
+        "software": "Synapse",
+        "version": "1.91.1",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "libcom.de",
         "domain": "matrix.libcom.de:443",
         "info": "https://libcom.de",
@@ -726,7 +743,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.91.1",
         "recaptcha": true,
         "email": true
     },
@@ -1304,7 +1321,7 @@
         "reg_method": "SSO",
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
-        "version": "1.90.0",
+        "version": "1.91.1",
         "recaptcha": false,
         "email": false
     },
