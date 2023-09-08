@@ -29,7 +29,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.4d2.org",
         "software": "Synapse",
-        "version": "1.90.0",
+        "version": "1.91.2",
         "recaptcha": true,
         "email": true
     },
@@ -64,8 +64,8 @@
         "reg_link": "https://aria.im/",
         "software": "Archon",
         "version": "1.91.1",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "badstuebner.biz",
@@ -354,7 +354,7 @@
         "software": "Synapse",
         "version": "1.88.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "filik.eu",
@@ -986,6 +986,23 @@
         "email": false
     },
     {
+        "name": "sibnsk.net",
+        "domain": "matrix.sibnsk.net",
+        "info": "https://lugnsk.org/page/blog/matrix",
+        "jurisdiction": "Russia",
+        "tos": "https://matrix.sibnsk.net/_matrix/consent",
+        "privacy": "https://matrix.sibnsk.net/_matrix/consent",
+        "open": true,
+        "remarks": "In Russian",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.sibnsk.net",
+        "software": "Synapse",
+        "version": "1.90.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "socialnetwork24.com",
         "domain": "socialnetwork24.com",
         "info": "https://blog.unixweb.de/telegram-abgeschaltet-alternative-matrix/",
@@ -1066,7 +1083,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.91.2",
         "recaptcha": false,
         "email": true
     },
