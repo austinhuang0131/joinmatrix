@@ -51,23 +51,6 @@
         "email": true
     },
     {
-        "name": "archoslinux.cz",
-        "domain": "matrix.archoslinux.cz:443",
-        "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
-        "jurisdiction": "Czech Republic (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Czech; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.archoslinux.cz/",
-        "software": "Synapse",
-        "version": "1.91.2",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "aria-net.org",
         "domain": "aria.im",
         "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
@@ -81,8 +64,8 @@
         "reg_link": "https://aria.im/",
         "software": "Archon",
         "version": "1.91.1",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "badstuebner.biz",
@@ -371,7 +354,7 @@
         "software": "Synapse",
         "version": "1.88.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "filik.eu",
@@ -405,6 +388,23 @@
         "software": "Synapse",
         "version": "1.91.1",
         "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "frei.chat",
+        "domain": "matrix.frei.chat",
+        "info": "https://frei.chat",
+        "jurisdiction": "Germany (Finland)",
+        "tos": "https://frei.chat/termsofuse/",
+        "privacy": "https://frei.chat/privacypolicy/",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.frei.chat/",
+        "software": "Synapse",
+        "version": "1.91.2",
+        "recaptcha": true,
         "email": true
     },
     {
@@ -658,7 +658,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.magdeburg.jetzt/",
         "software": "Synapse",
-        "version": "1.91.1",
+        "version": "1.91.2",
         "recaptcha": false,
         "email": false
     },
@@ -676,23 +676,6 @@
         "reg_link": "https://element.mailstation.de/",
         "software": "Synapse",
         "version": "1.90.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "matrix.im",
-        "domain": "matrix.im",
-        "info": "https://matrix.im",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://www.matrix.im/datenschutz.html",
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.matrix.im/",
-        "software": "Synapse",
-        "version": "1.91.1",
         "recaptcha": true,
         "email": true
     },
@@ -1001,23 +984,6 @@
         "version": "1.85.2",
         "recaptcha": false,
         "email": false
-    },
-    {
-        "name": "sibnsk.net",
-        "domain": "matrix.sibnsk.net",
-        "info": "https://lugnsk.org/page/blog/matrix",
-        "jurisdiction": "Russia",
-        "tos": "https://matrix.sibnsk.net/_matrix/consent",
-        "privacy": "https://matrix.sibnsk.net/_matrix/consent",
-        "open": true,
-        "remarks": "In Russian",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.sibnsk.net",
-        "software": "Synapse",
-        "version": "1.90.0",
-        "recaptcha": true,
-        "email": true
     },
     {
         "name": "socialnetwork24.com",
