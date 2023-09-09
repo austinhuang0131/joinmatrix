@@ -354,7 +354,7 @@
         "software": "Synapse",
         "version": "1.88.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "filik.eu",
@@ -522,7 +522,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://riot.grin.hu/",
         "software": "Synapse",
-        "version": "1.78.0",
+        "version": "1.90.0",
         "recaptcha": true,
         "email": true
     },
@@ -761,23 +761,6 @@
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
         "version": "1.91.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "obco.pro",
-        "domain": "hs.obco.pro",
-        "info": "https://obco.pro",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.obco.pro/",
-        "software": "Synapse",
-        "version": "1.91.2",
         "recaptcha": false,
         "email": false
     },
