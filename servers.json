@@ -216,7 +216,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
-        "version": "1.91.1",
+        "version": "1.91.2",
         "recaptcha": false,
         "email": true
     },
@@ -318,7 +318,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.91.1",
+        "version": "1.91.2",
         "recaptcha": false,
         "email": true
     },
@@ -386,7 +386,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
-        "version": "1.91.1",
+        "version": "1.91.2",
         "recaptcha": false,
         "email": true
     },
@@ -573,7 +573,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://hashi.sbs",
         "software": "Synapse",
-        "version": "1.91.1",
+        "version": "1.91.2",
         "recaptcha": false,
         "email": true
     },
@@ -761,8 +761,8 @@
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
         "version": "1.91.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "oblak.be",
@@ -1236,7 +1236,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.91.1",
+        "version": "1.91.2",
         "recaptcha": false,
         "email": true
     },
@@ -1253,7 +1253,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.91.1",
+        "version": "1.91.2",
         "recaptcha": false,
         "email": false
     },
