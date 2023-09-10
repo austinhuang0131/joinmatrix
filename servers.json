@@ -284,7 +284,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.91.2",
         "recaptcha": false,
         "email": true
     },
@@ -437,7 +437,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://g24.at",
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.91.2",
         "recaptcha": false,
         "email": false
     },
@@ -1117,7 +1117,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
-        "version": "1.90.0",
+        "version": "1.92.0rc1",
         "recaptcha": false,
         "email": false
     },
