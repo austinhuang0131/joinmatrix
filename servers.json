@@ -590,7 +590,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.hot-chilli.im/",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.91.2",
         "recaptcha": true,
         "email": true
     },
