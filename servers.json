@@ -63,7 +63,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://aria.im/",
         "software": "Archon",
-        "version": "1.91.1",
+        "version": "1.91.2",
         "recaptcha": true,
         "email": true
     },
@@ -709,7 +709,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
-        "version": "1.91.1",
+        "version": "1.91.2",
         "recaptcha": true,
         "email": true
     },
