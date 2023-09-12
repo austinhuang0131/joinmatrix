@@ -136,6 +136,23 @@
         "email": true
     },
     {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/rules",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.91.1",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "catgirl.cloud",
         "domain": "matrix.catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -216,7 +233,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.91.2",
+        "version": "1.92.0",
         "recaptcha": true,
         "email": true
     },
@@ -318,7 +335,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.92.0rc1",
+        "version": "1.92.1",
         "recaptcha": true,
         "email": true
     },
@@ -352,7 +369,7 @@
         "reg_method": "SSO",
         "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
         "software": "Synapse",
-        "version": "1.91.2",
+        "version": "1.92.1",
         "recaptcha": false,
         "email": false
     },
@@ -505,7 +522,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://riot.grin.hu/",
         "software": "Synapse",
-        "version": "1.90.0",
+        "version": "1.91.2",
         "recaptcha": true,
         "email": true
     },
@@ -556,7 +573,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://hashi.sbs",
         "software": "Synapse",
-        "version": "1.91.2",
+        "version": "1.92.1",
         "recaptcha": false,
         "email": true
     },
@@ -714,23 +731,6 @@
         "email": true
     },
     {
-        "name": "nope.chat",
-        "domain": "nope.chat",
-        "info": "https://nope.chat",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.nope.chat",
-        "software": "Synapse",
-        "version": "1.91.2",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "norge.chat",
         "domain": "matrix.norge.chat",
         "info": "https://norge.chat",
@@ -744,8 +744,8 @@
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
         "version": "1.91.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "oblak.be",
@@ -935,23 +935,6 @@
         "email": false
     },
     {
-        "name": "sibnsk.net",
-        "domain": "matrix.sibnsk.net",
-        "info": "https://lugnsk.org/page/blog/matrix",
-        "jurisdiction": "Russia",
-        "tos": "https://matrix.sibnsk.net/_matrix/consent",
-        "privacy": "https://matrix.sibnsk.net/_matrix/consent",
-        "open": true,
-        "remarks": "In Russian",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.sibnsk.net",
-        "software": "Synapse",
-        "version": "1.90.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "socialnetwork24.com",
         "domain": "socialnetwork24.com",
         "info": "https://blog.unixweb.de/telegram-abgeschaltet-alternative-matrix/",
@@ -1117,7 +1100,7 @@
         "reg_method": "SSO",
         "reg_link": "https://auth.usesarchbtw.lol/",
         "software": "Synapse",
-        "version": "1.91.2",
+        "version": "1.92.1",
         "recaptcha": false,
         "email": false
     },
