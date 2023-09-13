@@ -12,25 +12,8 @@
         "reg_method": "In-house Element",
         "reg_link": "https://im.0wnz.at/element-web/",
         "software": "Synapse",
-        "version": "1.91.2",
+        "version": "1.92.1",
         "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "4d2.org",
-        "domain": "matrix.4d2.org",
-        "info": "https://4d2.org",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.4d2.org",
-        "software": "Synapse",
-        "version": "1.91.2",
-        "recaptcha": true,
         "email": true
     },
     {
@@ -64,8 +47,8 @@
         "reg_link": "https://aria.im/",
         "software": "Archon",
         "version": "1.91.2",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "badstuebner.biz",
@@ -556,7 +539,7 @@
         "reg_method": "Form",
         "reg_link": "https://hackliberty.org/register",
         "software": "Synapse",
-        "version": "1.91.1",
+        "version": "1.92.1",
         "recaptcha": false,
         "email": false
     },
@@ -731,6 +714,23 @@
         "email": true
     },
     {
+        "name": "nope.chat",
+        "domain": "nope.chat",
+        "info": "https://nope.chat",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.nope.chat",
+        "software": "Synapse",
+        "version": "1.92.1",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "norge.chat",
         "domain": "matrix.norge.chat",
         "info": "https://norge.chat",
@@ -744,8 +744,25 @@
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
         "version": "1.91.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
+    },
+    {
+        "name": "obco.pro",
+        "domain": "matrixapp.chat",
+        "info": "https://obco.pro",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.obco.pro/",
+        "software": "Synapse",
+        "version": "1.92.1",
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "oblak.be",
@@ -811,7 +828,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pcriot.org/",
         "software": "Synapse",
-        "version": "1.87.0",
+        "version": "1.92.1",
         "recaptcha": true,
         "email": true
     },
@@ -1066,7 +1083,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
-        "version": "1.92.0rc1",
+        "version": "1.92.1",
         "recaptcha": false,
         "email": false
     },
