@@ -17,6 +17,23 @@
         "email": true
     },
     {
+        "name": "4d2.org",
+        "domain": "matrix.4d2.org",
+        "info": "https://4d2.org",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Left-wing",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.4d2.org",
+        "software": "Synapse",
+        "version": "1.92.1",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "archaeo.social",
         "domain": "matrix.archaeo.social",
         "info": "https://archaeo.social",
@@ -32,23 +49,6 @@
         "version": "1.87.0",
         "recaptcha": true,
         "email": true
-    },
-    {
-        "name": "aria-net.org",
-        "domain": "aria.im",
-        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
-        "jurisdiction": "Italy?",
-        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://aria.im/",
-        "software": "Archon",
-        "version": "1.91.2",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "badstuebner.biz",
@@ -692,7 +692,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
-        "version": "1.91.2",
+        "version": "1.92.1",
         "recaptcha": true,
         "email": true
     },
@@ -743,7 +743,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.92.1",
         "recaptcha": true,
         "email": true
     },
@@ -981,7 +981,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
-        "version": "1.91.1",
+        "version": "1.92.1",
         "recaptcha": false,
         "email": true
     },
@@ -1066,7 +1066,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tomesh.net/",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.92.1",
         "recaptcha": false,
         "email": false
     },
