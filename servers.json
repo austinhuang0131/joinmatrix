@@ -476,23 +476,6 @@
         "email": true
     },
     {
-        "name": "gnulinux.club",
-        "domain": "matrix.gnulinux.club",
-        "info": "https://gnulinux.social",
-        "jurisdiction": "US",
-        "tos": "https://gnulinux.social/about",
-        "privacy": null,
-        "open": true,
-        "remarks": "FOSS-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.gnulinux.club/",
-        "software": "Synapse",
-        "version": "1.90.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "grin.hu",
         "domain": "matrix.grin.hu",
         "info": "https://matrix.grin.hu",
@@ -709,7 +692,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.noevil.pl/",
         "software": "Synapse",
-        "version": "1.91.1",
+        "version": "1.92.1",
         "recaptcha": false,
         "email": true
     },
@@ -847,23 +830,6 @@
         "software": "Synapse",
         "version": "1.91.0",
         "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "plus.st",
-        "domain": "matrix.plus.st",
-        "info": "https://plus.st/",
-        "jurisdiction": "US",
-        "tos": "https://plus.st/terms.html",
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.plus.st/",
-        "software": "Synapse",
-        "version": "1.91.0rc1",
-        "recaptcha": true,
         "email": true
     },
     {
@@ -1219,7 +1185,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.91.2",
+        "version": "1.92.1",
         "recaptcha": false,
         "email": false
     },
