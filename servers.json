@@ -148,7 +148,7 @@
         "reg_method": "Form",
         "reg_link": "https://registration.matrix.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.91.1",
         "recaptcha": false,
         "email": false
     },
@@ -216,7 +216,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.92.0",
+        "version": "1.92.2",
         "recaptcha": true,
         "email": true
     },
@@ -267,7 +267,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.91.2",
+        "version": "1.92.2",
         "recaptcha": false,
         "email": true
     },
@@ -473,6 +473,23 @@
         "software": "Synapse",
         "version": "1.86.0",
         "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "gnulinux.club",
+        "domain": "matrix.gnulinux.club",
+        "info": "https://gnulinux.social",
+        "jurisdiction": "US",
+        "tos": "https://gnulinux.social/about",
+        "privacy": null,
+        "open": true,
+        "remarks": "FOSS-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.gnulinux.club/",
+        "software": "Synapse",
+        "version": "1.90.0",
+        "recaptcha": true,
         "email": true
     },
     {
@@ -709,7 +726,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
-        "version": "1.92.1",
+        "version": "1.92.2",
         "recaptcha": true,
         "email": true
     },
@@ -743,7 +760,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
-        "version": "1.92.1",
+        "version": "1.92.2",
         "recaptcha": true,
         "email": true
     },
@@ -1083,7 +1100,7 @@
         "reg_method": "SSO",
         "reg_link": "https://auth.usesarchbtw.lol/",
         "software": "Synapse",
-        "version": "1.92.1",
+        "version": "1.92.2",
         "recaptcha": false,
         "email": false
     },
