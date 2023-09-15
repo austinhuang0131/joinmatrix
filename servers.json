@@ -539,7 +539,7 @@
         "reg_method": "Form",
         "reg_link": "https://hackliberty.org/register",
         "software": "Synapse",
-        "version": "1.92.1",
+        "version": "1.92.2",
         "recaptcha": false,
         "email": false
     },
@@ -556,7 +556,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://hashi.sbs",
         "software": "Synapse",
-        "version": "1.92.1",
+        "version": "1.92.2",
         "recaptcha": false,
         "email": true
     },
@@ -694,23 +694,6 @@
         "software": "Synapse",
         "version": "1.92.1",
         "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "noevil.pl",
-        "domain": "matrix.noevil.pl",
-        "info": "https://noevil.pl/matrix",
-        "jurisdiction": "Poland",
-        "tos": "https://noevil.pl/terms-of-service/",
-        "privacy": "https://noevil.pl/matrix/privacy/",
-        "open": true,
-        "remarks": "In Polish",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.noevil.pl/",
-        "software": "Synapse",
-        "version": "1.92.1",
-        "recaptcha": false,
         "email": true
     },
     {
@@ -879,7 +862,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.91.2",
+        "version": "1.92.2",
         "recaptcha": true,
         "email": true
     },
@@ -947,7 +930,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.92.2",
         "recaptcha": false,
         "email": true
     },
@@ -964,7 +947,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
-        "version": "1.92.1",
+        "version": "1.92.2",
         "recaptcha": false,
         "email": true
     },
@@ -998,7 +981,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.91.2",
+        "version": "1.92.2",
         "recaptcha": true,
         "email": true
     },
@@ -1202,7 +1185,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.92.1",
+        "version": "1.92.2",
         "recaptcha": false,
         "email": false
     },
