@@ -29,7 +29,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.4d2.org",
         "software": "Synapse",
-        "version": "1.92.1",
+        "version": "1.92.2",
         "recaptcha": true,
         "email": true
     },
@@ -131,7 +131,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.cat.casa/",
         "software": "Synapse",
-        "version": "1.91.1",
+        "version": "1.92.2",
         "recaptcha": false,
         "email": false
     },
@@ -522,7 +522,7 @@
         "reg_method": "In-house Cinny",
         "reg_link": "https://chat.group.lt/",
         "software": "Synapse",
-        "version": "1.91.1",
+        "version": "1.92.2",
         "recaptcha": true,
         "email": true
     },
@@ -644,23 +644,6 @@
         "version": "1.91.2",
         "recaptcha": false,
         "email": false
-    },
-    {
-        "name": "mailstation.de",
-        "domain": "mailstation.de",
-        "info": "https://turing.mailstation.de/?page_id=1375",
-        "jurisdiction": "Germany",
-        "tos": "https://turing.mailstation.de/terms-and-conditions/",
-        "privacy": null,
-        "open": true,
-        "remarks": "Personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.mailstation.de/",
-        "software": "Synapse",
-        "version": "1.90.0",
-        "recaptcha": true,
-        "email": true
     },
     {
         "name": "monero.social",
@@ -811,7 +794,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pcriot.org/",
         "software": "Synapse",
-        "version": "1.92.1",
+        "version": "1.92.2",
         "recaptcha": true,
         "email": true
     },
@@ -831,23 +814,6 @@
         "version": "1.91.0",
         "recaptcha": false,
         "email": true
-    },
-    {
-        "name": "possum.city",
-        "domain": "possum.city",
-        "info": "https://possum.city",
-        "jurisdiction": "Sweden",
-        "tos": "https://about.possum.city/rules",
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": "In-house SchildiChat",
-        "reg_link": "https://matrix.possum.city/",
-        "software": "Conduit",
-        "version": "0.5.0",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "pragma-messenger.ch",
@@ -1000,7 +966,7 @@
         "software": "Synapse",
         "version": "1.91.2",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "tedomum.net",
@@ -1253,7 +1219,7 @@
         "reg_method": "Membership",
         "reg_link": "https://data.coop/medlem/",
         "software": "Synapse",
-        "version": "1.87.0",
+        "version": "1.90.0",
         "recaptcha": false,
         "email": false
     },
