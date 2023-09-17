@@ -64,8 +64,8 @@
         "reg_link": "https://aria.im/",
         "software": "Archon",
         "version": "1.91.2",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "badstuebner.biz",
@@ -714,23 +714,6 @@
         "email": true
     },
     {
-        "name": "obco.pro",
-        "domain": "matrixapp.chat",
-        "info": "https://obco.pro",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.obco.pro/",
-        "software": "Synapse",
-        "version": "1.92.2",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "oblak.be",
         "domain": "matrix.oblak.be:443",
         "info": "https://oblak.be/apps/chat/",
@@ -816,6 +799,23 @@
         "email": true
     },
     {
+        "name": "possum.city",
+        "domain": "possum.city",
+        "info": "https://possum.city",
+        "jurisdiction": "Sweden",
+        "tos": "https://about.possum.city/rules",
+        "privacy": null,
+        "open": true,
+        "remarks": "Left-wing",
+        "antifeature": null,
+        "reg_method": "In-house SchildiChat",
+        "reg_link": "https://matrix.possum.city/",
+        "software": "Conduit",
+        "version": "0.5.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "pragma-messenger.ch",
         "domain": "pragma-messenger.ch",
         "info": "https://pragma-solution.com/de/Produkte/messenger/",
@@ -845,7 +845,7 @@
         "reg_method": "SSO",
         "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
         "software": "Synapse",
-        "version": "1.91.1",
+        "version": "1.92.2",
         "recaptcha": false,
         "email": false
     },
@@ -966,7 +966,7 @@
         "software": "Synapse",
         "version": "1.91.2",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "tedomum.net",
