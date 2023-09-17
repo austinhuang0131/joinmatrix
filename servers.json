@@ -51,6 +51,23 @@
         "email": true
     },
     {
+        "name": "archoslinux.cz",
+        "domain": "matrix.archoslinux.cz:443",
+        "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
+        "jurisdiction": "Czech Republic (Germany)",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In Czech; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.archoslinux.cz/",
+        "software": "Synapse",
+        "version": "1.92.2",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "aria-net.org",
         "domain": "aria.im",
         "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
@@ -64,8 +81,8 @@
         "reg_link": "https://aria.im/",
         "software": "Archon",
         "version": "1.91.2",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "badstuebner.biz",
@@ -98,23 +115,6 @@
         "reg_link": "https://chat.bark.lgbt",
         "software": "Synapse",
         "version": "1.91.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "bolha.chat",
-        "domain": "bolha.chat",
-        "info": "https://bolha.chat",
-        "jurisdiction": "Brazil (Canada)",
-        "tos": "https://hub.bolha.us/conduta/",
-        "privacy": null,
-        "open": true,
-        "remarks": "In Portuguese; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.bolha.chat/",
-        "software": "Synapse",
-        "version": "1.90.0",
         "recaptcha": false,
         "email": true
     },
@@ -386,7 +386,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
-        "version": "1.91.2",
+        "version": "1.92.2",
         "recaptcha": true,
         "email": true
     },
@@ -710,6 +710,23 @@
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
         "version": "1.92.1",
+        "recaptcha": true,
+        "email": true
+    },
+    {
+        "name": "obco.pro",
+        "domain": "matrixapp.chat",
+        "info": "https://obco.pro",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.obco.pro/",
+        "software": "Synapse",
+        "version": "1.92.2",
         "recaptcha": true,
         "email": true
     },
