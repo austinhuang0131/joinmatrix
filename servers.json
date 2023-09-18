@@ -233,7 +233,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.92.2",
+        "version": "1.92.3",
         "recaptcha": true,
         "email": true
     },
@@ -284,7 +284,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.92.2",
+        "version": "1.92.3",
         "recaptcha": false,
         "email": true
     },
@@ -403,7 +403,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
-        "version": "1.92.2",
+        "version": "1.92.3",
         "recaptcha": true,
         "email": true
     },
@@ -578,6 +578,23 @@
         "email": true
     },
     {
+        "name": "kitsunes.club",
+        "domain": "kitsunes.chat",
+        "info": "https://kitsunes.club",
+        "jurisdiction": "Canada",
+        "tos": "https://kitsunes.club/_matrix/consent",
+        "privacy": "https://kitsunes.club/_matrix/consent",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://kitsunes.chat/",
+        "software": "Synapse",
+        "version": "1.91.1",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "libcom.de",
         "domain": "matrix.libcom.de:443",
         "info": "https://libcom.de",
@@ -675,7 +692,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
-        "version": "1.92.1",
+        "version": "1.92.2",
         "recaptcha": true,
         "email": true
     },
@@ -726,7 +743,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
-        "version": "1.92.2",
+        "version": "1.92.3",
         "recaptcha": true,
         "email": true
     },
@@ -850,23 +867,6 @@
         "email": true
     },
     {
-        "name": "pub.solar",
-        "domain": "matrix.pub.solar",
-        "info": "https://pub.solar",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://pub.solar/privacy",
-        "open": true,
-        "remarks": "Tech collective",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
-        "software": "Synapse",
-        "version": "1.92.2",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "radiowarnerd.org",
         "domain": "radiowarnerd.org",
         "info": "https://dokuwiki.radiowarnerd.org/matrixaccountcreation",
@@ -947,7 +947,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://web.synod.im/",
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.92.3",
         "recaptcha": false,
         "email": true
     },
@@ -1066,7 +1066,7 @@
         "reg_method": "SSO",
         "reg_link": "https://auth.usesarchbtw.lol/",
         "software": "Synapse",
-        "version": "1.92.2",
+        "version": "1.92.3",
         "recaptcha": false,
         "email": false
     },
@@ -1304,7 +1304,7 @@
         "reg_method": "Membership",
         "reg_link": "https://rimfaxe.net/bli-medlem/",
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.92.3",
         "recaptcha": false,
         "email": false
     },
