@@ -591,8 +591,8 @@
         "reg_link": "https://kitsunes.chat/",
         "software": "Synapse",
         "version": "1.91.1",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "libcom.de",
@@ -692,7 +692,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
-        "version": "1.92.2",
+        "version": "1.92.3",
         "recaptcha": true,
         "email": true
     },
@@ -1134,7 +1134,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.91.1",
+        "version": "1.92.3",
         "recaptcha": true,
         "email": false
     },
@@ -1202,7 +1202,7 @@
         "reg_method": "Contact",
         "reg_link": "https://hyteck.de/about/",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.92.3",
         "recaptcha": false,
         "email": true
     },
