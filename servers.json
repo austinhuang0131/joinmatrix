@@ -981,7 +981,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
-        "version": "1.91.2",
+        "version": "1.92.1",
         "recaptcha": false,
         "email": true
     },
@@ -1270,7 +1270,7 @@
         "reg_method": "Membership",
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
-        "version": "1.90.0",
+        "version": "1.92.3",
         "recaptcha": false,
         "email": false
     },
