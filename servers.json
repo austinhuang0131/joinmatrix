@@ -420,7 +420,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://g24.at",
         "software": "Synapse",
-        "version": "1.91.2",
+        "version": "1.92.3",
         "recaptcha": false,
         "email": false
     },
@@ -813,23 +813,6 @@
         "software": "Synapse",
         "version": "1.92.2",
         "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "perthchat.org",
-        "domain": "matrix.perthchat.org",
-        "info": "https://perthchat.org",
-        "jurisdiction": "Australia",
-        "tos": "https://gitlab.com/perthchat.org/legal/-/blob/main/terms-of-service.md",
-        "privacy": "https://gitlab.com/perthchat.org/legal/-/blob/main/privacy-policy.md",
-        "open": true,
-        "remarks": "Regional",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://client.perthchat.org/",
-        "software": "Synapse",
-        "version": "1.91.0",
-        "recaptcha": false,
         "email": true
     },
     {
