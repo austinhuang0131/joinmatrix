@@ -201,7 +201,7 @@
         "software": "Synapse",
         "version": "1.92.3",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "comm.cx",
@@ -471,7 +471,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://matrix.glasgow.social/",
         "software": "Synapse",
-        "version": "1.86.0",
+        "version": "1.92.3",
         "recaptcha": false,
         "email": true
     },
@@ -691,23 +691,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
-        "software": "Synapse",
-        "version": "1.92.3",
-        "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "nope.chat",
-        "domain": "nope.chat",
-        "info": "https://nope.chat",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.92.3",
         "recaptcha": true,
