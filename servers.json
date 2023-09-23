@@ -1321,7 +1321,7 @@
         "reg_method": "Membership",
         "reg_link": "https://adherents.arn-fai.net/members/register/",
         "software": "Synapse",
-        "version": "1.92.1",
+        "version": "1.92.3",
         "recaptcha": false,
         "email": false
     },
