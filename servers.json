@@ -201,7 +201,7 @@
         "software": "Synapse",
         "version": "1.92.3",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "comm.cx",
@@ -867,23 +867,6 @@
         "email": true
     },
     {
-        "name": "pub.solar",
-        "domain": "matrix.pub.solar",
-        "info": "https://pub.solar",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://pub.solar/privacy",
-        "open": true,
-        "remarks": "Tech collective",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
-        "software": "Synapse",
-        "version": "1.92.3",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "radiowarnerd.org",
         "domain": "radiowarnerd.org",
         "info": "https://dokuwiki.radiowarnerd.org/matrixaccountcreation",
@@ -1185,7 +1168,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.92.2",
+        "version": "1.92.3",
         "recaptcha": false,
         "email": false
     },
