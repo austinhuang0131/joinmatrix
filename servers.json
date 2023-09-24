@@ -201,7 +201,7 @@
         "software": "Synapse",
         "version": "1.92.3",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "comm.cx",
@@ -697,6 +697,23 @@
         "email": true
     },
     {
+        "name": "nope.chat",
+        "domain": "nope.chat",
+        "info": "https://nope.chat",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.nope.chat",
+        "software": "Synapse",
+        "version": "1.92.3",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "norge.chat",
         "domain": "matrix.norge.chat",
         "info": "https://norge.chat",
@@ -795,6 +812,23 @@
         "reg_link": "https://chat.pcriot.org/",
         "software": "Synapse",
         "version": "1.92.2",
+        "recaptcha": true,
+        "email": true
+    },
+    {
+        "name": "plus.st",
+        "domain": "matrix.plus.st",
+        "info": "https://plus.st/",
+        "jurisdiction": "US",
+        "tos": "https://plus.st/terms.html",
+        "privacy": null,
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.plus.st/",
+        "software": "Synapse",
+        "version": "1.93.0rc1",
         "recaptcha": true,
         "email": true
     },
