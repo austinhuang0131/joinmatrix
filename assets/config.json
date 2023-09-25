@@ -1,8 +1,4 @@
 {
-    "integrations_ui_url": "https://dimension.t2bot.io/element",
-    "integrations_rest_url": "https://dimension.t2bot.io/api/v1/scalar",
-    "integrations_widgets_urls": ["https://dimension.t2bot.io/widgets"],
-    "integrations_jitsi_widget_url": "https://dimension.t2bot.io/widgets/jitsi",
     "showLabsSettings": true,
     "features": {
         "feature_custom_themes": true
@@ -12,9 +8,6 @@
             "aria-net.org",
             "envs.net",
             "fairydust.space",
-            "jupiterbroadcasting.com",
-            "librem.one",
-            "libera.chat",
             "matrix.org",
             "mtrx.nz",
             "tchncs.de",
