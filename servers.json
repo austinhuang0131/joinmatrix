@@ -218,7 +218,7 @@
         "software": "Synapse",
         "version": "1.92.3",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "comm.cx",
@@ -392,7 +392,7 @@
     },
     {
         "name": "frei.chat",
-        "domain": "matrix.frei.chat",
+        "domain": "frei.chat",
         "info": "https://frei.chat",
         "jurisdiction": "Germany (Finland)",
         "tos": "https://frei.chat/termsofuse/",
@@ -404,8 +404,8 @@
         "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
         "version": "1.92.3",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "freiburg.social",
