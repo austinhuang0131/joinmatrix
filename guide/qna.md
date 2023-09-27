@@ -55,7 +55,7 @@ Check out [the official matrix.org FAQ](https://matrix.org/faq) as well!
 
 ### For average users, is Matrix trustworthy?
 
-The tech? Yes, most of the components of Matrix are open source. The only exception that this guide is aware of is the Scalar integration manager, which Element and SchildiChat use as default. However, this guide [provides](../#pc-and-mobile) methods to use the open source [Dimension](https://github.com/turt2live/matrix-dimension) integration manager instead.
+The tech? Yes, most of the components of Matrix are open source. The only exception that this guide is aware of is the Scalar integration manager, which Element and SchildiChat use as default. (The open source [Dimension](https://github.com/turt2live/matrix-dimension) integration manager has been abandoned.)
 
 The operators? Note that you have the freedom to pick [your homeserver](../../servers). Do you trust big corporations, or small guys that are actually enthusiastic about privacy? Do your research.
 
@@ -63,8 +63,8 @@ The only thing that may negatively affect trust is Matrix's use of a central ide
 
 ### How is Matrix funded?
 
-* The Matrix.org Foundation C.I.C., who develops the protocol and runs the matrix.org homeserver, is funded by [donations](https://matrix.org/faq/#who-and-how) (including from New Vector).
-* New Vector Ltd, who develops Element and offers commercial services related to Matrix, is funded by [investors](https://element.io/blog/tag/investment/).
+* The Matrix.org Foundation C.I.C., who develops the protocol and runs the matrix.org homeserver, is funded ["through a combination of community support, corporate sponsorship, and grant funding"](https://matrix.org/docs/legacy/faq/#how-is-matrix-org-funded).
+* New Vector Ltd, who develops Element and offers commercial services related to Matrix, is funded by [investors](https://element.io/blog/tag/funding/).
 * Homeservers are independently funded. Some solicit donations. Others operate homeservers as part of a business.
 
 #### What about Israeli intelligence?
