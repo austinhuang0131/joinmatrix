@@ -12,7 +12,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://im.0wnz.at/element-web/",
         "software": "Synapse",
-        "version": "1.92.3",
+        "version": "1.93.0",
         "recaptcha": false,
         "email": true
     },
@@ -63,7 +63,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
-        "version": "1.92.3",
+        "version": "1.93.0",
         "recaptcha": true,
         "email": true
     },
@@ -85,6 +85,23 @@
         "email": true
     },
     {
+        "name": "badstuebner.biz",
+        "domain": "matrix.badstuebner.biz",
+        "info": "https://badstuebner.biz",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://badstuebner.biz/impressum.php",
+        "open": true,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.badstuebner.biz/",
+        "software": "Synapse",
+        "version": "1.91.1",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "bark.lgbt",
         "domain": "synapse.bark.lgbt",
         "info": "https://bark.lgbt",
@@ -100,6 +117,40 @@
         "version": "1.91.0",
         "recaptcha": false,
         "email": true
+    },
+    {
+        "name": "bolha.chat",
+        "domain": "bolha.chat",
+        "info": "https://bolha.chat",
+        "jurisdiction": "Brazil (Canada)",
+        "tos": "https://hub.bolha.us/conduta/",
+        "privacy": null,
+        "open": true,
+        "remarks": "In Portuguese; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.bolha.chat/",
+        "software": "Synapse",
+        "version": "1.90.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/rules",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.92.3",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "catgirl.cloud",
@@ -284,7 +335,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.93.0rc1",
+        "version": "1.93.0",
         "recaptcha": true,
         "email": true
     },
@@ -318,7 +369,7 @@
         "reg_method": "SSO",
         "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
         "software": "Synapse",
-        "version": "1.92.3",
+        "version": "1.93.0",
         "recaptcha": false,
         "email": false
     },
@@ -439,23 +490,6 @@
         "software": "Synapse",
         "version": "1.92.3",
         "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "gnulinux.club",
-        "domain": "matrix.gnulinux.club",
-        "info": "https://gnulinux.social",
-        "jurisdiction": "US",
-        "tos": "https://gnulinux.social/about",
-        "privacy": null,
-        "open": true,
-        "remarks": "FOSS-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.gnulinux.club/",
-        "software": "Synapse",
-        "version": "1.90.0",
-        "recaptcha": true,
         "email": true
     },
     {
@@ -675,7 +709,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
-        "version": "1.92.3",
+        "version": "1.93.0",
         "recaptcha": true,
         "email": true
     },
@@ -845,7 +879,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.92.3",
+        "version": "1.93.0",
         "recaptcha": true,
         "email": true
     },
@@ -930,7 +964,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
-        "version": "1.92.3",
+        "version": "1.93.0",
         "recaptcha": false,
         "email": true
     },
@@ -964,7 +998,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.92.3",
+        "version": "1.93.0",
         "recaptcha": true,
         "email": true
     },
@@ -1066,7 +1100,7 @@
         "reg_method": "SSO",
         "reg_link": "https://auth.usesarchbtw.lol/",
         "software": "Synapse",
-        "version": "1.92.3",
+        "version": "1.93.0",
         "recaptcha": false,
         "email": false
     },
@@ -1338,7 +1372,7 @@
         "reg_method": "Donation",
         "reg_link": "https://unredacted.org/services/matrix/",
         "software": "Synapse",
-        "version": "1.92.3",
+        "version": "1.93.0",
         "recaptcha": false,
         "email": false
     }
