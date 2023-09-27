@@ -114,7 +114,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.bark.lgbt",
         "software": "Synapse",
-        "version": "1.91.0",
+        "version": "1.93.0",
         "recaptcha": false,
         "email": true
     },
@@ -403,7 +403,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
-        "version": "1.92.3",
+        "version": "1.93.0",
         "recaptcha": true,
         "email": true
     },
@@ -522,7 +522,7 @@
         "reg_method": "In-house Cinny",
         "reg_link": "https://chat.group.lt/",
         "software": "Synapse",
-        "version": "1.92.3",
+        "version": "1.93.0",
         "recaptcha": true,
         "email": true
     },
@@ -542,23 +542,6 @@
         "version": "1.92.2",
         "recaptcha": false,
         "email": false
-    },
-    {
-        "name": "hashi.sbs",
-        "domain": "chatserver.hashi.sbs",
-        "info": "https://hashi.sbs",
-        "jurisdiction": "? (Germany)",
-        "tos": "https://hashi.icu/@MomentQYC/pages/tos",
-        "privacy": null,
-        "open": true,
-        "remarks": "In Chinese",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://hashi.sbs",
-        "software": "Synapse",
-        "version": "1.92.3",
-        "recaptcha": false,
-        "email": true
     },
     {
         "name": "hot-chilli.im",
@@ -1066,7 +1049,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
-        "version": "1.92.3",
+        "version": "1.93.0",
         "recaptcha": false,
         "email": false
     },
@@ -1089,7 +1072,7 @@
     },
     {
         "name": "usesarchbtw.lol",
-        "domain": "usesarchbtw.lol",
+        "domain": "matrix.usesarchbtw.lol",
         "info": "https://usesarchbtw.lol",
         "jurisdiction": "Germany",
         "tos": "https://usesarchbtw.lol/terms",
@@ -1338,7 +1321,7 @@
         "reg_method": "Membership",
         "reg_link": "https://rimfaxe.net/bli-medlem/",
         "software": "Synapse",
-        "version": "1.92.3",
+        "version": "1.93.0",
         "recaptcha": false,
         "email": false
     },
