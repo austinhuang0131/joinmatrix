@@ -80,7 +80,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://aria.im/",
         "software": "Archon",
-        "version": "1.92.3",
+        "version": "1.93.0",
         "recaptcha": true,
         "email": true
     },
@@ -134,6 +134,23 @@
         "version": "1.90.0",
         "recaptcha": false,
         "email": true
+    },
+    {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/rules",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.92.3",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "catgirl.cloud",
@@ -235,7 +252,7 @@
         "software": "Synapse",
         "version": "1.78.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "crossbach.de",
@@ -692,23 +709,6 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
-        "version": "1.92.3",
-        "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "nope.chat",
-        "domain": "nope.chat",
-        "info": "https://nope.chat",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.nope.chat",
-        "software": "Synapse",
         "version": "1.93.0",
         "recaptcha": true,
         "email": true
@@ -813,23 +813,6 @@
         "software": "Synapse",
         "version": "1.92.2",
         "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "perthchat.org",
-        "domain": "matrix.perthchat.org",
-        "info": "https://perthchat.org",
-        "jurisdiction": "Australia",
-        "tos": "https://gitlab.com/perthchat.org/legal/-/blob/main/terms-of-service.md",
-        "privacy": "https://gitlab.com/perthchat.org/legal/-/blob/main/privacy-policy.md",
-        "open": true,
-        "remarks": "Regional",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://client.perthchat.org/",
-        "software": "Synapse",
-        "version": "1.91.0",
-        "recaptcha": false,
         "email": true
     },
     {
@@ -1168,7 +1151,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.92.3",
+        "version": "1.93.0",
         "recaptcha": true,
         "email": false
     },
