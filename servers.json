@@ -115,7 +115,7 @@
         "reg_link": "https://chat.bark.lgbt",
         "software": "Synapse",
         "version": "1.93.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": true
     },
     {
@@ -134,6 +134,23 @@
         "version": "1.90.0",
         "recaptcha": false,
         "email": true
+    },
+    {
+        "name": "breeze.town",
+        "domain": "breeze.town",
+        "info": "https://breeze.town/@breeze/108776240056543549",
+        "jurisdiction": "Germany",
+        "tos": "https://breeze.town/about/more",
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.breeze.town/",
+        "software": "Synapse",
+        "version": "1.81.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "catgirl.cloud",
@@ -409,7 +426,7 @@
     },
     {
         "name": "g24.at",
-        "domain": "matrix.g24.at",
+        "domain": "g24.at",
         "info": "https://g24.at",
         "jurisdiction": "Austria",
         "tos": null,
@@ -421,8 +438,8 @@
         "reg_link": "https://g24.at",
         "software": "Synapse",
         "version": "1.92.3",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "gemeinsam.jetzt",
@@ -592,23 +609,6 @@
         "software": "Synapse",
         "version": "1.91.1",
         "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "libcom.de",
-        "domain": "matrix.libcom.de:443",
-        "info": "https://libcom.de",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.libcom.de",
-        "software": "Synapse",
-        "version": "1.89.0",
-        "recaptcha": false,
         "email": true
     },
     {
@@ -1185,7 +1185,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.92.3",
+        "version": "1.93.0",
         "recaptcha": false,
         "email": false
     },
