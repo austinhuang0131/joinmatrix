@@ -284,7 +284,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.92.3",
+        "version": "1.93.0",
         "recaptcha": false,
         "email": true
     },
@@ -675,7 +675,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://mtrx.nz/",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.93.0",
         "recaptcha": false,
         "email": true
     },
