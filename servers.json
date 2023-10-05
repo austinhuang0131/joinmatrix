@@ -443,7 +443,7 @@
     },
     {
         "name": "g24.at",
-        "domain": "g24.at",
+        "domain": "matrix.g24.at",
         "info": "https://g24.at",
         "jurisdiction": "Austria",
         "tos": null,
@@ -455,8 +455,8 @@
         "reg_link": "https://g24.at",
         "software": "Synapse",
         "version": "1.92.3",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "gemeinsam.jetzt",
