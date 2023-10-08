@@ -153,6 +153,23 @@
         "email": false
     },
     {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/rules",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.92.3",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "catgirl.cloud",
         "domain": "matrix.catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -714,23 +731,6 @@
         "email": true
     },
     {
-        "name": "nope.chat",
-        "domain": "nope.chat",
-        "info": "https://nope.chat",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.nope.chat",
-        "software": "Synapse",
-        "version": "1.93.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "norge.chat",
         "domain": "matrix.norge.chat",
         "info": "https://norge.chat",
@@ -896,7 +896,7 @@
         "reg_method": "SSO",
         "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
         "software": "Synapse",
-        "version": "1.92.3",
+        "version": "1.93.0",
         "recaptcha": false,
         "email": false
     },
@@ -1049,7 +1049,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tomesh.net/",
         "software": "Synapse",
-        "version": "1.92.1",
+        "version": "1.93.0",
         "recaptcha": false,
         "email": false
     },
