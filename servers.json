@@ -153,6 +153,23 @@
         "email": false
     },
     {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/rules",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.92.3",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "catgirl.cloud",
         "domain": "matrix.catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -1271,6 +1288,23 @@
         "reg_link": "https://data.coop/medlem/",
         "software": "Synapse",
         "version": "1.90.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "deuxfleurs.fr",
+        "domain": "im.deuxfleurs.fr",
+        "info": "https://deuxfleurs.fr",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": false,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "Membership",
+        "reg_link": "https://guide.deuxfleurs.fr/vie_associative/nous-rejoindre/",
+        "software": "Synapse",
+        "version": "1.89.0",
         "recaptcha": false,
         "email": false
     },
