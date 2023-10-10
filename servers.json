@@ -29,7 +29,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.4d2.org",
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": true,
         "email": true
     },
@@ -233,7 +233,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": false,
         "email": true
     },
@@ -335,7 +335,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": false,
         "email": true
     },
@@ -352,7 +352,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.94.0rc1",
+        "version": "1.94.0",
         "recaptcha": true,
         "email": true
     },
@@ -386,7 +386,7 @@
         "reg_method": "SSO",
         "reg_link": "https://sso.filik.eu/realms/filikrealm/login-actions/registration?client_id=synapse&tab_id=Z_dopcjgOZk",
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": false,
         "email": false
     },
@@ -403,7 +403,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": false,
         "email": true
     },
@@ -576,23 +576,6 @@
         "version": "1.93.0",
         "recaptcha": false,
         "email": false
-    },
-    {
-        "name": "hashi.sbs",
-        "domain": "chatserver.hashi.sbs",
-        "info": "https://hashi.sbs",
-        "jurisdiction": "? (Germany)",
-        "tos": "https://hashi.icu/@MomentQYC/pages/tos",
-        "privacy": null,
-        "open": true,
-        "remarks": "In Chinese",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://hashi.sbs",
-        "software": "Synapse",
-        "version": "1.93.0",
-        "recaptcha": false,
-        "email": true
     },
     {
         "name": "hot-chilli.im",
@@ -777,7 +760,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": true,
         "email": true
     },
@@ -1117,7 +1100,7 @@
         "reg_method": "SSO",
         "reg_link": "https://auth.usesarchbtw.lol/",
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": false,
         "email": false
     },
@@ -1202,7 +1185,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": false,
         "email": true
     },
@@ -1355,7 +1338,7 @@
         "reg_method": "Membership",
         "reg_link": "https://rimfaxe.net/bli-medlem/",
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": false,
         "email": false
     },
