@@ -692,7 +692,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.92.2",
+        "version": "1.93.0",
         "recaptcha": false,
         "email": true
     },
