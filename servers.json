@@ -12,7 +12,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://im.0wnz.at/element-web/",
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": false,
         "email": true
     },
@@ -63,24 +63,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.archoslinux.cz/",
         "software": "Synapse",
-        "version": "1.93.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "aria-net.org",
-        "domain": "aria.im",
-        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
-        "jurisdiction": "Italy?",
-        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://aria.im/",
-        "software": "Archon",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": true,
         "email": true
     },
@@ -134,23 +117,6 @@
         "version": "1.90.0",
         "recaptcha": false,
         "email": true
-    },
-    {
-        "name": "breeze.town",
-        "domain": "breeze.town",
-        "info": "https://breeze.town/@breeze/108776240056543549",
-        "jurisdiction": "Germany",
-        "tos": "https://breeze.town/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.breeze.town/",
-        "software": "Synapse",
-        "version": "1.81.0",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "cat.casa",
@@ -269,7 +235,7 @@
         "software": "Synapse",
         "version": "1.78.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "crossbach.de",
@@ -301,7 +267,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": false,
         "email": true
     },
@@ -420,7 +386,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": true,
         "email": true
     },
@@ -576,6 +542,23 @@
         "version": "1.93.0",
         "recaptcha": false,
         "email": false
+    },
+    {
+        "name": "hashi.sbs",
+        "domain": "chatserver.hashi.sbs",
+        "info": "https://hashi.sbs",
+        "jurisdiction": "? (Germany)",
+        "tos": "https://hashi.icu/@MomentQYC/pages/tos",
+        "privacy": null,
+        "open": true,
+        "remarks": "In Chinese",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://hashi.sbs",
+        "software": "Synapse",
+        "version": "1.94.0",
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "hot-chilli.im",
@@ -879,7 +862,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": true,
         "email": true
     },
@@ -981,7 +964,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://web.synod.im/",
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": false,
         "email": true
     },
@@ -998,7 +981,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": true,
         "email": true
     },
@@ -1372,7 +1355,7 @@
         "reg_method": "Donation",
         "reg_link": "https://unredacted.org/services/matrix/",
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": false,
         "email": false
     }
