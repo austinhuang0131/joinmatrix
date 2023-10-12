@@ -68,6 +68,23 @@
         "email": true
     },
     {
+        "name": "aria-net.org",
+        "domain": "aria.im",
+        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
+        "jurisdiction": "Italy?",
+        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://aria.im/",
+        "software": "Archon",
+        "version": "1.93.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "badstuebner.biz",
         "domain": "matrix.badstuebner.biz",
         "info": "https://badstuebner.biz",
@@ -117,6 +134,23 @@
         "version": "1.90.0",
         "recaptcha": false,
         "email": true
+    },
+    {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/rules",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.94.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "catgirl.cloud",
@@ -460,7 +494,7 @@
     },
     {
         "name": "gnulinux.club",
-        "domain": "matrix.gnulinux.club",
+        "domain": "gnulinux.club",
         "info": "https://gnulinux.social",
         "jurisdiction": "US",
         "tos": "https://gnulinux.social/about",
@@ -472,8 +506,8 @@
         "reg_link": "https://element.gnulinux.club/",
         "software": "Synapse",
         "version": "1.93.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "grin.hu",
@@ -522,7 +556,7 @@
         "reg_method": "Form",
         "reg_link": "https://hackliberty.org/register",
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": false,
         "email": false
     },
@@ -556,7 +590,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.hot-chilli.im/",
         "software": "Synapse",
-        "version": "1.91.2",
+        "version": "1.93.0",
         "recaptcha": true,
         "email": true
     },
@@ -1168,7 +1202,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": false,
         "email": false
     },
