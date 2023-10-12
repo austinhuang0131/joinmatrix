@@ -80,7 +80,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://aria.im/",
         "software": "Archon",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": true,
         "email": true
     },
@@ -97,7 +97,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.badstuebner.biz/",
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": true,
         "email": true
     },
@@ -134,23 +134,6 @@
         "version": "1.90.0",
         "recaptcha": false,
         "email": true
-    },
-    {
-        "name": "cat.casa",
-        "domain": "matrix.cat.casa",
-        "info": "https://cat.casa/",
-        "jurisdiction": "Germany",
-        "tos": "https://cat.casa/rules",
-        "privacy": "https://cat.casa/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.cat.casa/",
-        "software": "Synapse",
-        "version": "1.94.0",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "catgirl.cloud",
@@ -494,7 +477,7 @@
     },
     {
         "name": "gnulinux.club",
-        "domain": "gnulinux.club",
+        "domain": "matrix.gnulinux.club",
         "info": "https://gnulinux.social",
         "jurisdiction": "US",
         "tos": "https://gnulinux.social/about",
@@ -506,8 +489,8 @@
         "reg_link": "https://element.gnulinux.club/",
         "software": "Synapse",
         "version": "1.93.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "grin.hu",
@@ -743,7 +726,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
-        "version": "1.92.3",
+        "version": "1.94.0",
         "recaptcha": true,
         "email": true
     },
