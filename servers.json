@@ -136,6 +136,23 @@
         "email": true
     },
     {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/rules",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.94.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "catgirl.cloud",
         "domain": "matrix.catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -403,7 +420,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.freiburg.social/",
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": false,
         "email": true
     },
@@ -437,7 +454,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.gemeinsam.jetzt/",
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": false,
         "email": true
     },
@@ -641,7 +658,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.magdeburg.jetzt/",
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": false,
         "email": false
     },
@@ -727,8 +744,8 @@
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
         "version": "1.94.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "obco.pro",
@@ -969,23 +986,6 @@
         "email": true
     },
     {
-        "name": "tchncs.de",
-        "domain": "matrix.tchncs.de",
-        "info": "https://tchncs.de/matrix",
-        "jurisdiction": "Germany",
-        "tos": "https://tchncs.de/matrix/tos",
-        "privacy": "https://tchncs.de/matrix/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.tchncs.de/#/register",
-        "software": "Synapse",
-        "version": "1.94.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "techsaviours.org",
         "domain": "matrix.techsaviours.org",
         "info": "https://techsaviours.org",
@@ -1151,7 +1151,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": true,
         "email": false
     },
