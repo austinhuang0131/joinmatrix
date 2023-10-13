@@ -136,23 +136,6 @@
         "email": true
     },
     {
-        "name": "cat.casa",
-        "domain": "matrix.cat.casa",
-        "info": "https://cat.casa/",
-        "jurisdiction": "Germany",
-        "tos": "https://cat.casa/rules",
-        "privacy": "https://cat.casa/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.cat.casa/",
-        "software": "Synapse",
-        "version": "1.94.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "catgirl.cloud",
         "domain": "matrix.catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -165,7 +148,7 @@
         "reg_method": "Form",
         "reg_link": "https://registration.matrix.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.92.1",
+        "version": "1.93.0",
         "recaptcha": false,
         "email": false
     },
@@ -340,23 +323,6 @@
         "email": true
     },
     {
-        "name": "exarius.org",
-        "domain": "exarius.org",
-        "info": "https://exarius.org/docs/services/exatrix/",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.88.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "filik.eu",
         "domain": "chat.filik.eu:443",
         "info": "https://filik.eu",
@@ -388,23 +354,6 @@
         "software": "Synapse",
         "version": "1.94.0",
         "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "frei.chat",
-        "domain": "matrix.frei.chat",
-        "info": "https://frei.chat",
-        "jurisdiction": "Germany (Finland)",
-        "tos": "https://frei.chat/termsofuse/",
-        "privacy": "https://frei.chat/privacypolicy/",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.frei.chat/",
-        "software": "Synapse",
-        "version": "1.94.0",
-        "recaptcha": true,
         "email": true
     },
     {
@@ -744,8 +693,8 @@
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
         "version": "1.94.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "obco.pro",
@@ -830,6 +779,23 @@
         "software": "Synapse",
         "version": "1.93.0",
         "recaptcha": true,
+        "email": true
+    },
+    {
+        "name": "perthchat.org",
+        "domain": "matrix.perthchat.org",
+        "info": "https://perthchat.org",
+        "jurisdiction": "Australia",
+        "tos": "https://gitlab.com/perthchat.org/legal/-/blob/main/terms-of-service.md",
+        "privacy": "https://gitlab.com/perthchat.org/legal/-/blob/main/privacy-policy.md",
+        "open": true,
+        "remarks": "Regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://client.perthchat.org/",
+        "software": "Synapse",
+        "version": "1.91.0",
+        "recaptcha": false,
         "email": true
     },
     {
@@ -983,6 +949,23 @@
         "software": "Synapse",
         "version": "1.94.0",
         "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "tchncs.de",
+        "domain": "matrix.tchncs.de",
+        "info": "https://tchncs.de/matrix",
+        "jurisdiction": "Germany",
+        "tos": "https://tchncs.de/matrix/tos",
+        "privacy": "https://tchncs.de/matrix/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.tchncs.de/#/register",
+        "software": "Synapse",
+        "version": "1.94.0",
+        "recaptcha": true,
         "email": true
     },
     {
