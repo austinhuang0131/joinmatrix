@@ -85,23 +85,6 @@
         "email": true
     },
     {
-        "name": "badstuebner.biz",
-        "domain": "matrix.badstuebner.biz",
-        "info": "https://badstuebner.biz",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://badstuebner.biz/impressum.php",
-        "open": true,
-        "remarks": "In German; personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.badstuebner.biz/",
-        "software": "Synapse",
-        "version": "1.94.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "bark.lgbt",
         "domain": "synapse.bark.lgbt",
         "info": "https://bark.lgbt",
@@ -354,6 +337,23 @@
         "software": "Synapse",
         "version": "1.94.0",
         "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "frei.chat",
+        "domain": "matrix.frei.chat",
+        "info": "https://frei.chat",
+        "jurisdiction": "Germany (Finland)",
+        "tos": "https://frei.chat/termsofuse/",
+        "privacy": "https://frei.chat/privacypolicy/",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.frei.chat/",
+        "software": "Synapse",
+        "version": "1.94.0",
+        "recaptcha": true,
         "email": true
     },
     {
