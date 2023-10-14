@@ -85,6 +85,23 @@
         "email": true
     },
     {
+        "name": "badstuebner.biz",
+        "domain": "matrix.badstuebner.biz",
+        "info": "https://badstuebner.biz",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://badstuebner.biz/impressum.php",
+        "open": true,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.badstuebner.biz/",
+        "software": "Synapse",
+        "version": "1.94.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "bark.lgbt",
         "domain": "synapse.bark.lgbt",
         "info": "https://bark.lgbt",
@@ -782,23 +799,6 @@
         "email": true
     },
     {
-        "name": "perthchat.org",
-        "domain": "matrix.perthchat.org",
-        "info": "https://perthchat.org",
-        "jurisdiction": "Australia",
-        "tos": "https://gitlab.com/perthchat.org/legal/-/blob/main/terms-of-service.md",
-        "privacy": "https://gitlab.com/perthchat.org/legal/-/blob/main/privacy-policy.md",
-        "open": true,
-        "remarks": "Regional",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://client.perthchat.org/",
-        "software": "Synapse",
-        "version": "1.91.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "plus.st",
         "domain": "matrix.plus.st",
         "info": "https://plus.st/",
@@ -814,23 +814,6 @@
         "version": "1.94.0rc1",
         "recaptcha": true,
         "email": true
-    },
-    {
-        "name": "possum.city",
-        "domain": "possum.city",
-        "info": "https://possum.city",
-        "jurisdiction": "Sweden",
-        "tos": "https://about.possum.city/rules",
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": "In-house SchildiChat",
-        "reg_link": "https://matrix.possum.city/",
-        "software": "Conduit",
-        "version": "0.5.0",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "pragma-messenger.ch",
