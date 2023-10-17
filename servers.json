@@ -136,6 +136,23 @@
         "email": true
     },
     {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/rules",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.94.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "catgirl.cloud",
         "domain": "matrix.catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -375,7 +392,7 @@
     },
     {
         "name": "g24.at",
-        "domain": "g24.at",
+        "domain": "matrix.g24.at",
         "info": "https://g24.at",
         "jurisdiction": "Austria",
         "tos": null,
@@ -387,8 +404,8 @@
         "reg_link": "https://g24.at",
         "software": "Synapse",
         "version": "1.92.3",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "gemeinsam.jetzt",
@@ -897,23 +914,6 @@
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
         "version": "1.92.2",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "studichat.de",
-        "domain": "matrix.studichat.de",
-        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.studichat.de/",
-        "software": "Synapse",
-        "version": "1.94.0",
         "recaptcha": false,
         "email": true
     },
