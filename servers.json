@@ -318,8 +318,25 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.94.0",
+        "version": "1.95.0rc1",
         "recaptcha": true,
+        "email": true
+    },
+    {
+        "name": "exarius.org",
+        "domain": "exarius.org",
+        "info": "https://exarius.org/docs/services/exatrix/",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.88.0",
+        "recaptcha": false,
         "email": true
     },
     {
@@ -1015,7 +1032,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tomesh.net/",
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.94.0",
         "recaptcha": false,
         "email": false
     },
