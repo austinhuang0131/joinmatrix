@@ -320,7 +320,7 @@
         "software": "Synapse",
         "version": "1.94.0",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "filik.eu",
@@ -555,6 +555,23 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.hot-chilli.im/",
+        "software": "Synapse",
+        "version": "1.94.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
+        "name": "jonasled.de",
+        "domain": "matrix.jonasled.de",
+        "info": "https://jonasled.de",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://jonasled.de/privacy-policy",
+        "open": true,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.jonasled.de/",
         "software": "Synapse",
         "version": "1.94.0",
         "recaptcha": true,
@@ -1003,6 +1020,23 @@
         "email": true
     },
     {
+        "name": "tedomum.net",
+        "domain": "matrix.tedomum.net",
+        "info": "https://tedomum.net/service/matrix/",
+        "jurisdiction": "France",
+        "tos": "https://tedomum.net/page/cgu/",
+        "privacy": "https://tedomum.net/page/cgu/",
+        "open": true,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://tedomum.net/documentation/general/account/",
+        "software": "Synapse",
+        "version": "1.88.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "tomesh.net",
         "domain": "tomesh.net",
         "info": "https://tomesh.net/mesh-services/",
@@ -1185,7 +1219,7 @@
         "reg_method": "SSO",
         "reg_link": "https://login.pikaviestin.fi/if/flow/matrix-enrollment/",
         "software": "Synapse",
-        "version": "1.91.1",
+        "version": "1.94.0",
         "recaptcha": false,
         "email": false
     },
