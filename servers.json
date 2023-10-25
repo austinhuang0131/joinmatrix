@@ -233,7 +233,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.94.0",
+        "version": "1.95.0",
         "recaptcha": true,
         "email": true
     },
@@ -709,7 +709,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
-        "version": "1.94.0",
+        "version": "1.95.0",
         "recaptcha": true,
         "email": true
     },
@@ -879,7 +879,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pragma-messenger.ch/",
         "software": "Synapse",
-        "version": "1.94.0",
+        "version": "1.95.0",
         "recaptcha": true,
         "email": true
     },
@@ -1083,7 +1083,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.ungleich.ch/",
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.95.0",
         "recaptcha": false,
         "email": false
     },
@@ -1185,7 +1185,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.94.0",
+        "version": "1.95.0",
         "recaptcha": true,
         "email": false
     },
