@@ -102,23 +102,6 @@
         "email": true
     },
     {
-        "name": "bark.lgbt",
-        "domain": "synapse.bark.lgbt",
-        "info": "https://bark.lgbt",
-        "jurisdiction": "Netherlands",
-        "tos": "https://bark.lgbt/about",
-        "privacy": null,
-        "open": true,
-        "remarks": "Furry-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.bark.lgbt",
-        "software": "Synapse",
-        "version": "1.94.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "bolha.chat",
         "domain": "bolha.chat",
         "info": "https://bolha.chat",
@@ -539,7 +522,7 @@
         "reg_method": "Form",
         "reg_link": "https://hackliberty.org/register",
         "software": "Synapse",
-        "version": "1.94.0",
+        "version": "1.95.0",
         "recaptcha": false,
         "email": false
     },
@@ -833,6 +816,23 @@
         "email": true
     },
     {
+        "name": "perthchat.org",
+        "domain": "matrix.perthchat.org",
+        "info": "https://perthchat.org",
+        "jurisdiction": "Australia",
+        "tos": "https://gitlab.com/perthchat.org/legal/-/blob/main/terms-of-service.md",
+        "privacy": "https://gitlab.com/perthchat.org/legal/-/blob/main/privacy-policy.md",
+        "open": true,
+        "remarks": "Regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://client.perthchat.org/",
+        "software": "Synapse",
+        "version": "1.91.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "plus.st",
         "domain": "matrix.plus.st",
         "info": "https://plus.st/",
@@ -981,7 +981,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
-        "version": "1.94.0",
+        "version": "1.95.0",
         "recaptcha": false,
         "email": true
     },
