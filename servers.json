@@ -102,6 +102,23 @@
         "email": true
     },
     {
+        "name": "bark.lgbt",
+        "domain": "synapse.bark.lgbt",
+        "info": "https://bark.lgbt",
+        "jurisdiction": "Netherlands",
+        "tos": "https://bark.lgbt/about",
+        "privacy": null,
+        "open": true,
+        "remarks": "Furry-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.bark.lgbt",
+        "software": "Synapse",
+        "version": "1.94.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "bolha.chat",
         "domain": "bolha.chat",
         "info": "https://bolha.chat",
@@ -117,6 +134,23 @@
         "version": "1.90.0",
         "recaptcha": false,
         "email": true
+    },
+    {
+        "name": "breeze.town",
+        "domain": "breeze.town",
+        "info": "https://breeze.town/@breeze/108776240056543549",
+        "jurisdiction": "Germany",
+        "tos": "https://breeze.town/about/more",
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.breeze.town/",
+        "software": "Synapse",
+        "version": "1.81.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "cat.casa",
@@ -454,7 +488,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://matrix.glasgow.social/",
         "software": "Synapse",
-        "version": "1.92.3",
+        "version": "1.95.0",
         "recaptcha": false,
         "email": true
     },
