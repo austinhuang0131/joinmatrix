@@ -85,6 +85,23 @@
         "email": true
     },
     {
+        "name": "badstuebner.biz",
+        "domain": "matrix.badstuebner.biz",
+        "info": "https://badstuebner.biz",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://badstuebner.biz/impressum.php",
+        "open": true,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.badstuebner.biz/",
+        "software": "Synapse",
+        "version": "1.95.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "bark.lgbt",
         "domain": "synapse.bark.lgbt",
         "info": "https://bark.lgbt",
@@ -136,6 +153,23 @@
         "email": false
     },
     {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/rules",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.94.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "catgirl.cloud",
         "domain": "matrix.catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -151,6 +185,23 @@
         "version": "1.94.0",
         "recaptcha": false,
         "email": false
+    },
+    {
+        "name": "chagai.website",
+        "domain": "mx.chagai.website",
+        "info": "https://chagai.website",
+        "jurisdiction": "Switzerland",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Personal",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.chagai.website/",
+        "software": "Synapse",
+        "version": "1.94.0",
+        "recaptcha": false,
+        "email": true
     },
     {
         "name": "chatcloud.net",
@@ -539,7 +590,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.hot-chilli.im/",
         "software": "Synapse",
-        "version": "1.94.0",
+        "version": "1.95.0",
         "recaptcha": true,
         "email": true
     },
@@ -731,23 +782,6 @@
         "email": true
     },
     {
-        "name": "oblak.be",
-        "domain": "matrix.oblak.be:443",
-        "info": "https://oblak.be/apps/chat/",
-        "jurisdiction": "Germany?",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://oblak.be/accounts/login/?next=/profile/",
-        "software": "Synapse",
-        "version": "1.70.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "oikei.net",
         "domain": "matrix.oikei.net",
         "info": "https://oikei.net",
@@ -814,23 +848,6 @@
         "version": "1.94.0rc1",
         "recaptcha": true,
         "email": true
-    },
-    {
-        "name": "possum.city",
-        "domain": "possum.city",
-        "info": "https://possum.city",
-        "jurisdiction": "Sweden",
-        "tos": "https://about.possum.city/rules",
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": "In-house SchildiChat",
-        "reg_link": "https://matrix.possum.city/",
-        "software": "Conduit",
-        "version": "0.5.0",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "pragma-messenger.ch",
@@ -1185,7 +1202,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.94.0",
+        "version": "1.95.0",
         "recaptcha": false,
         "email": false
     },
