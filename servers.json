@@ -80,7 +80,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://aria.im/",
         "software": "Archon",
-        "version": "1.94.0",
+        "version": "1.95.0",
         "recaptcha": true,
         "email": true
     },
@@ -114,7 +114,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.bark.lgbt",
         "software": "Synapse",
-        "version": "1.94.0",
+        "version": "1.95.0",
         "recaptcha": true,
         "email": true
     },
@@ -131,7 +131,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.bolha.chat/",
         "software": "Synapse",
-        "version": "1.90.0",
+        "version": "1.95.0",
         "recaptcha": false,
         "email": true
     },
@@ -625,8 +625,8 @@
         "reg_link": "https://kitsunes.chat/",
         "software": "Synapse",
         "version": "1.91.1",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "libcom.de",
@@ -782,23 +782,6 @@
         "email": true
     },
     {
-        "name": "oikei.net",
-        "domain": "matrix.oikei.net",
-        "info": "https://oikei.net",
-        "jurisdiction": "Slovenia (Germany)",
-        "tos": "https://oikei.net/pages/tos.html",
-        "privacy": "https://oikei.net/pages/privacy.html",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.95.0",
-        "recaptcha": true,
-        "email": false
-    },
-    {
         "name": "ombreport.info",
         "domain": "matrix.ombreport.info",
         "info": "http://ombreport.info",
@@ -848,6 +831,23 @@
         "version": "1.94.0rc1",
         "recaptcha": true,
         "email": true
+    },
+    {
+        "name": "possum.city",
+        "domain": "possum.city",
+        "info": "https://possum.city",
+        "jurisdiction": "Sweden",
+        "tos": "https://about.possum.city/rules",
+        "privacy": null,
+        "open": true,
+        "remarks": "Left-wing",
+        "antifeature": null,
+        "reg_method": "In-house SchildiChat",
+        "reg_link": "https://matrix.possum.city/",
+        "software": "Conduit",
+        "version": "0.5.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "pragma-messenger.ch",
@@ -981,7 +981,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://web.synod.im/",
         "software": "Synapse",
-        "version": "1.94.0",
+        "version": "1.95.0",
         "recaptcha": false,
         "email": true
     },
