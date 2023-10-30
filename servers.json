@@ -85,6 +85,23 @@
         "email": true
     },
     {
+        "name": "badstuebner.biz",
+        "domain": "matrix.badstuebner.biz",
+        "info": "https://badstuebner.biz",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": "https://badstuebner.biz/impressum.php",
+        "open": true,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.badstuebner.biz/",
+        "software": "Synapse",
+        "version": "1.95.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "bark.lgbt",
         "domain": "synapse.bark.lgbt",
         "info": "https://bark.lgbt",
@@ -544,6 +561,23 @@
         "email": true
     },
     {
+        "name": "hot-chilli.im",
+        "domain": "hot-chilli.im",
+        "info": "https://jabber.hot-chilli.net/2022/04/26/hot-chilli-matrix-server/",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; general host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.hot-chilli.im/",
+        "software": "Synapse",
+        "version": "1.95.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "jonasled.de",
         "domain": "matrix.jonasled.de",
         "info": "https://jonasled.de",
@@ -693,8 +727,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.95.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "norge.chat",
@@ -744,23 +778,6 @@
         "reg_link": "https://oblak.be/accounts/login/?next=/profile/",
         "software": "Synapse",
         "version": "1.70.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "oikei.net",
-        "domain": "matrix.oikei.net",
-        "info": "https://oikei.net",
-        "jurisdiction": "Slovenia (Germany)",
-        "tos": "https://oikei.net/pages/tos.html",
-        "privacy": "https://oikei.net/pages/privacy.html",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": null,
-        "reg_link": null,
-        "software": "Synapse",
-        "version": "1.95.0",
         "recaptcha": false,
         "email": false
     },
@@ -998,7 +1015,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
-        "version": "1.92.1",
+        "version": "1.94.0",
         "recaptcha": false,
         "email": true
     },
@@ -1171,6 +1188,23 @@
         "version": "1.95.0",
         "recaptcha": false,
         "email": true
+    },
+    {
+        "name": "fachschaften.org",
+        "domain": "matrix.fachschaften.org",
+        "info": "https://fachschaften.org",
+        "jurisdiction": "Germany",
+        "tos": "https://fsinfo.cs.tu-dortmund.de/studis/coc",
+        "privacy": "https://md.fachschaften.org/_hmxfyc-SZi-fLjyyT2kvw",
+        "open": false,
+        "remarks": "In German; student-oriented; requires a German university email address",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://account.fachschaften.org/",
+        "software": "Synapse",
+        "version": "1.95.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "pikaviestin.fi",
