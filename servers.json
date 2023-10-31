@@ -641,7 +641,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.94.0",
+        "version": "1.95.0",
         "recaptcha": false,
         "email": true
     },
