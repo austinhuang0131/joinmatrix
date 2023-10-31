@@ -115,25 +115,16 @@ A graphic tutorial is available [here](https://www.ubuntubuzz.com/2021/01/elemen
 
 There exists [many different apps](https://matrix.org/clients/) that can access Matrix. Because Matrix is an open protocol, you can even implement Matrix in your own app, if you got the skills. But for most people, here are some recommendations:
 
-#### Browser
-
-* [Element](https://app.element.io): The flagship app.
-  * [Element development version](https://develop.element.io): Element with lab features enabled, but potentially unstable.
-  * [SchildiChat](https://app.schildi.chat/): Element with lab features enabled, plus an optional speech bubble layout.
-* [Cinny](https://cinny.in/): The app with elegant and modern UI.
+* Element ([browser](https://app.element.io), [app](https://element.io/download)): The flagship app.
+  * Bleeding edge builds are available [on browser](https://develop.element.io) and [as an app](https://element.io/download#nightly).
+* [Cinny](https://cinny.in/): for browser; also available [as an app](https://github.com/cinnyapp/cinny-desktop). Appears to be inspired by Slack.
+* [Nheko](https://github.com/Nheko-Reborn/nheko): for PC. Simpler, without compromising features. Recommended if Element is too heavy for you.
 * [Hydrogen](https://hydrogen.element.io/): Fast and adaptable to mobile browsers, at the cost of missing some optional features.
-
-#### PC and Mobile
-
-* [Element](https://element.io): the flagship app.
-  * [SchildiChat](https://schildi.chat/): Element fork with additional features. Recommended to be used on PC for the full feature set.
-* [FluffyChat](https://fluffychat.im/): "cute" Matrix.
-* [Nheko](https://github.com/Nheko-Reborn/nheko): simpler, without compromising features. Recommended if Element is too heavy for you.
 
 For those living on the edge: [gomuks](https://github.com/tulir/gomuks), [Spectral](https://spectral.im), and [Syphon](https://syphon.org/).
 
 <div class="flash">
-  For PC users, if you want a better experience when using Element or SchildiChat, place <a href="../assets/config.json">this config file</a> in your <a href="https://github.com/vector-im/element-desktop#user-specified-configjson">configuration folder</a>, where <code>$NAME</code> is either "Element" or "SchildiChat". The config file enables the "Labs" tab in settings, enables custom themes, preloads <a href="https://github.com/aaronraimist/element-themes">a few custom themes</a>, and preloads a few homeservers for room directory searches.
+  For PC users, if you want a better experience when using Element or SchildiChat, place <a href="../assets/config.json">this config file</a> in your <a href="https://github.com/vector-im/element-desktop#user-specified-configjson">configuration folder</a>, where <code>$NAME</code> is either "Element", "Element Nightly" or "SchildiChat". The config file enables the "Labs" tab in settings, enables custom themes, preloads <a href="https://github.com/aaronraimist/element-themes">a few custom themes</a>, and preloads a few homeservers for room directory searches.
 </div>
 
 ### What rooms can I join?
