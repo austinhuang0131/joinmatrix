@@ -85,23 +85,6 @@
         "email": true
     },
     {
-        "name": "badstuebner.biz",
-        "domain": "matrix.badstuebner.biz",
-        "info": "https://badstuebner.biz",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://badstuebner.biz/impressum.php",
-        "open": true,
-        "remarks": "In German; personal",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.badstuebner.biz/",
-        "software": "Synapse",
-        "version": "1.95.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "bark.lgbt",
         "domain": "synapse.bark.lgbt",
         "info": "https://bark.lgbt",
@@ -165,7 +148,7 @@
         "reg_method": "Form",
         "reg_link": "https://registration.matrix.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.94.0",
+        "version": "1.95.0",
         "recaptcha": false,
         "email": false
     },
@@ -233,7 +216,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.95.0",
+        "version": "1.95.1",
         "recaptcha": true,
         "email": true
     },
@@ -527,6 +510,23 @@
         "email": false
     },
     {
+        "name": "hashi.sbs",
+        "domain": "chatserver.hashi.sbs",
+        "info": "https://hashi.sbs",
+        "jurisdiction": "? (Germany)",
+        "tos": "https://hashi.icu/@MomentQYC/pages/tos",
+        "privacy": null,
+        "open": true,
+        "remarks": "In Chinese",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://hashi.sbs",
+        "software": "Synapse",
+        "version": "1.95.1",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "hot-chilli.im",
         "domain": "hot-chilli.im",
         "info": "https://jabber.hot-chilli.net/2022/04/26/hot-chilli-matrix-server/",
@@ -692,7 +692,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
-        "version": "1.95.0",
+        "version": "1.95.1",
         "recaptcha": true,
         "email": true
     },
@@ -981,7 +981,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://web.synod.im/",
         "software": "Synapse",
-        "version": "1.95.0",
+        "version": "1.95.1",
         "recaptcha": false,
         "email": true
     },
