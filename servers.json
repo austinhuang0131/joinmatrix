@@ -761,7 +761,7 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.95.0",
-        "recaptcha": false,
+        "recaptcha": true,
         "email": false
     },
     {
