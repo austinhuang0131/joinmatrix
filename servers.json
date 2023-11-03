@@ -29,7 +29,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.4d2.org",
         "software": "Synapse",
-        "version": "1.94.0",
+        "version": "1.95.1",
         "recaptcha": true,
         "email": true
     },
@@ -952,23 +952,6 @@
         "email": true
     },
     {
-        "name": "studichat.de",
-        "domain": "matrix.studichat.de",
-        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.studichat.de/",
-        "software": "Synapse",
-        "version": "1.95.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "synod.im",
         "domain": "synod.im",
         "info": "https://doc.librechurch.org/Wiki.jsp?page=Matrix#section-Matrix-DieMatrixInstanzSynod.im",
@@ -1168,7 +1151,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.95.0",
+        "version": "1.96.0rc1",
         "recaptcha": true,
         "email": false
     },
@@ -1339,23 +1322,6 @@
         "reg_link": "https://rimfaxe.net/bli-medlem/",
         "software": "Synapse",
         "version": "1.94.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "sans-nuage.fr",
-        "domain": "sans-nuage.fr",
-        "info": "https://sans-nuage.fr",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": false,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "Membership",
-        "reg_link": "https://adherents.arn-fai.net/members/register/",
-        "software": "Synapse",
-        "version": "1.92.3",
         "recaptcha": false,
         "email": false
     },
