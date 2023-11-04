@@ -562,7 +562,7 @@
     },
     {
         "name": "kitsunes.club",
-        "domain": "kitsunes.chat",
+        "domain": "kitsunes.club",
         "info": "https://kitsunes.club",
         "jurisdiction": "Canada",
         "tos": "https://kitsunes.club/_matrix/consent",
@@ -575,23 +575,6 @@
         "software": "Synapse",
         "version": "1.91.1",
         "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "libcom.de",
-        "domain": "matrix.libcom.de:443",
-        "info": "https://libcom.de",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.libcom.de",
-        "software": "Synapse",
-        "version": "1.93.0",
-        "recaptcha": false,
         "email": true
     },
     {
@@ -1003,23 +986,6 @@
         "email": true
     },
     {
-        "name": "techsaviours.org",
-        "domain": "matrix.techsaviours.org",
-        "info": "https://techsaviours.org",
-        "jurisdiction": "Germany",
-        "tos": "https://techsaviours.org/terms-and-conditions.html",
-        "privacy": "https://techsaviours.org/privacy-policy.html",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.techsaviours.org/",
-        "software": "Synapse",
-        "version": "1.94.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "tedomum.net",
         "domain": "matrix.tedomum.net",
         "info": "https://tedomum.net/service/matrix/",
@@ -1304,7 +1270,7 @@
         "reg_method": "Membership",
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
-        "version": "1.94.0",
+        "version": "1.95.1",
         "recaptcha": false,
         "email": false
     },
@@ -1322,23 +1288,6 @@
         "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
         "software": "Synapse",
         "version": "1.77.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "rimfaxe.net",
-        "domain": "matrix.rimfaxe.net",
-        "info": "https://rimfaxe.net",
-        "jurisdiction": "Sweden",
-        "tos": "https://rimfaxe.net/terms/",
-        "privacy": "https://rimfaxe.net/privacy/",
-        "open": false,
-        "remarks": "In Swedish; freemium",
-        "antifeature": null,
-        "reg_method": "Membership",
-        "reg_link": "https://rimfaxe.net/bli-medlem/",
-        "software": "Synapse",
-        "version": "1.94.0",
         "recaptcha": false,
         "email": false
     },
