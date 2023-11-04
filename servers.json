@@ -510,6 +510,23 @@
         "email": false
     },
     {
+        "name": "hashi.sbs",
+        "domain": "chatserver.hashi.sbs",
+        "info": "https://hashi.sbs",
+        "jurisdiction": "? (Germany)",
+        "tos": "https://hashi.icu/@MomentQYC/pages/tos",
+        "privacy": null,
+        "open": true,
+        "remarks": "In Chinese",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://hashi.sbs",
+        "software": "Synapse",
+        "version": "1.95.1",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "hot-chilli.im",
         "domain": "hot-chilli.im",
         "info": "https://jabber.hot-chilli.net/2022/04/26/hot-chilli-matrix-server/",
@@ -1355,7 +1372,7 @@
         "reg_method": "Donation",
         "reg_link": "https://unredacted.org/services/matrix/",
         "software": "Synapse",
-        "version": "1.95.0",
+        "version": "1.95.1",
         "recaptcha": false,
         "email": false
     }
