@@ -68,6 +68,23 @@
         "email": true
     },
     {
+        "name": "aria-net.org",
+        "domain": "aria.im",
+        "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
+        "jurisdiction": "Italy?",
+        "tos": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "privacy": "https://aria-net.org/SitePages/Portal/ToS.aspx",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://aria.im/",
+        "software": "Archon",
+        "version": "1.95.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "bark.lgbt",
         "domain": "synapse.bark.lgbt",
         "info": "https://bark.lgbt",
@@ -233,7 +250,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.crossbach.de/",
         "software": "Synapse",
-        "version": "1.92.3",
+        "version": "1.95.1",
         "recaptcha": false,
         "email": false
     },
@@ -420,7 +437,7 @@
         "reg_method": "Form",
         "reg_link": "https://www.ggc-project.de/en/matrix/register/form.php",
         "software": "Synapse",
-        "version": "1.85.2",
+        "version": "1.91.0",
         "recaptcha": false,
         "email": false
     },
@@ -545,7 +562,7 @@
     },
     {
         "name": "kitsunes.club",
-        "domain": "kitsunes.club",
+        "domain": "kitsunes.chat",
         "info": "https://kitsunes.club",
         "jurisdiction": "Canada",
         "tos": "https://kitsunes.club/_matrix/consent",
@@ -573,7 +590,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.libcom.de",
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.95.1",
         "recaptcha": false,
         "email": true
     },
@@ -850,6 +867,23 @@
         "email": true
     },
     {
+        "name": "projectsegfau.lt",
+        "domain": "matrix.projectsegfau.lt:443",
+        "info": "https://projectsegfau.lt/instances",
+        "jurisdiction": "France",
+        "tos": "https://projectsegfau.lt/legal/tos",
+        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.projectsegfau.lt/",
+        "software": "mauliasproxy",
+        "version": "1.1.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "pub.solar",
         "domain": "matrix.pub.solar",
         "info": "https://pub.solar",
@@ -916,6 +950,23 @@
         "version": "1.92.2",
         "recaptcha": false,
         "email": true
+    },
+    {
+        "name": "studichat.de",
+        "domain": "matrix.studichat.de",
+        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; student-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.studichat.de/",
+        "software": "Synapse",
+        "version": "1.95.1",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "synod.im",
@@ -1151,7 +1202,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.95.0",
+        "version": "1.95.1",
         "recaptcha": false,
         "email": false
     },
