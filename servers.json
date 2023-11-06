@@ -947,7 +947,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.socialnetwork24.com",
         "software": "Synapse",
-        "version": "1.92.2",
+        "version": "1.95.1",
         "recaptcha": false,
         "email": true
     },
@@ -966,7 +966,7 @@
         "software": "Synapse",
         "version": "1.95.1",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "synod.im",
@@ -1032,7 +1032,7 @@
         "reg_method": "SSO",
         "reg_link": "https://tedomum.net/documentation/general/account/",
         "software": "Synapse",
-        "version": "1.88.0",
+        "version": "1.95.1",
         "recaptcha": false,
         "email": false
     },
@@ -1322,6 +1322,23 @@
         "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
         "software": "Synapse",
         "version": "1.77.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "rimfaxe.net",
+        "domain": "matrix.rimfaxe.net",
+        "info": "https://rimfaxe.net",
+        "jurisdiction": "Sweden",
+        "tos": "https://rimfaxe.net/terms/",
+        "privacy": "https://rimfaxe.net/privacy/",
+        "open": false,
+        "remarks": "In Swedish; freemium",
+        "antifeature": null,
+        "reg_method": "Membership",
+        "reg_link": "https://rimfaxe.net/bli-medlem/",
+        "software": "Synapse",
+        "version": "1.94.0",
         "recaptcha": false,
         "email": false
     },
