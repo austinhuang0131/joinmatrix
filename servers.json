@@ -454,9 +454,9 @@
         "reg_method": "In-house Element",
         "reg_link": "https://matrix.glasgow.social/",
         "software": "Synapse",
-        "version": "1.95.0",
+        "version": "1.95.1",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "grin.hu",
