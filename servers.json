@@ -392,7 +392,7 @@
     },
     {
         "name": "g24.at",
-        "domain": "matrix.g24.at",
+        "domain": "g24.at",
         "info": "https://g24.at",
         "jurisdiction": "Austria",
         "tos": null,
@@ -404,8 +404,8 @@
         "reg_link": "https://g24.at",
         "software": "Synapse",
         "version": "1.92.3",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "gemeinsam.jetzt",
@@ -846,6 +846,23 @@
         "reg_link": "https://matrix.possum.city/",
         "software": "Conduit",
         "version": "0.5.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "projectsegfau.lt",
+        "domain": "matrix.projectsegfau.lt:443",
+        "info": "https://projectsegfau.lt/instances",
+        "jurisdiction": "France",
+        "tos": "https://projectsegfau.lt/legal/tos",
+        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.projectsegfau.lt/",
+        "software": "mauliasproxy",
+        "version": "1.1.0",
         "recaptcha": false,
         "email": false
     },
