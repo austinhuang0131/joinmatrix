@@ -710,8 +710,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.95.1",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "norge.chat",
