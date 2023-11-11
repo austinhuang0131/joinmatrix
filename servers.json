@@ -710,8 +710,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.95.1",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "norge.chat",
@@ -879,7 +879,7 @@
         "reg_method": "SSO",
         "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
         "software": "Synapse",
-        "version": "1.94.0",
+        "version": "1.95.1",
         "recaptcha": false,
         "email": false
     },
