@@ -119,6 +119,8 @@ There exists [many different apps](https://matrix.org/clients/) that can access 
   * Bleeding edge builds are available [on browser](https://develop.element.io) and [as an app](https://element.io/download#nightly).
 * [Cinny](https://cinny.in/): for browser; also available [as an app](https://github.com/cinnyapp/cinny-desktop). Appears to be inspired by Slack.
 * [Nheko](https://github.com/Nheko-Reborn/nheko): for PC. Simpler, without compromising features. Recommended if Element is too heavy for you.
+* [NeoChat](https://apps.kde.org/neochat/): KDE's Matrix client.
+* [Fractal](https://gitlab.gnome.org/GNOME/fractal): GNOME's Matrix client.
 * [Hydrogen](https://hydrogen.element.io/): Fast and adaptable to mobile browsers, at the cost of missing some optional features.
 
 For those living on the edge: [gomuks](https://github.com/tulir/gomuks), [Spectral](https://spectral.im), and [Syphon](https://syphon.org/).
