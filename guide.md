@@ -123,7 +123,7 @@ There exists [many different apps](https://matrix.org/clients/) that can access 
 * [Fractal](https://gitlab.gnome.org/GNOME/fractal): GNOME's Matrix client.
 * [Hydrogen](https://hydrogen.element.io/): Fast and adaptable to mobile browsers, at the cost of missing some optional features.
 
-For those living on the edge: [gomuks](https://github.com/tulir/gomuks), [Spectral](https://spectral.im), and [Syphon](https://syphon.org/).
+For those living on the edge: [gomuks](https://github.com/tulir/gomuks) and [Syphon](https://syphon.org/).
 
 <div class="flash">
   For PC users, if you want a better experience when using Element or SchildiChat, place <a href="../assets/config.json">this config file</a> in your <a href="https://github.com/vector-im/element-desktop#user-specified-configjson">configuration folder</a>, where <code>$NAME</code> is either "Element", "Element Nightly" or "SchildiChat". The config file enables the "Labs" tab in settings, enables custom themes, preloads <a href="https://github.com/aaronraimist/element-themes">a few custom themes</a>, and preloads a few homeservers for room directory searches.
