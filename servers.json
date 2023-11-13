@@ -726,7 +726,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
-        "version": "1.95.0",
+        "version": "1.95.1",
         "recaptcha": true,
         "email": true
     },
@@ -744,8 +744,8 @@
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
         "version": "1.95.1",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "oblak.be",
@@ -1050,23 +1050,6 @@
         "reg_link": "https://chat.tomesh.net/",
         "software": "Synapse",
         "version": "1.94.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "ungleich.ch",
-        "domain": "ungleich.matrix.ungleich.cloud",
-        "info": "https://ungleich.ch/u/projects/open-chat/",
-        "jurisdiction": "Switzerland",
-        "tos": null,
-        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
-        "open": true,
-        "remarks": "Hosting provider",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://account.ungleich.ch/",
-        "software": "Synapse",
-        "version": "1.95.0",
         "recaptcha": false,
         "email": false
     },
