@@ -744,8 +744,8 @@
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
         "version": "1.95.1",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "oblak.be",
@@ -1054,6 +1054,23 @@
         "email": false
     },
     {
+        "name": "ungleich.ch",
+        "domain": "ungleich.matrix.ungleich.cloud",
+        "info": "https://ungleich.ch/u/projects/open-chat/",
+        "jurisdiction": "Switzerland",
+        "tos": null,
+        "privacy": "https://ungleich.ch/u/projects/privacy-policy/",
+        "open": true,
+        "remarks": "Hosting provider",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://account.ungleich.ch/",
+        "software": "Synapse",
+        "version": "1.95.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "unita.online",
         "domain": "unita.online",
         "info": "https://blog.unita.online/",
@@ -1152,7 +1169,7 @@
         "reg_link": null,
         "software": "Synapse",
         "version": "1.96.0rc1",
-        "recaptcha": true,
+        "recaptcha": false,
         "email": false
     },
     {
@@ -1288,23 +1305,6 @@
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
         "version": "1.95.1",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "hadoly.fr",
-        "domain": "matrix.hadoly.fr",
-        "info": "https://hadoly.fr",
-        "jurisdiction": "France",
-        "tos": "https://hadoly.fr/cgu.html",
-        "privacy": null,
-        "open": false,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "Membership",
-        "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
-        "software": "Synapse",
-        "version": "1.77.0",
         "recaptcha": false,
         "email": false
     },
