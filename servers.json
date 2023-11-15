@@ -165,7 +165,7 @@
         "reg_method": "Form",
         "reg_link": "https://registration.matrix.catgirl.cloud/",
         "software": "Synapse",
-        "version": "1.95.0",
+        "version": "1.95.1",
         "recaptcha": false,
         "email": false
     },
@@ -591,8 +591,8 @@
         "reg_link": "https://chat.jonasled.de/",
         "software": "Synapse",
         "version": "1.95.1",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "kitsunes.club",
@@ -1304,7 +1304,7 @@
         "reg_method": "Membership",
         "reg_link": "https://guide.deuxfleurs.fr/vie_associative/nous-rejoindre/",
         "software": "Synapse",
-        "version": "1.89.0",
+        "version": "1.95.1",
         "recaptcha": false,
         "email": false
     },
@@ -1338,7 +1338,7 @@
         "reg_method": "Membership",
         "reg_link": "https://rimfaxe.net/bli-medlem/",
         "software": "Synapse",
-        "version": "1.94.0",
+        "version": "1.95.1",
         "recaptcha": false,
         "email": false
     },
