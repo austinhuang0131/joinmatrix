@@ -879,7 +879,7 @@
         "reg_method": "In-house SchildiChat",
         "reg_link": "https://matrix.possum.city/",
         "software": "Conduit",
-        "version": "0.5.0",
+        "version": "0.6.0",
         "recaptcha": false,
         "email": false
     },
@@ -1032,7 +1032,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.techsaviours.org/",
         "software": "Synapse",
-        "version": "1.94.0",
+        "version": "1.95.1",
         "recaptcha": false,
         "email": true
     },
