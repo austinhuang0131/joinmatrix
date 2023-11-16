@@ -119,23 +119,6 @@
         "email": true
     },
     {
-        "name": "breeze.town",
-        "domain": "breeze.town",
-        "info": "https://breeze.town/@breeze/108776240056543549",
-        "jurisdiction": "Germany",
-        "tos": "https://breeze.town/about/more",
-        "privacy": null,
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.breeze.town/",
-        "software": "Synapse",
-        "version": "1.81.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "cat.casa",
         "domain": "matrix.cat.casa",
         "info": "https://cat.casa/",
@@ -591,8 +574,8 @@
         "reg_link": "https://chat.jonasled.de/",
         "software": "Synapse",
         "version": "1.95.1",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "kitsunes.club",
