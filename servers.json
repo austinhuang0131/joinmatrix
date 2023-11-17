@@ -539,7 +539,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://hashi.sbs",
         "software": "Synapse",
-        "version": "1.95.1",
+        "version": "1.96.1",
         "recaptcha": false,
         "email": true
     },
@@ -590,7 +590,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://kitsunes.chat/",
         "software": "Synapse",
-        "version": "1.91.0rc1",
+        "version": "1.96.0rc1",
         "recaptcha": true,
         "email": true
     },
@@ -743,7 +743,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
-        "version": "1.96.0",
+        "version": "1.96.1",
         "recaptcha": true,
         "email": true
     },
@@ -850,23 +850,6 @@
         "email": true
     },
     {
-        "name": "possum.city",
-        "domain": "possum.city",
-        "info": "https://possum.city",
-        "jurisdiction": "Sweden",
-        "tos": "https://about.possum.city/rules",
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": "In-house SchildiChat",
-        "reg_link": "https://matrix.possum.city/",
-        "software": "Conduit",
-        "version": "0.6.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "projectsegfau.lt",
         "domain": "matrix.projectsegfau.lt:443",
         "info": "https://projectsegfau.lt/instances",
@@ -946,23 +929,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://chat.socialnetwork24.com",
-        "software": "Synapse",
-        "version": "1.95.1",
-        "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "studichat.de",
-        "domain": "matrix.studichat.de",
-        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; student-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
         "version": "1.95.1",
         "recaptcha": false,
@@ -1100,7 +1066,7 @@
         "reg_method": "SSO",
         "reg_link": "https://auth.usesarchbtw.lol/",
         "software": "Synapse",
-        "version": "1.95.1",
+        "version": "1.96.1",
         "recaptcha": false,
         "email": false
     },
@@ -1202,7 +1168,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.95.1",
+        "version": "1.96.1",
         "recaptcha": false,
         "email": false
     },
