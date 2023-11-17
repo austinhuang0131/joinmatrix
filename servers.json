@@ -743,7 +743,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
-        "version": "1.95.1",
+        "version": "1.96.0",
         "recaptcha": true,
         "email": true
     },
