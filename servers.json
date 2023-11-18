@@ -12,7 +12,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://im.0wnz.at/element-web/",
         "software": "Synapse",
-        "version": "1.95.1",
+        "version": "1.96.1",
         "recaptcha": false,
         "email": true
     },
@@ -199,7 +199,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
-        "version": "1.95.1",
+        "version": "1.96.1",
         "recaptcha": false,
         "email": true
     },
@@ -284,7 +284,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.95.1",
+        "version": "1.96.1",
         "recaptcha": false,
         "email": true
     },
@@ -301,7 +301,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.96.0rc1",
+        "version": "1.96.1",
         "recaptcha": true,
         "email": true
     },
@@ -352,7 +352,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
-        "version": "1.95.1",
+        "version": "1.96.1",
         "recaptcha": false,
         "email": true
     },
@@ -369,7 +369,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
-        "version": "1.95.1",
+        "version": "1.96.1",
         "recaptcha": true,
         "email": true
     },
@@ -456,23 +456,6 @@
         "software": "Synapse",
         "version": "1.95.1",
         "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "gnulinux.club",
-        "domain": "matrix.gnulinux.club",
-        "info": "https://gnulinux.social",
-        "jurisdiction": "US",
-        "tos": "https://gnulinux.social/about",
-        "privacy": null,
-        "open": true,
-        "remarks": "FOSS-oriented",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.gnulinux.club/",
-        "software": "Synapse",
-        "version": "1.95.1",
-        "recaptcha": true,
         "email": true
     },
     {
@@ -935,6 +918,23 @@
         "email": true
     },
     {
+        "name": "studichat.de",
+        "domain": "matrix.studichat.de",
+        "info": "https://wiki.stuvus.uni-stuttgart.de/display/ITKB/Matrix+Messenger",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; student-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.studichat.de/",
+        "software": "Synapse",
+        "version": "1.95.1",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "synod.im",
         "domain": "synod.im",
         "info": "https://doc.librechurch.org/Wiki.jsp?page=Matrix#section-Matrix-DieMatrixInstanzSynod.im",
@@ -1151,7 +1151,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.95.1",
+        "version": "1.96.1",
         "recaptcha": false,
         "email": true
     },
