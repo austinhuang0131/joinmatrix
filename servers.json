@@ -340,23 +340,6 @@
         "email": false
     },
     {
-        "name": "flieger.chat",
-        "domain": "matrix.flieger.chat",
-        "info": "https://yatrix.org",
-        "jurisdiction": "Germany",
-        "tos": "https://yatrix.org/nutzungsbedingungen/",
-        "privacy": "https://yatrix.org/impressum/",
-        "open": true,
-        "remarks": "In German; operated by yatrix.org",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.flieger.chat/",
-        "software": "Synapse",
-        "version": "1.96.1",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "frei.chat",
         "domain": "matrix.frei.chat",
         "info": "https://frei.chat",
@@ -456,6 +439,23 @@
         "software": "Synapse",
         "version": "1.95.1",
         "recaptcha": false,
+        "email": true
+    },
+    {
+        "name": "gnulinux.club",
+        "domain": "matrix.gnulinux.club",
+        "info": "https://gnulinux.social",
+        "jurisdiction": "US",
+        "tos": "https://gnulinux.social/about",
+        "privacy": null,
+        "open": true,
+        "remarks": "FOSS-oriented",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.gnulinux.club/",
+        "software": "Synapse",
+        "version": "1.95.1",
+        "recaptcha": true,
         "email": true
     },
     {
@@ -692,7 +692,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
-        "version": "1.95.1",
+        "version": "1.96.1",
         "recaptcha": true,
         "email": true
     },
@@ -833,6 +833,23 @@
         "email": true
     },
     {
+        "name": "possum.city",
+        "domain": "possum.city",
+        "info": "https://possum.city",
+        "jurisdiction": "Sweden",
+        "tos": "https://about.possum.city/rules",
+        "privacy": null,
+        "open": true,
+        "remarks": "Left-wing",
+        "antifeature": null,
+        "reg_method": "In-house SchildiChat",
+        "reg_link": "https://matrix.possum.city/",
+        "software": "Conduit",
+        "version": "0.6.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "projectsegfau.lt",
         "domain": "matrix.projectsegfau.lt:443",
         "info": "https://projectsegfau.lt/instances",
@@ -932,7 +949,7 @@
         "software": "Synapse",
         "version": "1.95.1",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "synod.im",
@@ -1321,7 +1338,7 @@
         "reg_method": "Donation",
         "reg_link": "https://unredacted.org/services/matrix/",
         "software": "Synapse",
-        "version": "1.95.1",
+        "version": "1.96.1",
         "recaptcha": false,
         "email": false
     }
