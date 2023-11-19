@@ -709,7 +709,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://app.nitro.chat/",
         "software": "Synapse",
-        "version": "1.95.1",
+        "version": "1.96.1",
         "recaptcha": true,
         "email": true
     },
@@ -981,7 +981,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.studichat.de/",
         "software": "Synapse",
-        "version": "1.95.1",
+        "version": "1.96.1",
         "recaptcha": false,
         "email": true
     },
@@ -1015,7 +1015,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.95.1",
+        "version": "1.96.1",
         "recaptcha": true,
         "email": true
     },
