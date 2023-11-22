@@ -437,7 +437,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.gemeinsam.jetzt/",
         "software": "Synapse",
-        "version": "1.95.1",
+        "version": "1.96.1",
         "recaptcha": false,
         "email": true
     },
@@ -983,7 +983,7 @@
         "software": "Synapse",
         "version": "1.96.1",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "synod.im",
