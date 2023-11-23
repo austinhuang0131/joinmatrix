@@ -488,7 +488,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.gnulinux.club/",
         "software": "Synapse",
-        "version": "1.95.1",
+        "version": "1.96.1",
         "recaptcha": true,
         "email": true
     },
@@ -727,8 +727,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.96.1",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "norge.chat",
@@ -1185,7 +1185,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.96.0rc1",
+        "version": "1.96.1",
         "recaptcha": true,
         "email": false
     },
