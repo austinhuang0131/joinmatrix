@@ -506,8 +506,8 @@
         "reg_link": "https://riot.grin.hu/",
         "software": "Synapse",
         "version": "1.91.2",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "group.lt",
