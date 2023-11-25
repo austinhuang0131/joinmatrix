@@ -318,7 +318,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.envs.net/",
         "software": "Synapse",
-        "version": "1.96.1",
+        "version": "1.97.0rc1",
         "recaptcha": true,
         "email": true
     },
@@ -880,23 +880,6 @@
         "reg_link": "https://chat.projectsegfau.lt/",
         "software": "mauliasproxy",
         "version": "1.1.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "pub.solar",
-        "domain": "matrix.pub.solar",
-        "info": "https://pub.solar",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": "https://pub.solar/privacy",
-        "open": true,
-        "remarks": "Tech collective",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
-        "software": "Synapse",
-        "version": "1.95.1",
         "recaptcha": false,
         "email": false
     },
