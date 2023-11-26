@@ -612,23 +612,6 @@
         "email": true
     },
     {
-        "name": "libcom.de",
-        "domain": "matrix.libcom.de:443",
-        "info": "https://libcom.de",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.libcom.de",
-        "software": "Synapse",
-        "version": "1.95.1",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "llamarific.social",
         "domain": "matrix.llamarific.social",
         "info": "https://llamarific.social/matrix.html",
@@ -761,8 +744,8 @@
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
         "version": "1.96.1",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "oblak.be",
@@ -848,6 +831,23 @@
         "version": "1.96.1",
         "recaptcha": true,
         "email": true
+    },
+    {
+        "name": "possum.city",
+        "domain": "possum.city",
+        "info": "https://possum.city",
+        "jurisdiction": "Sweden",
+        "tos": "https://about.possum.city/rules",
+        "privacy": null,
+        "open": true,
+        "remarks": "Left-wing",
+        "antifeature": null,
+        "reg_method": "In-house SchildiChat",
+        "reg_link": "https://matrix.possum.city/",
+        "software": "Conduit",
+        "version": "0.6.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "projectsegfau.lt",
@@ -1207,6 +1207,23 @@
         "email": false
     },
     {
+        "name": "hyteck.de",
+        "domain": "synapse.hyteck.de",
+        "info": "https://hyteck.de/services/",
+        "jurisdiction": "Germany",
+        "tos": "https://hyteck.de/services/",
+        "privacy": null,
+        "open": false,
+        "remarks": "In German; personal",
+        "antifeature": null,
+        "reg_method": "Contact",
+        "reg_link": "https://hyteck.de/about/",
+        "software": "Synapse",
+        "version": "1.96.1",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "libreon.fr",
         "domain": "matrix.libreon.fr",
         "info": "https://libreon.fr",
@@ -1288,6 +1305,23 @@
         "reg_link": "https://rimfaxe.net/bli-medlem/",
         "software": "Synapse",
         "version": "1.96.1",
+        "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "sans-nuage.fr",
+        "domain": "sans-nuage.fr",
+        "info": "https://sans-nuage.fr",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": false,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "Membership",
+        "reg_link": "https://adherents.arn-fai.net/members/register/",
+        "software": "Synapse",
+        "version": "1.92.3",
         "recaptcha": false,
         "email": false
     },
