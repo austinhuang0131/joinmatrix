@@ -539,7 +539,7 @@
         "reg_method": "Form",
         "reg_link": "https://hackliberty.org/register",
         "software": "Synapse",
-        "version": "1.96.0rc1",
+        "version": "1.96.1",
         "recaptcha": false,
         "email": false
     },
@@ -573,7 +573,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.hot-chilli.im/",
         "software": "Synapse",
-        "version": "1.95.1",
+        "version": "1.96.1",
         "recaptcha": true,
         "email": true
     },
