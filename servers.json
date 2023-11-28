@@ -595,6 +595,23 @@
         "email": true
     },
     {
+        "name": "kitsunes.club",
+        "domain": "kitsunes.chat",
+        "info": "https://kitsunes.club",
+        "jurisdiction": "Canada",
+        "tos": "https://kitsunes.club/_matrix/consent",
+        "privacy": "https://kitsunes.club/_matrix/consent",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://kitsunes.chat/",
+        "software": "Synapse",
+        "version": "1.97.0rc1",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "llamarific.social",
         "domain": "matrix.llamarific.social",
         "info": "https://llamarific.social/matrix.html",
@@ -712,23 +729,6 @@
         "version": "1.95.1",
         "recaptcha": true,
         "email": true
-    },
-    {
-        "name": "obco.pro",
-        "domain": "matrixapp.chat",
-        "info": "https://obco.pro",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.obco.pro/",
-        "software": "Synapse",
-        "version": "1.96.1",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "oblak.be",
