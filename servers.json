@@ -709,7 +709,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
-        "version": "1.96.1",
+        "version": "1.97.0",
         "recaptcha": true,
         "email": true
     },
@@ -816,6 +816,23 @@
         "email": true
     },
     {
+        "name": "perthchat.org",
+        "domain": "matrix.perthchat.org",
+        "info": "https://perthchat.org",
+        "jurisdiction": "Australia",
+        "tos": "https://gitlab.com/perthchat.org/legal/-/blob/main/terms-of-service.md",
+        "privacy": "https://gitlab.com/perthchat.org/legal/-/blob/main/privacy-policy.md",
+        "open": true,
+        "remarks": "Regional",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://client.perthchat.org/",
+        "software": "Synapse",
+        "version": "1.91.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "plus.st",
         "domain": "matrix.plus.st",
         "info": "https://plus.st/",
@@ -831,6 +848,23 @@
         "version": "1.96.1",
         "recaptcha": true,
         "email": true
+    },
+    {
+        "name": "possum.city",
+        "domain": "possum.city",
+        "info": "https://possum.city",
+        "jurisdiction": "Sweden",
+        "tos": "https://about.possum.city/rules",
+        "privacy": null,
+        "open": true,
+        "remarks": "Left-wing",
+        "antifeature": null,
+        "reg_method": "In-house SchildiChat",
+        "reg_link": "https://matrix.possum.city/",
+        "software": "Conduit",
+        "version": "0.6.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "projectsegfau.lt",
@@ -964,7 +998,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.96.1",
+        "version": "1.97.0",
         "recaptcha": true,
         "email": true
     },
@@ -1134,7 +1168,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.96.1",
+        "version": "1.97.0",
         "recaptcha": true,
         "email": false
     },
