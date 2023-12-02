@@ -420,7 +420,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.gemeinsam.jetzt/",
         "software": "Synapse",
-        "version": "1.96.1",
+        "version": "1.97.0",
         "recaptcha": false,
         "email": true
     },
@@ -494,7 +494,7 @@
     },
     {
         "name": "group.lt",
-        "domain": "matrix.group.lt",
+        "domain": "group.lt",
         "info": "https://group.lt",
         "jurisdiction": "Lithuania?",
         "tos": null,
@@ -506,8 +506,8 @@
         "reg_link": "https://chat.group.lt/",
         "software": "Synapse",
         "version": "1.97.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "hackliberty.org",
@@ -727,23 +727,6 @@
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
         "version": "1.95.1",
-        "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "obco.pro",
-        "domain": "matrixapp.chat",
-        "info": "https://obco.pro",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.obco.pro/",
-        "software": "Synapse",
-        "version": "1.97.0",
         "recaptcha": true,
         "email": true
     },
@@ -1118,8 +1101,8 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.95.1",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "virto.community",
