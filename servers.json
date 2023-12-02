@@ -51,23 +51,6 @@
         "email": true
     },
     {
-        "name": "archoslinux.cz",
-        "domain": "matrix.archoslinux.cz:443",
-        "info": "https://mastodon.arch-linux.cz/@archoslinuxcz/108264768051310006",
-        "jurisdiction": "Czech Republic (Germany)",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In Czech; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.archoslinux.cz/",
-        "software": "Synapse",
-        "version": "1.97.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "aria-net.org",
         "domain": "aria.im",
         "info": "https://aria-net.org/SitePages/Portal/HomeServer.aspx",
@@ -578,23 +561,6 @@
         "email": true
     },
     {
-        "name": "kitsunes.club",
-        "domain": "kitsunes.chat",
-        "info": "https://kitsunes.club",
-        "jurisdiction": "Canada",
-        "tos": "https://kitsunes.club/_matrix/consent",
-        "privacy": "https://kitsunes.club/_matrix/consent",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://kitsunes.chat/",
-        "software": "Synapse",
-        "version": "1.97.0rc1",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "libcom.de",
         "domain": "matrix.libcom.de:443",
         "info": "https://libcom.de",
@@ -731,6 +697,23 @@
         "email": true
     },
     {
+        "name": "obco.pro",
+        "domain": "matrixapp.chat",
+        "info": "https://obco.pro",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.obco.pro/",
+        "software": "Synapse",
+        "version": "1.97.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "oblak.be",
         "domain": "matrix.oblak.be:443",
         "info": "https://oblak.be/apps/chat/",
@@ -760,7 +743,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.95.0",
+        "version": "1.97.0",
         "recaptcha": true,
         "email": false
     },
@@ -879,7 +862,7 @@
         "reg_method": "SSO",
         "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
         "software": "Synapse",
-        "version": "1.95.1",
+        "version": "1.97.0",
         "recaptcha": false,
         "email": false
     },
@@ -1101,8 +1084,8 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.95.1",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "virto.community",
@@ -1287,7 +1270,7 @@
         "reg_method": "Membership",
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
-        "version": "1.95.1",
+        "version": "1.97.0",
         "recaptcha": false,
         "email": false
     },
