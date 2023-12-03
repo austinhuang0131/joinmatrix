@@ -102,6 +102,23 @@
         "email": true
     },
     {
+        "name": "breeze.town",
+        "domain": "breeze.town",
+        "info": "https://breeze.town/@breeze/108776240056543549",
+        "jurisdiction": "Germany",
+        "tos": "https://breeze.town/about/more",
+        "privacy": null,
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.breeze.town/",
+        "software": "Synapse",
+        "version": "1.81.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "cat.casa",
         "domain": "matrix.cat.casa",
         "info": "https://cat.casa/",
@@ -557,23 +574,6 @@
         "reg_link": "https://chat.jonasled.de/",
         "software": "Synapse",
         "version": "1.96.1",
-        "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "kitsunes.club",
-        "domain": "kitsunes.chat",
-        "info": "https://kitsunes.club",
-        "jurisdiction": "Canada",
-        "tos": "https://kitsunes.club/_matrix/consent",
-        "privacy": "https://kitsunes.club/_matrix/consent",
-        "open": true,
-        "remarks": "",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://kitsunes.chat/",
-        "software": "Synapse",
-        "version": "1.97.0rc1",
         "recaptcha": true,
         "email": true
     },
@@ -1185,7 +1185,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.fachschaften.org/",
         "software": "Synapse",
-        "version": "1.96.1",
+        "version": "1.97.0",
         "recaptcha": false,
         "email": false
     },
