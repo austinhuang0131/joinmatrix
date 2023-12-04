@@ -494,7 +494,7 @@
     },
     {
         "name": "group.lt",
-        "domain": "group.lt",
+        "domain": "matrix.group.lt",
         "info": "https://group.lt",
         "jurisdiction": "Lithuania?",
         "tos": null,
@@ -506,8 +506,8 @@
         "reg_link": "https://chat.group.lt/",
         "software": "Synapse",
         "version": "1.97.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "hackliberty.org",
@@ -578,6 +578,23 @@
         "email": true
     },
     {
+        "name": "kitsunes.club",
+        "domain": "kitsunes.chat",
+        "info": "https://kitsunes.club",
+        "jurisdiction": "Canada",
+        "tos": "https://kitsunes.club/_matrix/consent",
+        "privacy": "https://kitsunes.club/_matrix/consent",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://kitsunes.chat/",
+        "software": "Synapse",
+        "version": "1.97.0rc1",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "libcom.de",
         "domain": "matrix.libcom.de:443",
         "info": "https://libcom.de",
@@ -592,7 +609,7 @@
         "software": "Synapse",
         "version": "1.95.1",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "llamarific.social",
