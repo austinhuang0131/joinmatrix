@@ -63,7 +63,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://aria.im/",
         "software": "Archon",
-        "version": "1.96.1",
+        "version": "1.97.0",
         "recaptcha": true,
         "email": true
     },
@@ -115,6 +115,23 @@
         "reg_link": "https://chat.breeze.town/",
         "software": "Synapse",
         "version": "1.81.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "cat.casa",
+        "domain": "matrix.cat.casa",
+        "info": "https://cat.casa/",
+        "jurisdiction": "Germany",
+        "tos": "https://cat.casa/rules",
+        "privacy": "https://cat.casa/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.cat.casa/",
+        "software": "Synapse",
+        "version": "1.95.1",
         "recaptcha": false,
         "email": false
     },
@@ -557,8 +574,8 @@
         "reg_link": "https://chat.jonasled.de/",
         "software": "Synapse",
         "version": "1.96.1",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "kitsunes.club",
@@ -592,7 +609,7 @@
         "software": "Synapse",
         "version": "1.95.1",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "llamarific.social",
@@ -697,23 +714,6 @@
         "email": true
     },
     {
-        "name": "norge.chat",
-        "domain": "matrix.norge.chat",
-        "info": "https://norge.chat",
-        "jurisdiction": "Norway (Finland)",
-        "tos": "https://norge.chat/regler.html",
-        "privacy": "https://norge.chat/personvern.html",
-        "open": true,
-        "remarks": "In Norwegian; general host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.norge.chat",
-        "software": "Synapse",
-        "version": "1.95.1",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "obco.pro",
         "domain": "matrixapp.chat",
         "info": "https://obco.pro",
@@ -745,6 +745,23 @@
         "software": "Synapse",
         "version": "1.70.0",
         "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "oikei.net",
+        "domain": "matrix.oikei.net",
+        "info": "https://oikei.net",
+        "jurisdiction": "Slovenia (Germany)",
+        "tos": "https://oikei.net/pages/tos.html",
+        "privacy": "https://oikei.net/pages/privacy.html",
+        "open": true,
+        "remarks": "",
+        "antifeature": null,
+        "reg_method": null,
+        "reg_link": null,
+        "software": "Synapse",
+        "version": "1.97.0",
+        "recaptcha": true,
         "email": false
     },
     {
@@ -1067,8 +1084,8 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.95.1",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "virto.community",
