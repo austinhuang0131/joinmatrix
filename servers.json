@@ -97,7 +97,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.bolha.chat/",
         "software": "Synapse",
-        "version": "1.96.1",
+        "version": "1.97.0",
         "recaptcha": false,
         "email": true
     },
@@ -233,7 +233,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.94.0",
+        "version": "1.95.1",
         "recaptcha": false,
         "email": true
     },
@@ -574,8 +574,8 @@
         "reg_link": "https://chat.jonasled.de/",
         "software": "Synapse",
         "version": "1.96.1",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "kitsunes.club",
@@ -609,7 +609,7 @@
         "software": "Synapse",
         "version": "1.95.1",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "llamarific.social",
@@ -831,23 +831,6 @@
         "version": "1.96.1",
         "recaptcha": true,
         "email": true
-    },
-    {
-        "name": "projectsegfau.lt",
-        "domain": "matrix.projectsegfau.lt:443",
-        "info": "https://projectsegfau.lt/instances",
-        "jurisdiction": "France",
-        "tos": "https://projectsegfau.lt/legal/tos",
-        "privacy": "https://projectsegfau.lt/legal/privacy-policy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.projectsegfau.lt/",
-        "software": "mauliasproxy",
-        "version": "1.1.0",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "pub.solar",
