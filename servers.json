@@ -1292,6 +1292,23 @@
         "email": false
     },
     {
+        "name": "hadoly.fr",
+        "domain": "matrix.hadoly.fr",
+        "info": "https://hadoly.fr",
+        "jurisdiction": "France",
+        "tos": "https://hadoly.fr/cgu.html",
+        "privacy": null,
+        "open": false,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "Membership",
+        "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
+        "software": "Synapse",
+        "version": "1.77.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "rimfaxe.net",
         "domain": "matrix.rimfaxe.net",
         "info": "https://rimfaxe.net",
