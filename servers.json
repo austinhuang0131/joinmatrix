@@ -182,7 +182,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://talk.chatcloud.net/",
         "software": "Synapse",
-        "version": "1.95.0",
+        "version": "1.97.0",
         "recaptcha": true,
         "email": true
     },
@@ -1151,7 +1151,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.97.0",
+        "version": "1.98.0rc1",
         "recaptcha": true,
         "email": false
     },
