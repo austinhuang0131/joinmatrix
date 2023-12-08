@@ -641,7 +641,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.magdeburg.jetzt/",
         "software": "Synapse",
-        "version": "1.96.1",
+        "version": "1.97.0",
         "recaptcha": false,
         "email": false
     },
@@ -830,23 +830,6 @@
         "software": "Synapse",
         "version": "1.91.0",
         "recaptcha": false,
-        "email": true
-    },
-    {
-        "name": "plus.st",
-        "domain": "matrix.plus.st",
-        "info": "https://plus.st/",
-        "jurisdiction": "US",
-        "tos": "https://plus.st/terms.html",
-        "privacy": null,
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.plus.st/",
-        "software": "Synapse",
-        "version": "1.96.1",
-        "recaptcha": true,
         "email": true
     },
     {
