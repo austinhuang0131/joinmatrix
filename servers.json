@@ -697,23 +697,6 @@
         "email": true
     },
     {
-        "name": "nope.chat",
-        "domain": "nope.chat",
-        "info": "https://nope.chat",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.nope.chat",
-        "software": "Synapse",
-        "version": "1.97.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "norge.chat",
         "domain": "matrix.norge.chat",
         "info": "https://norge.chat",
@@ -725,23 +708,6 @@
         "antifeature": null,
         "reg_method": "In-house Element",
         "reg_link": "https://element.norge.chat",
-        "software": "Synapse",
-        "version": "1.97.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
-        "name": "obco.pro",
-        "domain": "matrixapp.chat",
-        "info": "https://obco.pro",
-        "jurisdiction": "Germany",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
         "version": "1.97.0",
         "recaptcha": true,
@@ -812,8 +778,8 @@
         "reg_link": "https://chat.pcriot.org/",
         "software": "Synapse",
         "version": "1.93.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "perthchat.org",
@@ -1084,8 +1050,8 @@
         "reg_link": "https://chat.utwente.io/",
         "software": "Synapse",
         "version": "1.95.1",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "virto.community",
