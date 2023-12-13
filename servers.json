@@ -29,7 +29,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.4d2.org",
         "software": "Synapse",
-        "version": "1.96.1",
+        "version": "1.98.0",
         "recaptcha": true,
         "email": true
     },
@@ -80,7 +80,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.bark.lgbt",
         "software": "Synapse",
-        "version": "1.97.0",
+        "version": "1.98.0",
         "recaptcha": true,
         "email": true
     },
@@ -131,7 +131,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.cat.casa/",
         "software": "Synapse",
-        "version": "1.95.1",
+        "version": "1.98.0",
         "recaptcha": false,
         "email": false
     },
@@ -216,7 +216,7 @@
         "reg_method": null,
         "reg_link": null,
         "software": "Synapse",
-        "version": "1.96.0",
+        "version": "1.98.0",
         "recaptcha": true,
         "email": true
     },
@@ -539,7 +539,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://hashi.sbs",
         "software": "Synapse",
-        "version": "1.97.0",
+        "version": "1.98.0",
         "recaptcha": false,
         "email": true
     },
@@ -709,7 +709,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
-        "version": "1.97.0",
+        "version": "1.98.0",
         "recaptcha": true,
         "email": true
     },
@@ -1069,23 +1069,6 @@
         "version": "1.96.1",
         "recaptcha": true,
         "email": true
-    },
-    {
-        "name": "usesarchbtw.lol",
-        "domain": "matrix.usesarchbtw.lol",
-        "info": "https://usesarchbtw.lol",
-        "jurisdiction": "Germany",
-        "tos": "https://usesarchbtw.lol/terms",
-        "privacy": "https://usesarchbtw.lol/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://auth.usesarchbtw.lol/",
-        "software": "Synapse",
-        "version": "1.98.0",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "utwente.io",
