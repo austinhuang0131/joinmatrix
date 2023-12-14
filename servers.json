@@ -17,23 +17,6 @@
         "email": true
     },
     {
-        "name": "4d2.org",
-        "domain": "matrix.4d2.org",
-        "info": "https://4d2.org",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.4d2.org",
-        "software": "Synapse",
-        "version": "1.98.0",
-        "recaptcha": true,
-        "email": true
-    },
-    {
         "name": "archaeo.social",
         "domain": "matrix.archaeo.social",
         "info": "https://archaeo.social",
@@ -369,7 +352,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.frei.chat/",
         "software": "Synapse",
-        "version": "1.97.0",
+        "version": "1.98.0",
         "recaptcha": true,
         "email": true
     },
@@ -420,7 +403,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.gemeinsam.jetzt/",
         "software": "Synapse",
-        "version": "1.97.0",
+        "version": "1.98.0",
         "recaptcha": false,
         "email": true
     },
@@ -1071,6 +1054,23 @@
         "email": true
     },
     {
+        "name": "usesarchbtw.lol",
+        "domain": "matrix.usesarchbtw.lol",
+        "info": "https://usesarchbtw.lol",
+        "jurisdiction": "Germany",
+        "tos": "https://usesarchbtw.lol/terms",
+        "privacy": "https://usesarchbtw.lol/privacy",
+        "open": true,
+        "remarks": "General host",
+        "antifeature": null,
+        "reg_method": "SSO",
+        "reg_link": "https://auth.usesarchbtw.lol/",
+        "software": "Synapse",
+        "version": "1.98.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "utwente.io",
         "domain": "matrix.snt.utwente.nl",
         "info": "https://syscom.utwente.io/info/matrix/homeserver/",
@@ -1338,7 +1338,7 @@
         "reg_method": "Donation",
         "reg_link": "https://unredacted.org/services/matrix/",
         "software": "Synapse",
-        "version": "1.97.0",
+        "version": "1.98.0",
         "recaptcha": false,
         "email": false
     }
