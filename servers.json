@@ -981,7 +981,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.tchncs.de/#/register",
         "software": "Synapse",
-        "version": "1.97.0",
+        "version": "1.98.0",
         "recaptcha": true,
         "email": true
     },
