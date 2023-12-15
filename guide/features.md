@@ -169,15 +169,11 @@ Matrix supports many other platforms, but such bridges generally require setup. 
 * [Host the bridges yourself](https://matrix.org/bridges/), if you run your own homeserver
 * Use public bridges (which you're encouraged to donate for):
   * [Aria Network](https://aria-net.org/SitePages/Portal/Bridges.aspx) (Facebook, Instagram, MS Teams, Twitter, WhatsApp; only available to accounts on the aria-net.org homeserver)
-  * [Beeper](https://www.beeper.com/) (Many platforms; requires signing up to a waitlist)
   * [yatrix.org](https://yatrix.org/wissen/anleitungen/bruecken/) (Signal, Slack, WhatsApp)
   * [TeDomum](https://tedomum.net/service/matrix/bridges/) (WhatsApp)
 * Set up bridges as part of a managed homeserver hosting:
-  * [Element Matrix Store](https://element.io/element-matrix-store) (WhatsApp, Slack, MS Teams, IRC, Discord, Telegram)
   * [etke.cc](https://etke.cc) (Many platforms)
   * [ungleich](https://ungleich.ch/u/products/hosted-matrix-chat/) (Many platforms)
-* Purchase managed bridging services without a homeserver:
-  * [Element One](https://element.io/element-one) (WhatsApp, Signal, Telegram)
 
 ## All about rooms
 
