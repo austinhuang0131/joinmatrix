@@ -284,7 +284,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.duesen.chat/",
         "software": "Synapse",
-        "version": "1.97.0",
+        "version": "1.98.0",
         "recaptcha": false,
         "email": true
     },
@@ -590,7 +590,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://kitsunes.chat/",
         "software": "Synapse",
-        "version": "1.97.0rc1",
+        "version": "1.98.0",
         "recaptcha": true,
         "email": true
     },
@@ -731,6 +731,23 @@
         "email": true
     },
     {
+        "name": "obco.pro",
+        "domain": "matrixapp.chat",
+        "info": "https://obco.pro",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.obco.pro/",
+        "software": "Synapse",
+        "version": "1.98.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
         "name": "oblak.be",
         "domain": "matrix.oblak.be:443",
         "info": "https://oblak.be/apps/chat/",
@@ -814,6 +831,23 @@
         "version": "1.91.0",
         "recaptcha": false,
         "email": true
+    },
+    {
+        "name": "possum.city",
+        "domain": "possum.city",
+        "info": "https://possum.city",
+        "jurisdiction": "Sweden",
+        "tos": "https://about.possum.city/rules",
+        "privacy": null,
+        "open": true,
+        "remarks": "Left-wing",
+        "antifeature": null,
+        "reg_method": "In-house SchildiChat",
+        "reg_link": "https://matrix.possum.city/",
+        "software": "Conduit",
+        "version": "0.6.0",
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "projectsegfau.lt",
@@ -1287,7 +1321,7 @@
         "reg_method": "Membership",
         "reg_link": "https://rimfaxe.net/bli-medlem/",
         "software": "Synapse",
-        "version": "1.96.1",
+        "version": "1.98.0",
         "recaptcha": false,
         "email": false
     },
