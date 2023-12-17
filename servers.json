@@ -527,23 +527,6 @@
         "email": false
     },
     {
-        "name": "hashi.sbs",
-        "domain": "chatserver.hashi.sbs",
-        "info": "https://hashi.sbs",
-        "jurisdiction": "? (Germany)",
-        "tos": "https://hashi.icu/@MomentQYC/pages/tos",
-        "privacy": null,
-        "open": true,
-        "remarks": "In Chinese",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://hashi.sbs",
-        "software": "Synapse",
-        "version": "1.98.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "hot-chilli.im",
         "domain": "hot-chilli.im",
         "info": "https://jabber.hot-chilli.net/2022/04/26/hot-chilli-matrix-server/",
@@ -727,6 +710,23 @@
         "reg_link": "https://element.norge.chat",
         "software": "Synapse",
         "version": "1.97.0",
+        "recaptcha": true,
+        "email": true
+    },
+    {
+        "name": "obco.pro",
+        "domain": "matrixapp.chat",
+        "info": "https://obco.pro",
+        "jurisdiction": "Germany",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German",
+        "antifeature": "Residential",
+        "reg_method": "In-house Element",
+        "reg_link": "https://chat.obco.pro/",
+        "software": "Synapse",
+        "version": "1.98.0",
         "recaptcha": true,
         "email": true
     },
@@ -1321,7 +1321,7 @@
         "reg_method": "Membership",
         "reg_link": "https://adherents.arn-fai.net/members/register/",
         "software": "Synapse",
-        "version": "1.92.3",
+        "version": "1.97.0",
         "recaptcha": false,
         "email": false
     },
