@@ -527,6 +527,23 @@
         "email": false
     },
     {
+        "name": "hashi.sbs",
+        "domain": "chatserver.hashi.sbs",
+        "info": "https://hashi.sbs",
+        "jurisdiction": "? (Germany)",
+        "tos": "https://hashi.icu/@MomentQYC/pages/tos",
+        "privacy": null,
+        "open": true,
+        "remarks": "In Chinese",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://hashi.sbs",
+        "software": "Synapse",
+        "version": "1.98.0",
+        "recaptcha": false,
+        "email": true
+    },
+    {
         "name": "hot-chilli.im",
         "domain": "hot-chilli.im",
         "info": "https://jabber.hot-chilli.net/2022/04/26/hot-chilli-matrix-server/",
@@ -794,7 +811,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://chat.pcriot.org/",
         "software": "Synapse",
-        "version": "1.93.0",
+        "version": "1.98.0",
         "recaptcha": true,
         "email": true
     },
@@ -986,23 +1003,6 @@
         "email": true
     },
     {
-        "name": "tedomum.net",
-        "domain": "matrix.tedomum.net",
-        "info": "https://tedomum.net/service/matrix/",
-        "jurisdiction": "France",
-        "tos": "https://tedomum.net/page/cgu/",
-        "privacy": "https://tedomum.net/page/cgu/",
-        "open": true,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "SSO",
-        "reg_link": "https://tedomum.net/documentation/general/account/",
-        "software": "Synapse",
-        "version": "1.97.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "tomesh.net",
         "domain": "tomesh.net",
         "info": "https://tomesh.net/mesh-services/",
@@ -1049,7 +1049,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://matrix.unita.online",
         "software": "Synapse",
-        "version": "1.96.1",
+        "version": "1.98.0",
         "recaptcha": true,
         "email": true
     },
