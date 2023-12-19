@@ -374,23 +374,6 @@
         "email": true
     },
     {
-        "name": "freiburg.social",
-        "domain": "matrix.freiburg.social",
-        "info": "https://wir.freiburg.social/angebote/matrix/",
-        "jurisdiction": "Germany",
-        "tos": "https://freiburg.social/terms",
-        "privacy": "https://wir.freiburg.social/datenschutz-matrix/",
-        "open": true,
-        "remarks": "In German; regional tech collective",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.freiburg.social/",
-        "software": "Synapse",
-        "version": "1.97.0",
-        "recaptcha": false,
-        "email": true
-    },
-    {
         "name": "g24.at",
         "domain": "g24.at",
         "info": "https://g24.at",
@@ -744,8 +727,8 @@
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
         "version": "1.98.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "oblak.be",
@@ -882,23 +865,6 @@
         "version": "1.97.0",
         "recaptcha": false,
         "email": false
-    },
-    {
-        "name": "radiowarnerd.org",
-        "domain": "radiowarnerd.org",
-        "info": "https://dokuwiki.radiowarnerd.org/matrixaccountcreation",
-        "jurisdiction": "US",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "Accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.radiowarnerd.org/",
-        "software": "Synapse",
-        "version": "1.91.1",
-        "recaptcha": true,
-        "email": true
     },
     {
         "name": "riotchat.de",
@@ -1254,23 +1220,6 @@
         "reg_link": "https://data.coop/medlem/",
         "software": "Synapse",
         "version": "1.98.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "deuxfleurs.fr",
-        "domain": "im.deuxfleurs.fr",
-        "info": "https://deuxfleurs.fr",
-        "jurisdiction": "France",
-        "tos": null,
-        "privacy": null,
-        "open": false,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "Membership",
-        "reg_link": "https://guide.deuxfleurs.fr/vie_associative/nous-rejoindre/",
-        "software": "Synapse",
-        "version": "1.95.1",
         "recaptcha": false,
         "email": false
     },
