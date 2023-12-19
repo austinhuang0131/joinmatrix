@@ -320,7 +320,7 @@
         "software": "Synapse",
         "version": "1.96.1",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "filik.eu",
@@ -371,6 +371,23 @@
         "software": "Synapse",
         "version": "1.98.0",
         "recaptcha": true,
+        "email": true
+    },
+    {
+        "name": "freiburg.social",
+        "domain": "matrix.freiburg.social",
+        "info": "https://wir.freiburg.social/angebote/matrix/",
+        "jurisdiction": "Germany",
+        "tos": "https://freiburg.social/terms",
+        "privacy": "https://wir.freiburg.social/datenschutz-matrix/",
+        "open": true,
+        "remarks": "In German; regional tech collective",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.freiburg.social/",
+        "software": "Synapse",
+        "version": "1.97.0",
+        "recaptcha": false,
         "email": true
     },
     {
@@ -727,8 +744,8 @@
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
         "version": "1.98.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "oblak.be",
@@ -865,6 +882,23 @@
         "version": "1.97.0",
         "recaptcha": false,
         "email": false
+    },
+    {
+        "name": "radiowarnerd.org",
+        "domain": "radiowarnerd.org",
+        "info": "https://dokuwiki.radiowarnerd.org/matrixaccountcreation",
+        "jurisdiction": "US",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "Accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.radiowarnerd.org/",
+        "software": "Synapse",
+        "version": "1.98.0",
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "riotchat.de",
@@ -1224,6 +1258,23 @@
         "email": false
     },
     {
+        "name": "deuxfleurs.fr",
+        "domain": "im.deuxfleurs.fr",
+        "info": "https://deuxfleurs.fr",
+        "jurisdiction": "France",
+        "tos": null,
+        "privacy": null,
+        "open": false,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "Membership",
+        "reg_link": "https://guide.deuxfleurs.fr/vie_associative/nous-rejoindre/",
+        "software": "Synapse",
+        "version": "1.95.1",
+        "recaptcha": false,
+        "email": false
+    },
+    {
         "name": "fsfe.org",
         "domain": "matrix.fsfe.org",
         "info": "https://fsfe.org/news/2022/news-20220202-01.html",
@@ -1237,23 +1288,6 @@
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
         "version": "1.98.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
-        "name": "hadoly.fr",
-        "domain": "matrix.hadoly.fr",
-        "info": "https://hadoly.fr",
-        "jurisdiction": "France",
-        "tos": "https://hadoly.fr/cgu.html",
-        "privacy": null,
-        "open": false,
-        "remarks": "In French; tech collective",
-        "antifeature": null,
-        "reg_method": "Membership",
-        "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
-        "software": "Synapse",
-        "version": "1.77.0",
         "recaptcha": false,
         "email": false
     },
