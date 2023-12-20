@@ -199,7 +199,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.chatwave.org/",
         "software": "Synapse",
-        "version": "1.97.0",
+        "version": "1.98.0",
         "recaptcha": false,
         "email": true
     },
@@ -320,7 +320,7 @@
         "software": "Synapse",
         "version": "1.96.1",
         "recaptcha": false,
-        "email": false
+        "email": true
     },
     {
         "name": "filik.eu",
@@ -352,7 +352,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.flieger.chat/",
         "software": "Synapse",
-        "version": "1.97.0",
+        "version": "1.98.0",
         "recaptcha": false,
         "email": true
     },
@@ -710,8 +710,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.98.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "norge.chat",
@@ -744,8 +744,8 @@
         "reg_link": "https://chat.obco.pro/",
         "software": "Synapse",
         "version": "1.98.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "oblak.be",
@@ -879,7 +879,7 @@
         "reg_method": "SSO",
         "reg_link": "https://auth.pub.solar/realms/pub.solar/account",
         "software": "Synapse",
-        "version": "1.97.0",
+        "version": "1.98.0",
         "recaptcha": false,
         "email": false
     },
@@ -964,7 +964,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://web.synod.im/",
         "software": "Synapse",
-        "version": "1.97.0",
+        "version": "1.98.0",
         "recaptcha": false,
         "email": true
     },
@@ -1168,7 +1168,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://element.yatrix.org/",
         "software": "Synapse",
-        "version": "1.97.0",
+        "version": "1.98.0",
         "recaptcha": false,
         "email": true
     },
@@ -1288,6 +1288,23 @@
         "reg_link": "https://my.fsfe.org/donate",
         "software": "Synapse",
         "version": "1.98.0",
+        "recaptcha": false,
+        "email": false
+    },
+    {
+        "name": "hadoly.fr",
+        "domain": "matrix.hadoly.fr",
+        "info": "https://hadoly.fr",
+        "jurisdiction": "France",
+        "tos": "https://hadoly.fr/cgu.html",
+        "privacy": null,
+        "open": false,
+        "remarks": "In French; tech collective",
+        "antifeature": null,
+        "reg_method": "Membership",
+        "reg_link": "https://hadoly.fr/#adh%C3%A9rer",
+        "software": "Synapse",
+        "version": "1.77.0",
         "recaptcha": false,
         "email": false
     },
