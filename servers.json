@@ -63,7 +63,7 @@
         "reg_method": "In-house Element",
         "reg_link": "https://aria.im/",
         "software": "Archon",
-        "version": "1.97.0",
+        "version": "1.98.0",
         "recaptcha": true,
         "email": true
     },
@@ -253,23 +253,6 @@
         "version": "1.95.1",
         "recaptcha": false,
         "email": false
-    },
-    {
-        "name": "dieandalusier.net",
-        "domain": "matrix.dieandalusier.net",
-        "info": "https://www.twitch.tv/dieandalusier/about",
-        "jurisdiction": "Germany/Spain",
-        "tos": null,
-        "privacy": null,
-        "open": true,
-        "remarks": "In German; accessory",
-        "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://element.dieandalusier.net",
-        "software": "Synapse",
-        "version": "1.70.1",
-        "recaptcha": true,
-        "email": true
     },
     {
         "name": "duesen.chat",
@@ -710,8 +693,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.98.0",
-        "recaptcha": false,
-        "email": false
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "norge.chat",
@@ -831,23 +814,6 @@
         "version": "1.91.0",
         "recaptcha": false,
         "email": true
-    },
-    {
-        "name": "possum.city",
-        "domain": "possum.city",
-        "info": "https://possum.city",
-        "jurisdiction": "Sweden",
-        "tos": "https://about.possum.city/rules",
-        "privacy": null,
-        "open": true,
-        "remarks": "Left-wing",
-        "antifeature": null,
-        "reg_method": "In-house SchildiChat",
-        "reg_link": "https://matrix.possum.city/",
-        "software": "Conduit",
-        "version": "0.6.0",
-        "recaptcha": false,
-        "email": false
     },
     {
         "name": "projectsegfau.lt",
