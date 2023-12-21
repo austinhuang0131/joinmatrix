@@ -119,23 +119,6 @@
         "email": false
     },
     {
-        "name": "cat.casa",
-        "domain": "matrix.cat.casa",
-        "info": "https://cat.casa/",
-        "jurisdiction": "Germany",
-        "tos": "https://cat.casa/rules",
-        "privacy": "https://cat.casa/privacy",
-        "open": true,
-        "remarks": "General host",
-        "antifeature": "Residential",
-        "reg_method": "In-house Element",
-        "reg_link": "https://chat.cat.casa/",
-        "software": "Synapse",
-        "version": "1.98.0",
-        "recaptcha": false,
-        "email": false
-    },
-    {
         "name": "catgirl.cloud",
         "domain": "matrix.catgirl.cloud",
         "info": "https://catgirl.cloud",
@@ -253,6 +236,23 @@
         "version": "1.95.1",
         "recaptcha": false,
         "email": false
+    },
+    {
+        "name": "dieandalusier.net",
+        "domain": "matrix.dieandalusier.net",
+        "info": "https://www.twitch.tv/dieandalusier/about",
+        "jurisdiction": "Germany/Spain",
+        "tos": null,
+        "privacy": null,
+        "open": true,
+        "remarks": "In German; accessory",
+        "antifeature": null,
+        "reg_method": "In-house Element",
+        "reg_link": "https://element.dieandalusier.net",
+        "software": "Synapse",
+        "version": "1.70.1",
+        "recaptcha": true,
+        "email": true
     },
     {
         "name": "duesen.chat",
@@ -799,21 +799,21 @@
         "email": true
     },
     {
-        "name": "perthchat.org",
-        "domain": "matrix.perthchat.org",
-        "info": "https://perthchat.org",
-        "jurisdiction": "Australia",
-        "tos": "https://gitlab.com/perthchat.org/legal/-/blob/main/terms-of-service.md",
-        "privacy": "https://gitlab.com/perthchat.org/legal/-/blob/main/privacy-policy.md",
+        "name": "possum.city",
+        "domain": "possum.city",
+        "info": "https://possum.city",
+        "jurisdiction": "Sweden",
+        "tos": "https://about.possum.city/rules",
+        "privacy": null,
         "open": true,
-        "remarks": "Regional",
+        "remarks": "Left-wing",
         "antifeature": null,
-        "reg_method": "In-house Element",
-        "reg_link": "https://client.perthchat.org/",
-        "software": "Synapse",
-        "version": "1.91.0",
+        "reg_method": "In-house SchildiChat",
+        "reg_link": "https://matrix.possum.city/",
+        "software": "Conduit",
+        "version": "0.6.0",
         "recaptcha": false,
-        "email": true
+        "email": false
     },
     {
         "name": "projectsegfau.lt",
