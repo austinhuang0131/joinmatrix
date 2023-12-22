@@ -641,7 +641,7 @@
         "reg_method": "SSO",
         "reg_link": "https://account.magdeburg.jetzt/",
         "software": "Synapse",
-        "version": "1.97.0",
+        "version": "1.98.0",
         "recaptcha": false,
         "email": false
     },
@@ -710,8 +710,8 @@
         "reg_link": "https://element.nope.chat",
         "software": "Synapse",
         "version": "1.98.0",
-        "recaptcha": true,
-        "email": true
+        "recaptcha": false,
+        "email": false
     },
     {
         "name": "norge.chat",
