@@ -66,25 +66,3 @@ The only thing that may negatively affect trust is Matrix's use of a central ide
 * The Matrix.org Foundation C.I.C., who develops the protocol and runs the matrix.org homeserver, is funded ["through a combination of community support, corporate sponsorship, and grant funding"](https://matrix.org/docs/legacy/faq/#how-is-matrix-org-funded).
 * New Vector Ltd, who develops Element and offers commercial services related to Matrix, is funded by [investors](https://element.io/blog/tag/funding/).
 * Homeservers are independently funded. Some solicit donations. Others operate homeservers as part of a business.
-
-#### What about Israeli intelligence?
-
-If, somehow, that you even *believed* this conspiracy theory, then consider:
-
-* It is [true](https://matrix.org/faq/#who-and-how) that Matrix was created by a bunch of employees in Amdocs, but just because Amdocs have allegedly done certain things doesn't mean these employees have done the same things? Since when are we defining people by where they work? Also, Tor is partially funded by the U.S. government, but why is nobody saying the same thing about Tor?
-* Data (including metadata) is only provided to homeservers that are in a room. So if a user on homeserver A is talking to a user on homeserver B, any data will only be present on homeservers A and B, not any other homeserver (unless someone else from a different homeserver is invited into the room). Furthermore, [XMPP has the same issue](https://infosec-handbook.eu/articles/xmpp-aitm/). And as always, if you're concerned about where your data will end up, you (and your friends) can always [spin up your own homeserver](../#set-up-your-own-homeserver-or-join-an-existing-homeserver)!
-* Matrix is well-funded because people believed in an open communication protocol. And their funding has paid off: We now have a well-built open communication protocol.
-
-#### What about cryptocurrency funding?
-
-People [did ask for this](https://www.reddit.com/r/discordapp/comments/qq4qx3/is_there_a_discord_replacement_that_doesnt/hjy61jo/?context=3) during the [Discord NFT incident](../matrix-vs-discord/#why-not-discord). Now, it is true that Matrix is sponsored by a few cryptocurrency-related companies, but consider:
-
-* Open source projects are under no obligation to cater to their sponsors, so these sponsors usually just get a shoutout, that's it. Remember, donations are not commercial funding.
-* Furthermore, [Matrix is well-funded commercially](https://www.matrix.org/blog/2019/10/10/new-vector-raises-8-5-m-to-accelerate-matrix-riot-modular) and need not to cater to cryptobros.
-* Furthermore, because the Matrix platform is decentralized, and because the components of Matrix are open source,
-  * Pushing crypto onto a client (like Element) will directly result in a fork undoing such changes,
-  * Pushing crypto onto the homeserver software (like Synapse) will not only result in a fork undoing such changes, but also the effective fragmentation of the federation (since a portion of the homeservers will now use the non-crypto fork which may or may not be compatible with the one that has crypto), which is self-destructive.
-
-Thus, even with funding, it will be very difficult for Matrix to even attempt trying to integrate something the community does not want.
-
-Also, if you insist that you refuse to use any platform that has ever been involved with cryptocurrencies, then there will be very, very few platforms that you can use. Think about it.
