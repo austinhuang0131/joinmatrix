@@ -88,14 +88,22 @@ For most apps:
 2. Verify that you are logging onto the correct server. This is usually shown on top of the dialog. If necessary, click "edit" and enter the appropriate domain (see Step 3 of registration).
 3. Enter your login details.
 
-### Set up key backup
+### Encryption
 
 When you log into a new device, you will be prompted to verify it using your existing device (by scanning a QR code or by comparing emojis). Your new device will then retrieve the room keys from your existing device, thereby enabling it to read your encrypted messages. This prevents anyone else - including your homeserver operator - to read encrypted content[^1].
 
+<div class="flash flash-warn">
+  It is <b>strongly recommended</b> to check for new sessions. (Note that Element does notify you on new sessions.) If you do not recognize the session, then <b>you must remove it immediately!</b> Not doing so can <a href="https://blog.erethon.com/blog/2022/07/13/what-a-malicious-matrix-homeserver-admin-can-do/#headline-4">compromise your future encrypted messages</a>.
+</div>
+
 However, a Security Key is required to access encrypted messages if:
 
-* You have logged out of *all* your sessions prior to this login, or
+* You have logged out of *all* your sessions prior to this login (note that you cannot recover messages during the time when your account has no session), or
 * You are unable to verify interactively from another session.
+
+<div class="flash flash-warn">
+  It is <b>strongly recommended</b> to do this step to prevent accidentally losing all of your encrypted messages.
+</div>
 
 You can set up a Security Key with the following steps:
 
@@ -104,10 +112,6 @@ You can set up a Security Key with the following steps:
 3. Save the generated security key in a safe place (like in a password manager).
 
 A graphic tutorial is available [here](https://www.ubuntubuzz.com/2021/01/element-made-easy-setup-security-phrase-and-key.html).
-
-<div class="flash flash-warn">
-  It is <b>strongly recommended</b> to do this step to prevent accidentally losing all of your encrypted messages.
-</div>
 
 ## Get Familiar
 
