@@ -1,0 +1,22 @@
+---
+layout: page
+---
+
+<div class="gut-lg">
+  <nav class="side-nav col-md-3 float-md-left js-side-nav">
+    <ul class="list-style-none">
+      {% assign pages_list = site.pages | sort:"order" %}
+        {% for node in pages_list %}
+          {% if node.parent == page.parent %}
+            <li class="side-nav-item border-bottom m-0{% if page.url == node.url %} active{% endif %} js-side-nav-item"><a href="{{ node.url | absolute_url }}" class="side-nav-link py-2 d-block{% if page.url == node.url %} active js-side-nav-link-active{% endif %}">{{ node.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+    </ul>
+  </nav>
+
+  <div class="col-md-9 float-md-left">
+    {{ content }}
+
+    {% include _gh_link.html %}
+   </div>
+</div>
