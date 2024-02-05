@@ -48,7 +48,7 @@ nav_logo_file: assets/images/logo.svg # path to the logo file for the main nav (
 # footer_logo_file: assets/images/stately-logo.png # path to the logo file for the footer nav (supports svg, png, jpg, gif). Delete this line for no logo.
 # Text to appear in the footer, copyright information, contact links, etc...
 footer_text: >
-  Website content &copy; Copyright 2021-2023 <a href="https://austinhuang.me" class="text-white text-underline">Austin Huang</a>. CC BY-SA 4.0.<br>
+  Website content &copy; Copyright 2021-2024 <a href="https://austinhuang.me" class="text-white text-underline">Austin Huang</a>. CC BY-SA 4.0.<br>
   The <a href="https://pmarsceill.github.io/stately/" class="text-white text-underline">Stately</a> theme &copy; Copyright 2016 <a href="https://patrickmarsceill.com/" class="text-white text-underline">Patrick Marsceill</a>. MIT License.<br>
   Not affiliated with The Matrix.org Foundation C.I.C. or New Vector Ltd.
 github_link: true # Display link to edit page content on GitHub. Delete this line or set to false for no link.
