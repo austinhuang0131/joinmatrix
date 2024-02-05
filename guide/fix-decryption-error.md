@@ -5,6 +5,7 @@ nav: false
 parent: guide
 permalink: guide/fix-decryption-error/
 description: A simple checklist on what to do when your Matrix client cannot decrypt messages.
+order: 6
 ---
 
 ## Fix decryption error
