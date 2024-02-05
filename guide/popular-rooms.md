@@ -47,6 +47,7 @@ Remember that you can search for other rooms on [MatrixRooms.info](https://matri
 
 ### Miscellaneous
 
+* Canada [`#lo_canada:mozilla.org`](https://matrix.to/#/#lo_canada:mozilla.org)
 * Cyberia.club [`#cyberia-space:cyberia.club`](https://matrix.to/#/%23cyberia-space:cyberia.club)
 * Cybre.space [`#meta:cybre.space`](https://matrix.to/#/#meta:cybre.space)
 * Offtopic Space [`#offtopic-space:envs.net`](https://matrix.to/#/#offtopic-space:envs.net): a collection of off-topic rooms of various communities.
