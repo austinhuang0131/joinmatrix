@@ -5,7 +5,7 @@ nav: false
 parent: guide
 permalink: guide/matrix-vs-telegram/
 description: It's time to ditch Telegram. Join Matrix, the federated chat platform that actually respects you.
-order: 5
+order: 6
 ---
 
 ## Matrix vs. Telegram

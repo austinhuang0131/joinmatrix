@@ -5,7 +5,7 @@ nav: false
 parent: guide
 permalink: guide/matrix-vs-guilded/
 description: It's time to ditch Guilded. Imagine a place where users are actually respected. Join Matrix, the federated chat platform that does exactly that.
-order: 4
+order: 5
 ---
 
 ## Matrix vs. Guilded
