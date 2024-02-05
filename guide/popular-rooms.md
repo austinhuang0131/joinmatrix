@@ -15,7 +15,7 @@ Below are some active rooms with minimal bridging that you may be interested in.
 You can search for other rooms on [MatrixRooms.info](https://matrixrooms.info), but please note that the results are unfiltered, and you should exercise caution in selecting rooms.
 
 <div class="flash">
-  Unlike the homeserver list, this room is consent-less: as long as the room/space is <em>reasonably public</em>, it can be included here. Please let me know (see footer) of any popular room/space and I will consider.
+  Unlike the homeserver list, this list does not require explicit consent: as long as the room/space is <em>reasonably public</em> (eg. on room directories that can be publicly searched), it can be included here. Please let me know (see footer) of any popular room/space and I will consider.
 </div>
 
 ### Technology
