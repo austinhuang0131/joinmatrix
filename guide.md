@@ -139,7 +139,7 @@ Each Matrix homeserver has a public room directory, which is accessible to the u
 
 * On PC, for Element and SchildiChat, click the "Explore Rooms" button on the top-left.
 * For FluffyChat, and for Element and SchildiChat on phone, click the search button.
-* [MatrixRooms.info](https://matrixrooms.info) allows you to search public room directories of various homeservers on the web.
+* [MatrixRooms.info](https://matrixrooms.info) allows you to search public room directories of various homeservers on the web. (**Warning**: it does not filter what homeservers it uses, so please exercise caution in joining rooms.)
 
 In any case mentioned above, you can enter the room address to directly join a room, or you can enter keywords to search for rooms[^8]. However, the directory may be unintuitive to use as it orders rooms by member count[^9]. The author of this guide recommends joining [this Space](https://matrix.to/#/#offtopic-space:envs.net) (`#offtopic-space:envs.net`), which contains a list of active off-topic or no-topic discussion rooms.
 

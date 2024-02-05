@@ -12,7 +12,7 @@ order: 2
 
 Below are some active rooms with minimal bridging that you may be interested in.
 
-Remember that you can search for other rooms on [MatrixRooms.info](https://matrixrooms.info)!
+You can search for other rooms on [MatrixRooms.info](https://matrixrooms.info), but please note that the results are unfiltered, and you should exercise caution in selecting rooms.
 
 <div class="flash">
   Unlike the homeserver list, this room is consent-less: as long as the room/space is <em>reasonably public</em>, it can be included here. Please let me know (see footer) of any popular room/space and I will consider.
