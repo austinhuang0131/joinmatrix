@@ -37,11 +37,11 @@ I'm sure you can find a lot of valid criticisms of Discord, like [here](https://
 In the scope of this guide, the key reasons to move from Discord to Matrix are:
 
 * **Lack of privacy for private communications**, as private conversations are not only unencrypted, but also actively scanned (scope of which depends on your settings, but some happen even when you disable all the filtering-related toggles). [People reported](https://www.reddit.com/r/discordapp/comments/t5v3of/viruses_now_get_turned_into_recipe_links_funny/) their messages were substituted with cooking recipes when they tried to send something that is considered a virus by Discord.
-* **Excessive tracking**, such as the [science endpoint](https://luna.gitlab.io/discord-unofficial-docs/science.html) and the process logger (for activity status)[^9].
+* **Excessive tracking**, such as the [science endpoint](https://luna.gitlab.io/discord-unofficial-docs/docs/science) and the process logger (for activity status)[^9].
 * **Hostile stance against unofficial clients or client modifications**, thus preventing users from opting out of certain annoyances or tracking in a compliant way (even though users *tend not to* get banned for doing so).
 * **Arbitrary phone number requirements**. Some users that are deemed suspicious and users that join certain "servers" are required to verify their phone number.
 * Discord has made **decisions against the users' best interests**, with the most recent ones being:
-  * Biased consultations and unilateral proposal of [cryptocurrency integrations](https://www.reddit.com/r/discordapp/comments/qpmhs5/discord_developers_please_do_not_support_nfts/) (which were only dropped after massive backlash); and
+  * Biased consultations and unilateral proposal of [cryptocurrency integrations](https://www.reddit.com/r/discordapp/comments/qpmhs5/discord_developers_please_do_not_support_nfts/) (which was only dropped after massive backlash); and
   * Deprecating access to read text messages in "servers" with certain exceptions[^11], effectively equating to mandatory rollout of application commands based interaction flow, as well as KYC requirements, for running bots in more than 100 "servers" (which were *not* dropped despite [backlash](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)).
 * **Closed source**, thus cannot be independently inspected.
 * **Lack of control for private data and no guarantee on reliability**, as Discord is centralized, not federated. See [here](../matrix-vs-al/#centralized-platforms).
