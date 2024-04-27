@@ -16,11 +16,13 @@ Thank you for considering Matrix. We will start with why you should move from Te
 
 In the scope of this guide, the key reasons to move from Telegram to Matrix are:
 
-* **Lack of privacy for private communications** since the default option is Cloud chat, which is not end-to-end encrypted. Secure chat also comes with significant feature limitations, such as no portability across devices.
-* **Ads**, even if it's just for popular channels. Third-party clients are also not allowed to opt them out, albeit nobody knows how Telegram will enforce that restriction.
+* **Lack of privacy for private communications** since the default option is Cloud chat, which is not end-to-end encrypted. Secure chat also comes with significant feature limitations, such as no portability across devices, not to mention Telegram's use of its own protocol.
+* **Ads**, even if it's just for popular channels. Third-party clients are also not allowed to opt them out, although nobody knows how Telegram will enforce that restriction.
+* Involvement with **cryptocurrency** as a mean to monetize.
 * **Phone number requirement.**
-* Despite Telegram claiming to have minimal intervention on legal content, it nevertheless made **controversial decisions**, such as [shutting down Russian political bots](https://en.wikipedia.org/wiki/Telegram_(software)#2021_shutdown_of_Russian_political_bots). (Matrix, on the other hand, is decentralized, which makes censorship technically difficult.)
-* **Telegram servers are closed source**. (Says to defend against state censorship...?)
+* Despite Telegram claiming to intervene only minimally on legal content, it nevertheless made **controversial moderation decisions**, such as [shutting down Russian political bots](https://en.wikipedia.org/wiki/Telegram_(software)#2021_shutdown_of_Russian_political_bots). (Matrix, on the other hand, is decentralized, which makes censorship technically difficult.)
+* **Questionable political alignment.** See [here](https://plush.city/@PsyChuan/112336464469767051).
+* **Telegram servers are closed source.** (Says to defend against state censorship...?)
 * **Lack of control for private data and no guarantee on reliability**, as Telegram is centralized, not federated. See [here](../matrix-vs-al/#centralized-platforms).
 
 Despite recent studies, Telegram's use of its own MTProto protocol remains a debated subject, which will be left up to you.
