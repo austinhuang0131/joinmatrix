@@ -31,8 +31,7 @@ We assume the sender's and recipient's devices are cross-signed.
 
 ### If none of your devices can read the messages
 
-* If key backup is enabled for your account, go to Room Settings => Security & Privacy => Restore from Backup.
-* While the sender is online, ask them to navigate to the room, then click "resend key requests" on your client (if exists).
+If key backup is enabled for your account, go to Room Settings => Security & Privacy => Restore from Backup.
 
 Note that if you logged out of every device when you received the message, the message cannot be recovered. (Dehydrated devices will eventually fix this issue, but it will not recover anything that is already lost.)
 
