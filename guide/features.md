@@ -199,13 +199,19 @@ A public address also allows you to [link the room from a webpage](https://matri
 
 ### Moderation
 
-See [the official guide](https://matrix.org/docs/guides/moderation#moderating-rooms) (just the linked section).
+See [the official guide](https://matrix.org/docs/communities/moderation/) for general information.
+
+The commonly-taken approach is:
+
+1. Host [Draupnir](https://github.com/the-draupnir-project/Draupnir), or request [Draupnir4All](https://docs.draupnir.midnightthoughts.space/).
+2. Subscribe to ban lists. To combat spam, it is enough to subscribe to [`#community-moderation-effort-bl:neko.dev`](https://matrix.to/#/#community-moderation-effort-bl:neko.dev), but other lists are also available in the [`#acls:envs.net`](https://matrix.to/#/#acls:envs.net) space.
+3. Review the [Moderator's Guide](https://the-draupnir-project.github.io/draupnir-documentation/docs/bot/moderators) for various commands.
 
 <div class="flash flash-warn">
   If you promote a user to the same power level as you, then you will <b>not</b> be able to demote them!
 </div>
 <div class="flash">
-  It is a good idea to copy ACLs of other rooms (especially those of popular public rooms) and use them on your own to strengthen your room's defense to unwanted content. To do so:
+  <b>If you do not have Draupnir/Mjolnir,</b> It is a good idea to copy ACLs of other rooms (especially those of popular public rooms) and use them on your own to strengthen your room's defense to unwanted content. To do so:
   <ol>
     <li>Enter <code>/devtools</code> in the room you want to copy ACL from.</li>
     <li>Click "Explore Room State."</li>
@@ -219,7 +225,7 @@ See [the official guide](https://matrix.org/docs/guides/moderation#moderating-ro
   </ol>
 </div>
 <div class="flash">
-  You <a href="https://github.com/matrix-org/mjolnir/issues/165">cannot</a> selfhost <a href="https://github.com/matrix-org/mjolnir">mjolnir</a> without permission to go over ratelimit for the homeserver the bot is on. This means, that you may selfhost it if you run your own homeserver, or consult your homeserver operators otherwise (they may be hosting it already).
+  Hosting Draupnir/Mjolnir without permission to bypass ratelimit on the homeserver may result in reduced performance, but it is still possible.
 </div>
 
 ### Integrations
