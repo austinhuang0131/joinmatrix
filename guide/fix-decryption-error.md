@@ -14,7 +14,9 @@ If you're seeing *Unable to decrypt message* or similar errors in a room, here's
 
 A detailed explanation is available on [neko.dev](https://blog.neko.dev/posts/unable-to-decrypt-matrix.html).
 
-We assume the sender's and recipient's devices are cross-signed.
+<div class="flash">
+  Everyone should make sure that <b>all</b> of their active sessions are verified!
+</div>
 
 ### If at least one of your devices can read the messages
 
@@ -39,6 +41,7 @@ Note that if you logged out of every device when you received the message, the m
 
 If all above methods are exhausted, then the messages are very unlikely to be recovered. There are, however, a few things that you can do to prevent such annoyances from happening again:
 
+* [Enable key backup!](https://joinmatrix.org/guide/#encryption)
 * Unless you understand what it does, have the sender disable "Never send encrypted messages to unverified sessions in this room from this session" (in Room Settings => Security & Privacy), as well as "Never send encrypted messages to unverified sessions from this session" (in User Settings => Security & Privacy).
-* On PC Element, have the sender open your profile and show the recipient's active sessions under "Security". Check if the recipient's current session is there. If not, please verify whether the homeservers and clients are working correctly. Note that some experimental features on PC Element (especially Rust Crypto) may interfere with encryption.
-* Have the sender enter `/discardsession` (on Element; `/rotate-megolm-session` on Nheko) in the room (unlikely to fix existing issue but could prevent future issues).
+* On PC Element, have the sender open the recipient's profile and show the active sessions under "Security". Check if the recipient's current session is there. If not, please verify whether the homeservers and clients are working correctly. Note that some experimental features on PC Element (especially Rust Crypto) may interfere with encryption.
+* Have the sender enter `/discardsession` (on Element; `/rotate-megolm-session` on Nheko) in the room. Usually this happens automatically, but homeserver hiccups could cause issues.
