@@ -52,3 +52,4 @@ You can search for other rooms on [MatrixRooms.info](https://matrixrooms.info), 
 * Cybre.space [`#meta:cybre.space`](https://matrix.to/#/#meta:cybre.space)
 * Offtopic Space [`#offtopic-space:envs.net`](https://matrix.to/#/#offtopic-space:envs.net): a collection of off-topic rooms of various communities.
 * Stickers and emoji [`#stickers-and-emojis:tastytea.de`](https://matrix.to/#/#stickers-and-emojis:tastytea.de): a collection of rooms serving MSC2545 sticker packs.
+* [FurryMatrix.info](https://furrymatrix.info/) contains info pertaining to furry rooms and homeservers on Matrix.
