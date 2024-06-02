@@ -42,6 +42,7 @@ Note that if you logged out of every device when you received the message, the m
 If all above methods are exhausted, then the messages are very unlikely to be recovered. There are, however, a few things that you can do to prevent such annoyances from happening again:
 
 * [Enable key backup!](https://joinmatrix.org/guide/#encryption)
+* Make sure there is at least one active session that you normally use at all times!
 * Unless you understand what it does, have the sender disable "Never send encrypted messages to unverified sessions in this room from this session" (in Room Settings => Security & Privacy), as well as "Never send encrypted messages to unverified sessions from this session" (in User Settings => Security & Privacy).
 * On PC Element, have the sender open the recipient's profile and show the active sessions under "Security". Check if the recipient's current session is there. If not, please verify whether the homeservers and clients are working correctly. Note that some experimental features on PC Element (especially Rust Crypto) may interfere with encryption.
 * Have the sender enter `/discardsession` (on Element; `/rotate-megolm-session` on Nheko) in the room. Usually this happens automatically, but homeserver hiccups could cause issues.
