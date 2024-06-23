@@ -31,16 +31,16 @@ Despite recent studies, Telegram's use of its own MTProto protocol remains a deb
 
 | Feature | Telegram | Matrix |
 | ------- | -------- | ------ |
-| **Registration** | Requires phone number. | **Phone number is usually optional.** Depending on homeserver, **email is commonly required**. There is usually no human check after registration. |
+| **Registration** | Requires phone number or [purchasing so called "anonymous numbers" to be used in place of phone number](https://telegram.org/blog/ultimate-privacy-topics-2-0#sign-up-without-a-sim-card). | **Phone number is usually optional.** Depending on homeserver, **email is commonly required**. There is usually no human check after registration. |
 | **Username** | Users are identified by phone number or username (if set up, 5\~32 alphanumeric characters) to fellow users, and user IDs (around 9\~10 digits) for programming purposes. A display name can be added (no limit). | Users are identified by their MXID (eg. `@alice:example.com`), composed of the username (must be ASCII characters, upper case letters are not allowed) and the server name (not exceeding 255 characters when combined, including the introducing at symbol and the colon separating the parts). A display name can be optionally added (up to ~65200 bytes)[^2]. |
 | Avatar | Static or animated; limit unknown. Can be zoomed; the returned avatar has a maximum definition of 640x640. | **See "Attachments" for limits.** Can be zoomed (at least in Element/SchildiChat), in which case the avatar will be shown in the uploaded definition. Animated avatars are supported and will be rendered (at least in Element/SchildiChat). |
 | Profile description | **Supported**. | Will be supported using profile rooms. Not supported currently. |
-| Room-specific nicknames | Not supported, though group admins can talk on behalf of the whole group. | **Supported** (`/myroomnick`). Up to ~65200 bytes. [^2] |
+| Room-specific nicknames | Group admins can talk on behalf of the whole group or [have custom title shown next to their name](https://t.me/TelegramTips/68). | **Supported** (`/myroomnick`). Up to ~65200 bytes. [^2] |
 | Room-specific avatars | Not supported. | [**Supported**](../features/#attachments) (`/myroomavatar`). See "Attachments" for limits. |
 | 2FA | One-time token sent to another session. | Not required for login, but required (QR code, emoji verification, or Security Key) for viewing past encrypted messages. |
 | **Text messages** | Maximum 4096 characters. Supports Markdown. | **Up to ~65200 bytes (up to ~21270 bytes if a formatted message with plain text fallback sent).[^2] [Supports Markdown and HTML.](../features/#text)** |
-| Attachments | **Maximum 2 GB.** | Maximum 50~100 MB (for most homeservers; customizable if you run your own homeserver). |
-| Reactions | Very limited. Must be enabled by group admins in groups. | All unicode emotes and [text](../features/#reactions). |
+| Attachments | **Maximum 2 GB for free users and 4 GB for Premium users.** | Maximum 50~100 MB (for most homeservers; customizable if you run your own homeserver). |
+| Reactions | Free users can use limited set of reactions, [premium users can use custom emoji](https://t.me/premium/10). May be disabled by group admins in groups. | All unicode emotes and [text](../features/#reactions). |
 | Stickers | Up to 200 packs of 120 static or 50 animated each. | **Unlimited (static or animated) with setup.** See [here](../features/#stickers). |
 | Public read receipts | Supported ambiguously. | **Supported.** |
 | **Direct messages** | Not encrypted unless explicitly opted into secret chat, which cannot be carried across devices. VoIP is encrypted. | **Encrypted by default**, including VoIP. |
@@ -53,7 +53,7 @@ Despite recent studies, Telegram's use of its own MTProto protocol remains a deb
 | Group chat permissions | Permissions of each administrator are set manually. All admins are equal (except owner). Permissions of a member do not survive leave and rejoin. | 2^54 power levels (I think it's -2^53 to 2^53-1, however I highly doubt you will *ever* reach that limit). A user acquires a permission if their power level is equal to or higher than the power level required for the specific permission. Power levels of members survive leave and rejoin. |
 | Size limits of group chats | Up to 100k members in groups, unlimited in one-to-many channels. | No artificial limits, albeit current implementations do not perform well with rooms having more than a few tens of thousands of members and a few dozens of homeservers. | 
 | Disabled and deleted account handling | Disabling an account is reversible until one year after disabling. Accounts that do not login for a year get automatically deleted. Messages from deleted accounts survive for one more year from deletion. | Disabling an account is usually irreversible. Messages from disabled accounts are not sent to further users and servers. Rooms created by disabled accounts stay. |
-| Ads | Popular channels now carry ads that you cannot opt out. | It is technically possible for a homeserver to insert ads, but **there are no known occurrences**. |
+| Ads | Popular channels now show ads for free users. [Users with premium subscription do not see ads](https://telegram.org/faq_premium#q-what-features-are-included) | It is technically possible for a homeserver to insert ads, but **there are no known occurrences**. |
 | **Network access** | **IPv4 supported, [IPv6 broken](https://flameeyes.blog/2017/08/06/ipv6-horror-story-telegram/)**.  | ***Most if not all homeservers participating in the public federation have IPv4 connectivity but IPv6 connectivity varies from homeserver to homeserver.**. |
 
 
