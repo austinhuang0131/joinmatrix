@@ -40,7 +40,7 @@ Despite recent studies, Telegram's use of its own MTProto protocol remains a deb
 | 2FA | One-time token sent to another session. | Not required for login, but required (QR code, emoji verification, or Security Key) for viewing past encrypted messages. |
 | **Text messages** | Maximum 4096 characters. Supports Markdown. | **Up to ~65200 bytes (up to ~21270 bytes if a formatted message with plain text fallback sent).[^2] [Supports Markdown and HTML.](../features/#text)** |
 | Attachments | **Maximum 2 GB for free users and 4 GB for Premium users.** | Maximum 50~100 MB (for most homeservers; customizable if you run your own homeserver). |
-| Reactions | Free users can use limited set of reactions, [premium users can use custom emoji](https://t.me/premium/10). May be disabled by group admins in groups. | All unicode emotes and [text](../features/#reactions). |
+| Reactions | Free users can use limited set of reactions, [premium users can use custom emoji](https://t.me/premium/10). | All unicode emotes and [text](../features/#reactions). Custom emojis are supported in certain clients. |
 | Stickers | Up to 200 packs of 120 static or 50 animated each. | **Unlimited (static or animated) with setup.** See [here](../features/#stickers). |
 | Public read receipts | Supported ambiguously. | **Supported.** |
 | **Direct messages** | Not encrypted unless explicitly opted into secret chat, which cannot be carried across devices. VoIP is encrypted. | **Encrypted by default**, including VoIP. |
