@@ -14,15 +14,15 @@ order: 7
   As homeserver federation is a variable factor in key exchange, homeserver performance and networking does matter in preventing those issues. If you consistently encounter decryption issues, you may want to check whether your homeserver is working correctly. Specifically, if you are on matrix.org, it is recommended to <a href="https://servers.joinmatrix.org">move to a different homeserver</a> due to reliability issues.
 </div>
 
+<div class="flash">
+  Everyone should make sure that <b>all</b> of their active sessions are verified, and that there is <b>at least one active session</b> that you normally use at all times!
+</div>
+
 A detailed explanation is available on [neko.dev](https://blog.neko.dev/posts/unable-to-decrypt-matrix.html).
 
 ### For recipients
 
 Note that the instructions are relative to Element, but in principle similar steps can be taken for other clients.
-
-<div class="flash">
-  Everyone should make sure that <b>all</b> of their active sessions are verified, and that there is <b>at least one active session</b> that you normally use at all times!
-</div>
 
 1. if key backup is enabled for your account, go to Room Settings => Security & Privacy => Restore from Backup on the device that cannot read the message. If the option does not exist on your client, or if key backup is not enabled on your account yet (please [enable it](https://joinmatrix.org/guide/#encryption) now!), continue.
 2. If at least one of your devices can read the messages:
@@ -45,7 +45,7 @@ Note that if you logged out of every device when you received the message, the m
 If others cannot decrypt your message, try:
 
 * If you do not know what it does, disable the room-specific setting "Never send encrypted messages to unverified sessions in this room from this session" (in Room Settings => Security & Privacy), as well as the default setting "Never send encrypted messages to unverified sessions from this session" (in User Settings => Security & Privacy).
-* On PC Element (or Nheko), open the recipient's profile and show their active sessions (for Element, under "Security"). Check if the recipient's current session is there (without asking the recipient, you may use "View Source" on the recipient's latest message, the device ID is `device_id` in `content` under "Original Event Source"). If not, please verify whether your homeserver and clients are working correctly. Some experimental client features (especially [Sliding Sync](https://github.com/element-hq/element-web/issues/27580)) may interfere with decryption.
+* On PC Element (or Nheko), open the recipient's profile and show their active sessions (for Element, under "Security"). Check if the session that your recipient is using is there. (Alternatively, on Element, check if a red warning indicating unverified or deleted/unknown devices appears next to your recipient's message.) If not, please verify whether your homeserver and clients are working correctly. Some experimental client features (especially [Sliding Sync](https://github.com/element-hq/element-web/issues/27580)) may interfere with decryption.
 * If you're selfhosting, check your network setup!
 
 To prevent future issues, try:
