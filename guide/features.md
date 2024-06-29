@@ -161,7 +161,7 @@ You can join any IRC channel on [these networks](https://matrix-org.github.io/ma
 
 ### XMPP
 
-You can join any XMPP MUC on any instance directly from Matrix, using the Bifrost bridge provided by [matrix.org](https://github.com/matrix-org/matrix-bifrost/wiki/Address-syntax) or [aria-net.org](https://aria-net.org/SitePages/Portal/Bridges.aspx).
+You can join any XMPP MUC on any instance directly from Matrix, using the Bifrost bridge provided by [matrix.org](https://github.com/matrix-org/matrix-bifrost/wiki/Address-syntax) or [aria-net.org](https://archon.im/arianet/matrix-homeserver/services/).
 
 ### Other
 
