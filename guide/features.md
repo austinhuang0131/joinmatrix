@@ -121,11 +121,10 @@ Note that encryption is **not** supported on most bridges. Furthermore, the foll
 
 ### Discord
 
-To bridge a Matrix room with a Discord channel, you can install [matrix-appservice-discord](https://github.com/Half-Shot/matrix-appservice-discord) if you're running your own homeserver[^3], or set up one of the free public bridges otherwise:
+To bridge a Matrix room with a Discord channel, you can install [matrix-appservice-discord](https://github.com/Half-Shot/matrix-appservice-discord) or [mautrix discord](https://github.com/mautrix/discord) if you're running your own homeserver[^3], or set up one of the free public bridges otherwise:
 
-* [t2bot](https://t2bot.io/discord)
-* [tchncs.de](https://tchncs.de/matrix)
-* [TeDomum](https://tedomum.net/service/matrix/bridges/)
+* [t2bot](https://t2bot.io/discord) (matrix-appservice-discord)
+* [frei.chat](https://frei.chat/books/freichat/page/bridges) (mautrix)
 
 Matrix users will show up as webhooks on Discord, and Discord users will show up as standard users on Matrix (but you cannot DM them). There is no puppeting.
 
@@ -134,6 +133,8 @@ Matrix users will show up as webhooks on Discord, and Discord users will show up
 To bridge a Matrix room with a Telegram group chat, you can install [mautrix telegram](https://github.com/mautrix/telegram) if you're running your own homeserver, or use one of the free public bridges otherwise:
 
 * [t2bot](https://t2bot.io/telegram) (No puppeting)
+* [Catgirl Cloud](https://catgirl.cloud/#matrix)
+* [frei.chat](https://frei.chat/books/freichat/page/bridges)
 * [tchncs.de](https://tchncs.de/matrix) (Puppeting requires approval)
 * [TeDomum](https://tedomum.net/service/matrix/bridges/)
 * [SNT](https://syscom.utwente.io/info/matrix/telegram/)
@@ -150,6 +151,12 @@ To bridge a Matrix room with a Slack channel, do the following on Element or Sch
 1. In your desired room, click the info button on the top-right.
 2. "Add widgets, bridges & bots"
 3. Navigate to "Slack bridge" and follow the instructions.
+
+Alternatively, try:
+
+* [frei.chat](https://frei.chat/books/freichat/page/bridges)
+* [nope.chat](https://nope.chat/)
+* [yatrix.org](https://yatrix.org/wissen/anleitungen/bruecken/#slack)
 
 ### IRC
 
@@ -169,9 +176,12 @@ Matrix supports many other platforms, but such bridges generally require setup. 
 
 * [Host the bridges yourself](https://matrix.org/bridges/), if you run your own homeserver
 * Use public bridges (which you're encouraged to donate for):
-  * [Aria Network](https://aria-net.org/SitePages/Portal/Bridges.aspx) (Facebook, Instagram, MS Teams, Twitter, WhatsApp; only available to accounts on the aria-net.org homeserver)
-  * [yatrix.org](https://yatrix.org/wissen/anleitungen/bruecken/) (Signal, Slack, WhatsApp)
-  * [TeDomum](https://tedomum.net/service/matrix/bridges/) (WhatsApp)
+  * [Aria Network](https://archon.im/arianet/matrix-homeserver/services/) (Facebook, Instagram, WhatsApp; only available to accounts on the aria-net.org homeserver)
+  * [frei.chat](https://frei.chat/books/freichat/page/bridges) (Facebook, Google Chat, Google Messages, Instagram, KakaoTalk, LinkedIn, Signal, Skype, WhatsApp)
+  * [nope.chat](https://nope.chat/) (Facebook, Google Chat, Instagram, LinkedIn, Signal, Twitter, WhatsApp)
+  * [tchncs.de](https://tchncs.de/matrix) (Signal, WhatsApp)
+  * [TeDomum](https://tedomum.net/service/matrix/bridges/) (Signal, WhatsApp)
+  * [yatrix.org](https://yatrix.org/wissen/anleitungen/bruecken/) (Signal, WhatsApp)
 * Set up bridges as part of a managed homeserver hosting:
   * [etke.cc](https://etke.cc) (Many platforms)
   * [ungleich](https://ungleich.ch/u/products/hosted-matrix-chat/) (Many platforms)
