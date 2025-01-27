@@ -45,11 +45,14 @@ You can search for other rooms on [MatrixRooms.info](https://matrixrooms.info), 
 * [The Apothecary](https://the-apothecary.club/) [`#community:the-apothecary.club`](https://matrix.to/#/#community:the-apothecary.club)
 * [FurryMatrix.info](https://furrymatrix.info/) and [squirrel.rocks](https://matrix.squirrel.rocks/furry_servers) contains info pertaining to furry rooms and homeservers on Matrix.
 
+### Hobbies
+
+* Ham Radio Space [`#ham-radio-space:matrix.m0aws.co.uk`](https://matrix.to/#/#ham-radio-space:matrix.m0aws.co.uk): see [here](https://m0aws.co.uk/matrix/) for details.
+* Matrix United [`#matrixunited-space:matrix.org`](https://matrix.to/#/#matrixunited-space:matrix.org)
+
 ### Miscellaneous
 
-* Canada [`#lo_canada:mozilla.org`](https://matrix.to/#/#lo_canada:mozilla.org)
 * Cyberia.club [`#cyberia-space:cyberia.club`](https://matrix.to/#/%23cyberia-space:cyberia.club)
 * Cybre.space [`#meta:cybre.space`](https://matrix.to/#/#meta:cybre.space)
-* Ham Radio Space [`#ham-radio-space:matrix.m0aws.co.uk`](https://matrix.to/#/#ham-radio-space:matrix.m0aws.co.uk): see [here](https://m0aws.co.uk/matrix/) for details.
 * Offtopic Space [`#offtopic-space:envs.net`](https://matrix.to/#/#offtopic-space:envs.net): a collection of off-topic rooms of various communities.
 * Stickers and emoji [`#stickers-and-emojis:tastytea.de`](https://matrix.to/#/#stickers-and-emojis:tastytea.de): a collection of rooms serving MSC2545 sticker packs.
