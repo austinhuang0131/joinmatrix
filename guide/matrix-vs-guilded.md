@@ -67,14 +67,14 @@ Note that Matrix does not (and cannot, due to its decentralized nature) paywall 
 
 | Feature | Guilded | Matrix |
 | ------- | ------- | ------ |
-| **Registration** | Requires Roblox account since April 2024. | Depending on homeserver (especially if you're running your own), **email may be optional**, and phone number is usually optional. There is no *automated* human check after registration. |
-| Price | Free, effectively subsidized by Roblox the game. | Free for [most homeservers](../../servers) (but please consider donating to them). Hosting a private homeserver may also incur cost (could be [free](https://matrix.org/docs/guides/free-small-matrix-server)). Note that paying (not donation) only affects where your data is hosted and (to a much lesser degree) server performance; it has no effect on features. |
+| **Registration** | Requires Roblox account since April 2024, shutting down in December 2025. | Depending on homeserver (especially if you're running your own), **email may be optional**, and phone number is usually optional. There is no *automated* human check after registration. |
+| Price | Free. | Free for [most homeservers](../../servers) (but please consider donating to them). Hosting a private homeserver may also incur cost (could be [free](https://matrix.org/docs/guides/free-small-matrix-server)). Note that paying (not donation) only affects where your data is hosted and (to a much lesser degree) server performance; it has no effect on features. |
 | **Username** | Users are identified by display name (maximum 32 characters) to fellow users, and user UUIDs and roblox user IDs for programming purposes. | Users are identified by their MXID (eg. `@alice:example.com`), composed of the username (must be ASCII characters, upper case letters are not allowed) and the server name (not exceeding 255 characters when combined, including the introducing at symbol and the colon separating the parts). A display name can be optionally added (up to ~65200 bytes)[^7]. |
 | Avatar | Static, maximum 25 MB. Can be zoomed. | **See "Attachments" for limits.** Can be zoomed (at least in Element/SchildiChat), in which case the avatar will be shown in the uploaded definition. Animated avatars are **supported**. |
 | Profile description and background | **Supported**. | Not supported currently, will be supported using profile rooms. |
 | Profile status | **Supported**. Guilded even has a custom status generator. | Effectively not supported[^1]. |
 | Nicknames[^2] | **Not supported**. | **Supported** (`/myroomnick`). Up to ~65200 bytes. |
-| Forum channels | Supported. | Not supported. |
+| Forum channels | Supported. | Can be implemented as spaces (`m.space`) if each subthread is created as a room. |
 | Media-only channels | Supported. | Not supported. |
 | Specific avatars[^2] | **Not supported**. | [**Supported**](../features/#attachments) (`/myroomavatar`). See "Attachments" for limits. |
 | 2FA | Email or TOTP. | Not required for login, but required (QR code, emoji verification, or Security Key) for viewing past encrypted messages. |
