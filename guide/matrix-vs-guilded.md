@@ -4,7 +4,7 @@ layout: page-two-col
 nav: false
 parent: guide
 permalink: guide/matrix-vs-guilded/
-description: It's time to ditch Guilded. Imagine a place where users are actually respected. Join Matrix, the federated chat platform that does exactly that.
+description: Imagine a place where users are actually respected. Join Matrix, the federated chat platform that does exactly that.
 order: 5
 ---
 
@@ -12,7 +12,7 @@ order: 5
 
 Thank you for considering Matrix. Many Discord users have migrated to Guilded after their accounts or communities have been shut down, but this is not recommended, explained below.
 
-Matrix has been a popular alternative to Guilded, but many people still don't get the why. We will start with why you should move from Guilded to Matrix, followed by comparisons of specific feature and some helpful tips. But before we do that, let's start with...
+Matrix has been a popular alternative to Guilded, but many people still don't get the why. We will start with why you should join Matrix, followed by comparisons of specific feature and some helpful tips. But before we do that, let's start with...
 
 ## A Discussion on the Proper Definition of "Server"
 
@@ -32,14 +32,14 @@ In Matrix, a *homeserver* is a server, in that it meets both definitions: Dedica
 
 ## Why not Guilded?
 
-In the scope of this guide, the key reasons to move from Guilded to Matrix are:
+In the scope of this guide, the key reasons to join Matrix as an ex-Guilded user are:
 
 * **Lack of privacy for private communications**, as private conversations are not only unencrypted, but also actively scanned.
 * **Closed source**, thus cannot be independently inspected.
 * **Lack of control for private data and no guarantee on reliability**, as Guilded is centralized, not federated. See [here](../matrix-vs-al/#centralized-platforms).
-* **Client-server API has serious performance issues**. This is verified by Guilded, has not been resolved despite several attempts. A Guilded channel causes ten times as much data to be retrieved as a similar Matrix room does.
-* **Guilded did not allow deleting user accounts until recently**. Prior to June 2021, it was not possible to delete Guilded user accounts; they instead advised to just stop using Guilded.
-* **Guilded is owned by Roblox**.
+* **Client-server API had serious performance issues**. This is verified by Guilded, has not been resolved despite several attempts. A Guilded channel causes ten times as much data to be retrieved as a similar Matrix room does.
+* **Guilded did not allow deleting user accounts initially**. Prior to June 2021, it was not possible to delete Guilded user accounts; they instead advised to just stop using Guilded.
+* **Guilded was owned by Roblox**.
  
 [Matrix addresses all of the above](../#why-matrix).
 
@@ -67,36 +67,36 @@ Note that Matrix does not (and cannot, due to its decentralized nature) paywall 
 
 | Feature | Guilded | Matrix |
 | ------- | ------- | ------ |
-| **Registration** | Requires Roblox account since April 2024, shutting down in December 2025. | Depending on homeserver (especially if you're running your own), **email may be optional**, and phone number is usually optional. There is no *automated* human check after registration. |
-| Price | Free. | Free for [most homeservers](../../servers) (but please consider donating to them). Hosting a private homeserver may also incur cost (could be [free](https://matrix.org/docs/guides/free-small-matrix-server)). Note that paying (not donation) only affects where your data is hosted and (to a much lesser degree) server performance; it has no effect on features. |
-| **Username** | Users are identified by display name (maximum 32 characters) to fellow users, and user UUIDs and roblox user IDs for programming purposes. | Users are identified by their MXID (eg. `@alice:example.com`), composed of the username (must be ASCII characters, upper case letters are not allowed) and the server name (not exceeding 255 characters when combined, including the introducing at symbol and the colon separating the parts). A display name can be optionally added (up to ~65200 bytes)[^7]. |
-| Avatar | Static, maximum 25 MB. Can be zoomed. | **See "Attachments" for limits.** Can be zoomed (at least in Element/SchildiChat), in which case the avatar will be shown in the uploaded definition. Animated avatars are **supported**. |
-| Profile description and background | **Supported**. | Not supported currently, will be supported using profile rooms. |
-| Profile status | **Supported**. Guilded even has a custom status generator. | Effectively not supported[^1]. |
-| Nicknames[^2] | **Not supported**. | **Supported** (`/myroomnick`). Up to ~65200 bytes. |
-| Forum channels | Supported. | Can be implemented as spaces (`m.space`) if each subthread is created as a room. |
-| Media-only channels | Supported. | Not supported. |
-| Specific avatars[^2] | **Not supported**. | [**Supported**](../features/#attachments) (`/myroomavatar`). See "Attachments" for limits. |
-| 2FA | Email or TOTP. | Not required for login, but required (QR code, emoji verification, or Security Key) for viewing past encrypted messages. |
-| **Text messages** | Maximum 36608 characters (main body section can have up to 4000 characters, the rest has to be placed in the embed cards). Formatted in Markdown. | **Up to ~65200 bytes (up to ~25260 bytes if a formatted message with plain text fallback sent).[^7] [Supports Markdown and HTML.](../features/#text)** |
-| Attachments | Maximum 500 MB (25 MB for still images), limited to multimedia and document filetypes[^9]. | **Maximum 50~100 MB, no artificial file type limitations** (for most homeservers; customizable if you run your own homeserver). |
-| Reactions | Only emotes (Unicode or custom ones). | Unicode emotes and [text](../features/#reactions). |
-| Stickers | **Not supported**. | **Unlimited with setup.** See [here](../features/#stickers). |
-| Public read receipts | Not supported. | **Supported.** |
-| **Direct messages** | Not encrypted. | **Encrypted by default**, including VoIP. |
-| Starting a DM | Depending on privacy settings of the recipient. Friendship and/or mutual "servers" may be required by the recipient. | Initiating a DM solely requires the recipient to accept the request[^3]. Users can leave DMs anytime they wish. |
-| **Group chats** | A channel is associated with a "server." You can only join 100 "servers" and own 20 at a time. | A room is standalone, but can be optionally included and associated with a Space, which is just a room linking to other rooms. You can join **unlimited** amount of rooms. |
-| VoIP in groups | Supported. | Real-time data using WebRTC, signalling using room state. |
-| Organizing chats | Channels in a "server" can only be organized by the "server" owner and moderators with "manage channels" permission, in a many to one fashion into categories and groups, and cannot be moved to another "server" or group once created. A team can have up to 100 groups in it, with up to 350 channels in each. | Rooms can be included within an unlimited amount of Spaces. Spaces may also include other Spaces (similar to Guilded's channel categories and groups). |
-| Group chat privacy | You may deny new members from reading messages prior to them being invited / joining. Private threads are only visible to their own members and group/team members with "moderator access" permission to that channel. Teams can choose to make their chat history public, with per-channel granularity. | You may deny new members from reading messages prior to them being invited / joining. You may also allow or deny guest access (such as [Matrix Static](http://view.matrix.org/)) from reading messages. You may also enable encryption[^4]. |
-| Publicity | Team URLs are first come first served, however, unused names are reclaimed so often. Teams are searchable by name unless explicitly disabled. | Each homeserver has a room directory which anyone in that homeserver may publish to. Room aliases are usually first come, first served. |
-| Invite | Through generating invite or application links, or through shareable addresses. | Through directly inviting users, or through shareable [addresses](../features/#promotion). |
-| Permissions in group chats | Single-owner. How long did it take for you to learn role hierarchy? A "server" can only be shut down by its owner, and that affects everyone. Members cannot demote their own permissions. Roles of a member are reset when a member leaves hence do not survive rejoin. | Up to 2^54 power levels (-2^53 to 2^53-1, however I highly doubt you will *ever* reach that limit), with minimal permissions. In room versions 12 and later, the room creator and the users listed as co-creators are permanent owners, and have permanent full permission which cannot be decreased throughout the room's lifetime. A user acquires a permission if their power level is equal to or higher than the power level required for the specific permission. Rooms are not owned by any server, hence cannot usually forcibly be shut down without coordination. Members can demote their own permissions. Power levels of members survive leave and rejoin. |
+| **Registration** | Required Roblox account since April 2024. Shut down in December 2025. | Depending on homeserver (especially if you're running your own), **email may be optional**, and phone number is usually optional. There is no *automated* human check after registration. |
+| Price | Free. No longer available since 5:20 UTC, December 19, 2025. | Free for [most homeservers](../../servers) (but please consider donating to them). Hosting a private homeserver may also incur cost (could be [free](https://matrix.org/docs/guides/free-small-matrix-server)). Note that paying (not donation) only affects where your data is hosted and (to a much lesser degree) server performance; it has no effect on features. |
+| **Username** | Users were identified by display name (maximum 32 characters) to fellow users, and user UUIDs and roblox user IDs for programming purposes. | Users are identified by their MXID (eg. `@alice:example.com`), composed of the username (must be ASCII characters, upper case letters are not allowed) and the server name (not exceeding 255 characters when combined, including the introducing at symbol and the colon separating the parts). A display name can be optionally added (up to ~65200 bytes)[^7]. |
+| Avatar | Was static, maximum 25 MB. None of avatars retriavable after platform shutdown. | **See "Attachments" for limits.** Can be zoomed (at least in Element/SchildiChat), in which case the avatar will be shown in the uploaded definition. Animated avatars are **supported**. |
+| Profile description and background | **Was supported**. | Not supported currently, will be supported using profile rooms. |
+| Profile status | **Was supported**. Guilded even had a custom status generator. | Effectively not supported[^1]. |
+| Nicknames[^2] | **Never supported**. | **Supported** (`/myroomnick`). Up to ~65200 bytes. |
+| Forum channels | Was supported. | Can be implemented as spaces (`m.space`) if each subthread is created as a room. |
+| Media-only channels | Was supported. | Not supported. |
+| Specific avatars[^2] | **Never supported**. | [**Supported**](../features/#attachments) (`/myroomavatar`). See "Attachments" for limits. |
+| 2FA | Email or TOTP were supported. | Not required for login, but required (QR code, emoji verification, or Security Key) for viewing past encrypted messages. |
+| **Text messages** | Maximum 36608 characters (main body section could have up to 4000 characters, the rest had to be placed in the embed cards). Formatted in Markdown. History lost after platform shutdown. | **Up to ~65200 bytes (up to ~25260 bytes if a formatted message with plain text fallback sent).[^7] [Supports Markdown and HTML.](../features/#text)** |
+| Attachments | Allowed maximum 500 MB (25 MB for still images), limited to multimedia and document filetypes[^9]. None of attachments reachable after platform shutdown. | **Maximum 50~100 MB, no artificial file type limitations** (for most homeservers; customizable if you run your own homeserver). |
+| Reactions | Only emotes (Unicode or custom ones) were possible. | Unicode emotes and [text](../features/#reactions). |
+| Stickers | **Never supported**. | **Unlimited with setup.** See [here](../features/#stickers). |
+| Public read receipts | Never supported. | **Supported.** |
+| **Direct messages** | Never end-to-end encrypted. History lost after platform shutdown. | **Encrypted by default**, including VoIP. |
+| Starting a DM | Depended on privacy settings of the recipient. Friendship and/or mutual "servers" could be required by the recipient. | Initiating a DM solely requires the recipient to accept the request[^3]. Users can leave DMs anytime they wish. |
+| **Group chats** | A channel wass associated with a "server." You can only join 100 "servers" and own 20 at a time. | A room is standalone, but can be optionally included and associated with a Space, which is just a room linking to other rooms. You can join **unlimited** amount of rooms. |
+| VoIP in groups | Was supported. | Real-time data using WebRTC, signalling using room state. |
+| Organizing chats | Channels in a "server" could only be organized by the "server" owner and moderators with "manage channels" permission, in a many to one fashion into categories and groups, and could not be moved to another "server" or group once created. A team could have up to 100 groups in it, with up to 350 channels in each. | Rooms can be included within an unlimited amount of Spaces. Spaces may also include other Spaces (similar to Guilded's channel categories and groups). |
+| Group chat privacy | You could deny new members from reading messages prior to them being invited / joining. Private threads were only visible to their own members and group/team members with "moderator access" permission to that channel. Teams could choose to make their chat history public, with per-channel granularity. | You may deny new members from reading messages prior to them being invited / joining. You may also allow or deny guest access (such as [Matrix Static](http://view.matrix.org/)) from reading messages. You may also enable encryption[^4]. |
+| Publicity | Team URLs were first come first served. Teams were searchable by name unless explicitly disabled. | Each homeserver has a room directory which anyone in that homeserver may publish to. Room aliases are usually first come, first served. |
+| Invite | Was done through generating invite or application links, or through shareable addresses. | Through directly inviting users, or through shareable [addresses](../features/#promotion). |
+| Permissions in group chats | Was single-owner. How long did it take for you to learn role hierarchy? A "server" could only be shut down by its owner, and that affects everyone. Members cannot demote their own permissions. Roles of a member are reset when a member leaves hence do not survive rejoin. | Up to 2^54 power levels (-2^53 to 2^53-1, however I highly doubt you will *ever* reach that limit), with minimal permissions. In room versions 12 and later, the room creator and the users listed as co-creators are permanent owners, and have permanent full permission which cannot be decreased throughout the room's lifetime. A user acquires a permission if their power level is equal to or higher than the power level required for the specific permission. Rooms are not owned by any server, hence cannot usually forcibly be shut down without coordination. Members can demote their own permissions. Power levels of members survive leave and rejoin. |
 | Size limits of group chats | No artificial limits, albeit current implementation behaves badly past approximately ten thousand members. | No artificial limits, albeit current implementations do not perform well with rooms having more than a few tens of thousands of members and a few dozens of homeservers. | 
-| Bans | Bans are only visible to "server" moderators. One can also see their own ban when they attempt to join a "server", but not the ban reason. | Bans are public to all members, along with the reasons. |
-| Disabled and deleted account handling | Deleting an account is irreversible. Messages sent to a "server" from deleted accounts stay unless explicitly removed by somebody else. User name and user settings from deleted accounts are removed. "Servers" owned by accounts deleted by T&S are automatically shut down. "Servers" owned by a manually deleted account is not possible to exist as the account delete API has a precondition of no "server" ownership at the time of the request. |  Disabling an account is usually irreversible. Users can cause their messages to be forgotten while disabling their account: in that case, their messages are not sent to further users and servers. Rooms created by disabled accounts stay. |
-| **Running a bot** | Public bot API exists, self-botting seems to be tolerated as long as it stays within Guilded and does not propagate to Roblox the game. | You can run bots on any user accounts[^5] [^6]. Selfbotting is permitted (but be nice). |
-| **Network access** | **IPv4 and IPv6 supported.** | **Most if not all homeservers participating in the public federation have IPv4 connectivity but IPv6 connectivity varies from homeserver to homeserver.** |
+| Bans | Bans were only visible to "server" moderators. One could also see their own ban when they attempt to join a "server", but not the ban reason. | Bans are public to all members, along with the reasons. |
+| Disabled and deleted account handling | Deleting an account was irreversible. Messages sent to a "server" from deleted accounts stayed unless explicitly removed by somebody else. User name and user settings from deleted accounts are removed.  "Servers" owned by accounts deleted by T&S were automatically shut down. "Servers" owned by a manually deleted account is not possible to exist as the account delete API had a precondition of no "server" ownership at the time of the request. All accounts have been deleted after platform shutdown. |  Disabling an account is usually irreversible. Users can cause their messages to be forgotten while disabling their account: in that case, their messages are not sent to further users and servers. Rooms created by disabled accounts stay. |
+| **Running a bot** | Public bot API existed, self-botting was tolerated as long as it stayed within Guilded and did not propagate to Roblox the game. | You can run bots on any user accounts[^5] [^6]. Selfbotting is permitted (but be nice). |
+| **Network access** | **IPv4 and IPv6 supported. This is still the case with platform shutdown page.** | **Most if not all homeservers participating in the public federation have IPv4 connectivity but IPv6 connectivity varies from homeserver to homeserver.** |
 
 
 ## Helpful Tips
