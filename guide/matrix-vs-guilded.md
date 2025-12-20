@@ -1,5 +1,5 @@
 ---
-title: Matrix vs. Guilded
+title: Matrix for ex-Guilded users
 layout: page-two-col
 nav: false
 parent: guide
@@ -8,9 +8,9 @@ description: Imagine a place where users are actually respected. Join Matrix, th
 order: 5
 ---
 
-## Matrix vs. Guilded
+## Matrix for ex-Guilded users
 
-Thank you for considering Matrix. Many Discord users have migrated to Guilded after their accounts or communities have been shut down, but this is not recommended, explained below.
+Thank you for considering Matrix. Many Discord users have migrated to Guilded after their accounts or communities have been shut down, but this is not recommended, explained below. Matrix is actually older than Guilded, and survived Guilded shutdown.
 
 Matrix has been a popular alternative to Guilded, but many people still don't get the why. We will start with why you should join Matrix, followed by comparisons of specific feature and some helpful tips. But before we do that, let's start with...
 
