@@ -44,7 +44,7 @@ Ready to try Matrix? Here we go:
 ### Is it Matrix or Element?
 
 * Matrix is the protocol, developed by the UK-registered non-profit [The Matrix.org Foundation C.I.C.](https://matrix.org/foundation/). It can also refer to the entire Matrix federation that contains all the users and rooms.
-* Element (previously known as Riot.im) is the flagship app of Matrix, developed by the UK-registered for-profit [New Vector Ltd](https://element.io/about). It can also refer to commercial services that the company offers, such as [Element Matrix Services](https://element.io/matrix-services).
+* Element (previously known as Riot.im) is the flagship app of Matrix, developed by the UK-registered for-profit [Element Creations Ltd](https://element.io/about). It can also refer to commercial services that the company offers, such as [Element Matrix Services](https://element.io/matrix-services).
 
 [As touched upon later](#what-app-should-i-use), Element is just one of the apps that accesses Matrix. It is therefore correct to refer to the platform as just "Matrix." Though, nobody is stopping you from calling it *[The Matrix](https://en.wikipedia.org/wiki/The_Matrix)*.
 
