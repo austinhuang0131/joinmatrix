@@ -212,8 +212,8 @@ See [the official guide](https://matrix.org/docs/communities/moderation/) for ge
 
 The commonly-taken approach is:
 
-1. Host [Draupnir](https://github.com/the-draupnir-project/Draupnir), or request [Draupnir4All](https://docs.draupnir.midnightthoughts.space/).
-2. Subscribe to ban lists. To combat spam, it is enough to subscribe to [`#community-moderation-effort-bl:neko.dev`](https://matrix.to/#/#community-moderation-effort-bl:neko.dev), but other lists are also available in the [`#acls:envs.net`](https://matrix.to/#/#acls:envs.net) space.
+1. Host [Draupnir](https://github.com/the-draupnir-project/Draupnir), or request one to be hosted for you at [Asgard.chat](https://asgard.chat/).
+2. Subscribe to ban lists. To combat spam, it is enough to subscribe to [`#community-moderation-effort-bl:neko.dev`](https://matrix.to/#/#community-moderation-effort-bl:neko.dev), but other lists are also available in the [`#banlists:nexy7574.co.uk`](https://matrix.to/#/#banlists:nexy7574.co.uk) space.
 3. Review the [Moderator's Guide](https://the-draupnir-project.github.io/draupnir-documentation/docs/bot/moderators) for various commands.
 
 <div class="flash flash-warn">

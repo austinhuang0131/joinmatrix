@@ -5,14 +5,7 @@
     },
     "roomDirectory": {
         "servers": [
-            "aria-net.org",
-            "envs.net",
-            "fairydust.space",
-            "matrix.org",
-            "mtrx.nz",
-            "tchncs.de",
-            "tedomum.net",
-            "the-apothecary.club"
+            "matrixrooms.info"
         ]
     },
     "settingDefaults": {

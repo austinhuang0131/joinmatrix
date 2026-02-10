@@ -15,7 +15,7 @@ Miscellaneous clarifications and explanations.
 
 The following guides contain configurations that are specific to a homeserver, but most of the guidances apply across the Matrix federation:
 
-* [matrix-help.envs.net](https://matrix-help.envs.net/)
+* [FurryMatrix.info](https://furrymatrix.info)
 * [Matrix at TU Dresden](https://doc.matrix.tu-dresden.de/en/)
 
 ## About This Guide
