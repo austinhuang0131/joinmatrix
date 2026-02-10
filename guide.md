@@ -78,11 +78,11 @@ For simplicity, the guide is prepared in such a way that recommends registration
 
 Users are uniquely identified by their MXID. Your MXID is your username plus your server name (not necessarily domain). For example, `@austin:tchncs.de` is my MXID, where `austin` is my username and `tchncs.de` is the name of the server I'm on. **You cannot change it later**, as using a new username or a different homeserver requires registering a new account (you may [migrate data](https://ems.element.io/tools/matrix-migration), however). Furthermore, if you deactivate the account, no one else can have this MXID again! You can, however, change the display name, as well as your avatar.
 
-Remember to [set up key backup](#set-up-key-backup)!
+Remember to [set up key backup](#set-up-key-backup), and don't log out from the browser just yet!
 
 ### Log into an existing account
 
-For most apps:
+Now it's time to log into your new account! Get [your preferred app](#what-app-should-i-use) and do the following:
 
 1. Enter the login dialog, if necessary.
 2. Verify that you are logging onto the correct server. This is usually shown on top of the dialog. If necessary, click "edit" and enter the appropriate domain (see Step 3 of registration).
@@ -113,6 +113,8 @@ You can set up a Security Key with the following steps:
 
 A graphic tutorial is available [here](https://www.ubuntubuzz.com/2021/01/element-made-easy-setup-security-phrase-and-key.html).
 
+Once you've logged into your new device, you can safely log out of the browser.
+
 ## Get Familiar
 
 ### What app should I use?
@@ -139,7 +141,7 @@ Each Matrix homeserver has a public room directory, which is accessible to the u
 
 * On PC, for Element and SchildiChat, click the "Explore Rooms" button on the top-left.
 * For FluffyChat, and for Element and SchildiChat on phone, click the search button.
-* [MatrixRooms.info](https://matrixrooms.info) allows you to search public room directories of various homeservers on the web. (**Warning**: it does not filter what homeservers it uses, so please exercise caution in joining rooms.)
+* [MatrixRooms.info](https://matrixrooms.info) allows you to search public room directories of various homeservers on the web.
 
 In any case mentioned above, you can enter the room address to directly join a room, or you can enter keywords to search for rooms[^8]. However, the directory may be unintuitive to use as it orders rooms by member count[^9]. The author of this guide recommends joining [this Space](https://matrix.to/#/#offtopic-space:matrix.org) (`#offtopic-space:matrix.org`), which contains a list of active off-topic or no-topic discussion rooms.
 
