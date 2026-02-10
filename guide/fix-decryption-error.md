@@ -45,7 +45,7 @@ Note that if you logged out of every device when you received the message, the m
 If others cannot decrypt your message, try:
 
 * If you do not know what it does, disable the room-specific setting "Never send encrypted messages to unverified sessions in this room from this session" (in Room Settings => Security & Privacy), as well as the default setting "Never send encrypted messages to unverified sessions from this session" (in User Settings => Security & Privacy).
-* On PC Element (or Nheko), open the recipient's profile and show their active sessions (for Element, under "Security"). Check if the session that your recipient is using is there. (Alternatively, on Element, check if a red warning indicating unverified or deleted/unknown devices appears next to your recipient's message.) If not, please verify whether your homeserver and clients are working correctly. Some experimental client features (especially [Sliding Sync](https://github.com/element-hq/element-web/issues/27580)) may interfere with decryption.
+* On desktop Element (or Nheko), open the recipient's profile and show their active sessions (for Element, under "Security"). Check if the session that your recipient is using is there. (Alternatively, on Element, check if a red warning indicating unverified or deleted/unknown devices appears next to your recipient's message.) If not, please verify whether your homeserver and clients are working correctly. Some experimental client features (especially [Sliding Sync](https://github.com/element-hq/element-web/issues/27580)) may interfere with decryption.
 * If you're selfhosting, check your network setup!
 
 To prevent future issues, try:
