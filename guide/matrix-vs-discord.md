@@ -12,7 +12,7 @@ order: 4
 
 Thank you for considering Matrix.
 
-Matrix has been a popular alternative to Discord, but many people still don't get the why. We will start with why you should move from Discord to Matrix, followed by comparisons of specific feature and some helpful tips. But before we do that, let's start with...
+Matrix has been a popular alternative to Discord, but many people still don't get why. We will start with why you should move from Discord to Matrix, followed by comparisons of specific feature and some helpful tips. But before we do that, let's start with...
 
 ## A Discussion on the Proper Definition of "Server"
 
@@ -24,7 +24,7 @@ Recall the computing [definition](https://en.wiktionary.org/wiki/server#Noun) of
 
 The definitions can hold true for a server for a multiplayer game (eg. Minecraft), a server reserved for a group of people for communication (eg. Mumble & TeamSpeak), and a server where Discord bots are being operated from. In each case, the server software (such as the Minecraft server jar file) meets definition #1, whereas the server infrastructure (eg. VPS) meets definition #2.
 
-But that's not the case for a Discord "server": it's just some data, together with data of other "servers," resting on Google's computational servers running the Discord server software. A Discord "server" is not a program on its own, nor has any computational infrastructure been dedicated to any specific "server,"[^13] thus violating both definitions. Presumably to attract gamers who often utilizes the correct "server" concept, Discord attempts to equate it to a chat group, muddying the waters for the definition of this technical term. (Hence Discord refers to "servers" as *guilds* in API documentations.)
+But that's not the case for a Discord "server": it's just some data, together with data of other "servers," resting on Google's computational servers running the Discord server software. A Discord "server" is not a program on its own, nor has any computational infrastructure been dedicated to any specific "server,"[^13] thus violating both definitions. Presumably to attract gamers who often utilizes the correct "server" concept, Discord attempts to equate it to a chat group, muddying the waters for the definition of this technical term. (Hence Discord refers to "servers" as *guilds* in its API documentation.)
 
 ### What about Matrix?
 
