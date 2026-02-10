@@ -149,6 +149,14 @@ Discord users may be familiar with this format, but Spaces are not exactly the s
 
 On Element and SchildiChat, Spaces show up on the left of your room list. Selecting one will filter your room list to DMs with members of the Space and joined rooms within the Space. To see rooms that you have not yet joined, click the Explore button (see above).
 
+### I want to create my own rooms!
+
+Great! Most clients allow you to create rooms and spaces. Decorate them to your heart's desire, and don't forget to set your [room address](./features#promotion) and tell that to others!
+
+Room-based moderation on Matrix is a bit tricky. Most large rooms use [moderation bots](./features#moderation); consider setting up one for your rooms.
+
+Don't want to lose connections to your friends at other platforms? You don't have to! Set up [bridges](./features#all-about-bridges) to connect your communities together.
+
 ## Go Deeper
 
 <div class="flash flash-warn">

@@ -191,7 +191,7 @@ Because FluffyChat's room management capabilities are somewhat limited by design
 
 ### Promotion
 
-If you want to promote a public room, you can publish public addresses and/or place it on your homeserver's [room directory](../#what-rooms-can-i-join).
+If you want to promote a public room, you can publish public addresses and/or place it on your homeserver's [room directory](../#what-rooms-can-i-join) (except on matrix.org).
 
 To publish an address:
 
@@ -208,30 +208,24 @@ A public address also allows you to [link the room from a webpage](https://matri
 
 ### Moderation
 
-See [the official guide](https://matrix.org/docs/communities/moderation/) for general information.
+See [the official guide](https://matrix.org/docs/communities/moderation/), as well as [Codestorm's Matrix Community Resources](https://matrix-community-help.codestorm.net/) for general information.
 
 The commonly-taken approach is:
 
 1. Host [Draupnir](https://github.com/the-draupnir-project/Draupnir), or request one to be hosted for you at [Asgard.chat](https://asgard.chat/).
-2. Subscribe to ban lists. To combat spam, it is enough to subscribe to [`#community-moderation-effort-bl:neko.dev`](https://matrix.to/#/#community-moderation-effort-bl:neko.dev), but other lists are also available in the [`#banlists:nexy7574.co.uk`](https://matrix.to/#/#banlists:nexy7574.co.uk) space.
+2. Subscribe to ban lists, which are lists compiled by other moderators on who to ban. Those are useful to combat spams that occur across the federation. Generally speaking, it is enough to subscribe to [`#community-moderation-effort-bl:neko.dev`](https://matrix.to/#/#community-moderation-effort-bl:neko.dev), but other lists are also available in the [`#banlists:nexy7574.co.uk`](https://matrix.to/#/#banlists:nexy7574.co.uk) space.
 3. Review the [Moderator's Guide](https://the-draupnir-project.github.io/draupnir-documentation/docs/bot/moderators) for various commands.
 
 <div class="flash flash-warn">
   If you promote a user to the same power level as you, then you will <b>not</b> be able to demote them!
 </div>
 <div class="flash">
-  <b>If you do not have Draupnir/Mjolnir,</b> It is a good idea to copy ACLs of other rooms (especially those of popular public rooms) and use them on your own to strengthen your room's defense to unwanted content. To do so:
-  <ol>
-    <li>Enter <code>/devtools</code> in the room you want to copy ACL from.</li>
-    <li>Click "Explore Room State."</li>
-    <li>Click <code>m.room.server_acl</code>.</li>
-    <li>Click "Edit."</li>
-    <li>Copy the content in the box. (It is futile to try to hit "Send" as you probably don't have the permission to.)</li>
-    <li>Repeat steps 1 to 4, this time in the room you want to use the copied ACL in.</li>
-    <li>Paste the content in the box and hit "Send."</li>
-    <li>Confirm success. A state event will be created in the room, indicating that you have changed the ACL.</li>
-    <li>Note that denying a homeserver whose users are already present in a room will not automatically kick the users. If necessary, enter the homeserver domain in the search box of the member list and kick them from your room. They will not be able to join back.</li>
-  </ol>
+  <b>If you cannot obtain a Draupnir/Mjolnir instance:</b>
+  <ul>
+    <li>Your homeserver may offer one. Ask your homeserver administrator.</li>
+    <li>There are <a href="https://matrix-community-help.codestorm.net/automated-tools.html#4">public Draupnir instances that only follow Community Moderation Effort</a>, which can provide some protection against global spammers.</li>
+  </ul>
+  Note that using others' Draupnir/Mjolnir instances means their operators have moderation control over your rooms.
 </div>
 <div class="flash">
   Hosting Draupnir/Mjolnir without permission to bypass ratelimit on the homeserver may result in reduced performance, but it is still possible.
