@@ -165,17 +165,12 @@ You can join any IRC channel on [these networks](https://matrix-org.github.io/ma
   You <i>can</i> register the nickname, but your NickServ password would be visible to your homeserver as encryption is not supported for bridges, so do so at your own risk.
 </div>
 
-### XMPP
-
-You can join any XMPP MUC on any instance directly from Matrix, using the Bifrost bridge provided by [matrix.org](https://github.com/matrix-org/matrix-bifrost/wiki/Address-syntax) or [aria-net.org](https://archon.im/arianet/matrix-homeserver/services/).
-
 ### Other
 
 Matrix supports many other platforms, but such bridges generally require setup. If you want to bridge those platforms, or if you have performance requirements that cannot be met by existing public bridges, you may either:
 
 * [Host the bridges yourself](https://matrix.org/bridges/), if you run your own homeserver
 * Use public bridges (which you're encouraged to donate for):
-  * [Aria Network](https://archon.im/arianet/matrix-homeserver/services/) (Facebook, Instagram, WhatsApp; only available to accounts on the aria-net.org homeserver)
   * [frei.chat](https://frei.chat/books/freichat/page/bridges) (Facebook, Google Chat, Google Messages, Instagram, KakaoTalk, LinkedIn, Signal, Skype, WhatsApp)
   * [nope.chat](https://nope.chat/) (Facebook, Google Chat, Instagram, LinkedIn, Signal, Twitter, WhatsApp)
   * [tchncs.de](https://tchncs.de/matrix) (Signal, WhatsApp)
