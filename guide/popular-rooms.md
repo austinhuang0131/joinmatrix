@@ -12,6 +12,8 @@ order: 2
 
 Below are some active rooms with minimal bridging that you may be interested in.
 
+If you don't know where to get started, try the Offtopic Space [`#offtopic-space:matrix.org`](https://matrix.to/#/#offtopic-space:matrix.org), which is a collection of off-topic rooms of various communities.
+
 You can search for other rooms on [MatrixRooms.info](https://matrixrooms.info), but please note that the results are unfiltered, and you should exercise caution in selecting rooms.
 
 <div class="flash">
@@ -42,6 +44,7 @@ You can search for other rooms on [MatrixRooms.info](https://matrixrooms.info), 
 
 ### LGBTQ+
 
+* blahaj.zone's 196 community [`#196-Blahaj:chat.blahaj.zone`](https://matrix.to/#/%23196-Blahaj:chat.blahaj.zone)
 * [The Apothecary](https://the-apothecary.club/) [`#community:the-apothecary.club`](https://matrix.to/#/#community:the-apothecary.club)
 * [FurryMatrix.info](https://furrymatrix.info/) and [squirrel.rocks](https://matrix.squirrel.rocks/furry_servers) contains info pertaining to furry rooms and homeservers on Matrix.
 
@@ -53,5 +56,4 @@ You can search for other rooms on [MatrixRooms.info](https://matrixrooms.info), 
 ### Miscellaneous
 
 * Cyberia.club [`#cyberia-space:cyberia.club`](https://matrix.to/#/%23cyberia-space:cyberia.club)
-* Offtopic Space [`#offtopic-space:matrix.org`](https://matrix.to/#/#offtopic-space:matrix.org): a collection of off-topic rooms of various communities.
 * Stickers and emoji [`#stickers-and-emojis:tastytea.de`](https://matrix.to/#/#stickers-and-emojis:tastytea.de): a collection of rooms serving MSC2545 sticker packs.
