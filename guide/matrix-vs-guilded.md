@@ -24,7 +24,7 @@ Recall the computing [definition](https://en.wiktionary.org/wiki/server#Noun) of
 
 The definitions can hold true for a server for a multiplayer game (eg. Minecraft), a server reserved for a group of people for communication (eg. Mumble & TeamSpeak), and a server where Guilded bots are being operated from. In each case, the server software (such as the Minecraft server jar file) meets definition #1, whereas the server infrastructure (eg. VPS) meets definition #2.
 
-But that's not the case for a Guilded "server": it's just some data, together with data of other "servers," resting on Guilded's computational servers. A Guilded "server" is not a program on its own, nor has any computational infrastructure been dedicated to any specific "server," thus violating both definitions. Presumably to attract gamers who often utilizes the correct "server" concept, Guilded attempts to equate it to a chat group, muddying the waters for the definition of this technical term. (Hence Guilded refers to "servers" as *teams* in API documentations.)
+But that's not the case for a Guilded "server": it's just some data, together with data of other "servers," resting on Guilded's computational servers. A Guilded "server" is not a program on its own, nor has any computational infrastructure been dedicated to any specific "server," thus violating both definitions. Presumably to attract gamers who often utilizes the correct "server" concept, Guilded attempts to equate it to a chat group, muddying the waters for the definition of this technical term. (Hence Guilded refers to "servers" as *teams* in its API documentation.)
 
 ### What about Matrix?
 
