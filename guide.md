@@ -68,7 +68,7 @@ However, hosting is still undesirable for many. In that case, you can...
   This part does not cover cases where a homeserver uses its own authentication tools. In such cases, please consult your homeserver's instructions.
 </div>
 
-For simplicity, the guide is prepared in such a way that recommends registration on a PC browser, even though many servers allow you to do so from native PC/mobile apps. Regardless, once registered, you can use the account everywhere!
+For simplicity, the guide is prepared in such a way that recommends registration on a desktop browser, even though many servers allow you to do so from native desktop/mobile apps. Regardless, once registered, you can use the account everywhere!
 
 1. If you're using our homeserver list which has provided you with a link to the homeserver's in-house Element client, then you may use that. Otherwise, use the official [Element Web client](https://app.element.io) to register.
 2. Click "Create Account".
@@ -124,7 +124,7 @@ There exists [many different apps](https://matrix.org/clients/) that can access 
 * Element ([browser](https://app.element.io), [app](https://element.io/download)): The flagship app.
   * Bleeding edge builds are available [on browser](https://develop.element.io) and [as an app](https://element.io/download#nightly).
 * [Cinny](https://cinny.in/): for browser; also available [as an app](https://github.com/cinnyapp/cinny-desktop). Appears to be inspired by Slack.
-* [Nheko](https://github.com/Nheko-Reborn/nheko): for PC. Simpler, without compromising features. Recommended if Element is too heavy for you.
+* [Nheko](https://github.com/Nheko-Reborn/nheko): for desktop. Simpler, without compromising features. Recommended if Element is too heavy for you.
 * [NeoChat](https://apps.kde.org/neochat/): KDE's Matrix client.
 * [Fractal](https://gitlab.gnome.org/GNOME/fractal): GNOME's Matrix client.
 * [Hydrogen](https://hydrogen.element.io/): Fast and adaptable to mobile browsers, at the cost of missing some optional features.
@@ -132,15 +132,15 @@ There exists [many different apps](https://matrix.org/clients/) that can access 
 For those living on the edge: [gomuks](https://github.com/tulir/gomuks) and [Syphon](https://syphon.org/).
 
 <div class="flash">
-  For PC users, if you want a better experience when using Element Desktop or SchildiChat, place <a href="../assets/config.json">this config file</a> in your <a href="https://github.com/vector-im/element-desktop#user-specified-configjson">configuration folder</a>, where <code>$NAME</code> is either "Element", "Element Nightly" or "SchildiChat". The config file enables the "Labs" tab in settings, enables custom themes, preloads <a href="https://github.com/aaronraimist/element-themes">a few custom themes</a>, and preloads a few homeservers for room directory searches.
+  For desktop users, if you want a better experience when using Element Desktop or SchildiChat, place <a href="../assets/config.json">this config file</a> in your <a href="https://github.com/vector-im/element-desktop#user-specified-configjson">configuration folder</a>, where <code>$NAME</code> is either "Element", "Element Nightly" or "SchildiChat". The config file enables the "Labs" tab in settings, enables custom themes, preloads <a href="https://github.com/aaronraimist/element-themes">a few custom themes</a>, and preloads a few homeservers for room directory searches.
 </div>
 
 ### What rooms can I join?
 
 Each Matrix homeserver has a public room directory, which is accessible to the users of that homeserver or, if enabled, users of other homeservers as well.
 
-* On PC, for Element and SchildiChat, click the "Explore Rooms" button on the top-left.
-* For FluffyChat, and for Element and SchildiChat on phone, click the search button.
+* On desktop, for Element and SchildiChat, click the "Explore Rooms" button on the top-left.
+* For FluffyChat, Element, and SchildiChat on mobile, click the search button.
 * [MatrixRooms.info](https://matrixrooms.info) allows you to search public room directories of various homeservers on the web.
 
 In any case mentioned above, you can enter the room address to directly join a room, or you can enter keywords to search for rooms[^8]. However, the directory may be unintuitive to use as it orders rooms by member count[^9]. The author of this guide recommends joining [this Space](https://matrix.to/#/#offtopic-space:matrix.org) (`#offtopic-space:matrix.org`), which contains a list of active off-topic or no-topic discussion rooms.

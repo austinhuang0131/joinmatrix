@@ -33,7 +33,7 @@ The logo is a derivative work of:
 
 ### Privacy
 
-This site is hosted on GitHub pages and thus [GitHub Privacy Statement](https://docs.github.com/en/github/site-policy/github-privacy-statement) applies.
+This site is hosted on GitHub Pages and thus the [GitHub Privacy Statement](https://docs.github.com/en/github/site-policy/github-privacy-statement) applies.
 
 This site uses analytics from [GoatCounter](https://goatcounter.com). It's [open source](https://github.com/zgoat/goatcounter). Here are [public stats for this website](https://joinmatrix.goatcounter.com) (The authors can see no more info than what you can see there) and [their privacy policy](https://www.goatcounter.com/privacy). You can disable this by blocking `gc.zgo.at` through your adblocker.
 
@@ -46,7 +46,7 @@ You can translate this guide to your own language. However, to be endorsed by th
 1. Remember the human. Do *whatever* you think is best for the advocacy of Matrix usage in your cultural context. This means that you have flexibility over how exactly to translate the texts.
 2. The [homeserver list](../../servers) is off-limits. You may, however, incorporate relevant information (such as how to read the list) in the guide. You may also suggest (but not endorse) homeservers according to your cultural context.
 3. You are under no obligation to use any specific theme or any static site generator at all - All I ask is please make sure the translations form a standalone website that is good-looking.
-4. You are responsible for hosting that allows a custom subdomain (GitHub/GitLab/Gitea pages is fine).
+4. You are responsible for a hosting provider that allows a custom subdomain (GitHub/GitLab/Gitea pages is fine).
 
 After you've done that, please [create an issue](https://github.com/austinhuang0131/joinmatrix/issues) to get your CNAME (language code `.joinmatrix.org`).
 

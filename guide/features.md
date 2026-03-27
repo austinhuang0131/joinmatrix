@@ -26,7 +26,7 @@ Now that you have aced the [basics](..), let's talk about the intricate details 
   <li>Due to a spec defect, initial revision of a message can only be removed if the message is removed altogether. Subsequent revisions can be removed on their own.</li>
   <li>If a message has been replied to, <b>all</b> of its replies, <b>plus</b> the original message, must be deleted to fully remove its content!</li>
   <li>Note that anyone who could read the message may still record its content before deletion. (For unencrypted messages, this includes the homeserver operators.) This applies to virtually <i>any</i> instant messaging platforms in existence, so you still need to be careful of what you say.</li>
-  <li>If a user annoys you, you can ignore them. <a href="https://github.com/vector-im/element-web/issues/12394">Careful not to ignore yourself!</a></li>
+  <li>If a user annoys you, you can ignore them. <a href="https://github.com/vector-im/element-web/issues/12394">Be careful not to ignore yourself!</a></li>
 </ul></div>
 
 #### Text
@@ -50,10 +50,10 @@ Aside from the above:
   * On FluffyChat, you can achieve the same using `||reason|spoiler content||`.
 * Tables are only supported on HTML (see below).
 
-And, about slash commands on Element and SchildiChat on PC related to text messages:
+And, about slash commands on Element and SchildiChat on desktop related to text messages:
 
 * Matrix also supports [these HTML tags](https://spec.matrix.org/v1.1/client-server-api/#mroommessage-msgtypes) if you prefix a message with `/html`.
-* Prefixing your message with one of the following commands will trigger the corresponding visual effect for all Element/SchildiChat users on PC who are currently focused on the room: `/confetti`, `/fireworks`, `/rainfall`, `/snowfall` and `/spaceinvaders`. The effect will only be triggered once for these users only.
+* Prefixing your message with one of the following commands will trigger the corresponding visual effect for all Element/SchildiChat users on desktop who are currently focused on the room: `/confetti`, `/fireworks`, `/rainfall`, `/snowfall` and `/spaceinvaders`. The effect will only be triggered once for these users only.
 * Prefixing your message with `/me` will cause your message to start with `*` followed by your display name[^1].
 * Prefixing your message with `/rainbow` will make the text appear in rainbow colours.
   * The two commands above can be combined using `/rainbowme`.
@@ -66,7 +66,7 @@ You can upload files onto messages. The size limit varies by the homeserver you'
 All files you upload onto Matrix are assigned an [MXC URI](https://spec.matrix.org/v1.1/client-server-api/#matrix-content-mxc-uris), which you can use for referencing to the corresponding file. The MXC URI can be retrieved with the following steps:
 
 1. Find the message.
-2. On Element and SchildiChat on PC, hover over the message and click the three dots. On FluffyChat, long press the message and click the three dots on the top.
+2. On Element and SchildiChat on desktop, hover over the message and click the three dots. On FluffyChat, long press the message and click the three dots on the top.
 3. "View Source."
 4. Under the `content` JSON object, locate the `url` attribute. The URI the starts with `mxc://` is the MXC URI.
 
@@ -145,7 +145,7 @@ When you log into a Telegram account on a bridge, you may use it to control your
 
 ### Slack
 
-To bridge a Matrix room with a Slack channel, do the following on Element or SchildiChat on PC:
+To bridge a Matrix room with a Slack channel, do the following on Element or SchildiChat on desktop:
 
 1. In your desired room, click the info button on the top-right.
 2. "Add widgets, bridges & bots"
@@ -182,7 +182,7 @@ Matrix supports many other platforms, but such bridges generally require setup. 
 
 ## All about rooms
 
-Because FluffyChat's room management capabilities are somewhat limited by design, this guide will base this section upon Element and SchildiChat on PC.
+Because FluffyChat's room management capabilities are somewhat limited by design, this guide will base this section upon Element and SchildiChat on desktop.
 
 ### Promotion
 
@@ -230,7 +230,7 @@ The commonly-taken approach is:
 
 Integrations in Matrix include widgets and bots.
 
-Widgets display an interactive HTML page on top of chat messages. This only works on Element and SchildiChat on PC. You can use the `/addwidget` command, or the "Add widgets, bridges & bots" link in the room info sidebar. Note that individual members must opt into displaying the widget, and can choose to dismiss ("unpin") the widget for themselves at any time. Furthermore, anyone with power level above the required level for "Modify Widgets" will be able to dismiss ("unpin") the widget for everyone in the room.
+Widgets display an interactive HTML page on top of chat messages. This only works on Element and SchildiChat on desktop. You can use the `/addwidget` command, or the "Add widgets, bridges & bots" link in the room info sidebar. Note that individual members must opt into displaying the widget, and can choose to dismiss ("unpin") the widget for themselves at any time. Furthermore, anyone with power level above the required level for "Modify Widgets" will be able to dismiss ("unpin") the widget for everyone in the room.
 
 Bots perform automated actions (like sending messages). [maubot](https://github.com/maubot/maubot) is the only well-known self-hostable bot, containing a variety of plugins. [t2bot.io](https://t2bot.io/) as well as some homeservers host certain plugins for public use.
 
