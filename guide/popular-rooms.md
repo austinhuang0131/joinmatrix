@@ -50,8 +50,10 @@ You can search for other rooms on [MatrixRooms.info](https://matrixrooms.info), 
 
 ### Hobbies
 
+* Formula 1 [`#formula1:matrix.org`](https://matrix.to/#/#formula1:matrix.org)
 * Ham Radio Space [`#ham-radio-space:matrix.m0aws.co.uk`](https://matrix.to/#/#ham-radio-space:matrix.m0aws.co.uk): see [here](https://m0aws.co.uk/matrix/) for details.
 * Matrix United [`#matrixunited-space:matrix.org`](https://matrix.to/#/#matrixunited-space:matrix.org)
+* Plain Text Accounting [`#plaintextaccounting:matrix.org`](https://matrix.to/#/#plaintextaccounting:matrix.org)
 
 ### Miscellaneous
 
