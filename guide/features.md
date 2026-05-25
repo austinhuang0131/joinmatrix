@@ -137,7 +137,6 @@ To bridge a Matrix room with a Telegram group chat, you can install [mautrix tel
 * [frei.chat](https://frei.chat/books/freichat/page/bridges)
 * [tchncs.de](https://tchncs.de/matrix) (Puppeting requires approval)
 * [TeDomum](https://tedomum.net/service/matrix/bridges/)
-* [SNT](https://syscom.utwente.io/info/matrix/telegram/)
 
 When a Matrix room is bridged with a Telegram group, Matrix users will be represented by the bridging bot on Telegram, while Telegram users will show up as standard users on Matrix (but you cannot DM them).
 
