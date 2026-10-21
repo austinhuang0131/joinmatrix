@@ -16,7 +16,7 @@
     text-rendering: optimizeLegibility;
 }
 
-/@font-face {
+@font-face {
     font-family: 'Lora';
     src: url('fonts/webfonts/Lora-Italic.woff2') format('woff2'), /* Modern Browsers */
          url('fonts/ttf/Lora-Italic.ttf') format('truetype');
